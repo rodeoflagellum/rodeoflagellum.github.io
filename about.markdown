@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-_Purpose_: My intention with this page is to give you resources to determine how much you should trust my writing and viewpoints. 
+_Purpose_: My intention with this page is to give you resources to determine how much you should trust my writing and viewpoints.
 
 __Discriminating Characteristics__
 
 (I used ```random.shuffle()``` on these 1 time)
 
-Note: ~Y (x\%) means "I am x% confident that approximately Y applies to me"
+Note: ~Y (x%) means "I am x% confident that approximately Y applies to me"
 
 - Suspected Weight: ~160 lbs / ~72.6 kg (80%)
 - Tribes: Effective Altruism movement,  Rationality movement
 - Race: Caucasian
-- Gender Identity: ~60\% heterosexual  
+- Gender Identity: ~60% heterosexual  
 - Disabilities or Cognitive Abnormalities: None diagnosed
 - Favorite Nourishment: dark chocolate, almonds, coffee
 - Suspected IQ: ~110 (65%)
