@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+_Purpose_: My intention with this page is to give you resources to determine how much you should trust my writing and viewpoints. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+__Discriminating Characteristics__
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+(I used ```random.shuffle()``` on these 1 time)
 
+Note: ~Y (x\%) means "I am x% confident that approximately Y applies to me"
 
-[jekyll-organization]: https://github.com/jekyll
+- Suspected Weight: ~160 lbs / ~72.6 kg (80%)
+- Tribes: Effective Altruism movement,  Rationality movement
+- Race: Caucasian
+- Gender Identity: ~60\% heterosexual  
+- Disabilities or Cognitive Abnormalities: None diagnosed
+- Favorite Nourishment: dark chocolate, almonds, coffee
+- Suspected IQ: ~110 (65%)
+- Education: B.A. Neuroscience and Mathematics
+- Suspected Cognitive Abnormalities: low empathy (75%), mild autism (60%), some attention deficit (60%)
+- Age: 20-30 years
+- Predominant Life Location: United States
+
+I believe that what I left out from this list were things that I didn't find immediately meaningful. I am also aiming not to have my actual person identified, so I've purposely left this list short (there was never an exact threshold). I currently have little sense of what the metadata of what I've chosen to include in this list tells about me, and would be interested to hear anyone's thoughts on this. I used the shuffling to remove the metadata of what order I originally wrote the entries. Some people already know _me_, but this page exists for those of you who don't.
