@@ -8,7 +8,7 @@ _Purpose_: My intention with this page is to give you resources to determine how
 
 __Discriminating Characteristics__
 
-(I used ```random.shuffle()``` on these 1 time)
+(I used ```random.shuffle()``` 1 time on the list below)
 
 Note: ~Y (x%) means "I am x% confident that approximately Y applies to me"
 
