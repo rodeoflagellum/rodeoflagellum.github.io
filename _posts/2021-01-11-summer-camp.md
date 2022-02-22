@@ -3,7 +3,7 @@ layout: post
 title:  "Dream With Summer Camp Art"
 date:  2021-01-11 08:30:00 -0500
 permalink: "/summer_camp_art_dream/"
-tags: psychology dreams
+tags: psychology dreams personal
 certainty: "Quite Certain"
 status: "Working Draft"
 ---

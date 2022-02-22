@@ -3,10 +3,9 @@ layout: post
 title:  "Dream With Canal Jumping"
 date:  2022-01-15 08:30:00 -0500
 permalink: "/canal_dream/"
-tags: psychology dreams
-impactfulness: "2"
-certainty: "possible"
-status: "complete"
+tags: psychology dreams personal
+certainty: "Quite Certain"
+status: "Working Draft"
 ---
 
 __January 15 2022__

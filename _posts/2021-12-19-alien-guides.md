@@ -3,10 +3,9 @@ layout: post
 title:  "Dream With Alien Guidance"
 date:  2021-12-19 08:30:00 -0500
 permalink: "/alien_help_dream/"
-tags: psychology dreams
-impactfulness: "2"
-certainty: "possible"
-status: "complete"
+tags: psychology dreams personal
+certainty: "Quite Certain"
+status: "Working Draft"
 ---
 
 __December 19 2021__

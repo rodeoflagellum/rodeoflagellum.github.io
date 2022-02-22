@@ -3,10 +3,9 @@ layout: post
 title:  "Authored Metaculus Questions"
 date:  2022-02-21 20:34:18 -0500
 permalink: "/authored_metaculus_questions/"
-impactfulness: "23"
-certainty: "possible"
-status: draft
-tags: forecasting lists
+certainty: "Certain"
+status: "Log"
+tags: forecasting lists personal
 ---
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/9793/" width="550" height="260"></iframe>
