@@ -4,10 +4,10 @@ title:  "Authored Metaculus Questions"
 date:  2022-02-21 20:34:18 -0500
 categories: forecasting
 permalink: "/domestic_dog_cloning/"
-impactfulness: 23%
-certainty: possible
+impactfulness: "23"
+certainty: "possible"
 status: draft
-tags: [forecasting, Metaculus]
+tags: forecasting Metaculus statistics biology biology psychology psychology psychology psychology psychology psychology psychology psychology psychology psychology psychology
 ---
 
 

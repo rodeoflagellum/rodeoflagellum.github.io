@@ -5,14 +5,47 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+
+    {%- if page.tags -%}
+    <p> <span>
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        {%- if forloop.last -%}
+        <em><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></em>
+        {%- else -%}
+        <em><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></em>,
+        {%- endif -%}
+      {% endfor %}
+    </span> </p>
+    {%- endif -%}
+
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+
+      {%- if page.status -%}
+         • &nbsp;<a href="/_posts/2022-02-22-status">Status</a>: {{ page.status }}  &nbsp;
+      {%- endif -%}
+
+      {%- if page.certainty -%}
+         • &nbsp; <a href="/_posts/2022-02-22-certainty">Certainty</a>: {{ page.certainty }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.impactfulness -%}
+        • &nbsp;<a href="/_posts/2022-02-22-impactfulness">Impactfulness</a>: {{ page.impactfulness }}  &nbsp;
+      {%- endif -%}
+
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        • &nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+
+
+
+
+
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
