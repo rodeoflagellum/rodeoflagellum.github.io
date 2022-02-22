@@ -2,15 +2,20 @@
 layout: post
 title: Content Certainty, Status, and Impactfulness
 permalink: /cert_stat_impact/
+certainty: "Somewhat Doubtful"
+status: Draft
+tags: epistemics
 ---
+
+_This page exists to describe the metrics "Certainty", "Status", and "Impactfulness" that I use on many of my posts. I provide explanations of these metrics, and offer some justifications for why I include them on posts._
 
 ## Certainty 
 
-The _certainty_ tag on each page corresponds to an estimate of my  subjective confidence about the accuracy of what I've written. "The accuracy of what I've written" refers to whether distribution of feelings engendered in readers by what I've written matches what I intended to have engendered, to how well the set of all claims in a particular post fit together, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing what my uncertainies are, and, among other things, to how predictive what I've written is.
+The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of what I've written. "The accuracy of what I've written" refers to whether distribution of feelings engendered in readers by what I've written matches what I intended to have engendered, to how well the set of all claims in a particular post fit together, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing what my uncertainies are, and, among other things, to how predictive what I've written is.
 
 &emsp; I generated the entries in this list in $< 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) critize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy. 
 
-&emsp; With regard to this last entry in my list - "how predictive what I've written is" - the "[Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences)" page on [Less Wrong](https://www.lesswrong.com/), especially the post _[Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)_ by Eliezer Yudkowsky, captures what I want to achieve with the beliefs I express in my writing. 
+&emsp; With regard to this last entry in my list - "how predictive what I've written is" - the "[Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences)" page on [LessWrong](https://www.lesswrong.com/), especially the post _[Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)_ by Eliezer Yudkowsky, captures what I want to achieve with the beliefs I express in my writing. 
 
 > When you argue a seemingly factual question, always keep in mind which difference of anticipation you are arguing about. If you can’t find the difference of anticipation, you’re probably arguing about labels in your belief network—or even worse, floating beliefs, barnacles on your network.
 > 
@@ -64,7 +69,7 @@ When I use a particular Verbal Expression in this list for a post of mine, I am 
 
 ## Status 
 
-The website build (I am not sure of what term to use here for what I want to refer to, but basically I am hosting this site on [GitHub pages](https://pages.github.com/) and am using [Jekyll](https://jekyllrb.com/)) I am utilizing permits use of a drafts folder, but this is separate from the status tags I use on my posts.
+The website build (I am not sure of what term to use here for what I want to refer to, but basically I am hosting this site on [GitHub pages](https://pages.github.com/) and am using [Jekyll](https://jekyllrb.com/)) I am utilizing permits use of a drafts folder, but this is separate from the status metric I use on my posts.
 
 &emsp; These tags come directly from Gwern's site, although the ones I incorporate are very likely different from his (I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts). This table describes all of the status tags I will use. 
 
@@ -74,8 +79,9 @@ The website build (I am not sure of what term to use here for what I want to ref
 |Notes|A post or page that is, for the most part, a collection of notes, quotes, resources, etc... pertaining some topic(s). I suspect that these pages will have the term "Notes" in their title.|
 |Rant|A post or page that I am fairly uncertain about in terms of "where it fits in on the site" and that I did not labor much to make structured or accurate. These writing pieces are likely to fall into the category of "flow of consciousness" and help me quickly expose my unexamined feelings or thoughts about a subject. |
 |Draft|A post or page that is the start of some piece of writing that I intend to complete at some point. Drafts can vary widely in length and are different from Notes in that I attempt to structure their content.|
-|Likely Done | A post or page that I somewhat believe I will no longer edit.|
-|Done | A post or page that I strongly believe I will no longer edit.|
+|Working Draft | A post or page that could exist on its own, but I believe I am somewhat likely to expand.|
+|Likely Finished | A post or page that I somewhat believe I will no longer edit.|
+|Finished | A post or page that I strongly believe I will no longer edit.|
 
 <!-- |Update|A post or page that provides major updated perspectives, responses, or beliefs on another post or page on the site, especially if I believe the content of my original writing was largely incorrect. This status may turn into a tag. | -->
 
@@ -83,7 +89,40 @@ The website build (I am not sure of what term to use here for what I want to ref
 
 I consider myself an [Effective Altruist](https://www.effectivealtruism.org/), which means to me that I should allocate some cognitive bandwidth towards assessing what impact I make on the world. The term "impact" here is nebulous, but I believe "the impactfulness of my writing content" should refer to some mixture of the following: effects on reader well-being, effects on collective human well-being, effects on reader decision-making (this includes behavior), and effects on preserving long-term human potential. This is not an exhaustive list and, ideally, I would like to come up with some way to measure each of these things, normalize them, and then use them together to create the Impactfulness score. 
 
-&emsp; For measuring the impact of the content I generate or host, I could ask: How does this make the reader feel? Will any reader's interests shift towards the topic of my writing? Might this post be hazardous in some manner to humanity's long term potential, or might it result in suffering? How probable is it that this post changes people's behavior, for better or worse? W
+&emsp; For measuring the impact of the content I generate or host, I could ask: How does this make the reader feel? Will any reader's interests shift towards the topic of my writing? Might this post be hazardous in some manner to humanity's long term potential, or might it result in suffering? How probable is it that this post changes people's behavior, for better or worse? These serve as a first pass at gauging my impact, but I would like to do better, and will likely spend more time in the coming years thinking about what factors to consider when assessing how _consequential_ a post of mine is.
 
-&emsp; At the present moment, I am not familiar with many "impactfulness" scoring rubics, and the only one the comes to mind was from [Eli Lifland's](https://twitter.com/eli_lifland) and Misha 
+&emsp; At the present moment, I am not familiar with many "impactfulness" scoring rubics, and the only one the comes to mind was from [Eli Lifland's](https://twitter.com/eli_lifland), [yagudin's](https://www.lesswrong.com/users/yagudin), and [sam_atis's](https://www.lesswrong.com/users/sam_atis) LessWrong post _[Impactful Forecasting Prize for forecast writeups on curated Metaculus questions](https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated)_. In this post, they incentivize people to explain their forecasts on a set of Metaculus questions that they scored using the following rubric 
 
+|Impact Dimension|Explanation|
+|:---|:---|
+|Decision importance|The importance of the decisions which will be affected by this question. Should combine cause area importance + importance within cause area.|
+|Decision relevance| How much of an impact would this have on actual decisions if the forecast changed by a substantial amount? This factor is re-used from Nuño Sempere’s [An estimate of the value of Metaculus questions](https://forum.effectivealtruism.org/posts/zyfeDfqRyWhamwTiL/an-estimate-of-the-value-of-metaculus-questions)|
+|Ease of contribution| ​​How easy will it be for a "median generalist forecaster" to make a contribution to the analysis on this question within a few hours? e.g. questions requiring lots of domain expertise or background reading would score low here.|
+|Neglectedness of contributions| How few contributions have there been on this specific question so far? How in need of attention is it? This should be subjectively evaluated using the existing count of forecasts and quantity + quality of comments/writeups.|
+
+They also write
+
+> A curation score was calculated, weighing decision importance at twice the other three due to it feeling like the most important factor. We chose a set of 25 questions based mainly on the curation score, but also including a diversity of cause areas and question types.
+
+Their scoring system is appealing to me, and I expect myself to incorporate it into my writing somehow, at least until I develop a better system for measuring the impact of my posts. Since their measure of impactfulness mostly pertains to Effective Altruism oriented forecasting questions, I have modified the system to be more flexible, particularly for the content I post on this website. I use a 1-10 scale for each of the following entries in the table, and also weigh decision importance twice as much. Instead of summing the weighted scores, I multiply them and then divide by $20 \cdot 10 \cdot 10 \cdot 10 = 20000$ (the maximal impactfulness score) before multplying by 100 to convert this value into a percentage.  
+
+|Impact Dimension|More Flexible Explanation|
+|:---|:---|
+|Decision importance|The importance of the reader's decisions affected by this post.|
+|Decision relevance| If the content on of a post changed substantially, how much would the reader's decisions change, relative to how the reader's decisions before the change? |
+|Ease of contribution| ​​How easy will it be for a reader to make a contribution to the analysis on this post?|
+|Neglectedness of contributions| How much have people thought about the content in this post? How in need of attention is the content in this post?|
+
+### Epistemics of This Page
+
+***Status***
+
+"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility. 
+
+***Certainty***
+
+"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously. 
+
+***Impactfulness*** 
+
+_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this ) ] 
