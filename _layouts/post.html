@@ -23,14 +23,14 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
-      </time>
+      </time> &nbsp;
 
       {%- if page.status -%}
          • &nbsp;<a href="/_posts/2022-02-22-status">Status</a>: {{ page.status }}  &nbsp;
       {%- endif -%}
 
       {%- if page.certainty -%}
-         • &nbsp; <a href="/_posts/2022-02-22-certainty">Certainty</a>: {{ page.certainty }} &nbsp;
+         • &nbsp;<a href="/_posts/2022-02-22-certainty">Certainty</a>: {{ page.certainty }} &nbsp;
       {%- endif -%}
 
       {%- if page.impactfulness -%}

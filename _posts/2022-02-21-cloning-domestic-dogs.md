@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Cloning Domestic Dogs"
+title:  "Cloning Domestic Pets"
 date:  2022-02-21 20:29:18 -0500
-categories: forecasting biology
-permalink: "/domestic_dog_cloning/"
-impactfulness: 23%
+permalink: "/cloning_domestic_pets/"
+impactfulness: "23"
 certainty: possible
 status: draft
-tags: [forecasting, synthetic-biology, cloning, Metaculus]
+tags: [forecasting, biology, cloning, economics, genetic-engineering]
 ---
-???
