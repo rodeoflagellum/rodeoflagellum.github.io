@@ -27,6 +27,12 @@ url: "https://rodeoflagellum.github.io" # the base hostname & protocol for your 
 twitter_username:
 github_username:  "rodeoflagellum"
 
+# New fields, not defaulted
+author: Rodeo Flagellum
+copyright: "Rodeo Flagellum"
+title-logo: 
+
+
 # Build settings
 # Remove minima theme, now this is a regular theme
 # theme: minima
