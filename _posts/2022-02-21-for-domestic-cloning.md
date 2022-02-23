@@ -6,4 +6,5 @@ permalink: "/cloning_domestic_pets/"
 certainty: "Likely"
 status: "Draft"
 tags: [forecasting, biology, cloning, economics, genetic-engineering]
+image: /assets/images/erik-karits-wyYSSPFNf9s-unsplash.jpg
 ---
