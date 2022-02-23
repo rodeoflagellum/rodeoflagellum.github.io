@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Meta"
+---
+
+Whenever you come across writing, resources, reading, ideas, quotes, etc...
+see how they can add to the pages you have in drafts
+
+Look at Wikipedia pages and pages and pages of the concepts you want to look at 
+Use OpenAlex
+Find subjective reports of things on HackerNews, Reddit, Quora, Twitter when applies
+Use SciHub, INternet Archives, 
+Look at Google Scholar, Semantic Search, etc... to find research on the topics 
+
+have heuristics (statistics, forecasting, probability, economics, psychology) for 
+determining how accurate a piece of writing actually is
+
+How do I categorize different questions on a subject?
+How do I prioritize these questions?
+How do I prioritize what I spend my time on?
+
+When I find a piece of information, how should I frame its integration with what I am 
+writing. 
+
+At the end of this post, you should have a grasp of the following: 
+
+
+I want to have a section of my website that just contains forecasts
+and that makes use of the all of the forecasting principes I discuss 
+elsewhere on the site
+There should be an active method of getting better at forecasting using 
+existing methods; measuring how good I am at forecasting; developing new 
+methods of forecasting; and evaluating where I went wrong

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloning of Domestic Pets"
+title:  "Forecasting Domestic Pet Cloning Prices"
 date:  2022-02-21 20:29:18 -0500
 permalink: "/cloning_domestic_pets/"
 certainty: "Likely"
