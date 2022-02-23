@@ -15,20 +15,27 @@ layout: default
 
   {% capture temptags %}
     {% for tag in site.tags %}
-      {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+      #{{ tag[0] }}#
     {% endfor %}
   {% endcapture %}
-  {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+  {% assign sortedtemptags = temptags | split:' ' | sort_natural %}
   <ul>
   {% for temptag in sortedtemptags %}
     {% assign tagitems = temptag | split: '#' %}
     {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-     <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ tagname | replace: "-", " " | capitalize }} </em></a></li>
+
+    {% assign words = tagname | split: '-' %}
+    {% capture titlecase %}
+    {% for word in words %}
+      {{ word | capitalize }}
+    {% endfor %}{% endcapture %}
+
+     <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ titlecase }} </em></a></li>
   {% endfor %}
   </ul>
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
 
     <hr>
 

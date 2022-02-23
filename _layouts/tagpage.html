@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
+<h1>Tag: {{ page.tag | capitalize | replace: "-", " "}}</h1>
 <ul>
 {% for post in site.tags[page.tag] %}
   <div class="post_title">
