@@ -34,6 +34,9 @@ There should be an active method of getting better at forecasting using
 existing methods; measuring how good I am at forecasting; developing new
 methods of forecasting; and evaluating where I went wrong
 
+Have multiple site versions; one just black text
+one with pcitures
+
 Have something if your posted this elsewhere
 Follow Gwern's checklists
 
@@ -42,6 +45,17 @@ Do what Gwern and the others dont
 Subreddits to follow;
 useful Reddit comments;
 best of reddit subreddits;
+
+Time spent thinking (TST) for entries in a list
+TST 1 (~1 minute)
+TST 2 (~5 minute)
+TST 3 (~10 minutes)
+TST 4 (~1 hour)
+TST 5 (~2 hour)
+TST 6 (> 2 hours)
+
+
+
 
 Have dream content images be AI generated art
 

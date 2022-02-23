@@ -10,9 +10,9 @@ Rodeo's Reading List
     Notetaking experiments
     Advice people have said about absorbing content
     How to learn effectively
-    How to practice effectively 
+    How to practice effectively
     What actually works
-    Mental bottlenecks 
+    Mental bottlenecks
 
 Finding and Storing Information
     Using OpenAlex
@@ -26,10 +26,10 @@ Finding and Storing Information
 Cloning Domestic Pets
     Forecasts for the costs
     Forecasts for the technology
-    Ethics 
-    Companies, People, Organizations 
+    Ethics
+    Companies, People, Organizations
 
-Outlook on Effective Altruism 
+Outlook on Effective Altruism
     Advertizing Experiments Using the EA patchs
 
 Bacteria in the Human Body
@@ -42,7 +42,7 @@ Bacteria in the Human Body
 
 Bayesian Inference
     What does bayesian inference seek to do
-    Illustrations of this 
+    Illustrations of this
     Bayesian Update on Mononucleosis
 
 Dream Interpretations (review)
@@ -50,21 +50,21 @@ Dream Interpretations (review)
     My dreams
     History of the subject
     Theories and Research on dreams
-    A look at meta-analyses 
+    A look at meta-analyses
     A look at the statistics
     A look at the research design
     Other peoples dreams
     Dream Objects
 
-Prediction Markets and Growth 
+Prediction Markets and Growth
     + 2050 Predictions
     + 2022 Predictions
 Pandemic Decision Making tournament
 	Lessons
-	Forecasts 
+	Forecasts
 FluSight Tournament
     Influenza Forecasting
-    SIR Models 
+    SIR Models
     How the data is measured
     What the problems of this are
 Antarctic and Arctic Sea Ice Extent
@@ -72,9 +72,9 @@ Antarctic and Arctic Sea Ice Extent
     What the antarctic and arctic area
     How to make decent forecasts on this
 Synthetic Biological Weapons
-    Forecasting deaths by these 
+    Forecasting deaths by these
 
-Number of Gene-edited Babies 
+Number of Gene-edited Babies
 Blended Drink Log
 Consumption Log
 Therapy Log
@@ -83,7 +83,7 @@ Bets Log
 Beliefs Regarding Health
 Beauty Preferences
 Breakdown of Your Sins [Game]
-Scoring Forecasting Question Impactfulness 
+Scoring Forecasting Question Impactfulness
 Delaying Transformative AI
 Trials in Life Optimization
 Calibrating Beliefs and Behavior
@@ -97,4 +97,3 @@ Attitudes Towards Human Gene-Editing
 Emerging Technologies in 2022
 Ragnorak Question Series
 Predictions for 2050
-
