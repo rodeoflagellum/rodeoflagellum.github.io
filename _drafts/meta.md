@@ -54,11 +54,7 @@ TST 4 (~1 hour)
 TST 5 (~2 hour)
 TST 6 (> 2 hours)
 
-
-
-
 Have dream content images be AI generated art
-
 
 Look at LessWrong tags to illustrate a better pictures of your
 posts https://www.lesswrong.com/tags/all
@@ -75,3 +71,42 @@ Forecast
 Comments
 
 Notebook
+
+[000] Come up with descriptions for each of the tags
+[000] Come up with tag systems "There should be 1-5 general categories,
+and 1-2 specific categories"
+[000] There should be no more than X tags per post? What is X, and how do
+you decide?
+
+TAGS
+Instpiration: https://infoproc.blogspot.com/2009/11/if-youre-so-smart-why-arent-you-rich.html
+- IQ
+- Genetics
+- Globalization
+- Brains
+- Finance
+- Genomics
+- Predicting
+- Forecast
+- Statistics
+- Economics
+- AI
+- Psychology
+- ML
+- R
+- Python
+- Practical
+- List
+- Genetic Engineering
+- Politics
+- Rationality
+- Evolution
+- sci fi
+- Mathematics
+- History
+- Children
+- Neuroscience
+- GCR
+- Personality
+- Well-being
+- Bayes Theorem

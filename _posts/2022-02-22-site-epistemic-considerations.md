@@ -4,29 +4,30 @@ title: Some Epistemical Considerations for This Site
 permalink: /cert_stat_impact/
 certainty: "Somewhat Doubtful"
 status: Draft
-tags: epistemics
+tags: [epistemics, site]
+image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 ---
 
 _This page exists to describe the metrics "Certainty", "Status", and "Impactfulness" that I use on many of my posts. I provide explanations of these metrics, and offer some justifications for why I include them on posts._
 
-## Certainty 
+## Certainty
 
 The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of what I've written. "The accuracy of what I've written" refers to whether distribution of feelings engendered in readers by what I've written matches what I intended to have engendered, to how well the set of all claims in a particular post fit together, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing what my uncertainies are, and, among other things, to how predictive what I've written is.
 
-&emsp; I generated the entries in this list in $\leq 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) critize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy. 
+&emsp; I generated the entries in this list in $\leq 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) critize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy.
 
-&emsp; With regard to this last entry in my list - "how predictive what I've written is" - the "[Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences)" page on [LessWrong](https://www.lesswrong.com/), especially the post _[Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)_ by Eliezer Yudkowsky, captures what I want to achieve with the beliefs I express in my writing. 
+&emsp; With regard to this last entry in my list - "how predictive what I've written is" - the "[Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences)" page on [LessWrong](https://www.lesswrong.com/), especially the post _[Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)_ by Eliezer Yudkowsky, captures what I want to achieve with the beliefs I express in my writing.
 
 > When you argue a seemingly factual question, always keep in mind which difference of anticipation you are arguing about. If you can’t find the difference of anticipation, you’re probably arguing about labels in your belief network—or even worse, floating beliefs, barnacles on your network.
-> 
+>
 > ...
-> 
+>
 > Above all, don’t ask what to believe—ask what to anticipate. Every question of belief should flow from a question of anticipation, and that question of anticipation should be the center of the inquiry. Every guess of belief should begin by flowing to a specific guess of anticipation, and should continue to pay rent in future anticipations. If a belief turns deadbeat, evict it.
 
-My use of these certainty tags was inspired directly by [Gwern](https://www.gwern.net/About#confidence-tags). I believe the following excerpt from Gwern's website is likely illustrative of his thoughts on confidence tags: 
+My use of these certainty tags was inspired directly by [Gwern](https://www.gwern.net/About#confidence-tags). I believe the following excerpt from Gwern's website is likely illustrative of his thoughts on confidence tags:
 
 > The “confidence” tag is a little more unusual. I stole the idea from [Muflax’s “epistemic state”](https://www.gwern.net/docs/www/webcitation.org/12f0765625025b91cf4160759f55ec997ab13b1a.html) tags; I use the same meaning for “log” for collections of data or links (“log entries that simply describe what happened without any judgment or reflection”) personal or reflective writing can be tagged “emotional” (“some cluster of ideas that got itself entangled with a complex emotional state, and I needed to externalize it to even look at it; in no way endorsed, but occasionally necessary (similar to fiction)”), and “fiction” needs no explanation (every author has some reason for writing the story or poem they do, but not even they always know whether it is an expression of their deepest fears, desires, history, or simply random thoughts). I drop his other tags in favor of giving my subjective probability using the [“Kesselman List of Estimative Words”](https://www.gwern.net/docs/statistics/bayes/2008-kesselman.pdf)
-> 
+>
 > 1. “certain”
 > 2. “highly likely”
 > 3. “likely”
@@ -35,7 +36,7 @@ My use of these certainty tags was inspired directly by [Gwern](https://www.gwer
 > 6. “highly unlikely”
 > 7. “remote”
 > 8. “impossible”
-> 
+>
 > These are used to express my feeling about how well-supported the essay is, or how likely it is the overall ideas are right. (Of course, an interesting idea may be worth writing about even if very wrong, and even a long shot may be profitable to examine if the potential payoff is large enough.)
 
 After skimming the word tables in the _Kesselman List of Estimative Words_, I chose to use this one, which I found on page 20:
@@ -54,24 +55,24 @@ After skimming the word tables in the _Kesselman List of Estimative Words_, I ch
 |Quite Certain|0.90|
 |Certain|1.00|
 
-When I use a particular Verbal Expression in this list for a post of mine, I am saying that the corresponding Probability for that Verbal Expression is what I believe to be a decent estimate the holistic accuracy of my post. For example, if I set the certainty of my post _[Deaths by Synthetic Biological Weapons](https://rodeoflagellum.github.io/synthetic_biological_weapons_deaths/)_ to "Somewhat Likely", I am saying that my forecasts and analyses in the post, along with what evidence I base these things off of, are roughly 60% correct. Across the board, I believe slightly more than half of what I've written is sound. 
+When I use a particular Verbal Expression in this list for a post of mine, I am saying that the corresponding Probability for that Verbal Expression is what I believe to be a decent estimate the holistic accuracy of my post. For example, if I set the certainty of my post _[Deaths by Synthetic Biological Weapons](https://rodeoflagellum.github.io/synthetic_biological_weapons_deaths/)_ to "Somewhat Likely", I am saying that my forecasts and analyses in the post, along with what evidence I base these things off of, are roughly 60% correct. Across the board, I believe slightly more than half of what I've written is sound.
 
-&emsp; There are many types of posts I make on this site. For some posts, the interpretation of the certainty tag might be more ambiguous, such as with my dreams posts (e.g., _[Dream With Summer Camp Art](https://rodeoflagellum.github.io/summer_camp_art_dream/)_). In such posts, I may not make any claims _about_ something. If there are no claims or beliefs explicated, then my subjective certainty usually pertains to how well I believe I am remembering something. I intend to have, at the end of each post, an explanation of my subjective certainty for that post. 
+&emsp; There are many types of posts I make on this site. For some posts, the interpretation of the certainty tag might be more ambiguous, such as with my dreams posts (e.g., _[Dream With Summer Camp Art](https://rodeoflagellum.github.io/summer_camp_art_dream/)_). In such posts, I may not make any claims _about_ something. If there are no claims or beliefs explicated, then my subjective certainty usually pertains to how well I believe I am remembering something. I intend to have, at the end of each post, an explanation of my subjective certainty for that post.
 
 &emsp; I suspect that, as I write more on this website, I will be able to better define what each Verbal Expression means to me. As a closing note to this topic of certainty tags, here are some considerations and questions I generated for my future self to engage with.  
 
  <!-- but for now, here is an attempt: Impossible - ("I would bet my life on what I've written here being untrue, unobservable, or impossible. Equivalently, I am fully lying to you."); Small Possibility - ("From what I have read, experienced, thought, etc... I really don't think the topic of my writing will  ) -->
 
-- Should your certainty tags correspond to how much you believe "this is suspect" applies to what you've written; to the bets you'd make on the amount of evidence that you or others would find that contradict or invalidate your claims; to what percent of readers will agree with you? 
-- Should some posts not have the certainty tag? 
+- Should your certainty tags correspond to how much you believe "this is suspect" applies to what you've written; to the bets you'd make on the amount of evidence that you or others would find that contradict or invalidate your claims; to what percent of readers will agree with you?
+- Should some posts not have the certainty tag?
 - How should certainty tags apply to different categories, such as _forecasting_, _dreams_, _lists_, _genetic-engineering_, _reviews_, etc...? How should one interpret "Somewhat doubtful" for a list post versus for a dream post versus for a forecasting post?
-- Should you calibrate your certainty by first estimating the certainty, then using a metric (perhaps Bayesian Inference) to quantify the reasonableness of the claims in the post, and then adding a discussion of the difference in the part of your post where you describe how you came to your particular estimatation of certainty for that post? 
+- Should you calibrate your certainty by first estimating the certainty, then using a metric (perhaps Bayesian Inference) to quantify the reasonableness of the claims in the post, and then adding a discussion of the difference in the part of your post where you describe how you came to your particular estimatation of certainty for that post?
 
-## Status 
+## Status
 
 The website build (I am not sure of what term to use here for what I want to refer to, but basically I am hosting this site on [GitHub pages](https://pages.github.com/) and am using [Jekyll](https://jekyllrb.com/)) I am utilizing permits use of a drafts folder, but this is separate from the status metric I use on my posts.
 
-&emsp; These tags come directly from Gwern's site, although the ones I incorporate are very likely different from his (I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts). This table describes all of the status tags I will use. 
+&emsp; These tags come directly from Gwern's site, although the ones I incorporate are very likely different from his (I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts). This table describes all of the status tags I will use.
 
 |Status Tag|Explanation|
 |:---|:---|
@@ -87,11 +88,11 @@ The website build (I am not sure of what term to use here for what I want to ref
 
 ## Impactfulness
 
-I consider myself an [Effective Altruist](https://www.effectivealtruism.org/), which means to me that I should allocate some cognitive bandwidth towards assessing what impact I make on the world. The term "impact" here is nebulous, but I believe "the impactfulness of my writing content" should refer to some mixture of the following: effects on reader well-being, effects on collective human well-being, effects on reader decision-making (this includes behavior), and effects on preserving long-term human potential. This is not an exhaustive list and, ideally, I would like to come up with some way to measure each of these things, normalize them, and then use them together to create the Impactfulness score. 
+I consider myself an [Effective Altruist](https://www.effectivealtruism.org/), which means to me that I should allocate some cognitive bandwidth towards assessing what impact I make on the world. The term "impact" here is nebulous, but I believe "the impactfulness of my writing content" should refer to some mixture of the following: effects on reader well-being, effects on collective human well-being, effects on reader decision-making (this includes behavior), and effects on preserving long-term human potential. This is not an exhaustive list and, ideally, I would like to come up with some way to measure each of these things, normalize them, and then use them together to create the Impactfulness score.
 
 &emsp; For measuring the impact of the content I generate or host, I could ask: How does this make the reader feel? Will any reader's interests shift towards the topic of my writing? Might this post be hazardous in some manner to humanity's long term potential, or might it result in suffering? How probable is it that this post changes people's behavior, for better or worse? These serve as a first pass at gauging my impact, but I would like to do better, and will likely spend more time in the coming years thinking about what factors to consider when assessing how _consequential_ a post of mine is.
 
-&emsp; At the present moment, I am not familiar with many "impactfulness" scoring rubics, and the only one the comes to mind was from [Eli Lifland's](https://twitter.com/eli_lifland), [yagudin's](https://www.lesswrong.com/users/yagudin), and [sam_atis's](https://www.lesswrong.com/users/sam_atis) LessWrong post _[Impactful Forecasting Prize for forecast writeups on curated Metaculus questions](https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated)_. In this post, they incentivize people to explain their forecasts on a set of Metaculus questions that they scored using the following rubric 
+&emsp; At the present moment, I am not familiar with many "impactfulness" scoring rubics, and the only one the comes to mind was from [Eli Lifland's](https://twitter.com/eli_lifland), [yagudin's](https://www.lesswrong.com/users/yagudin), and [sam_atis's](https://www.lesswrong.com/users/sam_atis) LessWrong post _[Impactful Forecasting Prize for forecast writeups on curated Metaculus questions](https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated)_. In this post, they incentivize people to explain their forecasts on a set of Metaculus questions that they scored using the following rubric
 
 |Impact Dimension|Explanation|
 |:---|:---|
@@ -117,12 +118,17 @@ Their scoring system is appealing to me, and I expect myself to incorporate it i
 
 ***Status***
 
-"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility. 
+"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility.
 
 ***Certainty***
 
-"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously. 
+"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously.
 
-***Impactfulness*** 
+***Impactfulness***
 
-_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this ) ] 
+_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
+
+
+### Notes
+
+1. https://www.nga.gov/collection/art-object-page.52247.html
