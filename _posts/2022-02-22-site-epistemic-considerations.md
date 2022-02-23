@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content Certainty, Status, and Impactfulness
+title: Some Epistemical Considerations for This Site
 permalink: /cert_stat_impact/
 certainty: "Somewhat Doubtful"
 status: Draft
