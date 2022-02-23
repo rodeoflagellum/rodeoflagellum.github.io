@@ -24,6 +24,8 @@ writing.
 
 At the end of this post, you should have a grasp of the following:
 
+Pull quotes, research papers,
+statistics, statements, etc...
 
 I want to have a section of my website that just contains forecasts
 and that makes use of the all of the forecasting principes I discuss
@@ -39,4 +41,21 @@ Do what Gwern and the others dont
 
 Subreddits to follow;
 useful Reddit comments;
-best of reddit subreddits; 
+best of reddit subreddits;
+
+
+Look at LessWrong tags to illustrate a better pictures of your
+posts https://www.lesswrong.com/tags/all
+
+untill you read and observe, you have no idea what's going on 
+
+Think of KEY questions for each tag
+
+POST TYPES
+
+Forecast
+
+
+Comments
+
+Notebook

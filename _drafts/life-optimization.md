@@ -3,15 +3,15 @@ layout: post
 title:  "Life Optimization"
 ---
 
-Everything on making life more efficient; discussion of the goals of a good life; 
-looking into well-being measurements; looking into brain states of happiness; 
+Everything on making life more efficient; discussion of the goals of a good life;
+looking into well-being measurements; looking into brain states of happiness;
 discussing that one researchers life optimization
 
-what can be done to enhance people? myself? 
-my learning? my energy levels? my attention? 
+what can be done to enhance people? myself?
+my learning? my energy levels? my attention?
 
-Why do I want to enhance myself? 
-How do I remember more things, learn faster? 
+Why do I want to enhance myself?
+How do I remember more things, learn faster?
 What should I learn?
 
 
@@ -26,3 +26,9 @@ What substances?
 How does ending aging workd
 
 
+RELATIONSHIPS
+How satisfied should you expect to be with your partner?: https://www.lesswrong.com/posts/xggxWfyzZmnz7hydm/how-satisfied-should-you-expect-to-be-with-your-partner
+
+
+AGING
+Turning 30: https://www.lesswrong.com/posts/NCojuKN5dBMtCJHA3/turning-30
