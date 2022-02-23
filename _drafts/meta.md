@@ -101,7 +101,7 @@ Instpiration: https://infoproc.blogspot.com/2009/11/if-youre-so-smart-why-arent-
 - Politics
 - Rationality
 - Evolution
-- sci fi
+- Sci Fi
 - Mathematics
 - History
 - Children
