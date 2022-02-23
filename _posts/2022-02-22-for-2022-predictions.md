@@ -36,14 +36,29 @@ _My predictions for Scott Alexander's 2022 ACX Prediction Contest._
 |Fewer than 10K daily average official COVID cases in US in December 2022|34%| xxx |20%|%|%||
 |Fewer than 50K daily average COVID cases worldwide in December 2022|5%| xxx |1%|%|%||
 |>66% US population fully vaccinated (by current standards) against COVID|78%| xxx |70%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
-||%| xxx |%|%|%||
+|India's official case count is higher than US|20%| xxx |5%|%|%||
+|Medical establishment reverses course and officially says any of Vitamin D, HCQ, or ivermectin is actually effective against COVID|23%| xxx |1%|%|%||
+|FDA approves a COVID indication for fluvoxamine|55%| xxx |60%|%|%||
+|Some new variant not currently known is greater than 25% of case|80%| xxx |60%|%|%||
+|Most people Scott sees in his local grocery store on December 31st are wearing masks|69%| xxx |60%|%|%||
+|Masks still required on US domestic flights|50%| xxx |60%|%|%||
+|CDC recommends that triple-vaxxed people get at least one more vax|75%| xxx |70%|%|%||
+|China has fewer than 100,000 COVID cases this year (official estimate)|60%| xxx |30%|%|%||
+|No new real-money prediction market becomes bigger than Polymarket|65%| xxx |70%|%|%||
+|Manifold Markets is still alive and active|40%| xxx |30%|%|%||
+|New legal US real-money prediction market at least half as big as Kalshi|16%| xxx |5%|%|%||
+|New illegal but easy-to-use market satisfying the above|36%| xxx |20%|%|%||
+|Inflation for the year under three percent|65%| xxx |80%|80%|%||
+|Democrats will lose their majorities in the House and Senate|93%| xxx |90%|95%|90%||
+|Supreme Court will overturn Roe v. Wade|68%| xxx |60%|65%|%||
+|Emmanuel Macron will be reelected president of France|80%| xxx |65%|65%|%||
+|Jair Bolsonaro will be reelected president of Brazil|35%| xxx |50%|55%|%||
+|Bongbong Marcos will be elected president of the Philippines|70%| xxx |60%|55%|%||
+|China will NOT reopen its borders at any point during the first half of 2022|75%| xxx |90%|80%|%||
+|Chinese GDP will continue to grow for the first 3/4 of the year|90%| xxx |90%|95%|%||
+|20% of US kids between 0.5 and 5 years old will get at least one COVID vaccine by year's end|70%| xxx |65%|65%|%||
+|WHO will designate another Variant Of Concern|80%| xxx |75%|75%|%||
+|12 billion COVID shots will be given out globally by November 1st |%| xxx |%|%|%||
 ||%| xxx |%|%|%||
 ||%| xxx |%|%|%||
 ||%| xxx |%|%|%||
