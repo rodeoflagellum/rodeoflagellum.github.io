@@ -7,6 +7,10 @@ KEY QUESTIONS
 How can forecasting be improved?
 What are good heuristics for making a forecastin?
 How do odds works?
+What does a particular forecast mean?
+What types of forecasts are there?
+How often should I try to forecast the same thing?
+How do I calibrate my forecasts across days?
 How do people evaluate how good forecasters are?
 What can't currently be forecasted well?
 What quantitative models exist to help with forecasting?

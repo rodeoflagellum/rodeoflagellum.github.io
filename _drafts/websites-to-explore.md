@@ -11,3 +11,5 @@ LessWrong: https://longnow.org/
 Luke Muehlhauser: lukemuehlhauser.com/
 Long Now Foundation: https://longnow.org/
 Entirely Useless: https://entirelyuseless.com/2021/06/09/might-people-on-the-internet-sometimes-tell-the-truth/
+RootsOfProgress: https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle
+Slow Boring: 

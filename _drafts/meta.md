@@ -43,11 +43,13 @@ Subreddits to follow;
 useful Reddit comments;
 best of reddit subreddits;
 
+Have dream content images be AI generated art
+
 
 Look at LessWrong tags to illustrate a better pictures of your
 posts https://www.lesswrong.com/tags/all
 
-untill you read and observe, you have no idea what's going on 
+untill you read and observe, you have no idea what's going on
 
 Think of KEY questions for each tag
 
