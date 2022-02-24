@@ -5,7 +5,7 @@ date:  2022-02-21 15:34:18 -0500
 permalink: "/synthetic_biological_weapons_deaths/"
 certainty: "Toss-Up"
 status: "Draft"
-tags: [forecasting, geopolitics, biology, genetic-engineering, biosecurity]
+tags: [forecasting, prediction, geopolitics, biology, genetic-engineering, biosecurity]
 image: /assets/images/benedict-meyer-zu-strohe-TpR4-ecdnKQ-unsplash-1.jpg
 ---
 

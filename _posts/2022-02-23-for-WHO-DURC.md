@@ -5,7 +5,7 @@ date:  2022-02-23 11:24:00 -0500
 permalink: "/who_durc_life_science/"
 certainty: "Likely"
 status: "Draft"
-tags: forecasting
+tags: [forecasting, prediction, biology, biosecurity, gcr, machine-learning, genetic-engineering, geopolitics, global-priorities]
 image: /assets/images/polina-kuzovkova-4Kg2VRELnGA-unsplash.jpg
 ---
 

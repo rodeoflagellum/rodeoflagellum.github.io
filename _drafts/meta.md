@@ -86,14 +86,17 @@ Instpiration: https://infoproc.blogspot.com/2009/11/if-youre-so-smart-why-arent-
 - Brains
 - Finance
 - Genomics
-- Predicting
-- Forecast
+- Forecasting
+- Prediction
 - Statistics
 - Economics
 - AI
 - Psychology
 - ML
+- Global Priorities
 - R
+- Governance
+- Ethics
 - Python
 - Practical
 - List

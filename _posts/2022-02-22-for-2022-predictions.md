@@ -5,7 +5,7 @@ date:  2022-02-22 15:34:18 -0500
 permalink: "/acx_contest_2022/"
 certainty: "Likely"
 status: "Working Draft"
-tags: forecasting
+tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
 ---
 

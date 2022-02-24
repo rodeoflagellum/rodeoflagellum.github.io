@@ -27,7 +27,13 @@ layout: default
     {% assign words = tagname | split: '-' %}
     {% capture titlecase %}
     {% for word in words %}
+
+      {% if word.size <= 3 %}
+        {{ word | upcase }}
+      {% else %}
       {{ word | capitalize }}
+      {% endif %}
+
     {% endfor %}{% endcapture %}
 
      <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ titlecase }} </em></a></li>

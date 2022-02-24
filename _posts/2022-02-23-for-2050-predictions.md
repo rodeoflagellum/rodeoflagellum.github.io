@@ -5,7 +5,7 @@ date:  2022-02-23 10:20:00 -0500
 permalink: "/erik_hoel_2050_project/"
 certainty: "Likely"
 status: "Draft"
-tags: forecasting
+tags: [forecasting, prediction]
 image: /assets/images/marek-piwnicki-JnXebVlsVrg-unsplash.jpg
 ---
 

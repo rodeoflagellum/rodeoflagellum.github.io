@@ -4,7 +4,7 @@ title:  "My Personality and Morals"
 date:  2022-02-23 13:34:18 -0500
 permalink: "/my_personality_morals/"
 status: "Working Draft"
-tags: [psychology, personal]
+tags: [psychology, ethics, personality]
 image: /assets/images/yashowardhan-singh-7ALIbwRkwig-unsplash.jpg
 ---
 
