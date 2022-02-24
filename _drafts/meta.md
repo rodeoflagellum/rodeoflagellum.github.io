@@ -19,6 +19,16 @@ How do I categorize different questions on a subject?
 How do I prioritize these questions?
 How do I prioritize what I spend my time on?
 
+color coating tags by class
+navy blue: specific -->
+blue : general -->
+light blue : broad -->
+have superscript number for the "site weight of the tag",
+which might help people notice "Hey he's written a lot about this"
+
+What information to present, what information to leave out?
+What are the funneling questions?
+
 When I find a piece of information, how should I frame its integration with what I am
 writing.
 
@@ -63,9 +73,43 @@ untill you read and observe, you have no idea what's going on
 
 Think of KEY questions for each tag
 
+How to differentiate between communication best
+practices and your own style;
+
+---
+TOOLS AND FUNCTIONS
+
+Spell checker
+Readibility checker
+Something for inserting Wiki links
+
+---
 POST TYPES
 
-Forecast
+Forecasting, Reviews
+  External Links: (things that come up in analysis)
+  Appendix: (mini-tutorials or explanations for being able to understand how    something works, more functional than notes)
+  Notes: (further comments/information on links, resources, your own remarks)
+  Bibliography: (any link or resource cited as evidence)
+  Page Epistemics: (describe the certainty)
+
+Dream
+  External Links: (things that come up in analysis)
+  Notes: (further comments/information on links, resources, your own remarks)
+  Page Epistemics: (describe the certainty, impact, importance, status)
+  Bibliography: (any link or resource cited as evidence)
+---
+What is this?
+  Has work on this already been done on this?
+  Does this idea already exist?
+  How much time have you spent researching on this?
+  How much should I trust or believe this?
+  What next?
+
+Why is this being posted here?
+  Is this a waste of my time? Is it valuable? Is it practical?
+  If other work has already been done, why not just read that?
+---
 
 
 Comments
@@ -113,3 +157,9 @@ Instpiration: https://infoproc.blogspot.com/2009/11/if-youre-so-smart-why-arent-
 - Personality
 - Well-being
 - Bayes Theorem
+
+POSTS
+- Future of Human Aging
+- Future of Human Cognitive Enhancement
+- What Foods Aren't Safe?
+- How much of my lack of motivation, depression, poor cognitive capacities can be explained by food?

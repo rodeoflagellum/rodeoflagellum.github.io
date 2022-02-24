@@ -8,10 +8,9 @@ tags: [forecasting, prediction, biology, biosecurity, gcr, machine-learning, gen
 image: /assets/images/polina-kuzovkova-4Kg2VRELnGA-unsplash.jpg
 ---
 
-_What progress I have made thus far on notebook for Metaculus that revolves around the World Health Organization's (WHO) dual-use research of concern (DURC) in the life sciences and emerging technologies horizon scan report from October 2021._
+_Notes for the essay  Metaculus that revolves around the World Health Organization's (WHO) dual-use research of concern (DURC) in the life sciences and emerging technologies horizon scan report from October 2021._
 
 ## Bioregulators
-
 
 > Bioregulators are biochemical compounds, such as peptides, that affect cellular processes. Research has identified a number of bioregulators and synthetic analogues that can modify life processes, including cognition, reproduction and development. Bioregulators can be used therapeutically and for diagnostic purposes. They can also be misused, and such compounds can have profound effects within minutes of exposure (23). While the potential misuses of bioregulators have been known for decades, discoveries in neuroscience and neurochemistry mean that bioregulators could be used for more targeted, hostile purposes, including damage to the central nervous system, soldier enhancement, crowd suppression and behaviour manipulation (24). Misuse of bioregulators, whether naturally occurring or synthetic, could include their dispersal or manipulation of functions in a target.
 
@@ -99,12 +98,10 @@ _What progress I have made thus far on notebook for Metaculus that revolves arou
 
 ### External Links
 
-### Appendix
-
-### Bibliography
-
 ### Notes
 
 1. The [cover photo](https://unsplash.com/photos/4Kg2VRELnGA) for this page was likely taken by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
 ### Page Epistemics
+
+### Bibliography
