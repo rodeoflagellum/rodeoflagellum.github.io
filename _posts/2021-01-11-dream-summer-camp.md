@@ -6,7 +6,7 @@ permalink: "/summer_camp_art_dream/"
 certainty: "Quite Certain"
 status: "Working Draft"
 tags: [psychology, dreams]
-image: /assets/images/mirror_1943.8.5297.jpg 
+image: /assets/images/mirror_1943.8.5297.jpg
 ---
 
 __January 11 2021__
@@ -23,4 +23,17 @@ __January 11 2021__
 
 "Quite Certain": I recorded this dream upon waking, so there was little time for me to forget aspects of it. I don't believe I forgot much or any of the dream.     -->
 
-https://www.nga.gov/collection/art-object-page.17498.html
+
+
+
+### External Links
+
+### Appendix
+
+### Bibliography
+
+### Notes
+
+1. The [cover photo](https://www.nga.gov/collection/art-object-page.17498.html). I found the photo on [National Gallery of Art](https://www.nga.gov/).
+
+### Page Epistemics

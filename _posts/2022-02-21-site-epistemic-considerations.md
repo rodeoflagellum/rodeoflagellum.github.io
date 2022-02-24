@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Some Epistemical Considerations for This Site
+date: 2022-02-21 12:00:00 -0500
 permalink: /cert_stat_impact/
-certainty: "Somewhat Doubtful"
-status: Draft
+status: "Notes"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 ---
 
-_This page exists to describe the metrics "Certainty", "Status", and "Impactfulness" that I use on many of my posts. I provide explanations of these metrics, and offer some justifications for why I include them on posts._
+_Here I describe the metrics "Certainty", "Status", and "Impactfulness" that I use on many of my posts. I also provide my motivation for including these in my posts._
 
 ## Certainty
 
@@ -129,6 +129,14 @@ Their scoring system is appealing to me, and I expect myself to incorporate it i
 _Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
 
 
+### External Links
+
+### Appendix
+
+### Bibliography
+
 ### Notes
 
-1. https://www.nga.gov/collection/art-object-page.52247.html
+1. The [cover photo](https://www.nga.gov/collection/art-object-page.52247.html). I found the photo on [National Gallery of Art](https://www.nga.gov/).
+
+### Page Epistemics

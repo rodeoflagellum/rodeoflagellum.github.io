@@ -3,13 +3,12 @@ layout: post
 title:  "Forecast: Synthetic Biological Weapons"
 date:  2022-02-21 15:34:18 -0500
 permalink: "/synthetic_biological_weapons_deaths/"
-certainty: "Toss-Up"
 status: "Draft"
 tags: [forecasting, prediction, geopolitics, biology, genetic-engineering, biosecurity]
 image: /assets/images/benedict-meyer-zu-strohe-TpR4-ecdnKQ-unsplash-1.jpg
 ---
 
-_My forecasts for and thoughts on a question originating from Metaculus about whether or not synthetic biological weapons will infect 100 people by the year 2030_
+_Here I discuss my forecasts for and thoughts on a question originating from Metaculus about whether or not synthetic biological weapons will infect 100 people by the year 2030._
 
 This following question was created by [Metaculus](https://www.metaculus.com/questions/) user [SynthBioWpnsKill1GHum2050](https://www.metaculus.com/accounts/profile/109243/).
 
@@ -25,7 +24,14 @@ The consequences of infection must be undesireable - ie, not something that coul
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5943/" width="550" height="260"></iframe>
 
+### External Links
+
+### Appendix
+
+### Bibliography
 
 ### Notes
 
-[Cover page photo](https://unsplash.com/photos/TpR4-ecdnKQ) taken by [Benedict Meyer zu Strohe](https://unsplash.com/@benemzs), free under the [Unsplash License](https://unsplash.com/license).
+1. The [cover photo](https://unsplash.com/photos/TpR4-ecdnKQ) for this page was likely taken by [Benedict Meyer zu Strohe](https://unsplash.com/@benemzs). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+### Page Epistemics

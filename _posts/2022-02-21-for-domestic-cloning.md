@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast: Domestic Pet Cloning Prices"
+title:  "Forecast: Pet Cloning"
 date:  2022-02-21 20:29:18 -0500
 permalink: "/cloning_domestic_pets/"
 certainty: "Likely"
@@ -9,7 +9,16 @@ tags: [forecasting, prediction, cloning, economics, genetic-engineering, biology
 image: /assets/images/erik-karits-wyYSSPFNf9s-unsplash.jpg
 ---
 
+_Here I forecast on questions concerning commercial pet cloning in the 2020's - 2050's._
+
+### External Links
+
+### Appendix
+
+### Bibliography
 
 ### Notes
 
 1. The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [Erik Karits](https://unsplash.com/@slacktalk). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+### Page Epistemics

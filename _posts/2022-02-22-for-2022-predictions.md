@@ -3,13 +3,12 @@ layout: post
 title:  "ACX 2022 Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
 permalink: "/acx_contest_2022/"
-certainty: "Likely"
 status: "Working Draft"
 tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
 ---
 
-_My predictions for Scott Alexander's 2022 ACX Prediction Contest._
+_My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and some discussion on the outcomes of the questions._
 
 |Question|My Prediction|Scott's Prediction|FP's Prediction|Yglesias's Predictions|Outcome|
 |:---|:---|:---|:---|:---|:---|
@@ -17,8 +16,8 @@ _My predictions for Scott Alexander's 2022 ACX Prediction Contest._
 |At least $250 million in damage from a single round of mass protests in US|40%|10%|-|-||
 |PredictIt thinks Joe Biden is most likely 2024 Dem nominee|72%|80%|-|-||
 |PredictIt thinks Donald Trump is most likely 2024 GOP nominee|65%|60%|-|-||
-|Beijing Olympics happen successfully on schedule|97%|99%|-|-||
-|Major flare-up (worse than past 5 years) in Russia/Ukraine conflict|60%|50%|-|40%||
+|Beijing Olympics happen successfully on schedule|97%|99%|-|-|YES|
+|Major flare-up (worse than past 5 years) in Russia/Ukraine conflict|60%|50%|-|40%|YES|
 |Major flare-up (worse than past 10 years) in Israel/Palestine conflict|10%|5%|-|-||
 |Major flare-up (worse than in past 50 years) in China/Taiwan conflict|3%|5%|-|-||
 |Honduran ZEDEs legally crippled to the point where no reasonable person would invest in them further|5%|5%|-|-||
@@ -94,4 +93,12 @@ Brier Score
 Color coat the table to reflect the confidence and how wrong
 you were-->
 
-[Cover page photo](https://unsplash.com/photos/z-pZ8qfEl0M) taken by [jbc](https://unsplash.com/@jbcphotography), free under the [Unsplash License](https://unsplash.com/license).
+### External Links
+
+### Bibliography
+
+### Notes
+
+1. The [cover photo](https://unsplash.com/photos/z-pZ8qfEl0M) for this page was likely taken by [jbc](https://unsplash.com/@jbcphotography). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+### Page Epistemics
