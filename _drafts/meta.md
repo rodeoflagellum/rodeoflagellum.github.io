@@ -109,6 +109,8 @@ What is this?
 Why is this being posted here?
   Is this a waste of my time? Is it valuable? Is it practical?
   If other work has already been done, why not just read that?
+  Why shouldn't you be doing this?
+  Should you think more about doing this, before doing this?
 ---
 
 
@@ -163,3 +165,7 @@ POSTS
 - Future of Human Cognitive Enhancement
 - What Foods Aren't Safe?
 - How much of my lack of motivation, depression, poor cognitive capacities can be explained by food?
+- Every Metaculus update / prediction
+- Birth Order of Children
+- Parenting Approaches
+- 
