@@ -98,14 +98,48 @@ I would like to learn about my personality, and about how these psychological su
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|||
-|||
-|||
+|||"Yes, generally speaking."|
+|||"It does pain me, depends on the situation though."|
+|||"No, not really. Same minimum, yes, but after that some people are better than others."|
+|||"Yes, this is frustrating. Resources wasted."|
+|||"Generally speaking, yes. Of course, disabled, etc..."|
+|||"I want my children to be obedient, but also to point out when I am wrong."|
+|||"Not really. Hopefully there will be enough aggressive people to volunteer. Sometimes it could make a difference though if everyone volunteers."|
+|||"No, but again, depends. If this is UBI and everything is automated, that might be characteristic of a fewer-problem-society."|
+|||"I feel bad for them, but don't feel tremendous emotional pain."|
+|||"Depends on how much care."|
+|||"Tough to say what this means. I think broadcasting positive actions is generally good."|
+|||"Not really, unless this no loyalty sentiment induces instability civilizationally."|
+|||"Sometimes yes, sometimes I don't think it's too bad."|
+|||"Sometimes yes, but most people including elders, seem decently stupid."|
+|||"No, not really. They should be taught about their country, and weight how good it is, but blind loyalty to it is probably off the mark."|
+|||"I don't care, but it does inform my perception of them."|
+|||"I kind of agree. I believe I am more inclined to like a partner if they were chaste (not completely chaste)."|
+|||"No, effectiveness should be optimized for - correlation between effectiveness and effort?"|
+|||"Depends on the traditional values. Presently, I would say that the traditional values are poor, so no, they should not cherish them, but generally, it might be a good heuristic if the traditions are good."|
+|||"No, really disagree. Little progresses if there is always an appeal to authority."|
+|||"Depends on what is meant by strong. Also, leader vs. leader(s). One person as a leader is probably not enough."|
+|||"Depends on the society, but generally there are reasons why some people should have more or less than others."|
+|||"I would change that to 'some traditions can serve', so unchanged, not really."|
+|||"What is meant by strength? I agree that when people don't have to question loyalty in a sports team, the sport team might be more fluid."|
+|||"No, some people should not feed their community or make it grow. There are bad communities."|
+|||"Not necessarily - some people comfort others better. In my case, my comforting usually produces negative outcomes."|
+|||"People should use what works."|
+|||"Okay, seems harmless as put."|
+|||"I think chastity is good, but not at this dosage."|
+|||"Don't care."|
+|||"Again, more effect not necessarily the same as more effective, but if we are talking about equal effectiveness, then yes someone should be rewarded more."|
+|||"Again, depends on the world. If you took this world, and gave everyone the same amount of money, I don't think it would be a better place."|
+|||"After some minimum threshold, the outcomes should be not be share equally."|
+|||"Those who are effective should have their effectiveness sustained. Also, what is a fair society?"|
+|||"No, there is nothing sacred about it."|
+|||"I think an incompassionate world would be a poor one."|
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+
+- Date: 02/25/2022
+- Start time: ~13:21 EST
+- End time: ~13:50 EST
+- Feelings: I felt inclined to offer longer explanations the more I kept writing. I also found that, after experiencing the initial response to the question mentally, I often tried to poke holes in my justifications. I felt many of the questions had vague terms that made it difficult to decide which option to choose.
 
 #### 2.1.2 Second Completion
 
@@ -139,14 +173,56 @@ I would like to learn about my personality, and about how these psychological su
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|||
-|||
-|||
+|||"I talk a lot but not too much."|
+|||"There are usually some holes in my work."|
+|||"I am the enthusiasm generator in my friend group."|
+|||"I feel I do this all days."|
+|||"Friends and family members have perceived me as callous on some occasions."|
+|||"I am easygoing, typically, but can form harsh but inconsequential judgements of others."|
+|||"I hope so and try to, but probably miss the mark often."|
+|||"Extremely."|
+|||"Sometimes, but the task may also be a bottomless pit. I'd say strong neutral."|
+|||"I do get anxious often, usually with work."|
+|||"I usually fail to cope with the stress well (don't sleep, exercise, etc...)"|
+|||"I hope so, and think so. My Metaculus questions, notes, and posts lend me credence."|
+|||"If I am not with people, I will usually not reach out to them. I can, and sometimes do, go without talking in social situations. I am pretty shy in many ways."|
+|||"See last thought."|
+|||"Desk and home area are usually a mess, but not a terrible mess. I have occassions of strong cleansing."|
+|||"I spend a lot of time solve problems, but I don't know if this falls into the category of inventive; I would say, generally, yes."|
+|||"I am sometimes rude to others but, most often, I am not."|
+|||"I usually freeze up in tense situations, but am not that calm. I don't react strongly to things."|
+|||"Yeah, I do worry a lot."|
+|||"I think I forgive people too readily. Most negative past interactions don't seem to weigh in much on my future interactions. "|
+|||"My mood fluctuates, but not enough for me to describe it as 'moody'"|
+|||"I hope so. I think others would describe me this way. Putting Agree in the case that I am wrong with Agree Strongly."|
+|||"Yes, but not all of the time. I don't usually get angry or snap at people, but I sometimes don't support them emotionally."|
+|||"I don't react too strongly to things. I don't know if it is emotionally stable or some mental malfunction though."|
+|||"I feel that, generally, I have a low metabolism. I do have energy when talking about the things that interest me though, usually more energy than many other people I have seen."|
+|||"I can get very down, but when I am with my partner, I near really get too sad. It is a fine line though."|
+|||"I never feel that I am actually focusing on something."|
+|||"I will try to network with people sometimes, but it usually takes me awhile to recharge this ability."|
+|||"Reliability is not gurenteed."|
+|||"I am pretty lazy, at least in the eyes of my family members. There is a lot of psychomotor retardation."|
+|||"I hope so, but think so, generally. It goes many places."|
+|||"I make plans, so +1, but I don't always follow through with them."|
+|||"I used to more, but now I am more neutral to this. I still value creativity and expression decently so."|
+|||"Yes, with emphasis on inhibited."|
+|||"My activities are more usually separate from these fields directly, except maybe art."|
+|||"Too trusting I would say, but I have been working on this."|
+|||"NST, TSP art, collages, etc..."|
+|||"Family usually describes me as selfish, and I wouldn't say they are that incorrect, but I am generally helpful."|
+|||"I am domineering in some manners, but in most I am more flexible and adaptive."|
+|||"Indirectly, I'd say, but overall I don't go out and begin an argument."|
+|||"I love cooperation."|
+|||"Yes, I easily forget about most others' wants and desires."|
+|||"I do enjoy routines."|
+|||"I can be tense, rigid, unmoving, etc... in certain situations."|
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+
+- Date: 02/25/2021
+- Start time: ~14:02 EST
+- End time: ~14:28 EST
+- Feelings: There were quite a few questions, and I almost became distracted while taking the survey.
 
 #### 2.2.2 Second Completion
 
