@@ -4,11 +4,13 @@ title:  "My Personality and Morals"
 date:  2022-02-24 01:48:00 -0500
 permalink: "/my_personality_morals/"
 status: "Notes"
+certainty: "N/A"
+importance: "2/10"
+impact: "4/10"
 tags: [psychology, ethics, personality]
 image: /assets/images/yashowardhan-singh-7ALIbwRkwig-unsplash.jpg
+desc: "My results and recorded internal monologue for some psychological surveys."
 ---
-
-_My recorded inner monologue on some psychological surveys, and some efforts to see how my responses to these surveys changes over time._
 
 ## 1 Introduction
 
@@ -1463,7 +1465,9 @@ Record all plots possible
 Record all -->
 
 
-<!-- ## External Links -->
+## External Links
+
+[pending]
 
 ## Notes
 
@@ -1479,6 +1483,20 @@ Record all -->
 > tehf;ds
 
 
-### Page Epistemics
+## Page Epistemics
 
-### Bibliography
+___Status___
+
+[pending]
+
+___Certainty___
+
+[pending]
+
+___Importance___
+
+[pending]
+
+___Impact___
+
+[pending]

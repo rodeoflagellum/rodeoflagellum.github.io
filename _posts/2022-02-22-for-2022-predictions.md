@@ -2,14 +2,16 @@
 layout: post
 title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
+last_edit: 2022-02-26 17:20:18 -0500
 permalink: "/acx_contest_2022/"
-status: "Working Draft"
-certainty:
+status: "Draft"
+certainty: "N/A"
+importance: "3.5/10"
+impact: "1/10"
 tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
+desc: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 ---
-
-_My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions._
 
 From Scott Alexander's post [Predictions For 2022](https://astralcodexten.substack.com/p/predictions-for-2022-contest?utm_source=url), on [Astral Codex Ten](https://astralcodexten.substack.com/):
 
@@ -98,11 +100,11 @@ The winner will get eternal glory (realistically: mentioned on an Open Thread) a
 |Viktor Orbán loses power in Hungary|45%|60%|-|60%||
 |Sinn Fein becomes the largest party in the Northern Ireland assembly|50%|60%|-|60%||
 
-## Outcome Explanations
+## Outcomes
 
 [pending]
 
-## Performance and Reflections
+## Performance
 
 [pending]
 
@@ -134,6 +136,8 @@ ___Certainty___
 
 ___Importance___
 
-"3.5/10": Presently, 3/10 Alternatively, I could look at the importance of each one of the forecasting question topics, and score them collectively. 
+[pending]
 
 ___Impact___
+
+[pending]

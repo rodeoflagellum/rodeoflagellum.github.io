@@ -4,11 +4,13 @@ title:  "WHO DURC in Life Sciences"
 date:  2022-02-23 11:24:00 -0500
 permalink: "/who_durc_life_science/"
 status: "Notes"
+importance: "7/10"
+impact: "4/10"
+certainty: "N/A"
 tags: [forecasting, prediction, biology, biosecurity, gcr, machine-learning, genetic-engineering, geopolitics, global-priorities]
 image: /assets/images/polina-kuzovkova-4Kg2VRELnGA-unsplash.jpg
+desc: "Notes for an essay on Metaculus that covers the World Health Organization's (WHO) dual-use research of concern (DURC) in the life sciences and emerging technologies horizon scan."
 ---
-
-_Notes for the essay  Metaculus that revolves around the World Health Organization's (WHO) dual-use research of concern (DURC) in the life sciences and emerging technologies horizon scan report from October 2021._
 
 ## Bioregulators
 
@@ -75,12 +77,26 @@ _Notes for the essay  Metaculus that revolves around the World Health Organizati
 >
 > There are, however, risks of both accidental and deliberate harm. Evidence suggests that nanoparticles can have neurotoxic effects (60) and that nanomaterials can bio-accumulate and pose risks as environmental pollutants. In addition, nanotechnology has direct application in both defensive and offensive military technology (56).
 
-### External Links
+## External Links
 
-### Notes
+## Notes
 
 1. The [cover photo](https://unsplash.com/photos/4Kg2VRELnGA) for this page was likely taken by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
-### Page Epistemics
+## Page Epistemics
 
-### Bibliography
+___Status___
+
+[pending]
+
+___Certainty___
+
+[pending]
+
+___Importance___
+
+[pending]
+
+___Impact___
+
+[pending]

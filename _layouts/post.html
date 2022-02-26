@@ -11,6 +11,10 @@ layout: default
 
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 
+    {%- if page.desc -%}
+    <p> <em> {{ page.desc }} </em> </p>
+    {%- endif -%}
+
     {%- if page.tags -%}
     <p> <span>
       {% for tag in page.tags %}
@@ -28,24 +32,30 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
+      </time> - <time class="dt-published" datetime="{{ page.last_edit | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.last_edit | date: date_format }}
       </time> &nbsp;
 
       {%- if page.status -%}
-         • &nbsp;<a href="/_posts/2022-02-22-certainty.md">Status</a>: {{ page.status }}  &nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Status</a>: {{ page.status }}  &nbsp;
       {%- endif -%}
 
       {%- if page.certainty -%}
-         • &nbsp;<a href="/_posts/2022-02-22-certainty.md">Certainty</a>: {{ page.certainty }} &nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Certainty</a>: {{ page.certainty }} &nbsp;
       {%- endif -%}
 
-      {%- if page.impactfulness -%}
-        • &nbsp;<a href="/_posts/2022-02-22-certainty.md">Impactfulness</a>: {{ page.impactfulness }}  &nbsp;
+      {%- if page.importance -%}
+        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Importance</a>: {{ page.importance}}  &nbsp;
+      {%- endif -%}
+
+      {%- if page.impact -%}
+        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }}  &nbsp;
       {%- endif -%}
 
       {%- if page.author -%}
         • &nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
-
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
