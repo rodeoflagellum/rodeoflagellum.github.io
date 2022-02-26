@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ACX 2022 Prediction Contest"
+title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
 permalink: "/acx_contest_2022/"
 status: "Working Draft"

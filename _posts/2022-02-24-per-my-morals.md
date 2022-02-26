@@ -10,8 +10,6 @@ image: /assets/images/yashowardhan-singh-7ALIbwRkwig-unsplash.jpg
 
 _My recorded inner monologue on some psychological surveys, and some efforts to see how my responses to these surveys changes over time._
 
-
-
 ## 1 Introduction
 
 ### 1.1 What is this?
