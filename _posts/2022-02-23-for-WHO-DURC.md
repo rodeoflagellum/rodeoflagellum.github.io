@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notebook: WHO DURC in Life Sciences"
+title:  "WHO DURC in Life Sciences"
 date:  2022-02-23 11:24:00 -0500
 permalink: "/who_durc_life_science/"
 status: "Notes"

@@ -106,7 +106,6 @@ The winner will get eternal glory (realistically: mentioned on an Open Thread) a
 
 [pending]
 
-
 <!-- Describe the contest
 Perform calibration
 Perform hypothetical bets
@@ -117,7 +116,7 @@ you were-->
 
 ## External Links
 
-None.
+None so far.
 
 ## Notes
 
@@ -125,10 +124,16 @@ None.
 
 ## Page Epistemics
 
-__Status__: "Working Draft"; 
+___Status___
 
-__Certainty__
+"Draft": The prediction table is the primary content of this post, but there are many other pieces missing, as the information necessary for an analysis is not yet known.
 
-__Importance__
+___Certainty___
 
-__Impact__
+"N/A": There is no central claim made in this post, so I am not attributing a certainty at the moment. I could, once the resolution values for the questions become known, calibrate myself and assign a certainty value using this.
+
+___Importance___
+
+"3.5/10": Presently, 3/10 Alternatively, I could look at the importance of each one of the forecasting question topics, and score them collectively. 
+
+___Impact___
