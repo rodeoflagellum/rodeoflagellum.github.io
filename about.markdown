@@ -25,3 +25,9 @@ Note: ~Y (x%) means "I am x% confident that approximately Y applies to me"
 - Predominant Life Location: United States
 
 I believe that what I left out from this list were things that I didn't find immediately meaningful. I am also aiming not to have my actual person identified, so I've purposely left this list short (there was never an exact threshold). I currently have little sense of what the metadata of what I've chosen to include in this list tells about me, and would be interested to hear anyone's thoughts on this. I used the shuffling to remove the metadata of what order I originally wrote the entries. Some people already know _me_, but this page exists for those of you who don't.
+
+<!-- Inspirations - why?
+Site Purpose
+Discriminating Characteristics
+What I think is important
+How I want to be. -->

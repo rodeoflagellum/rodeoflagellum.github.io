@@ -8,7 +8,7 @@ tags: [forecasting, prediction, geopolitics, biology, genetic-engineering, biose
 image: /assets/images/benedict-meyer-zu-strohe-TpR4-ecdnKQ-unsplash-1.jpg
 ---
 
-_Here I discuss my forecasts for and thoughts on a question originating from Metaculus about whether or not synthetic biological weapons will infect 100 people by the year 2030._
+_My forecasts on a question originating from Metaculus about whether or not synthetic biological weapons will infect 100 people by the year 2030._
 
 This following question was created by [Metaculus](https://www.metaculus.com/questions/) user [SynthBioWpnsKill1GHum2050](https://www.metaculus.com/accounts/profile/109243/).
 
