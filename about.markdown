@@ -11,7 +11,7 @@ Who are you?
   What are your goals?
   What are your instruments?-->
 
-_This page exists as an attempt to communicate the scope of this site's content, the reasons why this site exists, and what I believe will be the content of this site in the future_.
+_This page exists as an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests_.
 
 ### This Site
 
@@ -56,7 +56,7 @@ __Status, Certainty, Importance, and Impact Metrics__
 
 I really, really appreciate Gwern's use of status, importance, and certainty tags on his website, and I've decided to use them as well on this site, though not in the exact fashion as Gwern. Along with Gwern's three metrics, I also use an impact metric. With the status metric, I want to convey what the state of my writing is; the certainty metric, how accurate or reliable what I've written or presented is; the importance metric, how relevant or consequential the topic of a post might be now and in the future; the impact metric, how influential the post I've written is or might be.
 
-&emsp; Not all of my posts use all of the metrics, but every post has a _Page Epistemics_ section that details my metric choices for that post, including reasons for why I believe any metrics shouldn't apply to it. It's also worth noting explicitly that my subjective estimates for the value of these metrics might be far off from what you think the values should be, and to this I say that my estimates are simply one more piece of information for you to form a judgement about how much you should trust my writing and the content I cover, and that my estimates are crude; on this last point, I'm not sure how best to measure "status", "certainty" (accuracy), "importance", and "impact". I've thought, for a short amount of time, about connecting these metrics to external metrics such as number of page views, number of external references, web traffic, etc... and ranking my posts this way, but the cost of doing this seems too high at the moment, and I am not _too concerned_ about my subjective estimates of these metrics being really wrong or being really consequential.
+&emsp; Not all of my posts use all of the metrics, but every post has a _Page Epistemics_ section that details my metric choices for that post, including reasons for why I believe any metrics shouldn't apply to it. It's also worth noting explicitly that my subjective estimates for the value of these metrics might be far off from what you think the values should be, and to this I say that my estimates are simply one more piece of information for you to form a judgement about how much you should trust my writing and the content I cover, and that my estimates are crude; on this last point, I'm not sure how best to measure "status", "certainty" (accuracy), "importance", and "impact". I've thought, for a short amount of time, about connecting these metrics to external metrics such as number of page views, number of external references, web traffic, etc... and ranking my posts this way, but the cost of doing this seems too high at the moment, and I am not _too concerned_ about my subjective estimates of these metrics being really wrong or being really consequential. More thoughts on these metrics can be found in my post [Some Epistemical Considerations for This Site]().  
 
 ### Me
 
@@ -95,9 +95,7 @@ While many of my interests can be gleaned from the tags I've listed earlier, the
 
 __Personality__
 
-
-
-
+Following Gwern's example, I've taken a slew of personality and morals surveys on the  website [YourMorals.org](https://yourmorals.org/), whose contributors perform social psychology research. I have an entire post on this called [My Personality and Morals](https://rodeoflagellum.github.io/my_personality_morals/), but will summarize the findings below.
 
 __Contact__
 

@@ -4,13 +4,28 @@ title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
 permalink: "/acx_contest_2022/"
 status: "Working Draft"
+certainty:
 tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
 ---
 
-_My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and some discussion on the outcomes of the questions._
+_My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions._
 
-|Question|My Prediction|Scott's Prediction|FP's Prediction|Yglesias's Predictions|Outcome|
+From Scott Alexander's post [Predictions For 2022](https://astralcodexten.substack.com/p/predictions-for-2022-contest?utm_source=url), on [Astral Codex Ten](https://astralcodexten.substack.com/):
+
+> Sam Marks and Eric Neyman have kindly turned this tradition into a contest.
+>
+If you want, you can go to their [form](https://docs.google.com/forms/d/1QLfg4WgmOobgcw-I1eHLi8U6yxivggHH5G__3TQ4sug/closedform) and predict the same set of questions I did (minus the personal and redacted ones). Use the same rules I did: no peeking at the prediction markets, and no more than five minutes of research per question. If you don’t know anything about a question, you can leave it blank and it will get filled with my prediction by default.
+>
+The winner will get eternal glory (realistically: mentioned on an Open Thread) and a free ACX subscription.
+>
+- Read the contest [description/rules](https://docs.google.com/document/d/1HZ3UC9JIuhFdlVM_xYtj60a6ba7elWGiAnROMobkFXM/edit) here
+- Give [feedback](https://docs.google.com/forms/d/14TY66nT7Q4EGb2hauCubPY5P2eFGsN1gUZ5Z9VBk5kM/viewform?edit_requested=true) on the contest here
+- And once again, the form where you take the contest is here
+
+## Prediction Table
+
+|Question|Rodeo's Prediction|Scott's Prediction|FP's Prediction|Yglesias's Predictions|Outcome|
 |:---|:---|:---|:---|:---|:---|
 |Biden approval rating (as per 538) is greater than fifty percent|35%|40%|-|-||
 |At least $250 million in damage from a single round of mass protests in US|40%|10%|-|-||
@@ -83,6 +98,13 @@ _My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (e
 |Viktor Orbán loses power in Hungary|45%|60%|-|60%||
 |Sinn Fein becomes the largest party in the Northern Ireland assembly|50%|60%|-|60%||
 
+## Outcome Explanations
+
+[pending]
+
+## Performance and Reflections
+
+[pending]
 
 
 <!-- Describe the contest
@@ -93,12 +115,20 @@ Brier Score
 Color coat the table to reflect the confidence and how wrong
 you were-->
 
-### External Links
+## External Links
 
-### Bibliography
+None.
 
-### Notes
+## Notes
 
 1. The [cover photo](https://unsplash.com/photos/z-pZ8qfEl0M) for this page was likely taken by [jbc](https://unsplash.com/@jbcphotography). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
-### Page Epistemics
+## Page Epistemics
+
+__Status__: "Working Draft"; 
+
+__Certainty__
+
+__Importance__
+
+__Impact__

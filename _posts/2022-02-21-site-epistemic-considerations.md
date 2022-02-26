@@ -8,7 +8,7 @@ tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 ---
 
-_Here I describe the metrics "Certainty", "Status", and "Impactfulness" that I use on many of my posts. I also provide my motivation for including these in my posts._
+_Here I describe the meaning of the metrics "Certainty", "Status", "Importance", and "Impactfulness" that I use on many of my posts; I also provide my motivation for including these metrics._
 
 ## Certainty
 
