@@ -2,7 +2,7 @@
 layout: post
 title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
-last_edit: 2022-02-26 17:20:18 -0500
+last_edit: 2022-02-28 17:38:18 -0500
 permalink: "/acx_contest_2022/"
 status: "Draft"
 certainty: "N/A"
@@ -13,7 +13,7 @@ image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
 desc: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 ---
 
-From Scott Alexander's post [Predictions For 2022](https://astralcodexten.substack.com/p/predictions-for-2022-contest?utm_source=url), on [Astral Codex Ten](https://astralcodexten.substack.com/):
+From Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
 
 > Sam Marks and Eric Neyman have kindly turned this tradition into a contest.
 >
@@ -118,11 +118,11 @@ you were-->
 
 ## External Links
 
-None so far.
+[pending]
 
-## Notes
+[ACX]: https://astralcodexten.substack.com/ : "Astral Codex Ten"
 
-1. The [cover photo](https://unsplash.com/photos/z-pZ8qfEl0M) for this page was likely taken by [jbc](https://unsplash.com/@jbcphotography). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+[2022 ACX predictions]: https://astralcodexten.substack.com/p/predictions-for-2022-contest?utm_source=url "2022 ACX predictions"
 
 ## Page Epistemics
 
@@ -141,3 +141,13 @@ ___Importance___
 ___Impact___
 
 [pending]
+
+## Notes
+
+___Cover Image___
+
+The [cover photo](https://unsplash.com/photos/z-pZ8qfEl0M) for this page was likely taken by [jbc](https://unsplash.com/@jbcphotography). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+ ___Footnotes___
+
+[^1]: [This](https://www.lesswrong.com/users/scottalexander) is Scott's LessWrong profile; here are his top 5 posts as of 28 February 2022: *[Eight Short Studies On Excuses](https://www.lesswrong.com/posts/gFMH3Cqw4XxwL69iy/eight-short-studies-on-excuses)*, *[Schelling fences on slippery slopes](https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes)*, *[Diseased thinking: dissolving questions about disease](https://www.lesswrong.com/posts/895quRDaK6gR2rM82/diseased-thinking-dissolving-questions-about-disease)*, *[Generalizing From One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example)*, *[The noncentral fallacy - the worst argument in the world?](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)*

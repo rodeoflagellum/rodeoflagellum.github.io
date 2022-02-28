@@ -2,6 +2,7 @@
 layout: post
 title:  "My Personality and Morals"
 date:  2022-02-24 01:48:00 -0500
+last_edit: 2022-02-28 17:58:18 -0500
 permalink: "/my_personality_morals/"
 status: "Notes"
 certainty: "N/A"
@@ -16,7 +17,7 @@ desc: "My results and recorded internal monologue for some psychological surveys
 
 ### 1.1 What is this?
 
-After reading about [Gwern](https://www.gwern.net/Links)'s personality, philosophy/morals, and political leanings, I encountered [YourMorals.org](https://yourmorals.org/), which welcomes newcomers with the following message<sup>2</sup>:
+After reading about [Gwern](https://www.gwern.net/Links)'s personality, philosophy/morals, and political leanings, I encountered [YourMorals.org](https://yourmorals.org/), which welcomes newcomers with the following message[^1]:
 
 > Welcome to YourMorals.org, where you can learn about your own morality, ethics, and/or values, moral values, ethical behaviors, personality, and political preferences while also contributing to scientific research. We are a group of professors, researchers, and graduate students in social psychology.
 
@@ -56,9 +57,9 @@ This site contains the following surveys:
 |__Identification with Humanity Scale__|What groups are you most loyal to? Whom do you identify with most?|
 |__Media Diet Survey__|What are your favorite media types|
 
-In this post, I present each survey (pulling information from YourMorals.org, but not going into depth on their history, epistemics, and futures) and record my [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue)<sup>3</sup> for all questions.
+In this post, I present each survey (pulling information from YourMorals.org, but not going into depth on their history, epistemics, and futures) and record my [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue)[^2] for all questions.
 
-&emsp; _My intentions_: I want<sup>4</sup> to take each survey 3 times. There are 31 surveys, and I want to take them in batches of 6 at a time (except for the last batch, which will contain 7). I want to separate the batches by 2 days. For example, I would take the first 6 around noontime on day 1, and then take the next 6 around noontime on day 3, and so on. Once I complete one cycle of the 31 surveys, I will wait at least 1 week before beginning anew. The order of the surveys I will take is the order that they are listed in the previous table.
+&emsp; _My intentions_: I want[^3] to take each survey 3 times. There are 31 surveys, and I want to take them in batches of 6 at a time (except for the last batch, which will contain 7). I want to separate the batches by 2 days. For example, I would take the first 6 around noontime on day 1, and then take the next 6 around noontime on day 3, and so on. Once I complete one cycle of the 31 surveys, I will wait at least 1 week before beginning anew. The order of the surveys I will take is the order that they are listed in the previous table.
 
 &emsp; Note that I have already take 4 surveys [Big 5 Personality Scale, Moral Foundations Questionnaire-2 (MFQ-2), Moral Foundations Questionnaire (old version), Activities Survey] once. I looked at my results for each of these surveys for less than 5 minutes, and can't recall particular questions on any of them. I have deleted my account and data, so I am now able to retake the surveys. On the Activities Survey, I was unable to get a results report generated. Presumably, the team at YourMorals.org has not yet developed it. I expect there to be similar situations. To solve this, along with the problem of not being able to retake any survey, I will register for a new account after each survey cycle (there is, post-registration, a short demographics survey; for each survey cycle, I will not alter my demographic information). So, altogether, a design for this task might look like this:
 
@@ -1469,20 +1470,6 @@ Record all -->
 
 [pending]
 
-## Notes
-
-1. The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [yashowardhan singh](https://unsplash.com/@slacktalk). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
-
-2. The YourMorals.org's welcome description and list of available surveys I included in this post I checked on 24 February 2022. Any changes on the site after this date I have not accounted for.
-
-3. What typically comes to mind when I think about my "internal monologue" in the context of answering survey questions are the rather quick judgements or remembrances that bring me to choose one answer over the other.
-
-4. This writing was done primarily on 24 February 2022; I will offer a retrospective update when I am finished.
-> Hello
-
-> tehf;ds
-
-
 ## Page Epistemics
 
 ___Status___
@@ -1500,3 +1487,17 @@ ___Importance___
 ___Impact___
 
 [pending]
+
+## Notes
+
+__Cover Image__
+
+The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [yashowardhan singh](https://unsplash.com/@slacktalk). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+___Footnotes___
+
+[^1]: The YourMorals.org's welcome description and list of available surveys I included in this post I checked on 24 February 2022. Any changes on the site after this date I have not accounted for.
+
+[^2]: What typically comes to mind when I think about my "internal monologue" in the context of answering survey questions are the rather quick judgements or remembrances that bring me to choose one answer over the other.
+
+[^3]: This writing was done primarily on 24 February 2022; I will offer a retrospective update when I am finished.

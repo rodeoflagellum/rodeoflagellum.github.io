@@ -2,19 +2,35 @@
 layout: post
 title: Some Epistemical Considerations for This Site
 date: 2022-02-21 12:00:00 -0500
-last_edit: 2022-02-26 17:00:00 -0500
+last_edit: 2022-02-28 17:58:18 -0500
 permalink: /cert_stat_impact/
 status: "Draft"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "Here I describe the meaning of the metrics \"Certainty\", \"Status\", \"Importance\", and \"Impactfulness\" that I use on many of my posts; I also provide my motivation for including these metrics on this site."
+desc: "My explanation for the metrics \"Certainty\", \"Status\", \"Importance\", and \"Impact\" that I use on many of my posts; I also provide my motivation for including these."
 ---
+
+## Status
+
+My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
+
+|Status Tag|Explanation|
+|:---|:---|
+|Log|A post or page that consists almost entirely of an ongoing list. I suspect there'll be instances where I no longer update some logs.|
+|Notes|A post or page that is, for the most part, a collection of notes, quotes, resources, etc... pertaining some topic(s). I suspect that these pages will have the term "Notes" in their title.|
+|Rant|A post or page that I am fairly uncertain about in terms of "where it fits in on the site" and that I did not labor much to make structured or accurate. These writing pieces are likely to fall into the category of "flow of consciousness", i.e. things that help me quickly expose my unexamined feelings or thoughts about a subject. |
+|Draft|A post or page that is the start of some piece of writing that I intend to complete at some point. Drafts can vary widely in length and are different from Notes in that I attempt to structure their content.|
+|Working Draft | A post or page that could exist on its own, but I believe I am somewhat likely to expand.|
+|Likely Finished | A post or page that I somewhat believe I will no longer edit.|
+|Finished | A post or page that I strongly believe I will no longer edit.|
+
+<!-- |Update|A post or page that provides major updated perspectives, responses, or beliefs on another post or page on the site, especially if I believe the content of my original writing was largely incorrect. This status may turn into a tag. | -->
 
 ## Certainty
 
-The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of what I've written. "The accuracy of what I've written" refers to whether distribution of feelings engendered in readers by what I've written matches what I intended to have engendered, to how well the set of all claims in a particular post fit together, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing what my uncertainies are, and, among other things, to how predictive what I've written is.
+The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of my writing and of the content I am hosting. What does "The accuracy of my writing..." refer to? Okay, in my mind, this is my sense of whether the distribution of feelings and thoughts engendered by reading my content matches what I intended to have engendered, to how well the set of all claims in a particular post are synthesized, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing my uncertainty, and, among other things, to how predictive what I've written is. At some future point, I might prune my writing for examples of each of these things (e.g., this is an evidence claim, this is an un-evidenced claim), but please just know, if you already haven't developed this notion, that my _certainty_ metrics are subjective, and should not be taken as law (e.g., if my certainty is "Quite Certain", this does not mean that my claims are bullet proof! This simply means that I believe my claims are bullet proof; since no one, including myself, has really taken the time to develop a track record of my accuracy, )
 
-&emsp; I generated the entries in this list in $\leq 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) critize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy.
+&emsp; I generated the entries in this list in $\leq 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) criticize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy.
 
 &emsp; With regard to this last entry in my list - "how predictive what I've written is" - the "[Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences)" page on [LessWrong](https://www.lesswrong.com/), especially the post _[Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)_ by Eliezer Yudkowsky, captures what I want to achieve with the beliefs I express in my writing.
 
@@ -68,24 +84,6 @@ When I use a particular Verbal Expression in this list for a post of mine, I am 
 - How should certainty tags apply to different categories, such as _forecasting_, _dreams_, _lists_, _genetic-engineering_, _reviews_, etc...? How should one interpret "Somewhat doubtful" for a list post versus for a dream post versus for a forecasting post?
 - Should you calibrate your certainty by first estimating the certainty, then using a metric (perhaps Bayesian Inference) to quantify the reasonableness of the claims in the post, and then adding a discussion of the difference in the part of your post where you describe how you came to your particular estimatation of certainty for that post?
 
-## Status
-
-The website build (I am not sure of what term to use here for what I want to refer to, but basically I am hosting this site on [GitHub pages](https://pages.github.com/) and am using [Jekyll](https://jekyllrb.com/)) I am utilizing permits use of a drafts folder, but this is separate from the status metric I use on my posts.
-
-&emsp; These tags come directly from Gwern's site, although the ones I incorporate are very likely different from his (I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts). This table describes all of the status tags I will use.
-
-|Status Tag|Explanation|
-|:---|:---|
-|Log|A post or page that I intend to keep populating with entries. I suspect there'll be some instances where I no longer add to a log.|
-|Notes|A post or page that is, for the most part, a collection of notes, quotes, resources, etc... pertaining some topic(s). I suspect that these pages will have the term "Notes" in their title.|
-|Rant|A post or page that I am fairly uncertain about in terms of "where it fits in on the site" and that I did not labor much to make structured or accurate. These writing pieces are likely to fall into the category of "flow of consciousness" and help me quickly expose my unexamined feelings or thoughts about a subject. |
-|Draft|A post or page that is the start of some piece of writing that I intend to complete at some point. Drafts can vary widely in length and are different from Notes in that I attempt to structure their content.|
-|Working Draft | A post or page that could exist on its own, but I believe I am somewhat likely to expand.|
-|Likely Finished | A post or page that I somewhat believe I will no longer edit.|
-|Finished | A post or page that I strongly believe I will no longer edit.|
-
-<!-- |Update|A post or page that provides major updated perspectives, responses, or beliefs on another post or page on the site, especially if I believe the content of my original writing was largely incorrect. This status may turn into a tag. | -->
-
 ## Impactfulness
 
 I consider myself an [Effective Altruist](https://www.effectivealtruism.org/), which means to me that I should allocate some cognitive bandwidth towards assessing what impact I make on the world. The term "impact" here is nebulous, but I believe "the impactfulness of my writing content" should refer to some mixture of the following: effects on reader well-being, effects on collective human well-being, effects on reader decision-making (this includes behavior), and effects on preserving long-term human potential. This is not an exhaustive list and, ideally, I would like to come up with some way to measure each of these things, normalize them, and then use them together to create the Impactfulness score.
@@ -114,34 +112,36 @@ Their scoring system is appealing to me, and I expect myself to incorporate it i
 |Ease of contribution| ​​How easy will it be for a reader to make a contribution to the analysis on this post?|
 |Neglectedness of contributions| How much have people thought about the content in this post? How in need of attention is the content in this post?|
 
-### Epistemics of This Page
-
-***Status***
-
-"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility.
-
-***Certainty***
-
-"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously.
-
-***Impactfulness***
-
-_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
-
 ## External Links
 
 [pending]
-
-## Notes
-
-1. The [cover photo](https://www.nga.gov/collection/art-object-page.52247.html). I found the photo on [National Gallery of Art](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable).
 
 ## Page Epistemics
 
 ___Status___
 
+"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility.
+
 ___Certainty___
+
+
+"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously.
 
 ___Importance___
 
 ___Impact___
+
+_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
+
+## Notes
+
+__Cover Image__
+
+This [cover image](https://www.nga.gov/collection/art-object-page.52247.html) is an American 18th Century oil on canvas artwork entitled _Hunting Scene with a Harbor_, 18th century associated with Bruce, Ailsa Mellon, Mrs.. The image can be found on the [National Gallery of Art](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable)'s website, and is in the public domain:
+> __Open Access Policy for Images of Works of Art Presumed in the Public Domain__
+>
+With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.
+
+___Footnotes___
+
+[^1]: I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts.

@@ -2,6 +2,7 @@
 layout: post
 title:  "WHO DURC in Life Sciences"
 date:  2022-02-23 11:24:00 -0500
+last_edit: 2022-02-28 17:58:18 -0500
 permalink: "/who_durc_life_science/"
 status: "Notes"
 importance: "7/10"
@@ -79,9 +80,7 @@ desc: "Notes for an essay on Metaculus that covers the World Health Organization
 
 ## External Links
 
-## Notes
-
-1. The [cover photo](https://unsplash.com/photos/4Kg2VRELnGA) for this page was likely taken by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+[pending]
 
 ## Page Epistemics
 
@@ -100,3 +99,11 @@ ___Importance___
 ___Impact___
 
 [pending]
+
+## Notes
+
+__Cover Image__
+
+The [cover photo](https://unsplash.com/photos/4Kg2VRELnGA) for this page was likely taken by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+___Footnotes___
