@@ -134,7 +134,7 @@ _Decision Importance_ = 4/10 since I believe that the existence of this page on 
 
 ## Notes
 
-1. The [cover photo](https://www.nga.gov/collection/art-object-page.52247.html). I found the photo on [National Gallery of Art](https://www.nga.gov/).
+1. The [cover photo](https://www.nga.gov/collection/art-object-page.52247.html). I found the photo on [National Gallery of Art](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable).
 
 ## Page Epistemics
 
