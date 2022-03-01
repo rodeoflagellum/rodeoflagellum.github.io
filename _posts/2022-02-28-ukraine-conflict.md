@@ -10,6 +10,10 @@ image: /assets/images/ships_in_a_gale_2000.72.1.jpg
 desc: "A collection of resources and updates on the Russo-Ukrainian conflict, including my personal takes and forecasts; the term \"artless\" is employed in this post's title since my interest in this conflict is recent (which means that I am still rapidly trying to catch up on the history of the subject) and my perspectives lack important cultural context (I've never been to Ukraine, have never spoken to a sample of Ukrainians, have no connections to the politicians involved, and my takes on the subject are only informed by what I've read or seen on the Internet)"
 ---
 
+## Background
+
+
+<!-- https://gisgeography.com/free-satellite-imagery-data-list/ -->
 
 ## Russo-Ukrainian War
 
