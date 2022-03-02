@@ -20,7 +20,14 @@ desc: "My forecasts and thoughts on how many gene-edited babies will be born in 
   See Also
   Link Bibliography
   Page Epistemics
-  Notes -->
+  Notes
+
+
+  look at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=%22designer+babies%22&btnG=
+
+  and at
+
+  https://www.semanticscholar.org/paper/Designer-Babies-Have-Neves/9eccd2a49004e8479ec6506d1b9ebf7f08771729-->
 
 ## Designer Babies
 _My perspective on having gene-edited children, and a very brief overview of what the bioethics and biotechnology community has to say about "designer babies" and about human gene-editing._
@@ -45,7 +52,7 @@ that covered this in some form; they found the following
 >
 However, views on specific instances where gene editing might be used highlight the complex and contextual nature of public attitudes. Majorities say it would be appropriate to change a baby’s genetic characteristics to treat a serious disease the baby would have at birth (median of 70%), and somewhat smaller shares, though still about half or more, say using these techniques to reduce the risk of a serious disease that could occur over the course of the baby’s lifetime would be appropriate (60%). But a median of just 14% say it would be appropriate to change a baby’s genetic characteristics to make the baby more intelligent. A far larger share (median of 82%) would consider this to be a misuse of technology.
 
-So, it seems that the majority of polled people oppose gene-editing for enhancement[^11], but support it for treatment. Why is this so? 
+So, it seems that the majority of polled people oppose gene-editing for enhancement[^11], but support it for treatment. Why is this so?
 
 ## Adoption Scenarios
 _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._
@@ -56,63 +63,63 @@ _Several scenarios I've thought about for how the adoption of human gene-editing
 
 ## Link Bibliography
 
-[wiki_baby]: https://en.wikipedia.org/wiki/Designer_baby
+[wiki_baby]: https://en.wikipedia.org/wiki/Designer_baby, "https://en.wikipedia.org/wiki/Designer_baby"
 
-[Henk]: https://www.duq.edu/academics/faculty/henk-ten-have
+[Henk]: https://www.duq.edu/academics/faculty/henk-ten-have, "https://www.duq.edu/academics/faculty/henk-ten-have"
 
-[Maria]: https://scholar.google.com/citations?user=J-tTRHwAAAAJ
+[Maria]: https://scholar.google.com/citations?user=J-tTRHwAAAAJ, "https://scholar.google.com/citations?user=J-tTRHwAAAAJ"
 
-[global_bio]: https://link.springer.com/chapter/10.1007/978-3-030-54161-3_198
+[global_bio]: https://link.springer.com/chapter/10.1007/978-3-030-54161-3_198, "https://link.springer.com/chapter/10.1007/978-3-030-54161-3_198"
 
-[Maria_per]: https://www.mpatraoneves.pt/en/publicacoes/
+[Maria_per]: https://www.mpatraoneves.pt/en/publicacoes/, "https://www.mpatraoneves.pt/en/publicacoes/"
 
-[Henk_per]: https://henktenhave.org/home/
+[Henk_per]: https://henktenhave.org/home/, "https://henktenhave.org/home/"
 
-[PEW report]: https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/
+[PEW report]: https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/, "https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/"
 
-[PEW]: https://www.pewresearch.org/
+[PEW]: https://www.pewresearch.org/, "https://www.pewresearch.org/"
 
-[wiki_nat]: https://en.wikipedia.org/wiki/Nature_versus_nurture
+[wiki_nat]: https://en.wikipedia.org/wiki/Nature_versus_nurture, "https://en.wikipedia.org/wiki/Nature_versus_nurture"
 
-[wiki_geno]: https://en.wikipedia.org/wiki/Genome_editing
+[wiki_geno]: https://en.wikipedia.org/wiki/Genome_editing, "https://en.wikipedia.org/wiki/Genome_editing"
 
-[wiki_emby2]: https://en.wikipedia.org/wiki/Embryo_quality
+[wiki_emby2]: https://en.wikipedia.org/wiki/Embryo_quality, "https://en.wikipedia.org/wiki/Embryo_quality"
 
-[wiki_IVF]: https://en.wikipedia.org/wiki/In_vitro_fertilisation
+[wiki_IVF]: https://en.wikipedia.org/wiki/In_vitro_fertilisation, "https://en.wikipedia.org/wiki/In_vitro_fertilisation"
 
-[wiki_sperm]: https://en.wikipedia.org/wiki/Semen_cryopreservation
+[wiki_sperm]: https://en.wikipedia.org/wiki/Semen_cryopreservation, "https://en.wikipedia.org/wiki/Semen_cryopreservation"
 
-[wiki_egg]: https://en.wikipedia.org/wiki/Oocyte_cryopreservation
+[wiki_egg]: https://en.wikipedia.org/wiki/Oocyte_cryopreservation, "https://en.wikipedia.org/wiki/Oocyte_cryopreservation"
 
-[wiki_trans]: https://en.wikipedia.org/wiki/Transvaginal_oocyte_retrieval
+[wiki_trans]: https://en.wikipedia.org/wiki/Transvaginal_oocyte_retrieval, "https://en.wikipedia.org/wiki/Transvaginal_oocyte_retrieval"
 
-[UCLA health]: https://www.uclahealth.org/obgyn/fertility, "UCLA "
+[UCLA health]: https://www.uclahealth.org/obgyn/fertility, "https://www.uclahealth.org/obgyn/fertility"
 
-[eggF]: https://www.uclahealth.org/obgyn/egg-freezing, "egg freezing"
+[eggF]: https://www.uclahealth.org/obgyn/egg-freezing, "https://www.uclahealth.org/obgyn/egg-freezing"
 
-[WHO_gene]: https://www.who.int/ethics/topics/human-genome-editing/en/
+[WHO_gene]: https://www.who.int/ethics/topics/human-genome-editing/en/, "https://www.who.int/ethics/topics/human-genome-editing/en/"
 
-[NHG_poly]: https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores
+[NHG_poly]: https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores, "https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores"
 
-[wiki_poly]: https://en.wikipedia.org/wiki/Polygenic_score
+[wiki_poly]: https://en.wikipedia.org/wiki/Polygenic_score, "https://en.wikipedia.org/wiki/Polygenic_score"
 
-[penn_emby]: https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/penn-fertility-care/embryo-screening/treatments-and-procedures
+[penn_emby]: https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/penn-fertility-care/embryo-screening/treatments-and-procedures, "https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/penn-fertility-care/embryo-screening/treatments-and-procedures"
 
-[ivi_emby]: https://ivi-fertility.com/blog/embryo-screening-right-for-me/
+[ivi_emby]: https://ivi-fertility.com/blog/embryo-screening-right-for-me/, "https://ivi-fertility.com/blog/embryo-screening-right-for-me/"
 
-[wiki_emby]: https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis
+[wiki_emby]: https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis, "https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis"
 
-[UUtah]: https://healthcare.utah.edu/
+[UUtah]: https://healthcare.utah.edu/, "https://healthcare.utah.edu/"
 
-[spermF]: https://healthcare.utah.edu/fertility/treatments/fertility-preservation/sperm-freezing/,
+[spermF]: https://healthcare.utah.edu/fertility/treatments/fertility-preservation/sperm-freezing/, "https://healthcare.utah.edu/fertility/treatments/fertility-preservation/sperm-freezing/"
 
-[wiki]: https://www.wikipedia.org/
+[wiki]: https://www.wikipedia.org/, "https://www.wikipedia.org/"
 
-[wiki_her]: https://en.wikipedia.org/wiki/Heritability
+[wiki_her]: https://en.wikipedia.org/wiki/Heritability, "https://en.wikipedia.org/wiki/Heritability"
 
-[wiki_her_iq]: https://en.wikipedia.org/wiki/Heritability_of_IQ
+[wiki_her_iq]: https://en.wikipedia.org/wiki/Heritability_of_IQ, "https://en.wikipedia.org/wiki/Heritability_of_IQ"
 
-[wiki_enh]: https://en.wikipedia.org/wiki/Human_enhancement
+[wiki_enh]: https://en.wikipedia.org/wiki/Human_enhancement, "https://en.wikipedia.org/wiki/Human_enhancement"
 
 
 <!-- Blockquote unless you already did this -->
