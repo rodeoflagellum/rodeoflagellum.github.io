@@ -69,7 +69,6 @@ Explosive Treatment Use Cases
 
 Explosive General Use Cases
 
-
 ## Forecasts
 
 ## See Also
@@ -149,7 +148,7 @@ Explosive General Use Cases
 
 #### *Certainty*
 
-"Somewhat Likely": This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think. 
+"Somewhat Likely": This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
 
 #### *Importance*
 
