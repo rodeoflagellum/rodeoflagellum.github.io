@@ -57,7 +57,7 @@ This site contains the following surveys:
 
 I would like to learn about my personality, and about how these psychological surveys classify me relative to other people. I believe this exercise will be an interesting way to experience modern psychological studies; to get a better sense of the context, I would also like to read research which employs these surveys, and to reflect on what the other participants must have thought when they answered the questions.
 
-&emsp; Below, I offer some information about each survey, but do not go into depth on their histories or epistemology. For each survey, I've decided to record my [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue)[^2] for all questions. At some future point, I would like to repeat this task, at least for a few of the surveys, to see how my answers change and how my justifications - the internal monologue - chances as well. I may attempt to cover, at some later date, the issues and limitations of each of these surveys, along with how accurate they are, but for now am more interested in just answering their questions, recording my internal monologue, and seeing my results. 
+&emsp; Below, I offer some information about each survey, but do not go into depth on their histories or epistemology. For each survey, I've decided to record my [internal monologue](https://en.wikipedia.org/wiki/Internal_monologue)[^2] for all questions. At some future point, I would like to repeat this task, at least for a few of the surveys, to see how my answers change and how my justifications - the internal monologue - changes as well. I may attempt to cover, at some later date, the issues and limitations of each of these surveys, along with how accurate they are, but for now am more interested in just answering their questions, recording my internal monologue, and seeing my results.
 
 ## Surveys
 
@@ -161,34 +161,63 @@ I would like to learn about my personality, and about how these psychological su
 - End time: ~14:28 EST
 - Feelings: There were quite a few questions, and I almost became distracted while taking the survey.
 
-###  Activities Survey
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-#### Notes
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
 ###  Self and Others Scale
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|||
-|||
-|||
+|||"There can be benefits depending on the person. Generally, I think a balance of networked connection and independence is best."|
+|||"Depends on the relative. I would _currently (and strongly)_ support my relatives, but it might not always be the case."|
+|||"Depends on the situation (like if my care would outweight a professional's) I would rather (strong preference) not have them with me though."|
+|||"In situations involving cognitive performance, I do experience some envy and might try to mobilize myself to perform better, but I don't know if this qualifies as 'tense and aroused'"|
+|||"My system is pretty good at preventing itself from doing things I don't enjoy, even if they make other people happy."|
+|||"No, pleasure is doing things, being excited, learning, etc.... These don't necessarily have to occur with other people present, but oftentimes do occur around others."|
+|||"Depends on what the prize is and who the coworker is. Most of the time I won't care. If my partner or friend got a prize, I might feel proud."|
+|||"I don't take many major trips. Whenever I've taken any trip, I have notified at least one member of my family and one friend."|
+|||"I disagree. I can imagine a society of highly agreeable, uncompetitive people just getting along. In terms of well-being, I imagine there are many small agricultural communities with low-competition that get along (in both senses) just fine."|
+|||"I think that, for someone who has learned to place pleasure first, it is more difficult to update to a reality where duty is placed first, when compared to the opposite situation. Also, the term _blind duty_ (in my mind, where someone neglects well-being for duty) makes me go from Moderately Agree to Slighty Agree."|
+|||"Even if I don't get along with them, I would say it's still important, as they are likely less likely to irritate or frustrate me when they are content than when they are discontent."|
+|||"I think every person is unique, biologically and culturally speaking. How unique are _you_? This is tough. I'd say, collectively, I am 2 standard deviations away on a lot of things, but don't know."|
+|||"This is tricky: sometimes I feel that I am behaving in manners just to appease others, and other (slightly more often) times I feel that, by letting up a little, the group would operate more smoothly."|
+|||"I am not going to let my family prevent me from doing something I enjoy a lot."|
+|||"I agree with this somewhat; when my partner or friends or family members are in sour moods, I find it difficult not to have some level of dullness enter my perspective. It's not strong, but it is certainly there."|
+|||"I believe I am a luck person. I also believe that my networking and mind skills are to blame for some of the opportunities and success I've experienced."|
+|||"This is something that really depends on the group and my mood. (somewhat): I think I like disagreement when I believe the other person's claims are unsupported or bold, and dislike it when it could cause someone to be particularly angry with me. There are many factors that I have not thought about for this question. Nevertheless, I often find myself taking contrarian stances, likely as some automatic social-cognitive process."|
+|||"I do think maintaining group harmony is very important. Many things are nicer this way, even if there are occasional, light disagreements."|
+|||"Definitely yes, I don't want my actions recorded by other people, or used to understand my behavior very well."|
+|||"I try to hide my winnings in some ways. I do not know why. I kind of do not want others being envious or jealous, because I feel that their envy might someday be a threat."|
+|||"People being more intelligent than me makes me generally makes me dislike myself. There is some of this self-disdain at my lack of success (on my measures) present when 'people perform better than I do', but generally I am grateful for what I have done."|
+|||"I don't think so. Well-being and curiosity are everything. That's statements rudimentary, but you get the point."|
+|||"I do like sharing. I think I do this to foster group-harmony and cooperation. I don't know if this questions refer to 'sharing little things', or 'little sharing of things'. I assume the former."|
+|||"I prefer clear and robust statements when communicating. Reducing misinterpretation and uncertainty are things that I optimize for, albeit my efforts are probably not as good as they could be."|
+|||"I think that it is important that I do my job well, but it doesn't have to be better than others for the sole sake of being better than others."|
+|||"My family would definitely say this of me. My friends too maybe. I think this statement applies to me on the basis of community sentiment."|
+|||"I do feel good when communities are forged, and when cooperation produces something."|
+|||"This depends on how well I perceive my abilities in the situation to be. When I think I have an edge, I want to compete, but when I don't think I am very able, I want to learn and improve at the sidelines, without the nag of very-able-people over my head."|
+|||"I am somewhat unique, and do enjoy being myself. I am not really sure what this question is trying to get at, but I will interpret it as how much do I agree with the type of thinking present in people who utter 'I'm not like the other girls'"|
+|||"I do think there is a level of competition in most things. I believe the question of who gets what applies to all life."|
+|||"No, not really. The child likely wasn't much help to the parent."|
+|||"There is also an error or noise term in life outcomes, but I'd like to think my efforts count for something."|
+
+
+- Date: 03/03/2022
+- Start time: ~12:11pm EST
+- End time: ~12:55pm EST
+- Feelings: It was irresistable not thinking more about my responses.
+
+<!--
+###  Activities Survey
+
+|Question|Response|Internal Monologue|
+|:---|:---|:---|:---|
+||||
+
+
 
 - Date:
 - Start time:
 - End time:
 - Feelings:
-
 
 ###  Systems & Feelings Survey
 
@@ -663,7 +692,7 @@ I would like to learn about my personality, and about how these psychological su
 - Date:
 - Start time:
 - End time:
-- Feelings:
+- Feelings: -->
 
 
 ## Insights and Analyses
