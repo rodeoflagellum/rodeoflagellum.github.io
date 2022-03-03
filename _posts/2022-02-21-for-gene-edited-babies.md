@@ -30,7 +30,7 @@ desc: "My forecasts and thoughts on how many gene-edited babies will be born in 
   https://www.semanticscholar.org/paper/Designer-Babies-Have-Neves/9eccd2a49004e8479ec6506d1b9ebf7f08771729-->
 
 ## Designer Babies
-_My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community has to say about "designer babies" and about human gene-editing._
+_My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing._
 
 In the 2021 _[Dictionary of Global Bioethics][global_bio]_, [Henk ten Have][Henk] and [Maria do Céu Patrão Neves][Maria]'s[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]" (pp. 405-406):
 
@@ -42,7 +42,7 @@ __Personal Take__: As of the last edit date of this post[^2], my partner and I h
 
 &emsp; In considering lives of our children, we try not to neglect the ["nurture"][wiki_nat][^10] or environmental component of development, but have really not thought deeply about what parenting practices we'd like to adopt, or about other environmental features, such as whether we want our children rearing to occur in an urban or rural setting. Regardless, human gene-editing done correctly seems like something that could have tremendous societal benefits, and is something me and my partner presently believe we want for our future children. What do other people think?[^11]
 
-__Public Take__: In 2020, the [PEW Research Center][PEW] performed a [survey][PEW report][^12] of 20 publics[^13], gauging support for biotechnology and human gene-editing. They found the following:
+__Public Take__: In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13], gauging support for biotechnology and human gene-editing. They found the following:
 
 > A 20-public median of 63% say scientific research on gene editing is a misuse – rather than an appropriate use – of technology, according to the survey fielded in publics across Europe, the Asia-Pacific region, the United States, Canada, Brazil and Russia.
 >
@@ -162,19 +162,19 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 #### *Footnotes*
 
-[^1]: For Henk ten Hank's personal website, see [here][Henk_per], and for Maria do Céu Patrão Neves's faculty webpage (I was unable to find her personal site, if she has one) see [here][Maria_per].
+[^1]: For Henk ten Hank's personal website, see [here][Henk_per]{:target="_blank"}, and for Maria do Céu Patrão Neves's faculty webpage (I was unable to find her personal site after looking for a few minutes, which makes me believe she doesn't have one) see [here][Maria_per]{:target="_blank"}.
 
-[^2]: Every source accessed and personal take is accurate at least up to the date of last edit (the second date beneath the tags; this date is currently {{ page.last_edit }}).
+[^2]: Every source accessed and all personal takes are accurate at least up to the date of last edit (the second date beneath the tags; this date is currently {{ page.last_edit }}).
 
 [^3]: What is egg freezing, and why is it used? Here is one source's description of egg freezing - UCLA's [Fertility and Reproduction Health Center][UCLA Health] (see [here][eggF]) definition: <br><br> _Egg freezing, or oocyte cryopreservation, is a process in which a woman's eggs (oocytes) are extracted, frozen and stored as a method to preserve reproductive potential in women of reproductive age. The first human birth from a frozen oocyte was reported in 1986. Oocyte cryopreservation has advanced greatly over the past few years, with improved overall success of eggs surviving the freezing process. It is no longer considered an experimental procedure by the American Society for Reproductive Medicine. The techniques leading to enhanced gamete survival, potential fertilization and live birth rates allow women a much greater degree of autonomy than was possible even in the past 5 years._
 
 [^4]: What is sperm freezing, and why is it used? Here is one source's description of sperm freezing - the [University of Utah][spermF]'s [Health Care Center][UUtah]'s definition: <br><br> _Sperm cryopreservation or sperm freezing is a way for men to preserve their sperm and store it in a bank so it can be used in the future. Many medical treatments can damage sperm quality, including several types of cancer treatment like chemotherapy and radiation. Some men choose to freeze their sperm before getting medical treatment._
 
-[^5]: Here [wiki_IVF][wiki_IVF]
+[^5]: From Wikipedia's [in-vitro fertilization][wiki_IVF]{:target="_blank"} page:
 
-[^6]: Here [NHG_poly][NHG_poly], [wiki_poly][wiki_poly], [penn_emby][penn_emby], [ivi_emby][ivi_emby], [wiki_emby][wiki_emby]
+[^6]: For descriptions of polygenic or embryo screening, check out [NHG_poly][NHG_poly]{:target="_blank"}, [wiki_poly][wiki_poly]{:target="_blank"}, [penn_emby][penn_emby]{:target="_blank"}, [ivi_emby][ivi_emby]{:target="_blank"}, and [wiki_emby][wiki_emby]{:target="_blank"}.
 
-[^7]: Here [World Health Organization][WHO_gene]
+[^7]: As described by the [World Health Organization][WHO_gene], genome editing 
 
 [^8]: There are many qualities that I would like my children to have. Two things concerning this should be noted: 1) the term "qualities" is vague, and the things people routinely associate with them (e.g., intelligence or IQ, OCEAN measures, physical attractiveness, creativity, the absence of disease, the absence of a cognitive ailment, etc...) are typically broad in scope, complex (stemming from the interplay of multiple genes), and lack epistemic consensus (multiple measures or definitions for the phenomenon), so I believe we should presently be weary or causious of optimizing for these qualities, given that humanity's lack of understanding of the biology underlying these things may result in unintended consequences, and 2) my desire for my children to have certain "qualities" is illustrative of the idea that I believe there are genetic traits that are more instrumentally valuable to goals I personally like, and
 
