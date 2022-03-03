@@ -15,7 +15,7 @@ desc: "My results and recorded internal monologue for some psychological surveys
 
 ## 1 Introduction
 
-### 1.1 What is this?
+###  What is this?
 
 After reading about [Gwern](https://www.gwern.net/Links)'s personality, philosophy/morals, and political leanings, I encountered [YourMorals.org](https://yourmorals.org/), which welcomes newcomers with the following message[^1]:
 
@@ -62,7 +62,7 @@ In this post, I present each survey (pulling information from YourMorals.org, bu
 &emsp; _My intentions_: I want[^3] to take each survey 3 times. There are 31 surveys, and I want to take them in batches of 6 at a time (except for the last batch, which will contain 7). I want to separate the batches by 2 days. For example, I would take the first 6 around noontime on day 1, and then take the next 6 around noontime on day 3, and so on. Once I complete one cycle of the 31 surveys, I will wait at least 1 week before beginning anew. The order of the surveys I will take is the order that they are listed in the previous table.
 
 &emsp; Note that I have already take 4 surveys [Big 5 Personality Scale, Moral Foundations Questionnaire-2 (MFQ-2), Moral Foundations Questionnaire (old version), Activities Survey] once. I looked at my results for each of these surveys for less than 5 minutes, and can't recall particular questions on any of them. I have deleted my account and data, so I am now able to retake the surveys. On the Activities Survey, I was unable to get a results report generated. Presumably, the team at YourMorals.org has not yet developed it. I expect there to be similar situations. To solve this, along with the problem of not being able to retake any survey, I will register for a new account after each survey cycle (there is, post-registration, a short demographics survey; for each survey cycle, I will not alter my demographic information). So, altogether, a design for this task might look like this:
-
+<!--
 - take [Moral Foundations Questionnaire-2 (MFQ-2), Big 5 Personality Scale, Activities Survey, Self and Others Scale, Systems & Feelings Survey, Belief in a Just World Scale] on __25 February 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
 - then [Need for Cognition Scale, Disgust Scale, Free Will Scale, Interpersonal Reactivity Index, Satisfaction with Life Scale, Levenson Psychopathy Scale] on __27 February 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
 - then [Relationship Survey, Sacredness Survey, Social Dominance Orientation Scale, Cognitive Style Measure, The RWA scale, Moral Foundations Questionnaire (old version)] on __1 March 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
@@ -79,9 +79,9 @@ In this post, I present each survey (pulling information from YourMorals.org, bu
 - then [Need for Cognition Scale, Disgust Scale, Free Will Scale, Interpersonal Reactivity Index, Satisfaction with Life Scale, Levenson Psychopathy Scale] on __29 March 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
 - then [Relationship Survey, Sacredness Survey, Social Dominance Orientation Scale, Cognitive Style Measure, The RWA scale, Moral Foundations Questionnaire (old version)] on __31 March 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
 - then [Marlowe-Crowne Social Desirability Scale, Identity Scale, Beauty Scale, Schwartz Values Scale, Balanced Inventory of Responding, Dispositional Positive Emotion Scale] on __2 April 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
-- then [Intellectual Humility Measure and Vignettes, Moral Identity Scale, Ethics Position Questionnaire, Need for Closure Scale, Behavioral Inhibition and Attraction Scales, Identification with Humanity Scale, Media Diet Survey] on __4 April 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey.
+- then [Intellectual Humility Measure and Vignettes, Moral Identity Scale, Ethics Position Questionnaire, Need for Closure Scale, Behavioral Inhibition and Attraction Scales, Identification with Humanity Scale, Media Diet Survey] on __4 April 2022__ between 11:00am and 5:00pm EST, with at least 10 minutes separating each survey, and recording the time I started and finished each survey. -->
 
-### 1.2 Why do this?
+###  Why do this?
 
 I would like to learn about my personality, and about how these psychological surveys classify me relative to other people. I believe this exercise will be an interesting way to  experience modern psychological studies; I would like to read research employing the same surveys and reflect on what the other participants must have thought when they answered the questions.
 
@@ -91,11 +91,9 @@ I would like to learn about my personality, and about how these psychological su
 
 &emsp; As for my design of this task, there is probably much I am missing. Six surveys a day is to reasonably ensure that this is not dragged out for too long, and that I am not "psychologically drained" (maybe [emotionally exhausted](https://en.wikipedia.org/wiki/Emotional_exhaustion)?) from taking too many surveys (perhaps 6 is already too much). At least ten minutes between surveys each day is to reasonably ensure that, in the case two surveys have similar questions, the influence of the earlier survey on my answers in the proceeding survey will be lessened. The time interval 11:00am to 5:00pm is when I subjectively feel "most me" or "most awake". The minimum interval of one week between surveys is to give me enough time to forget about and recover from the previous week's surveys. Recording the start and end time of each survey is information that I think might end up being useful at some point.  
 
-## 2 Surveys
+## Surveys
 
-### 2.1 Moral Foundations Questionnaire-2 (MFQ-2)
-
-#### 2.1.1 First Completion
+###  Moral Foundations Questionnaire-2 (MFQ-2)
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -136,41 +134,12 @@ I would like to learn about my personality, and about how these psychological su
 |||"No, there is nothing sacred about it."|
 |||"I think an incompassionate world would be a poor one."|
 
-
 - Date: 02/25/2022
 - Start time: ~13:21 EST
 - End time: ~13:50 EST
 - Feelings: I felt inclined to offer longer explanations the more I kept writing. I also found that, after experiencing the initial response to the question mentally, I often tried to poke holes in my justifications. I felt many of the questions had vague terms that made it difficult to decide which option to choose.
 
-#### 2.1.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.1.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.2 Big 5 Personality Scale
-
-#### 2.2.1 First Completion
+###  Big 5 Personality Scale
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -219,13 +188,12 @@ I would like to learn about my personality, and about how these psychological su
 |||"I do enjoy routines."|
 |||"I can be tense, rigid, unmoving, etc... in certain situations."|
 
-
 - Date: 02/25/2021
 - Start time: ~14:02 EST
 - End time: ~14:28 EST
 - Feelings: There were quite a few questions, and I almost became distracted while taking the survey.
 
-#### 2.2.2 Second Completion
+###  Activities Survey
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -233,27 +201,14 @@ I would like to learn about my personality, and about how these psychological su
 |||
 |||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.2.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+#### Notes
 
 - Date:
 - Start time:
 - End time:
 - Feelings:
-
-### 2.3 Activities Survey
 
-#### 2.3.1 First Completion
+###  Self and Others Scale
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -266,20 +221,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.3.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Systems & Feelings Survey
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.3.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -291,10 +236,8 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-### 2.4 Self and Others Scale
 
-#### 2.4.1 First Completion
+###  Belief in a Just World Scale
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -307,7 +250,7 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.4.2 Second Completion
+####  Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -320,7 +263,7 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.4.3 Third Completion
+####  Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -333,10 +276,8 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.5 Systems & Feelings Survey
+###  Need for Cognition Scale
 
-#### 2.5.1 First Completion
-
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
 |||
@@ -348,20 +289,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.5.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Disgust Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.5.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -374,10 +305,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.6 Belief in a Just World Scale
+###  Free Will Scale
 
-#### 2.6.1 First Completion
 
+
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
 |||
@@ -389,20 +320,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.6.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Interpersonal Reactivity Index
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.6.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -415,22 +336,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.7 Need for Cognition Scale
 
-#### 2.7.1 First Completion
+###  Satisfaction with Life Scale
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.7.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -442,24 +352,12 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-#### 2.7.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Levenson Psychopathy Scale
 
 
-### 2.8 Disgust Scale
 
-#### 2.8.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -472,21 +370,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.8.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Relationship Survey
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.8.3 Third Completion
 
+
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
 |||
@@ -497,36 +386,13 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-### 2.9 Free Will Scale
 
-#### 2.9.1 First Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.9.2 Second Completion
+###  Sacredness Survey
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.9.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -538,36 +404,13 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-### 2.10 Interpersonal Reactivity Index
 
-#### 2.10.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.10.2 Second Completion
+###  Social Dominance Orientation Scale
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.10.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -580,23 +423,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.11 Satisfaction with Life Scale
 
 
-#### 2.11.1 First Completion
+###  Cognitive Style Measure
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.11.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -609,23 +441,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.11.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  The RWA scale
 
-### 2.12 Levenson Psychopathy Scale
 
 
-#### 2.12.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -638,20 +459,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.12.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Moral Foundations Questionnaire (old version)
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.12.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -663,24 +474,11 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-### 2.13 Relationship Survey
-
 
-#### 2.13.1 First Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Marlowe-Crowne Social Desirability Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.13.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -692,24 +490,12 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-#### 2.13.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Identity Scale
 
-### 2.14 Sacredness Survey
 
 
-#### 2.14.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -722,21 +508,13 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.14.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Beauty Scale
 
-#### 2.14.3 Third Completion
 
+
+
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
 |||
@@ -748,23 +526,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.15 Social Dominance Orientation Scale
 
 
-#### 2.15.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Schwartz Values Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.15.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -777,23 +543,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.15.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Balanced Inventory of Responding
 
-### 2.16 Cognitive Style Measure
 
 
-#### 2.16.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -806,20 +561,10 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.16.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Dispositional Positive Emotion Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.16.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -831,24 +576,11 @@ I would like to learn about my personality, and about how these psychological su
 - Start time:
 - End time:
 - Feelings:
-
-### 2.17 The RWA scale
-
 
-#### 2.17.1 First Completion
+###  Intellectual Humility Measure and Vignettes
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.17.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -861,22 +593,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.17.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Moral Identity Scale
 
-### 2.18 Moral Foundations Questionnaire (old version)
 
-#### 2.18.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -889,20 +610,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.18.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Ethics Position Questionnaire
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+
 
-#### 2.18.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -915,22 +627,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.19 Marlowe-Crowne Social Desirability Scale
 
-#### 2.19.1 First Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Need for Closure Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+
 
-#### 2.19.2 Second Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -943,23 +645,12 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.19.3 Third Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+###  Behavioral Inhibition and Attraction Scales
 
-### 2.20 Identity Scale
 
 
-#### 2.20.1 First Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -972,20 +663,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-#### 2.20.2 Second Completion
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
+###  Identification with Humanity Scale
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+
 
-#### 2.20.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -998,452 +680,11 @@ I would like to learn about my personality, and about how these psychological su
 - End time:
 - Feelings:
 
-### 2.21 Beauty Scale
 
 
-#### 2.21.1 First Completion
+###  Media Diet Survey
 
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.21.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.21.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.22 Schwartz Values Scale
-
-#### 2.22.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.22.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.22.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.23 Balanced Inventory of Responding
-
-
-#### 2.23.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.23.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.23.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.24 Dispositional Positive Emotion Scale
-
-#### 2.24.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.24.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.24.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.25 Intellectual Humility Measure and Vignettes
-
-
-#### 2.25.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.25.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.25.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.26 Moral Identity Scale
-
-#### 2.26.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.26.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.26.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.27 Ethics Position Questionnaire
-
-
-#### 2.27.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.27.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.27.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.28 Need for Closure Scale
-
-
-#### 2.28.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.28.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.28.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.29 Behavioral Inhibition and Attraction Scales
-
-
-#### 2.29.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.29.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.29.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.30 Identification with Humanity Scale
-
-
-#### 2.30.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.30.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.30.3 Third Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-### 2.31 Media Diet Survey
-
-#### 2.31.1 First Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
-
-#### 2.31.2 Second Completion
-
-|Question|Response|Internal Monologue|
-|:---|:---|:---|
-|||
-|||
-|||
-
-- Date:
-- Start time:
-- End time:
-- Feelings:
 
-#### 2.31.3 Third Completion
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
@@ -1465,36 +706,27 @@ Record all HTML sheets of the questions
 Record all plots possible
 Record all -->
 
-
-## External Links
-
-[pending]
-
 ## Page Epistemics
 
-___Status___
+#### *Status*
+
+"Working Draft": I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
+
+#### *Certainty*
 
 [pending]
 
-___Certainty___
+#### *Importance*
 
-[pending]
-
-___Importance___
-
-[pending]
-
-___Impact___
-
-[pending]
+#### *Impact*
 
 ## Notes
 
-__Cover Image__
+#### *Cover Photo*
 
 The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [yashowardhan singh](https://unsplash.com/@slacktalk). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
-___Footnotes___
+#### *Footnotes*
 
 [^1]: The YourMorals.org's welcome description and list of available surveys I included in this post I checked on 24 February 2022. Any changes on the site after this date I have not accounted for.
 
