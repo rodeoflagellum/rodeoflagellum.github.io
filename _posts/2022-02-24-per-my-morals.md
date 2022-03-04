@@ -64,7 +64,7 @@ _Why do you care about some virtues and issues more than others?_
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|1. Caring for people who have suffered is an important virtue. |"Yes, generally speaking."|Describes me fairly well|
+|1. Caring for people who have suffered is an important virtue. |Describes me fairly well|"Yes, generally speaking."|
 |2. It pains me when I see someone ignoring the needs of another human being. |Describes me fairly well|"It does pain me, depends on the situation though."|
 |3. I believe that everyone should be given the same quantity of resources in life.|Does not describe me at all|"No, not really. Same minimum, yes, but after that some people are better than others."|
 |4. I get upset when some people have a lot more money than others in my country. |Describes me fairly well|"Yes, this is frustrating. Resources wasted."|
