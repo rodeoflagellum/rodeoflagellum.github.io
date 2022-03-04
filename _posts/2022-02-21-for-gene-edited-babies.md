@@ -84,15 +84,23 @@ One might suggest that the official statements of the WHO's or NHGRI's boards fa
 
 > Gene-editing technologies have improved in ease, efficiency, and precision. Although discussions are occurring around acceptable uses of human gene editing, limited data exist on the views of genetics-trained individuals. In 2017, we distributed an anonymous online survey to assess the attitudes of members of genetics professional societies toward gene editing (N = 500). Virtually all respondents were supportive of somatic editing in basic- science (99.2%) and clinical (87.4%) research on nonreproductive human cells. Only 57.2% were supportive of germline-editing basic-science research; 31.9% supported the transfer of viable embryos to humans for clinical research. While most favored future therapeutic uses of somatic (96.6%) and germline (77.8%) editing, there was little support for enhancement in somatic (13.0%) or germline (8.6%) cells. This study describes attitudes toward gene editing from genetics professionals worldwide and contributes to ongoing discourse and policy guidance in this domain.
 
-Note that this survey[^15] occurred before the He Jiankui affair. I'm unsure as to how opinions have changed since then, but believe they very likely haven't changed by much. Imagine being in the following situation: ```It's 2017. You have genetics-training and believe human gene-editing for enhancement purposes is entirely valid (the whole deal - intelligence, attractiveness, hair color, etc...). A researcher in China oversteps current ethical boundaries, producing 3 gene-edited humans and shifting the window of social acceptability of human gene-editing more towards it being perceived as "deplorable", "a misuse of science", etc... Do you stop believing human gene-editing for enhancement purposes is entirely valid?``` I don't think so; I think such an individual would simply avoid publicly advocating for human gene-editing for enhancement purposes, out of concern for funding and [social desirability][wiki_soc]{:target="_blank"}. I'm getting ahead of myself...what did those researchers believe in 2017? Well, first, what were the 500 people polled like?
+Note that this survey[^15] occurred before the He Jiankui affair. I'm unsure as to how opinions have changed since then, but believe they very likely haven't changed by much. Imagine being in the following situation: ```It's 2017. You have genetics-training and believe human gene-editing for enhancement purposes is entirely valid (the whole deal - intelligence, attractiveness, hair color, etc...). A researcher in China oversteps current ethical boundaries, producing 3 gene-edited humans and shifting the window of social acceptability of human gene-editing more towards it being perceived as "deplorable", "a misuse of science", etc... Do you stop believing human gene-editing for enhancement purposes is entirely valid?``` I don't think so; I think such an individual would simply avoid publicly advocating for human gene-editing for enhancement purposes, out of concern for funding and [social desirability][wiki_soc]{:target="_blank"}. I'm getting ahead of myself...what did those researchers believe in 2017? Well, before getting to this, what were the 500 people polled like?
+
+_Demographics_
 
 ![](/assets/images/design_babies_p1/GenEn_AttitudesDemo_2017.png)
 
-The opinions of interest (at least to me) are those of the clinical laboratory scientists, research scientists, and ELSI[^16] researchers, but the paper does not partition the results by Profession, which I find unfortunate.
+The opinions of interest (at least to me) are those of the 36 clinical laboratory scientists, 148 research scientists, and 17 ELSI[^16] researchers, but the paper does not partition the results by Profession, which I find unfortunate.
+
+_Opinions on the Acceptability of Human Gene-Editing_
 
 ![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions_2017.png)
 
+_Opinions on Different Uses of Human Gene-Editing_
+
 ![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
+
+If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities. 
 
 ## Adoption Scenarios
 _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._
