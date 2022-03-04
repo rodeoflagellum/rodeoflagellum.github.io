@@ -144,15 +144,19 @@ Explosive General Use Cases
 
 #### *Status*
 
-"Working Draft": I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
+__"Working Draft"__: I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
 
 #### *Certainty*
 
-"Somewhat Likely": This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
+__"Somewhat Likely"__: This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
 
 #### *Importance*
 
+__"7.5/10"__:
+
 #### *Impact*
+
+__"3/10"__: 
 
 ## Notes
 
@@ -174,7 +178,7 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^6]: For descriptions of polygenic or embryo screening, check out [NHG_poly][NHG_poly]{:target="_blank"}, [wiki_poly][wiki_poly]{:target="_blank"}, [penn_emby][penn_emby]{:target="_blank"}, [ivi_emby][ivi_emby]{:target="_blank"}, and [wiki_emby][wiki_emby]{:target="_blank"}.
 
-[^7]: As described by the [World Health Organization][WHO_gene], genome editing 
+[^7]: As described by the [World Health Organization][WHO_gene], genome editing
 
 [^8]: There are many qualities that I would like my children to have. Two things concerning this should be noted: 1) the term "qualities" is vague, and the things people routinely associate with them (e.g., intelligence or IQ, OCEAN measures, physical attractiveness, creativity, the absence of disease, the absence of a cognitive ailment, etc...) are typically broad in scope, complex (stemming from the interplay of multiple genes), and lack epistemic consensus (multiple measures or definitions for the phenomenon), so I believe we should presently be weary or causious of optimizing for these qualities, given that humanity's lack of understanding of the biology underlying these things may result in unintended consequences, and 2) my desire for my children to have certain "qualities" is illustrative of the idea that I believe there are genetic traits that are more instrumentally valuable to goals I personally like, and
 
