@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Artless Takes on the Russo-Ukrainian Conflict
+title: The Russo-Ukrainian Conflict
 date: 2022-02-28 18:00:00 -0500
-last_edit: 2022-03-01 18:20:18 -0500
+last_edit: 2022-03-03 18:20:18 -0500
 permalink: /ukraine_conflict/
 status: "Notes"
 tags: [forecasting, global-conflict, geopolitics, prediction, politics, economics]
 image: /assets/images/ships_in_a_gale_2000.72.1.jpg
-desc: "A collection of resources and updates on the Russo-Ukrainian conflict, including my personal takes and forecasts; the term \"artless\" is employed in this post's title since my interest in this conflict is recent (which means that I am still rapidly trying to catch up on the history of the subject) and my perspectives lack important cultural context (I've never been to Ukraine, have never spoken to a sample of Ukrainians, have no connections to the politicians involved, and my takes on the subject are only informed by what I've read or seen on the Internet)"
+desc: "A collection of resources and updates on the Russo-Ukrainian conflict, including my personal takes and forecasts; I would call these takes \"artless\", as my interest in this conflict has been driven by recent events (which means that I am still rapidly trying to catch up on the history) and my perspectives lack important cultural context (I've never been to Ukraine, have never spoken to a sample of Ukrainians, have no connections to the politicians involved, and my takes on the subject are only informed by what I've read or seen on the Internet)"
 ---
 
 <!-- https://gisgeography.com/free-satellite-imagery-data-list/ -->
