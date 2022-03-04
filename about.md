@@ -13,15 +13,15 @@ Who are you?
 
 _This page exists as an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests_.
 
-### This Site
+## This Site
 
 This site came into being late into the year 2021, in response to my desire for a place to concentrate and publicize my thinking on various, mostly technologically oriented subjects. There are other excuses for the site's existence as well; most notably, that having it might result in me writing more, and might improve my writing (and my thinking!), and less notably but still important to me, that it could serve as personal collection of resources, such as links and research findings.
 
-__Motivation__
+#### *Motivation*
 
 Since the year 2018, I've been exposed to the [Rationality](https://www.overcomingbias.com/) and [Effective Altruism](https://www.effectivealtruism.org/) movements, and in being exposed to these, have had the pleasure in life to come across the writing of ([Scott Alexander](https://www.lesswrong.com/users/scottalexander) & [Gwern Branwen](https://www.lesswrong.com/users/gwern)) and ([Alexey Guzey](https://www.lesswrong.com/users/guzey) & [Neel Nanda](https://www.lesswrong.com/users/neel-nanda-1)), among others (the first group being much more influential on my thinking than the second). These people's websites - [Astral Codex Ten](https://astralcodexten.substack.com/) (ACX), [Slate State Codex](https://slatestarcodex.com/) (SSC), [Gwern.net](https://www.gwern.net/), [Guzey.com](https://guzey.com/), [Neelnanda.io](https://www.neelnanda.io/) - have been a major motivation for me creating this site, partly because they examine many of things I find interesting, such as forecasting, technological development, life optimization, and the future of humanity.
 
-__Tags and Content__
+#### *Tags and Content*
 
 We'll see what happens over time, but currently I expect the scope of content on this site to cover, generally, topics connecting to the future of human civilization. This categorization is pretty vague, and leaves out a lot of the content I intend to write, but I think it is one that captures my inclination to explore [futurist](https://en.wikipedia.org/wiki/Futures_studies) and [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) thinking. It is a safe bet to assume that topics I investigate on this site will also be engaged with on at least one of [[LessWrong](https://www.lesswrong.com/), [EA-Forum](https://forum.effectivealtruism.org/), [ACX](https://astralcodexten.substack.com/)]. My unofficial writing directive is "write about interesting and/or consequential things, accurately and thoroughly, and in a manner that others can easily understand and get use out of".
 
@@ -60,11 +60,11 @@ I really, really appreciate Gwern's use of status, importance, and certainty tag
 
 
 
-### Me
+## Me
 
 It is usually a straightforward process for people to form judgements of others, so I provide you with some discriminatory characteristics; these come from my memory of demographics surveys I've answered and from things that come to mind when I think of myself.
 
-__Discriminating Characteristics__
+#### *Discriminating Characteristics*
 
 I used Python's ```random.shuffle()``` 1 time on the bullet points below (the points were originally ordered differently; I'm unsure as to why I don't want people knowing the original order that these bullets came to my mind). Also, note that ~Y (x%) means "I am x% confident that approximately Y applies to me" and that ~x% means "I believe I am x%".
 
@@ -82,7 +82,7 @@ I used Python's ```random.shuffle()``` 1 time on the bullet points below (the po
 
 &emsp; This list could be much longer, but I am content to leave it be for the time being. Ideally, 'rodeo flagellum' or 'cirrostratus whispers' is not directly identified with my person. I am a proponent for online anonymity and privacy, but I don't allocate much effort to this beyond using FireFox with privacy extensions, and occasionally using Tor. I have not thought much about what metadata I generate by participating online, and about whether I should take measures to limit how much data I generate.  
 
-__Interests__
+#### *Interests*
 
 While many of my interests can be gleaned from the tags I've listed earlier, there are also less well defined topics that I want to include here. These topics are things I want to learn more about and believe might be promising areas to work on; I do not yet have a _raison d'être_, but would like to find one. There's still great uncertainty on my end, but deep learning for forecasting or data analysis for longevity research might be the fields of study I begin, overwhelmingly, to allocate my time to. Justifications for my interests precede the areas of research and progress I find interesting. There is a lot of overlap between the justifications and interests areas not included under them and between interest areas - this list just serves as a rough blueprint for where my attention goes.
 
@@ -95,10 +95,10 @@ While many of my interests can be gleaned from the tags I've listed earlier, the
 - I want to understand how minds and life works &rarr; _neuroscience, origins of life research, biotechnology_
 - I want my children to intelligent, kind, and well-off generally &rarr; _embryo selection, polygenic screening, genetic-engineering_
 
-__Personality__
+#### *Personality*
 
 Following Gwern's example, I've taken a slew of personality and morals surveys on the  website [YourMorals.org](https://yourmorals.org/), whose contributors perform social psychology research. I have an entire post on this called [My Personality and Morals]({{ site.baseurl }}{% post_url 2022-02-24-per-my-morals %}), but will summarize the findings below.
 
-__Contact__
+#### *Contact*
 
 Either email: rodeo.flagellum@gmail.com or Discord: rodeo_flagellum#5395 works.
