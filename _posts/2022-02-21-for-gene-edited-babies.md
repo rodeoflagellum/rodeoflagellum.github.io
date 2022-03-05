@@ -6,8 +6,8 @@ last_edit: 2022-03-05 12:58:00 -0500
 permalink: "/for_gene_edit_babies/"
 status: "Working Draft"
 certainty: "Somewhat Likely"
-importance: "6.5/10"
-impact: "4/10"
+importance: "6.5"
+impact: "3.5"
 tags: [forecasting, prediction, biology, genetic-engineering]
 image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
@@ -37,7 +37,7 @@ As of the last edit date of this post[^2], my partner and I have had on the orde
 
 #### *Public Take*
 
-In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13], gauging support for biotechnology and human gene-editing. They found the following:
+In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13] in an attempt to gauge global support for biotechnology research, and to observe how religion affected people's approval. Regarding human gene-editing, they found the following:
 
 > A 20-public median of 63% say scientific research on gene editing is a misuse – rather than an appropriate use – of technology, according to the survey fielded in publics across Europe, the Asia-Pacific region, the United States, Canada, Brazil and Russia.
 >
@@ -45,9 +45,11 @@ However, views on specific instances where gene editing might be used highlight 
 
 <!-- ![](/assets/images/pew2020.png) -->
 
-Generally, the survey indicates that those who are male, those who are the median age or younger, and those who are more educated are more supportive of human gene-editing; I believe these properties are fairly robust, and don't expect them to change much in the coming years.
+So, a majority of people approve human gene-editing for treatment purposes, and most people disapprove of gene-editing for enhancement[^14].
 
-&emsp; I believe that the current median sentiment for whether gene-editing research is a misuse has likely not strayed far from 63% median of 2020, given that I am someone who is fairly interested in gene-editing and who actively monitors research activity on it and, despite this, that I have not heard much in the mainstream news in support of or against gene-editing. Support for using gene-editing for treatment[^14], be it for illness at birth (median 70% support) or illness over lifespan (median 60% support), is something that I also don't expect to have changed much. I believe that any change in sentiment would be in the direction of further support.
+&emsp; The remainder of the survey is worth looking over, and generally indicates that those who are male, those who are the median age or younger, and those who are more educated are more supportive of human gene-editing, which are properties that I believe are fairly robust, i.e. I  don't expect them to have changed much since 2020, and don't expect them to change much in the coming years.
+
+&emsp; I believe that the current median sentiment for whether gene-editing research is a misuse has likely not strayed far from 63% median of 2020, given that I am someone who is fairly interested in gene-editing and who actively monitors research activity on it and, despite this, that I have not heard much in the mainstream news in support of or against gene-editing. Support for using gene-editing for treatment, be it for illness at birth (median 70% support) or illness over lifespan (median 60% support), is something that I also don't expect to have changed much. I believe that any change in sentiment would be in the direction of further support.
 
 &emsp; A final and highly intriguing note on the public perception's of gene-editing is that, above all other publics surveyed, India stands out as most readily accepting of human gene-editing, with 56% of adults (highest percentage measured in the survey; the next highest was South Korea at 47%, Taiwan at 44%, and Singapore at 38%) considering research on gene-editing to not be a misuse of science. In terms of using gene-editing for [human enhancement][wiki_enh]{:target="_blank"}, India stands out even more, with 64% of respondents supporting changing a baby's genetic characteristics to increase intelligence (Malaysia came next at 44%, and then Taiwan at 31%). This indicates to me that, while India might not be the first nation to legalize human gene-editing, it might be the largest market for both treatment and enhancement uses of gene-editing, which is something that might lead to it becoming, at some point, the nation with the most gene-edited babies.
 
@@ -93,7 +95,14 @@ _Opinions on Different Uses of Human Gene-Editing_
 
 If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities.
 
-## Adoption Scenarios
+## Designer Babies by 2030?
+_A discussion of some limitations, analogies, and scenarios for forecasting the number of designer babies in the near-term future, along with my specific forecasts of this._
+
+
+
+### Analogies
+
+### Adoption Scenarios
 _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._
 
 Isolated Use Cases
@@ -104,7 +113,8 @@ Explosive Treatment Use Cases
 
 Explosive General Use Cases
 
-## Forecasts
+### Intentions
+
 
 ## See Also
 
