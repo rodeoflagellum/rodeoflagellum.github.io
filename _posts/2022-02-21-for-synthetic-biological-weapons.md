@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast: Synthetic Biological Weapons"
+title:  "Forecast Series: Synthetic Biological Weapons, P1"
 date:  2022-02-21 15:34:18 -0500
 last_edit: 2022-03-04 15:34:18 -0500
 permalink: "/synthetic_biological_weapons_deaths/"

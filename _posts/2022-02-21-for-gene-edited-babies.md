@@ -2,7 +2,7 @@
 layout: post
 title:  "Forecast Series: Designer Babies, P1"
 date:  2022-02-21 21:40:00 -0500
-last_edit: 2022-03-03 12:58:00 -0500
+last_edit: 2022-03-05 12:58:00 -0500
 permalink: "/for_gene_edit_babies/"
 status: "Working Draft"
 certainty: "Somewhat Likely"
@@ -13,16 +13,7 @@ image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
 
-<!-- Topics and subtopics for FORECAST SERIES
-  Designer Babies
-  Adoption Scenarios
-  Forecasts
-  See Also
-  Link Bibliography
-  Page Epistemics
-  Notes
-
-
+<!--
   look at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=%22designer+babies%22&btnG=
 
   and at
@@ -38,11 +29,11 @@ In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [H
 
 #### *Personal Take*
 
-As of the last edit date of this post[^2], my partner and I have had on the order of 10 or so discussions about whether we want to have children, and if so, whether we want to do [egg][wiki_egg]{:target="_blank"} [^3] or [sperm][wiki_sperm]{:target="_blank"} [^4] freezing, [in-vitro fertilization][wiki_IVF]{:target="_blank"} [^5], [embryo screening][wiki_emby2]{:target="_blank"} [^6], or [gene-editing][wiki_geno]{:target="_blank"} [^7] of our offspring. We operate, in our talks, as though these things are or will be affordable and available to us. Neither me nor my partner are very familiar with the costs, benefits, and feasibility of these procedures; we are, however, interested in improving, in as many ways as possible, the lives of our potential progeny.
+As of the last edit date of this post[^2], my partner and I have had on the order of 10 or so discussions about whether we want to have children, and if so, whether we want to have our [eggs][wiki_egg]{:target="_blank"}[^3] or [sperm][wiki_sperm]{:target="_blank"}[^4] frozen, have [in-vitro fertilization][wiki_IVF]{:target="_blank"}[^5], have our [embryos screened][wiki_emby2]{:target="_blank"}[^6], or have our children [genetically edited][wiki_geno]{:target="_blank"}[^7]. We operate, in our talks, as though these things are or will be affordable and available to us. Neither me nor my partner are very familiar with the costs, benefits, and feasibility of these procedures; we are, however, interested in improving, in as many ways as possible, the lives of our potential progeny.
 
-&emsp; I would like for any children I have to be physically healthy and to be, in the following order of preference, intelligent, conscientious, creative, and amiable, among other things[^8]. My partner is primarily concerned with her children being bipolar or depressed, or being prone to taking high risks; she doesn't want these things to occur. Both of us are interested in having genetic-engineering employed to achieve these ends, but are still quite uncertain about its practicality. Any children that would be produced by us are at least 5 years away. Will gene-editing be legal? effective? expensive? when we decide to have children? How useful, available, and painless[^9] will polygenic or embryo screening be when we decide to have children? Questions like these further motivate me to forecast on this topic.
+&emsp; I would like for any children I have to be physically healthy and to be, in the following order of preference, highly intelligent, conscientious, creative, and amiable, among other things[^8]. My partner is primarily concerned with her children being bipolar or depressed, or being prone to taking dangerous risks; she doesn't want these things to occur. Both of us are interested in having genetic-engineering employed to achieve these ends, but are still quite uncertain about its practicality. Any children that would be produced by us are at least 5 years away. Will gene-editing be legal? effective? expensive? when we decide to have children? How useful, available, and painless[^9] will polygenic or embryo screening be? These questions and others similar motivate me to forecast on this topic.
 
-&emsp; In considering lives of our children, we try not to neglect the ["nurture"][wiki_nat]{:target="_blank"} [^10] or environmental component of development, but have really not thought deeply about what parenting practices we'd like to adopt, or about other environmental features, such as whether we want our children rearing to occur in an urban or rural setting. Regardless, human gene-editing done correctly seems like something that could have tremendous societal benefits, and is something me and my partner presently believe we want for our future children. What do other people think?[^11]
+&emsp; In considering the lives of our children, my partner and I tried not to neglect exploring the ["nurture"][wiki_nat]{:target="_blank"} [^10] or environmental component of development, but have really not thought deeply about what parenting practices we'd like to adopt, or about other environmental features, such as whether we want to raise our children in an urban or rural setting. Regardless, human gene-editing done correctly seems like something that could benefit society extensively, and is something me and my partner presently believe we want for our future children. What do other people think?[^11]
 
 #### *Public Take*
 
@@ -74,7 +65,7 @@ In the WHO's Expert Advisory Committee on Developing Global Standards for Govern
 >
 At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing.
 
-The [National Human Genome Research Institute][nat_gen]{:target="_blank"} (NHGRI) takes a similar stances, i.e. a stance that acknowledges the high expected societal value of human gene-editing, but which places immense weight on considering all deleterious societal and biological consequences that might emerge as as a result. In the NHGRI's [Eugenics timeline][eug_tim]{:target="_blank"}, they write
+The [National Human Genome Research Institute][nat_gen]{:target="_blank"} (NHGRI) takes a similar stance, i.e. a stance which acknowledges that human gene-editing could improve society greatly, but which also places immense weight on considering unintended deleterious societal and biological consequences that might emerge as a result. In the NHGRI's [Eugenics timeline][eug_tim]{:target="_blank"}, they write
 
 > Recently, groundbreaking technologies such as CRISPR-Cas9, have raised concerns about using genome editing methods to make genetic enhancements. In response, some prominent geneticists have publicly requested to stop such enhancements.
 >
@@ -100,7 +91,7 @@ _Opinions on Different Uses of Human Gene-Editing_
 
 ![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
 
-If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities. 
+If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities.
 
 ## Adoption Scenarios
 _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._
