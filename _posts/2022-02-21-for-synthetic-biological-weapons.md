@@ -2,6 +2,7 @@
 layout: post
 title:  "Forecast: Synthetic Biological Weapons"
 date:  2022-02-21 15:34:18 -0500
+last_edit: 2022-03-04 15:34:18 -0500
 permalink: "/synthetic_biological_weapons_deaths/"
 status: "Draft"
 tags: [forecasting, prediction, geopolitics, biology, genetic-engineering, biosecurity]
@@ -22,7 +23,7 @@ The consequences of infection must be undesireable - ie, not something that coul
 >
 > This question resolves positive if a credible medical source announces at least 100 people are confirmed "infected" by one or more confirmed synthetic "biological weapon"s and that this has occured before 2030. The consequences of infection may or may not be immediately harmful. An agent can even be latent, or cause a delayed onset of disease, as long as the agent is still present and functional 24 hrs after infection (as opposed to being destroyed by the immune system). But if it causes some definite, confirmed harmful effect, and then self-destructs before 24 hrs have passed, that would still count. The infection can result from a terrorist attack, attack on enemy military personnel, an experiment, accident, with the infected persons' consent, or from any other cause.
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5943/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5943/" width="100%" height="300"></iframe>
 
 ### External Links
 
