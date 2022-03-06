@@ -20,7 +20,8 @@ desc: "My forecasts and thoughts on how many gene-edited babies will be born in 
 
   https://www.semanticscholar.org/paper/Designer-Babies-Have-Neves/9eccd2a49004e8479ec6506d1b9ebf7f08771729-->
 
-## Designer Babies
+
+## Gene-Edited Humans
 _My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing._
 
 In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [Henk ten Have][Henk]{:target="_blank"}  and [Maria do Céu Patrão Neves][Maria]{:target="_blank"} 's[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]{:target="_blank"} " (pp. 405-406):
@@ -45,7 +46,7 @@ However, views on specific instances where gene editing might be used highlight 
 
 <!-- ![](/assets/images/pew2020.png) -->
 
-So, a majority of people approve human gene-editing for treatment purposes, and most people disapprove of gene-editing for enhancement[^14].
+So, it appears that a majority of people approve human gene-editing for treatment purposes, and most people disapprove of gene-editing for enhancement[^14].
 
 &emsp; The remainder of the survey is worth looking over, and generally indicates that those who are male, those who are the median age or younger, and those who are more educated are more supportive of human gene-editing, which are properties that I believe are fairly robust, i.e. I  don't expect them to have changed much since 2020, and don't expect them to change much in the coming years. Any change in these sentiments (in 2020, median 63% believe gene-editing research is a misuse, and median 70% and median 60% support for using gene-editing for treating illness at birth and illness over lifespan, respectively) I believe will be in the direction of more support; I expect human gene-editing to become safer, more effective, etc... as it is researched more and also I expect religion to continue declining (it [seems to be declining][relg_dec][^15]), both of which will very likely ease global ill-perceptions of human gene-editing. I do suspect I may be [overly optimist][wiki_opt] in this regard though.
 
@@ -97,15 +98,18 @@ _Opinions on Different Uses of Human Gene-Editing_
 
 If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities.
 
-## Designer Babies by 2030?
+## The Near-Term Future
 _A discussion of some limitations, analogies, and scenarios for forecasting the number of designer babies in the near-term future, along with my specific forecasts of this._
 
+#### *Forecasting Limitations*
 
+#### *Analogies*
 
-### Analogies
+#### *Various Adoption Scenarios*
 
-### Adoption Scenarios
-_Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._
+#### *Intentions*
+
+<!-- _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._ -->
 
 Isolated Use Cases
 

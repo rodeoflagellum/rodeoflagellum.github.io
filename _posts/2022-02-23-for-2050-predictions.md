@@ -12,7 +12,7 @@ image: /assets/images/marek-piwnicki-JnXebVlsVrg-unsplash.jpg
 desc: "Exposure to Erik Hoel's 2050 Project, along with my predictions on the Metaculus question series on this project."
 ---
 
-## 
+##
 
 
 

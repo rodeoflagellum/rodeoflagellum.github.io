@@ -15,6 +15,11 @@ desc: "A collection of resources and updates on the Russo-Ukrainian conflict, in
 
 <!-- https://gisgeography.com/free-satellite-imagery-data-list/ -->
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
+
 ## Motivation
 _Concise thoughts on people's interests in this conflict, on forecasting it, on my feelings towards it, and on my existing knowledge of geopolitics._
 
@@ -132,6 +137,6 @@ This [cover image](https://www.nga.gov/collection/art-object-page.112264.html) i
 >
 With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.
 
-___Footnotes___
+#### *Footnotes*
 
 [^1]: I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts.
