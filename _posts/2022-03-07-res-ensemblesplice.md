@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Forecast Series: Designer Babies, P1"
-date:  2022-02-21 21:40:00 -0500
-last_edit: 2022-03-05 12:58:00 -0500
-permalink: "/for_gene_edit_babies/"
-status: "Working Draft"
-certainty: "Somewhat Likely"
-importance: "6.5"
-impact: "3.5"
-tags: [forecasting, prediction, biology, genetic-engineering]
+title:  "EnsembleSplice"
+date:  2022-03-07 12:21:00 -0500
+last_edit: 2022-03-07 15:00:00 -0500
+permalink: "/res_ensemblesplice/"
+status: "Notes"
+certainty: "Likely"
+importance: "3"
+impact: "5"
+tags: [machine-learning, biology, research]
 image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
@@ -245,40 +245,6 @@ __"3/10"__:
 
 #### *Cover Photo*
 
-The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was likely taken by [Birmingham Museums Trust](https://unsplash.com/@birminghammuseumstrust). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [Jonas Denil](https://unsplash.com/@jonasdenil). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
 #### *Footnotes*
-
-[^1]: For Henk ten Hank's personal website, see [here][Henk_per]{:target="_blank"}, and for Maria do Céu Patrão Neves's faculty webpage (I was unable to find her personal site after looking for a few minutes, which makes me believe she doesn't have one) see [here][Maria_per]{:target="_blank"}.
-
-[^2]: Every source accessed and all personal takes are accurate at least up to the date of last edit (the second date beneath the tags; this date is currently {{ page.last_edit }}).
-
-[^3]: What is egg freezing, and why is it used? Here is one source's description of egg freezing - UCLA's [Fertility and Reproduction Health Center][UCLA Health] (see [here][eggF]) definition: <br><br> _Egg freezing, or oocyte cryopreservation, is a process in which a woman's eggs (oocytes) are extracted, frozen and stored as a method to preserve reproductive potential in women of reproductive age. The first human birth from a frozen oocyte was reported in 1986. Oocyte cryopreservation has advanced greatly over the past few years, with improved overall success of eggs surviving the freezing process. It is no longer considered an experimental procedure by the American Society for Reproductive Medicine. The techniques leading to enhanced gamete survival, potential fertilization and live birth rates allow women a much greater degree of autonomy than was possible even in the past 5 years._
-
-[^4]: What is sperm freezing, and why is it used? Here is one source's description of sperm freezing - the [University of Utah][spermF]'s [Health Care Center][UUtah]'s definition: <br><br> _Sperm cryopreservation or sperm freezing is a way for men to preserve their sperm and store it in a bank so it can be used in the future. Many medical treatments can damage sperm quality, including several types of cancer treatment like chemotherapy and radiation. Some men choose to freeze their sperm before getting medical treatment._
-
-[^5]: From Wikipedia's [in-vitro fertilization][wiki_IVF]{:target="_blank"} page:
-
-[^6]: For descriptions of polygenic or embryo screening, check out [NHG_poly][NHG_poly]{:target="_blank"}, [wiki_poly][wiki_poly]{:target="_blank"}, [penn_emby][penn_emby]{:target="_blank"}, [ivi_emby][ivi_emby]{:target="_blank"}, and [wiki_emby][wiki_emby]{:target="_blank"}.
-
-[^7]: As described by the [World Health Organization][WHO_gene], genome editing
-
-[^8]: There are many qualities that I would like my children to have. Two things concerning this should be noted: 1) the term "qualities" is vague, and the things people routinely associate with them (e.g., intelligence or IQ, OCEAN measures, physical attractiveness, creativity, the absence of disease, the absence of a cognitive ailment, etc...) are typically broad in scope, complex (stemming from the interplay of multiple genes), and lack epistemic consensus (multiple measures or definitions for the phenomenon), so I believe we should presently be weary or causious of optimizing for these qualities, given that humanity's lack of understanding of the biology underlying these things may result in unintended consequences, and 2) my desire for my children to have certain "qualities" is illustrative of the idea that I believe there are genetic traits that are more instrumentally valuable to goals I personally like, and
-
-[^9]: My partner is particularly concerned that the potential complications of batch egg-extraction might not be worth it, should we decide to incorporate embryo screening or gene-editing into our reproductive activities. From the "Complications" section of the [Wikipedia][wiki]'s page on [transvaginal oocyte retrival][wiki_trans]: <br><br> _"Injection of hCG as a trigger for ovulation confers a risk of ovarian hyperstimulation syndrome, especially in women with polycystic ovary syndrome who have been hyperstimulated during previous assisted reproduction cycles.[12] <br><br> Complications of TVOR include injury to pelvic organs, hemorrhage, and infection. Occurring more often in lean patients with polycystic ovary syndrome, ovarian hemorrhage after TVOR is a potentially catastrophic and not so rare complication.[13] Additional complications may result from the administration of intravenous sedation or general anesthesia. These include asphyxia caused by airway obstruction, apnea, hypotension, and pulmonary aspiration of stomach contents. <br><br> Propofol-based anesthetic techniques result in significant concentrations of propofol in follicular fluid. As propofol has been shown to have deleterious effects on oocyte fertilization (in a mouse model), some authors have suggested that the dose of propofol administered during anesthesia should be limited, and also that the retrieved oocytes should be washed free of propofol.[14] Anecdotal evidence suggests that certain airborne chemical contaminants and particles, especially volatile organic compounds (VOC), may be toxic to and impair the growth and development of embryos if present in sufficient concentrations in the ambient atmosphere of an IVF incubator.[15][16] <br><br> Endometriosis seems to cause a challenge for TVOR that may have reflection on individual surgeon's performance rates for the procedure, independently from the diameter of a pre-existing ovarian endometrioma (OMA) or ovarian adhesions. Obesity is another factor that may present a challenge for the procedure."_
-
-[^10]: The present consensus on the "nature vs. nurture" debate, along with a general understanding of [heritability][wiki_her], especially work on the [heritability of intelligence][wiki_her_iq], is something that I don't know much about. To alleviate this, I have read the linked [Wikipedia][wiki] pages, and provide revelant sections below.
-
-[^11]: I don't cover people's attitudes towards human gene-editing in detail, but intend to at some point in a Metaculus notebook with the prospective title - _Attitudes Towards Human Gene-Editing_. When/if I write this, I will link to it in this footnote. I expect to develop forecasting questions on this topic that follow along
-
-[^12]: The PEW Research survey's explanation for _How we did this?_: <br><br> "This report examines public perceptions of biotechnology, evolution and the relationship between science and religion. Data in this report come from a survey conducted in 20 publics from October 2019 to March 2020 across Europe, Russia, the Americas and the Asia-Pacific region. Surveys were conducted by face-to-face interview in Russia, Poland, the Czech Republic, India and Brazil. In all other places, the surveys were conducted by telephone. All surveys were conducted with representative samples of adults ages 18 and older in each survey public."
-
-[^13]: The 20 publics are [Australia, Brazil, Canada, Czech Republic, France, Germany, India, Italy, Japan, Malaysia, Netherlands, Poland, Russia, Singapore, South Korea, Spain, Sweden, Taiwan, United Kingdom, United States]. For each public, there are 100 respondents per question, but I do not know whether this means that there are 100 total respondents per public, or that there are 100 x n total respondents, where n is the number of questions. For the survey's methodology, see [here][PEW_meth]
-
-[^14]: Within the field of [human enhancement][wiki_enh], a distinction is often made between gene-editing for enhancement versus for treatment.
-
-[^15]: From religous book:
-
-[^16]: After a quick first-pass search, I was not able to find any other surveys on the opinions of bioethicists or people with genetics training towards human gene-editing. Originally when writing this, I could have refrained from including the WHO's and NHGRI's stances on human germline genome editing, but after failing to find the opinion polls I was looking for, decided that they might be useful for presenting governance of human gene-editing, i.e. the stances of some organizations controlling the research guidelines and policies for human gene-editing that actually affect scientists' activities.
-
-[^17]: Note that ELSI quite certainly stands for "Ethical, Legal and Social Implications" (see [here][nh_elsi]).

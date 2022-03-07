@@ -36,7 +36,6 @@ _A look at the first reports of Russia's invasion of Ukraine, along with two for
 
 I can recall that news first broke
 
-
 ![](/assets/images/ukraine_conflict/ukraine_map.jpg)
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/8898/" width="100%" height="300"></iframe>
