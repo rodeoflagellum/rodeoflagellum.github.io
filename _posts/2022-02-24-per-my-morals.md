@@ -2,7 +2,7 @@
 layout: post
 title:  "My Personality and Morals"
 date:  2022-02-24 01:48:00 -0500
-last_edit: 2022-03-03 11:40:18 -0500
+last_edit: 2022-03-07 15:36:18 -0500
 permalink: "/my_personality_morals/"
 status: "Notes"
 certainty: "N/A"
@@ -351,8 +351,6 @@ _...relative to religious orientation_
 
 ## Systems & Feelings Survey
 
-
-
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
 |||
@@ -368,14 +366,18 @@ _...relative to religious orientation_
 
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|||
-|||
-|||
+||||
+||||
+||||
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+#### *Survey Notes*
+
+- Date: 03/03/2022
+- Start time: ~12:11pm EST
+- End time: ~12:55pm EST
+- Feelings: It was irresistable not thinking more about my responses.
+
+#### *Results*
 
 ### Second Completion
 
@@ -635,25 +637,87 @@ _...relative to religious orientation_
 - End time:
 - Feelings:
 
-
+-->
 
 ## Beauty Scale
 
 
-
-
 |Question|Response|Internal Monologue|
 |:---|:---|:---|
-|||
-|||
-|||
+|1. When perceiving beauty in nature I feel something like a spiritual experience, perhaps a sense of oneness, or being united with the universe, or a love of the entire world.|Agree Slightly|"I feel a sense of harmony, everything is happening at once. It feels
+sufficiently different from manmade spaces."|
+|2. When perceiving beauty in nature I feel changes in my body, such as a lump in my throat, an expansion in my chest, faster heart beat, or other bodily responses.|Agree|"I feel a welcoming heightened alertness."|
+|3. When perceiving beauty in nature I feel emotional, it "moves me," such as feeling a sense of awe, or wonder or excitement or admiration or upliftment.|Agree Slightly|"It depends on where and when I am. I feel excitement more during
+Northeastern summers than during the winters."|
+|4. I notice beauty in one or more aspects of nature.|Agree Strongly|"I believe there is an ingrained gracefulness to many natural phenomena."|
+|5. When perceiving beauty in a work of art I feel emotional, it "moves me," such as feeling a sense of awe, or wonder or excitement or admiration or upliftment.|Neutral|"This occurs sometimes, but not as often as when I go into a beautiful natural space,
+such as when I go fossil collecting."|
+|6. I notice beauty in art or human made objects.|Agree|"I do notice the gracefulness of human art pieces."|
+|7. When perceiving beauty in a work of art I feel something like a spiritual experience, perhaps a sense of oneness, or being united with the universe, or a love of the entire world.|Disagree|"I do not feel any overwhelming wholeness when looking at human art - it is not encapsulating enough as Nature is."|
+|8. When perceiving beauty in a work of art I feel changes in my body, such as a lump in my throat, an expansion in my chest, faster heart beat, or other bodily responses.|Neutral|"Occasionally - some abstract art, Escher's, and Klimpt's works do this, but overall I have not experience a strong bodily reaction to human art."|
+|9. When perceiving an act of moral beauty I feel changes in my body, such as a lump in my throat, an expansion in my chest, faster heart beat, or other bodily responses.|Agree|"When a group of humans comes together and resists something I perceive as evil, or when humans coordinate to achieve something awesome, I feel connected to them and their cause."|
+|10. When perceiving an act of moral beauty I find that I desire to become a better person.|Disagree Slightly|"I don't feel this desire too much; moreover, I want to contribute, to coordinate, to help."|
+|11. When perceiving an act of moral beauty I feel something like a spiritual experience, perhaps a sense of oneness, or being united with the universe, or a love of the entire world.|Agree Slightly|"I wouldn't call it a spiritual beauty, but I do feel swept into the tide of human coordination."|
+|12. When perceiving an act of moral beauty I find that I desire to do good deeds and increase my service to others.|Agree Slightly|"I do think that my propensity to be altruistic with my physical actions (e.g., holding a door for someone or helping them carry a heavy object) increases slightly."|
+|13. When perceiving an act of moral beauty I feel emotional, it "moves me," such as feeling a sense of awe, or wonder or excitement or admiration or upliftment.|Agree|"Uplift is a good word for this feeling, but it depends on the morally beautiful act."|
+|14. I notice moral beauty in human beings.|Agree Slightly|"I notice it sometimes. I don't look for it too often though."|
+|15. When contemplating a beautiful idea I feel something like a spiritual experience, perhaps a sense of oneness or being united with the universe or a love of the entire world.|Disagree Slightly|"Many times, I don't think of ideas as beautiful, but rather weigh their insight or effectiveness. An idea of something won't ever really make me cry. There may be a bias here with regard to my comprehension of a "beautiful idea". I interpret this to mean a "wonderful solution" or "key insight""|
+|16. When contemplating a beautiful idea I feel emotional, it "moves me," such as feeling a sense of awe or wonder or excitement or admiration or upliftment.|Disagree Slightly|"Ideas for me are not too emotionally moving. They can engender enthusiasm, but this is very different from what I feel when I enter a natural environment."|
+|17. When contemplating a beautiful idea I feel changes in my body, such as a lump in my throat, an expansion in my chest, faster heart beat, or other bodily responses.|Neutral|"My heartbeat might increase from excitement."|
+|18. I take notice of beautiful ideas.|Agree|"I think I do notice particularly graceful ideas."|
 
-- Date:
-- Start time:
-- End time:
-- Feelings:
+>__The scale you completed__ was the “Engagement with Beauty" scale, developed by Rhett Diessner at Lewis-Clark State College, in Idaho.
+>
+__The scale is a measure__ of your reactions to three different kinds of beauty: natural, artistic, and moral. Moral beauty refers to any action that displays virtue -- acts of love, courage, loyalty, or generosity, for example, often produce in observers a distinct pattern of physical feelings (often in the chest) and social motives (such as to copy the person who did the good deed). Haidt (2003) has called this feeling "moral elevation," drawing on a description of the feeling from Thomas Jefferson.
+>
+__The idea behind the scale__ is that philosophers and psychologists have long been intrigued by the connection between beauty and virtue. Are those who are more "sensitive" to beauty and ugliness in the physical world also more sensitive to beauty or ugliness in the social world? Immanuel Kant said "A direct interest in the beauty of nature is always a mark of a good soul." Kant surely overstated things -- Hitler seems to have been quite fond of the natural beauty of Germany. Nonetheless, Diessner has found that scores on the EBS do correlate with scores on measures of gratitude, spiritual transcendence, and happiness. Diessner created the EBS in part to investigate whether feelings of moral elevation (in response to moral beauty) are related to the feelings of spiritual uplift that many people report in response to viewing natural and artistic beauty.
+>
+The scale runs from 1 (lowest) to 7 (highest possible score).
 
 
+#### *Survey Notes*
+
+- Date: 03/07/2022
+- Start time: ~3:48pm EST
+- End time: ~4:00pm EST
+- Feelings: Had a lot of caffeine and not much food in my system.
+
+#### *Results*
+
+_My general Beauty Scale measures_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_1.png)
+
+_...relative to overall average_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_3.png)
+
+_...relative to age_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_2.png)
+
+_...relative to education_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_4.png)
+
+_...relative to sex_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_5.png)
+
+_...relative to race_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_8.png)
+
+_...relative to political orientation_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_6.png)
+
+_...relative to religious orientation_
+
+![](/assets/images/my_personality_and_morals/per_web_beauty/Per_Web_Beauty_7.png)
+
+
+<!--
 
 ## Schwartz Values Scale
 

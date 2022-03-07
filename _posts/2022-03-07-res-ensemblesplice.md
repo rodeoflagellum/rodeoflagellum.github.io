@@ -9,8 +9,9 @@ certainty: "Likely"
 importance: "3"
 impact: "5"
 tags: [machine-learning, biology, research]
-image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
-desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
+image: /assets/images/MQOhQhF8WN0.jpg
+desc: "My reflections and thoughts on my recently submitted paper EnsembleSplice: Ensemble Deep Learning
+for Splice Site Prediction"
 ---
 
 ## Table of Contents
@@ -44,7 +45,7 @@ desc: "My forecasts and thoughts on how many gene-edited babies will be born in 
 
 ## Conclusion
 
-## References 
+## References
 
 ## Page Epistemics
 
