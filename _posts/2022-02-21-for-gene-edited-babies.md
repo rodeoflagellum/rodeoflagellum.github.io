@@ -119,19 +119,83 @@ Categories: Biological Sciences – Bioengineering Biological Sciences – Genet
 
 Even though this question only asks about the number of designer babies by January 1st, 2030, we can think about other years as well (e.g. 2040, 2050, etc...), but 2030 seems better than other years at adequately capturing the "just past the horizon of certainty" and "a milestone year for humanity" feeling (2025, which is 3 years away, feels very temporally close and, with regard to human gene-editing, feel predictable, but 2030 is farther away, and what happens with human gene-editing by then feels much less certain).
 
-&emsp; From my explorations of human gene-editing, including the research referenced to in the earlier section on people's perspectives on the subject, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
+&emsp; To make more accurate forecasts on Pablo's question it can be useful to break his large interval of [0, 1000000] in log-space into smaller intervals, which can then be assigned a likelihood that can be converted to a normalized probability[^21].
+
+{% highlight python %}
+import numpy as np
+log_space_interval = np.logspace(start=0, stop=6, num=5)
+intervals = [int(np.ceil(elt)) for elt in log_space_interval]
+int_tups = list(zip(intervals[:-1], intervals[1:]))
+int_tups = [(elt[0], elt[1]) for elt in int_tups]
+int_tups[1:] = [(elt[0]+1, elt[1]) for elt in int_tups[1:]]
+print(int_tups)
+#[(1, 32), (33, 1000), (1001, 31623), (31624, 1000000)]
+{% endhighlight %}
+
+My naive estimate (without weighting different scenarios or  looking at analogies) for how many designer babies will have been born by January 1st 2030 goes as follows:
+
+> Likelihood (0/100) for 1-32 babies?: 95 <br>
+Likelihood (0/100) for 33-1000 babies?: 80 <br>
+Likelihood (0/100) for 1001-31623 babies?: 20 <br>
+Likelihood (0/100) for 31624-1000000 babies?: 10 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 - 46.34% <br>
+33-1000 - 39.02% <br>
+1001-31623 - 9.76% <br>
+31624-1000000 - 4.88%
+>
+> With 90% confidence, you expect the # of gene-babes to be between 1 and 15556.
+
+Now, I will try to make a more informed estimate. From my explorations of human gene-editing, including the research referenced to in the earlier section on people's perspectives on the subject, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
 
 - __Legality__: The state of global governance of human genome editing for treatment or enhancement, including how states respond in the future to situations such as the He Jiankui affair.
 - __Availability__: How easy, globally speaking, it is to have your child be gene-edited, regardless of whether it is illegal.
 - __Desirability__: To what degree society finds human gene-editing unacceptable and dissuades its application, people generally desire to have their children be gene-edited, and some people are willing to go to have their children be gene-edited.
 
+For each of these components, adoption scenarios and analogies can be generated that, when taken together, provide a more thorough picture of how human gene-editing practices might unfold in society. The question to ask for each of these components is _what information is important and how should it be weighted?_.
+
 <!-- &emsp; Given the perspectives on human gene-editing that I explored  earlier, I think it makes most sense to begin by postulating about how people's intentions and opinions on the topic might generate different scenarios for the clinical application of human gene-editing. -->
+
+
+#### *Legality*
+
+The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.
+
+Present legality:
+
+Statement for Legality:
+
+
+
+Sanity Check for Legality:
+
+- _Am I missing any pertinent information?_:
+- _Am I weighting more recent events more heavily?_
+- _Am I misunderstanding causal events?_
+- _Am I thinking wishfully?_
+- _Are my forecasts going to affect the forecasting target?_
+- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point?
+
 
 #### *Intentions*
 
 #### *Scenarios*
 
+Scenario forecasting:
+Have you generated scenarios based on possible factors/drivers,
+    their relative impacts, the interactions between them, and the targets to be forecast?
+Have you at least done "best", "middle", "worst" scenarios?
+
+
 #### *Analogies*
+
+Forecasting by analogy:
+What is similar to what I am forecasting?
+What are the attributes of similarity?
+Have you based the forecasts on multiple instead of single analogies?
+Have you based your analogies on similar attributes?
+
 
 #### *Forecast*
 
@@ -255,6 +319,11 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^20]: The existence of this post is partially due elifland, [sam_atis][sam_atis], and [yagudin][yag]'s _[Impactful Forecasting Contest][imp]_. They ranked 50 Metaculus questions by their impact, on the following scales: <br><br> __Decision importance__: The importance of the decisions which will be affected by this question. Should combine cause area importance + importance within cause area. __Decision relevance__: How much of an impact would this have on actual decisions if the forecast changed by a substantial amount? This factor is re-used from Nuño Sempere’s An estimate of the value of Metaculus questions. __Ease of contribution__: ​​How easy will it be for a "median generalist forecaster" to make a contribution to the analysis on this question within a few hours? e.g. questions requiring lots of domain expertise or background reading would score low here. __Neglectedness__ of contributions: How few contributions have there been on this specific question so far? How in need of attention is it? This should be subjectively evaluated using the existing count of forecasts and quantity + quality of comments/writeups.<br><br>"_A curation score was calculated, weighing decision importance at twice the other three due to it feeling like the most important factor. We chose a set of 25 questions based mainly on the curation score, but also including a diversity of cause areas and question types._"<br><br>The question that this post focuses on - _How many gene-edited babies will there be by 2029?_ - was given a score of 17.<br><br> "_Decision Importance: 3. Since He Jiankui went rogue (assuming nothing weird was going on with CCP) this has become a v. interesting Q. Important path to reduce suffering (some diseases like sickle cell will be easy to eliminate with CRISPR). Ease of contribution: 2. Fairly tricky to forecast on with no domain-specific expertise but developments here do get media coverage. Neglectedness: 3. Think there hasn't been enough discussion paid to gene-editing so fairly neglected - but decent number of forecasts, just the comments aren't *that* enlightening (yet)._"
 
+[^21]: This is the [SPIES][spy] (Subjective Probability Interval Estimates) method for judgemental forecasting; for a working example in Javascript, check out [here][spy2]. <br><br> "_This work introduces a novel method for reducing overprecision in estimates. This method, called Subjective Probability Interval Estimates (SPIES), does not directly elicit a confidence interval. Rather, it presents the judge with the entire range of values, divided into 11 intervals of equal width. These intervals can span the entire range, or, in case the value scale does not have pre-determined high and low bounds, a range that includes all plausible values, with an additional interval at each end representing all extreme values which lie outside this plausible range. The judge then estimates a probability for each interval. In case of estimating one true value, this probability is the likelihood that the interval includes the correct answer. For estimates of a population’s properties, this probability is the proportion of the population that is included in the interval. Since the SPIES range includes all possible values, the sum of these probabilities is constrained to equal exactly 100% (see Figure 1 for an illustrative example). The judge’s output, then, is a series of subjective probabilities that total 100%. These subjective probabilities can be computed for numerous types of estimates. In addition to the estimated distribution, it is possible to calculate confidence intervals of virtually any width and confidence level, by combining the SPIES’ intervals within the SPIES task. For example, from the estimate of a future temperature in Pittsburgh, as in Figure 1, it is possible to calculate the most likely 10-degree and 20-degree intervals, as well as the judge’s 70% and 90% confidence intervals, all without having to elicit the judgment from the judge multiple times. The SPIES method, then, offers great versatility and flexibility to the recipient of the estimate. In this paper I make the argument, and present data to support it, that SPIES can significantly reduce overprecision in two ways. As an elicitation method, SPIES forces the judge to consider all possible values, including ones that often go ignored in the estimation process of other, more instantiated methods. This enables judges to produce confidence intervals of greater width and better calibration. As an intervention for reducing bias, SPIES influences subsequent estimates in other elicitation formats, by inducing judges to revise their estimation process. The remainder of this dissertation will be organized in two parts, each presenting data from three 12 laboratory experiments. Part I will focus on SPIES as an elicitation method. It will present a comparison between estimates made using this method and estimates made using other methods and tests of the robustness of this difference. In Part II, I will explore how making an estimate with the SPIES method can improve the calibration of subsequent confidence interval estimates. Finally, I will discuss implications, theory extensions and possible applications of the SPIES method, within and outside the realm of cognitive research._"
+
+[spy2]: https://hbr.org/2014/05/a-simple-tool-for-making-better-forecasts "https://hbr.org/2014/05/a-simple-tool-for-making-better-forecasts"
+
+[spy]: https://www.cmu.edu/tepper/programs/phd/program/assets/dissertations/organizational-behavior-and-theory-haran-dissertation.pdf "https://www.cmu.edu/tepper/programs/phd/program/assets/dissertations/organizational-behavior-and-theory-haran-dissertation.pdf"
 
 [for_book]: https://otexts.com/fpp2/ "https://otexts.com/fpp2/"
 
