@@ -13,6 +13,11 @@ Who are you?
 
 _This page exists as an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests_.
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
+
 ## This Site
 
 This site came into being late into the year 2021, in response to my desire for a place to concentrate and publicize my thinking on various, mostly technologically oriented subjects. There are other excuses for the site's existence as well; most notably, that having it might result in me writing more, and might improve my writing (and my thinking!), and less notably but still important to me, that it could serve as personal collection of resources, such as links and research findings.

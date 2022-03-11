@@ -103,22 +103,52 @@ I don't think such an individual would cease believing this; I think this indivi
 ## The Near-Term Future
 _A discussion of some considerations, limitations, analogies, and scenarios for forecasting the number of designer babies in the near-term future, along with my specific forecasts of this._
 
-There are many things to consider when forecasting the number of designer babies[^19], as it is a rare (as of March 2022, only 3 gene-edited humans are known to have been born - those from the He Jiankui affair) and divisive effect. From the present vantage point (not thinking about analogies or scenarios), my intuition is that there will not be many gene-edited individuals born by 2030[^20].
+There are many things to consider when forecasting how many designer babies[^19] there will be in the near-term future, as it is a rare (as of March 2022, only 3 gene-edited humans are known to have been born - those exclusively from the He Jiankui affair) event and divisive. From my present vantage point (not thinking about analogies or scenarios), my intuition is that there will not be many more gene-edited individuals born anytime soon, simply given the lack of support it receives from the organizations responsible for its governance. Putting an exact number on this is more difficult; nonetheless, this is what I try to do below.
 
-[for_book]: https://otexts.com/fpp2/ "https://otexts.com/fpp2/"
+&emsp; Let's be clear with what we are forecasting[^20]; for this post, I will operationalize "designer baby futures" using  [Pablo][pablo]'s question, on the forecasting aggregator platform [Metaculus][met].
 
-When trying to forecast how many gene-edited humans there will be in the near-term future (within approximately 50 years, so by around 2075), several primary considerations come to mind:
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/3289/" width="100%" height="300"></iframe>
 
+>Genome editing is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism (Wikipedia). The first gene-edited babies — [Lulu and Nana][wiki_he] — were reportedly born in October 2018.
+>
+___How many gene-edited babies will have been born worldwide by the end of 2029?___
+>
+Question resolves according to birth counts given in the first authoritative report (so judged by the admins) to cover the entire 2029 calendar year, as well as all years preceding it.
+>
+Categories: Biological Sciences – Bioengineering Biological Sciences – Genetics Human Sciences – General Impactful Forecasting Prize Social issues
 
+Even though this question only asks about the number of designer babies by January 1st, 2030, we can think about other years as well (e.g. 2040, 2050, etc...), but 2030 seems better than other years at adequately capturing the "just past the horizon of certainty" and "a milestone year for humanity" feeling (2025, which is 3 years away, feels very temporally close and, with regard to human gene-editing, feel predictable, but 2030 is farther away, and what happens with human gene-editing by then feels much less certain).
 
-#### *Forecasting Limitations*
+&emsp; From my explorations of human gene-editing, including the research referenced to in the earlier section on people's perspectives on the subject, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
 
-#### *Analogies*
+- __Legality__: The state of global governance of human genome editing for treatment or enhancement, including how states respond in the future to situations such as the He Jiankui affair.
+- __Availability__: How easy, globally speaking, it is to have your child be gene-edited, regardless of whether it is illegal.
+- __Desirability__: To what degree society finds human gene-editing unacceptable and dissuades its application, people generally desire to have their children be gene-edited, and some people are willing to go to have their children be gene-edited.
 
-#### *Various Adoption Scenarios*
+<!-- &emsp; Given the perspectives on human gene-editing that I explored  earlier, I think it makes most sense to begin by postulating about how people's intentions and opinions on the topic might generate different scenarios for the clinical application of human gene-editing. -->
 
 #### *Intentions*
 
+#### *Scenarios*
+
+#### *Analogies*
+
+#### *Forecast*
+
+#### *Limitations*
+
+Sanity Check:
+
+- _Am I missing any pertinent information?_:
+- _Am I weighting more recent events more heavily?_
+- _Am I misunderstanding causal events?_
+- _Am I thinking wishfully?_
+- _Are my forecasts going to affect the forecasting target?_
+- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point?
+
+<!-- There are notable limitations with forecasting the future of the human gene-editing.
+
+- My lack of expertise in the subject
 - A majority of people approve human gene-editing for treatment purposes. How will this change?
 - Most people disapprove of gene-editing for enhancement. How will this change?
 - How does perception of gene-editing for treatment or enhancement affect policy?
@@ -130,32 +160,24 @@ Which nation would the first one?
 Works for treatment before enhancement?
 What percent of people are born with disabilities?
 How many of them would really want this?
-  Hereitably AND detectable disabilities?
+  Hereitably AND detectable disabilities? -->
 
 
 <!-- _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._ -->
 
-Isolated Use Cases
+<!-- Isolated Use Cases
 
 Steady Use Cases
 
 Explosive Treatment Use Cases
 
-Explosive General Use Cases
+Explosive General Use Cases -->
 
-## Forecast
 
-The following question was authored by [Pablo][pablo], on the forecasting aggregator platform [Metaculus][met].
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/3289/" width="100%" height="300"></iframe>
+.
 
->Genome editing is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism (Wikipedia). The first gene-edited babies — [Lulu and Nana][wiki_he] — were reportedly born in October 2018.
->
-___How many gene-edited babies will have been born worldwide by the end of 2029?___
->
-Question resolves according to birth counts given in the first authoritative report (so judged by the admins) to cover the entire 2029 calendar year, as well as all years preceding it.
->
-Categories: Biological Sciences – Bioengineering Biological Sciences – Genetics Human Sciences – General Impactful Forecasting Prize Social issues
+
 
 ## Appendix
 
@@ -232,6 +254,9 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 [^19]: I follow some of the principles outlined in Rob J Hyndman and George Athanasopoulos's chapter on judgemental forecasting in their excellent book _[Forecasting: Principles and Practice, 2nd ed.][for_book]_ (this is just a pointer to advertise their book; I've found it to be a nice and useful read).
 
 [^20]: The existence of this post is partially due elifland, [sam_atis][sam_atis], and [yagudin][yag]'s _[Impactful Forecasting Contest][imp]_. They ranked 50 Metaculus questions by their impact, on the following scales: <br><br> __Decision importance__: The importance of the decisions which will be affected by this question. Should combine cause area importance + importance within cause area. __Decision relevance__: How much of an impact would this have on actual decisions if the forecast changed by a substantial amount? This factor is re-used from Nuño Sempere’s An estimate of the value of Metaculus questions. __Ease of contribution__: ​​How easy will it be for a "median generalist forecaster" to make a contribution to the analysis on this question within a few hours? e.g. questions requiring lots of domain expertise or background reading would score low here. __Neglectedness__ of contributions: How few contributions have there been on this specific question so far? How in need of attention is it? This should be subjectively evaluated using the existing count of forecasts and quantity + quality of comments/writeups.<br><br>"_A curation score was calculated, weighing decision importance at twice the other three due to it feeling like the most important factor. We chose a set of 25 questions based mainly on the curation score, but also including a diversity of cause areas and question types._"<br><br>The question that this post focuses on - _How many gene-edited babies will there be by 2029?_ - was given a score of 17.<br><br> "_Decision Importance: 3. Since He Jiankui went rogue (assuming nothing weird was going on with CCP) this has become a v. interesting Q. Important path to reduce suffering (some diseases like sickle cell will be easy to eliminate with CRISPR). Ease of contribution: 2. Fairly tricky to forecast on with no domain-specific expertise but developments here do get media coverage. Neglectedness: 3. Think there hasn't been enough discussion paid to gene-editing so fairly neglected - but decent number of forecasts, just the comments aren't *that* enlightening (yet)._"
+
+
+[for_book]: https://otexts.com/fpp2/ "https://otexts.com/fpp2/"
 
 [yag]: https://www.lesswrong.com/users/yagudin "https://www.lesswrong.com/users/yagudin"
 
