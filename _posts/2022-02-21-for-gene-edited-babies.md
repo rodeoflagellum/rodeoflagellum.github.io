@@ -2,7 +2,7 @@
 layout: post
 title:  "Forecast Series: Designer Babies, P1"
 date:  2022-02-21 21:40:00 -0500
-last_edit: 2022-03-05 12:58:00 -0500
+last_edit: 2022-03-10 16:50:00 -0500
 permalink: "/for_gene_edit_babies/"
 status: "Working Draft"
 certainty: "Somewhat Likely"
@@ -20,9 +20,14 @@ desc: "My forecasts and thoughts on how many gene-edited babies will be born in 
 
   https://www.semanticscholar.org/paper/Designer-Babies-Have-Neves/9eccd2a49004e8479ec6506d1b9ebf7f08771729-->
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
 
-## Gene-Edited Humans
-_My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing._
+
+## Perspectives on Human Gene-Editing
+_My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing; these, I believe, are useful precursors for forecasting human gene-editing futures._
 
 In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [Henk ten Have][Henk]{:target="_blank"}  and [Maria do Céu Patrão Neves][Maria]{:target="_blank"} 's[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]{:target="_blank"}" (pp. 405-406):
 
@@ -36,7 +41,7 @@ As of the last edit date of this post[^2], my partner and I have had on the orde
 
 &emsp; In considering the lives of our children, my partner and I tried not to neglect exploring the ["nurture"][wiki_nat]{:target="_blank"} [^10] or environmental component of development, but have really not thought deeply about what parenting practices we'd like to adopt, or about other environmental features, such as whether we want to raise our children in an urban or rural setting. Regardless, human gene-editing done correctly seems like something that could benefit society extensively, and is something me and my partner presently believe we want for our future children. What do other people think?[^11]
 
-#### *Public Take*
+#### *Public's Take*
 
 In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13] in an attempt to gauge global support for biotechnology research, and to observe how religion affected people's approval. Regarding human gene-editing, they found the following:
 
