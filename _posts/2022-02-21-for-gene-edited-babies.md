@@ -160,7 +160,11 @@ For each of these components, adoption scenarios and analogies can be generated 
 
 #### *Legality*
 
-The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_ and Wikipedia's page on [genetic engineering regulation][wiki_gen2] provide some examples of the existing measures in place that 
+The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_,  Wikipedia's page on [genetic engineering regulation][wiki_gen2], and the book _[Human Genome Editing: Science, Ethics, and Governance.][gene_book]_ provide some examples of the existing measures in place that
+<!-- 
+Legality and responses  to human gene heavily disincentive human gene-editing. The policies in place seem to be a function of bioethicist opinion, understanding of teh consequences.
+
+Availability is a function of legality, the cost of the technology -->
 
 [wiki_gen2]: https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering "https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering"
 
