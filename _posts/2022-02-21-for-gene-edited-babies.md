@@ -124,12 +124,28 @@ Explosive Treatment Use Cases
 
 Explosive General Use Cases
 
-### Intentions
+## Forecast
+
+The following question was authored by [Pablo][pablo], on the forecasting aggregator platform [Metaculus][met].
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/3289/" width="100%" height="300"></iframe>
+
+>Genome editing is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism (Wikipedia). The first gene-edited babies — [Lulu and Nana][wiki_he] — were reportedly born in October 2018.
+>
+___How many gene-edited babies will have been born worldwide by the end of 2029?___
+>
+Question resolves according to birth counts given in the first authoritative report (so judged by the admins) to cover the entire 2029 calendar year, as well as all years preceding it.
+>
+Categories: Biological Sciences – Bioengineering Biological Sciences – Genetics Human Sciences – General Impactful Forecasting Prize Social issues
 
 
 ## See Also
 
 ## Link Bibliography
+
+[met]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
+
+[pablo]: https://www.metaculus.com/accounts/profile/101341/ "https://www.metaculus.com/accounts/profile/101341/"
 
 [relg_dec]: https://oxford.universitypressscholarship.com/view/10.1093/oso/9780197547045.001.0001/oso-9780197547045 "https://oxford.universitypressscholarship.com/view/10.1093/oso/9780197547045.001.0001/oso-9780197547045"
 
