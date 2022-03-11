@@ -231,7 +231,15 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^19]: I follow some of the principles outlined in Rob J Hyndman and George Athanasopoulos's chapter on judgemental forecasting in their excellent book _[Forecasting: Principles and Practice, 2nd ed.][for_book]_ (this is just a pointer to advertise their book; I've found it to be a nice and useful read).
 
-[^20]: The existance of this post is partially due 
+[^20]: The existence of this post is partially due elifland, [sam_atis][sam_atis], and [yagudin][yag]'s _[Impactful Forecasting Contest][imp]_. They ranked 50 Metaculus questions by their impact, on the following scales: <br><br> __Decision importance__: The importance of the decisions which will be affected by this question. Should combine cause area importance + importance within cause area. __Decision relevance__: How much of an impact would this have on actual decisions if the forecast changed by a substantial amount? This factor is re-used from Nuño Sempere’s An estimate of the value of Metaculus questions. __Ease of contribution__: ​​How easy will it be for a "median generalist forecaster" to make a contribution to the analysis on this question within a few hours? e.g. questions requiring lots of domain expertise or background reading would score low here. __Neglectedness__ of contributions: How few contributions have there been on this specific question so far? How in need of attention is it? This should be subjectively evaluated using the existing count of forecasts and quantity + quality of comments/writeups.<br><br>"_A curation score was calculated, weighing decision importance at twice the other three due to it feeling like the most important factor. We chose a set of 25 questions based mainly on the curation score, but also including a diversity of cause areas and question types._"<br><br>The question that this post focuses on - _How many gene-edited babies will there be by 2029?_ - was given a score of 17.<br><br> "_Decision Importance: 3. Since He Jiankui went rogue (assuming nothing weird was going on with CCP) this has become a v. interesting Q. Important path to reduce suffering (some diseases like sickle cell will be easy to eliminate with CRISPR). Ease of contribution: 2. Fairly tricky to forecast on with no domain-specific expertise but developments here do get media coverage. Neglectedness: 3. Think there hasn't been enough discussion paid to gene-editing so fairly neglected - but decent number of forecasts, just the comments aren't *that* enlightening (yet)._"
+
+[yag]: https://www.lesswrong.com/users/yagudin "https://www.lesswrong.com/users/yagudin"
+
+[sam_atis]: https://www.lesswrong.com/users/sam_atis "https://www.lesswrong.com/users/sam_atis"
+
+[elif]: https://www.lesswrong.com/users/elifland "https://www.lesswrong.com/users/elifland"
+
+[imp]: https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated "https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated"
 
 [gene_book]: https://www.ncbi.nlm.nih.gov/books/NBK447271/ "https://www.ncbi.nlm.nih.gov/books/NBK447271/"
 
