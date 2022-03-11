@@ -160,13 +160,15 @@ For each of these components, adoption scenarios and analogies can be generated 
 
 #### *Legality*
 
-The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.
+The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_ and Wikipedia's page on [genetic engineering regulation][wiki_gen2] provide some examples of the existing measures in place that 
+
+[wiki_gen2]: https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering "https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering"
+
+[gen_dat]: https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database "https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database"
 
 Present legality:
 
 Statement for Legality:
-
-
 
 Sanity Check for Legality:
 
@@ -177,38 +179,24 @@ Sanity Check for Legality:
 - _Are my forecasts going to affect the forecasting target?_
 - _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point?
 
+#### *Availability*
 
-#### *Intentions*
 
-#### *Scenarios*
+#### *Desirability*
 
-Scenario forecasting:
+<!-- Scenario forecasting:
 Have you generated scenarios based on possible factors/drivers,
     their relative impacts, the interactions between them, and the targets to be forecast?
 Have you at least done "best", "middle", "worst" scenarios?
-
-
-#### *Analogies*
 
 Forecasting by analogy:
 What is similar to what I am forecasting?
 What are the attributes of similarity?
 Have you based the forecasts on multiple instead of single analogies?
-Have you based your analogies on similar attributes?
+Have you based your analogies on similar attributes? -->
 
 
-#### *Forecast*
-
-#### *Limitations*
-
-Sanity Check:
-
-- _Am I missing any pertinent information?_:
-- _Am I weighting more recent events more heavily?_
-- _Am I misunderstanding causal events?_
-- _Am I thinking wishfully?_
-- _Are my forecasts going to affect the forecasting target?_
-- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point?
+#### *Final Forecast*
 
 <!-- There are notable limitations with forecasting the future of the human gene-editing.
 
