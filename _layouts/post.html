@@ -50,7 +50,11 @@ layout: default
       {%- endif -%}
 
       {%- if page.impact -%}
-        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }}  &nbsp;
+        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.impact -%}
+        • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
       {%- endif -%}
 
       {%- if page.author -%}
