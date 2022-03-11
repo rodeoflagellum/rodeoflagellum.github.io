@@ -13,18 +13,10 @@ image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
 
-<!--
-  look at https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=%22designer+babies%22&btnG=
-
-  and at
-
-  https://www.semanticscholar.org/paper/Designer-Babies-Have-Neves/9eccd2a49004e8479ec6506d1b9ebf7f08771729-->
-
 ## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
-
 
 ## Perspectives on Human Gene-Editing
 _My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing; these, I believe, are useful precursors for forecasting human gene-editing futures._
@@ -35,7 +27,7 @@ In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [H
 
 #### *Personal Take*
 
-As of the last edit date of this post[^2], my partner and I have had on the order of 10 or so discussions about whether we want to have children, and if so, whether we want to have our [eggs][wiki_egg]{:target="_blank"}[^3] or [sperm][wiki_sperm]{:target="_blank"}[^4] frozen, have [in-vitro fertilization][wiki_IVF]{:target="_blank"}[^5], have our [embryos screened][wiki_emby2]{:target="_blank"}[^6], or have our children [genetically edited][wiki_geno]{:target="_blank"}[^7]. We operate, in our talks, as though these things are or will be affordable and available to us. Neither me nor my partner are very familiar with the costs, benefits, and feasibility of these procedures; we are, however, interested in improving, in as many ways as possible, the lives of our potential progeny.
+As of the last edit date of this post[^2], my partner and I have had on the order of 10 or so discussions about whether we want to have children, and if so, whether we want to have our [eggs][wiki_egg]{:target="_blank"}[^3] or [sperm][wiki_sperm]{:target="_blank"}[^4] frozen, have [in-vitro fertilization][wiki_IVF]{:target="_blank"}[^5] done, have our [embryos screened][wiki_emby2]{:target="_blank"}[^6], or have our children [genetically edited][wiki_geno]{:target="_blank"}[^7]. We operate, in our talks, as though these things will be affordable and available to us when the time comes. Neither me nor my partner are very familiar with the costs, benefits, and feasibility of these procedures; we are, however, interested in improving, in as many ways as possible, the lives of our potential progeny.
 
 &emsp; I would like for any children I have to be physically healthy and to be, in the following order of preference, highly intelligent, conscientious, creative, and amiable, among other things[^8]. My partner is primarily concerned with her children being bipolar or depressed, or being prone to taking dangerous risks; she doesn't want these things to occur. Both of us are interested in having genetic-engineering employed to achieve these ends, but are still quite uncertain about its practicality. Any children that would be produced by us are at least 5 years away. Will gene-editing be legal? effective? expensive? when we decide to have children? How useful, available, and painless[^9] will polygenic or embryo screening be? These questions and others similar motivate me to forecast on this topic.
 
@@ -99,7 +91,7 @@ _Opinions on the Acceptability of Human Gene-Editing_
 
 _Opinions on Different Uses of Human Gene-Editing_
 
-![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
+see [opinions](#opinions-on-the-acceptability-of-various-uses-of-human-gene--editing-in-armsby-et-al.-survey)
 
 If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities.
 
@@ -138,9 +130,21 @@ Question resolves according to birth counts given in the first authoritative rep
 >
 Categories: Biological Sciences – Bioengineering Biological Sciences – Genetics Human Sciences – General Impactful Forecasting Prize Social issues
 
+## Appendix
 
+#### *Armsby et al. Survey Figures*
 
-## See Also
+___Demographics___
+
+![](/assets/images/design_babies_p1/GenEn_AttitudesDemo_2017.png)
+
+___Opinions on the Acceptability of Human Gene-Editing___
+
+![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions_2017.png)
+
+___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
+
+![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
 
 ## Link Bibliography
 
@@ -242,6 +246,25 @@ Categories: Biological Sciences – Bioengineering Biological Sciences – Genet
 
 [wiki_enh]: https://en.wikipedia.org/wiki/Human_enhancement "https://en.wikipedia.org/wiki/Human_enhancement"
 
+[wiki_fert]: https://en.wikipedia.org/wiki/Fertilisation "https://en.wikipedia.org/wiki/Fertilisation"
+
+[wiki_hegg]: https://en.wikipedia.org/wiki/Egg_cell "https://en.wikipedia.org/wiki/Egg_cell"
+
+[w_s]: https://en.wikipedia.org/wiki/Spermatozoon "https://en.wikipedia.org/wiki/Spermatozoon"
+
+[w_in]: https://en.wikipedia.org/wiki/In_vitro "https://en.wikipedia.org/wiki/In_vitro"
+
+[w_ovul]: https://en.wikipedia.org/wiki/Menstrual_cycle "https://en.wikipedia.org/wiki/Menstrual_cycle"
+
+[w_ov]: https://en.wikipedia.org/wiki/Ovary "https://en.wikipedia.org/wiki/Ovary"
+
+[w_zy]: https://en.wikipedia.org/wiki/Zygote "https://en.wikipedia.org/wiki/Zygote"
+
+[w_em_cu]: https://en.wikipedia.org/wiki/Embryo_culture "https://en.wikipedia.org/wiki/Embryo_culture"
+
+[w_ut]: https://en.wikipedia.org/wiki/Uterus "https://en.wikipedia.org/wiki/Uterus"
+
+[w_preg]: https://en.wikipedia.org/wiki/Pregnancy "https://en.wikipedia.org/wiki/Pregnancy"
 
 <!-- Blockquote unless you already did this -->
 
@@ -275,15 +298,15 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^2]: Every source accessed and all personal takes are accurate at least up to the date of last edit (the second date beneath the tags; this date is currently {{ page.last_edit }}).
 
-[^3]: What is egg freezing, and why is it used? Here is one source's description of egg freezing - UCLA's [Fertility and Reproduction Health Center][UCLA Health] (see [here][eggF]) definition: <br><br> _Egg freezing, or oocyte cryopreservation, is a process in which a woman's eggs (oocytes) are extracted, frozen and stored as a method to preserve reproductive potential in women of reproductive age. The first human birth from a frozen oocyte was reported in 1986. Oocyte cryopreservation has advanced greatly over the past few years, with improved overall success of eggs surviving the freezing process. It is no longer considered an experimental procedure by the American Society for Reproductive Medicine. The techniques leading to enhanced gamete survival, potential fertilization and live birth rates allow women a much greater degree of autonomy than was possible even in the past 5 years._
+[^3]: What is egg freezing, and why is it used? Here is one source's description of egg freezing - UCLA's [Fertility and Reproduction Health Center][UCLA Health]'s (see [here][eggF]) definition: <br><br> _Egg freezing, or oocyte cryopreservation, is a process in which a woman's eggs (oocytes) are extracted, frozen and stored as a method to preserve reproductive potential in women of reproductive age. The first human birth from a frozen oocyte was reported in 1986. Oocyte cryopreservation has advanced greatly over the past few years, with improved overall success of eggs surviving the freezing process. It is no longer considered an experimental procedure by the American Society for Reproductive Medicine. The techniques leading to enhanced gamete survival, potential fertilization and live birth rates allow women a much greater degree of autonomy than was possible even in the past 5 years._
 
 [^4]: What is sperm freezing, and why is it used? Here is one source's description of sperm freezing - the [University of Utah][spermF]'s [Health Care Center][UUtah]'s definition: <br><br> _Sperm cryopreservation or sperm freezing is a way for men to preserve their sperm and store it in a bank so it can be used in the future. Many medical treatments can damage sperm quality, including several types of cancer treatment like chemotherapy and radiation. Some men choose to freeze their sperm before getting medical treatment._
 
-[^5]: From Wikipedia's [in-vitro fertilization][wiki_IVF]{:target="_blank"} page:
+[^5]: From Wikipedia's [in-vitro fertilization][wiki_IVF]{:target="_blank"} page: <br><br> _In vitro fertilisation (IVF) is a process of [fertilisation][wiki_fert] where an [egg][wiki_hegg] is combined with [sperm][w_s] [in vitro][w_in] ("in glass"). The process involves monitoring and stimulating a woman's [ovulatory process][w_ovul], removing an ovum or ova (egg or eggs) from their [ovaries][w_ov] and letting sperm fertilise them in a culture medium in a laboratory. After the fertilised egg ([zygote][w_zy]) undergoes [embryo culture][w_em_cu] for 2–6 days, it is implanted in a [uterus][w_ut], with the intention of establishing a successful [pregnancy][w_preg]._
 
 [^6]: For descriptions of polygenic or embryo screening, check out [NHG_poly][NHG_poly]{:target="_blank"}, [wiki_poly][wiki_poly]{:target="_blank"}, [penn_emby][penn_emby]{:target="_blank"}, [ivi_emby][ivi_emby]{:target="_blank"}, and [wiki_emby][wiki_emby]{:target="_blank"}.
 
-[^7]: As described by the [World Health Organization][WHO_gene], genome editing
+[^7]: As described by the [World Health Organization][WHO_gene], genome editing 
 
 [^8]: There are many qualities that I would like my children to have. Two things concerning this should be noted: 1) the term "qualities" is vague, and the things people routinely associate with them (e.g., intelligence or IQ, OCEAN measures, physical attractiveness, creativity, the absence of disease, the absence of a cognitive ailment, etc...) are typically broad in scope, complex (stemming from the interplay of multiple genes), and lack epistemic consensus (multiple measures or definitions for the phenomenon), so I believe we should presently be weary or causious of optimizing for these qualities, given that humanity's lack of understanding of the biology underlying these things may result in unintended consequences, and 2) my desire for my children to have certain "qualities" is illustrative of the idea that I believe there are genetic traits that are more instrumentally valuable to goals I personally like, and
 
