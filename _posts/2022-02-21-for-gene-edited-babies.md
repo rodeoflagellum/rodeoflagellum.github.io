@@ -9,7 +9,7 @@ certainty: "Somewhat Likely"
 importance: "6.5"
 impact: "3.5"
 tags: [forecasting, prediction, biology, genetic-engineering]
-image: /assets/images/birmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
+image: /assets/images/bi2rmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
 
@@ -35,7 +35,7 @@ As of the last edit date of this post[^2], my partner and I have had on the orde
 
 #### *Public's Take*
 
-In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13] in an attempt to gauge global support for biotechnology research, and to observe how religion affected people's approval. Regarding human gene-editing, they found the following:
+In 2020, the [PEW Research Center][PEW]{:target="_blank"} performed a [survey][PEW report]{:target="_blank"}[^12] of 20 publics[^13] in an attempt to gauge global support for biotechnology research, and to observe how religion was associated with people's approval levels. Regarding human gene-editing, they found the following:
 
 > A 20-public median of 63% say scientific research on gene editing is a misuse – rather than an appropriate use – of technology, according to the survey fielded in publics across Europe, the Asia-Pacific region, the United States, Canada, Brazil and Russia.
 >
@@ -45,17 +45,21 @@ However, views on specific instances where gene editing might be used highlight 
 
 So, it appears that a majority of people approve human gene-editing for treatment purposes, and most people disapprove of gene-editing for enhancement[^14].
 
-&emsp; The remainder of the survey is worth looking over, and generally indicates that those who are male, those who are the median age or younger, and those who are more educated are more supportive of human gene-editing, which are properties that I believe are fairly robust, i.e. I  don't expect them to have changed much since 2020, and don't expect them to change much in the coming years. Any change in these sentiments (in 2020, median 63% believe gene-editing research is a misuse, and median 70% and median 60% support for using gene-editing for treating illness at birth and illness over lifespan, respectively) I believe will be in the direction of more support; I expect human gene-editing to become safer, more effective, etc... as it is researched more and also I expect religion to continue declining (it [seems to be declining][relg_dec][^15]), both of which will very likely ease global ill-perceptions of human gene-editing. I do suspect I may be [overly optimist][wiki_opt] in this regard though.
+&emsp; The remainder of the survey is worth looking over, and generally indicates that those who are male, those who are the median age or younger, and those who are more educated are more supportive of human gene-editing; these properties I believe are fairly robust, i.e. I don't expect the predictiveness of these properties in 2022 to have changed much since 2020, and also don't expect them to change much in the coming years.
 
-&emsp; A final and highly intriguing note on the public perception's of gene-editing is that, above all other publics surveyed, India stands out as most readily accepting of human gene-editing, with 56% of adults (highest percentage measured in the survey; the next highest was South Korea at 47%, Taiwan at 44%, and Singapore at 38%) considering research on gene-editing to not be a misuse of science. In terms of using gene-editing for [human enhancement][wiki_enh]{:target="_blank"}, India stands out even more, with 64% of respondents supporting changing a baby's genetic characteristics to increase intelligence (Malaysia came next at 44%, and then Taiwan at 31%). This indicates to me that while India might not be the first nation to legalize human gene-editing, it might eventually be the largest market for both treatment and enhancement uses of gene-editing, which is something that might lead to it becoming, at some point, the nation with the most gene-edited babies.
+&emsp; Any change in approval sentiments (in 2020, median 63% believe gene-editing research is a misuse, and median 70% and median 60% support for using gene-editing for treating illness at birth and illness over lifespan, respectively) I believe will be in the direction of more support; I expect human gene-editing to become safer, more effective, etc... as it is researched more. Religion [seems to be declining][relg_dec], which will very likely reduce sentiments that human gene-editing is a misuse of science. Given that I support human gene-editing, I suspect my belief that the public's approval of human gene-editing will gradually increase may reflect some [optimism bias][wiki_opt] on my part.
+
+&emsp; A final and highly intriguing note on the public perception's of gene-editing is that, above all other publics surveyed, India stands out as most readily accepting of human gene-editing, with 56% of adults (highest percentage measured in the survey; the next highest was South Korea at 47%, Taiwan at 44%, and Singapore at 38%) considering research on gene-editing to not be a misuse of science. In terms of using gene-editing for [human enhancement][wiki_enh]{:target="_blank"}, India stands out even more, with 64% of respondents supporting changing a baby's genetic characteristics to increase intelligence (Malaysia came next at 44%, and then Taiwan at 31%). This indicates to me that while India might not be the first nation to legalize human gene-editing, it might eventually be the largest market for both treatment and enhancement purposes of gene-editing, which is something that might lead to it becoming, at some point, the nation with the most gene-edited babies.
 
 <!-- &emsp; I believe that the current median sentiment for whether gene-editing research is a misuse has likely not strayed far from 63% median of 2020, given that I am someone who is fairly interested in gene-editing and who actively monitors research activity on it and, despite this, that I have not heard much in the mainstream news in support of or against gene-editing. Support for using gene-editing for treatment, be it for illness at birth (median 70% support) or illness over lifespan (median 60% support), is something that I also don't expect to have changed much. I believe that any change in sentiment would be in the direction of further support. -->
 
 #### *Bioethicists' Take*
 
-While I am not too familiar with the history of [eugenics][wiki_eug]{:target="_blank"}, my current intuition is that most researchers whose work belongs to the fields of genetics, gene-editing, CRISPR-Cas9, heritability, etc... are incentivized to dissociate themselves from the term _eugenics_ and, partly because of this, [appeal to ridicule][wiki_rid]{:target="_blank"} in their assessments of the long-term prospects of human gene-editing, at least for enhancement purposes. For treatment purposes, I think that bioethicists may be more split.
+[Eugenics][wiki_eug]{:target="_blank"} stands out in my mind as something that most people (laymen and scientists alike) associate with human gene-editing.  While I am not too familiar with the history and full nature of eugenics, my current intuition is that most researchers whose work falls into fields involving genetics, gene-editing, CRISPR-Cas9, heritability, etc... are incentivized to dissociate their work, as much as possible, from anything that might conjure up in people's minds the idea of eugenics.
 
-&emsp; Ever since the [He Jiankui affair][wiki_he]{:target="_blank"}, where [He Jiankui][wiki_he2]{:target="_blank"} of the [Southern University of Science and Technology (SUSTech)][wiki_so]{:target="_blank"} in [Shenzhen][wiki_shen]{:target="_blank"} used [CRISPR-Cas9][wiki_cri]{:target="_blank"} to genetically modify a set of embryos, which ultimately lead to three gene-edited babies being born, bioethicists seem to have taken, generally, a firm stance against gene-editing in humans.
+&emsp; Partially out of [social desirability][wiki_soc]{:target="_blank"}, some researchers who study gene-editing might detest its application in humans, or might [appeal to ridicule][wiki_rid]{:target="_blank"} in their assessments of the long-term prospects of human gene-editing, at least for enhancement purposes. This is not to say that geneticists and those with the capacity to alter human genomes care little about the ethical and environmental considerations of genetically engineering humans, just that some of these researchers might cautiously support genetically engineering humans but not advocate for or support it publicly. It seems somewhat difficult to argue against gene-editing in humans for treatment purposes, so I suspect that bioethicists may be more split on this issue.
+
+&emsp; Ever since the [He Jiankui affair][wiki_he]{:target="_blank"}, where [He Jiankui][wiki_he2]{:target="_blank"} of the [Southern University of Science and Technology (SUSTech)][wiki_so]{:target="_blank"} in [Shenzhen][wiki_shen]{:target="_blank"} used [CRISPR-Cas9][wiki_cri]{:target="_blank"} to genetically modify a set of embryos with the intent of immunising them against HIV (ultimately three gene-edited babies were born, a set of twins and one other child), bioethicists seem to have taken, generally, a firm stance against gene-editing in humans[^15].
 
 &emsp; Such a stance was illustrated when, following the He Jiankui affair, the World Health Organization (WHO) recommended discontinuing applications of human germline genome editing for the near-term future in their [26 July 2019 statement][who_19]{:target="_blank"}:
 
@@ -67,36 +71,45 @@ More recently, the WHO's Expert Advisory Committee on Developing Global Standard
 >
 At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing.
 
-The [National Human Genome Research Institute][nat_gen]{:target="_blank"} (NHGRI) takes a similar stance, i.e. a stance which acknowledges that human gene-editing could improve society greatly, but which also places immense weight on considering unintended deleterious societal and biological consequences that might emerge as a result. In the NHGRI's [Eugenics timeline][eug_tim]{:target="_blank"}, they write
+This outlook on human gene-editing appears more optimist than those in the recent past, but is still highly critical of the plausible ill-consequences of the technology.  
+
+&emsp; The [National Human Genome Research Institute][nat_gen]{:target="_blank"} (NHGRI), another organization I found that oversees, in great depth, research activities pertaining to human genome editing, takes a similar stance, i.e. they acknowledge that human gene-editing could greatly help humanity, but also place immense weight on considering unintended deleterious societal and biological consequences that might emerge as a result. In their _[Eugenics timeline][eug_tim]_{:target="_blank"}, the NHGRI writes
 
 > Recently, groundbreaking technologies such as CRISPR-Cas9, have raised concerns about using genome editing methods to make genetic enhancements. In response, some prominent geneticists have publicly requested to stop such enhancements.
 >
 Eugenics remains a constant issue in society and the scientific community, and the NHGRI is committed to monitoring its presence and confronting its inaccuracies.
 
-One might suggest that the official statements of the WHO's or NHGRI's boards fail to capture the majority sentiments of the researchers with the technical capacity to edit human genomes or of those who work adjacent to such researchers. The paper _[Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing][pub_at]{:target="_blank"}_ details the results of a 2017 online survey given to those with "genetics training"; it's abstract:
+One might suggest that the _official_ statements made by the WHO's or NHGRI's ethics boards fail to accurately capture the diverse sentiments held by the researchers with the technical know-how to edit human genomes or by those who work adjacent to such researchers. The paper _[Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing][pub_at]{:target="_blank"}_ (Armsby et al.) reports the results of a 2017 online survey given to those with "genetics training"; the paper's abstract:
 
 > Gene-editing technologies have improved in ease, efficiency, and precision. Although discussions are occurring around acceptable uses of human gene editing, limited data exist on the views of genetics-trained individuals. In 2017, we distributed an anonymous online survey to assess the attitudes of members of genetics professional societies toward gene editing (N = 500). Virtually all respondents were supportive of somatic editing in basic- science (99.2%) and clinical (87.4%) research on nonreproductive human cells. Only 57.2% were supportive of germline-editing basic-science research; 31.9% supported the transfer of viable embryos to humans for clinical research. While most favored future therapeutic uses of somatic (96.6%) and germline (77.8%) editing, there was little support for enhancement in somatic (13.0%) or germline (8.6%) cells. This study describes attitudes toward gene editing from genetics professionals worldwide and contributes to ongoing discourse and policy guidance in this domain.
 
-Note that this survey[^15] occurred before the He Jiankui affair. I'm unsure as to how opinions have changed since then, but believe they very likely haven't changed by much. Imagine being in the following situation: ```It's 2017. You have genetics-training and believe human gene-editing for enhancement purposes is entirely valid (the whole deal - intelligence, attractiveness, hair color, etc...). A researcher in China oversteps current ethical boundaries, producing 3 gene-edited humans and shifting the window of social acceptability of human gene-editing more towards it being perceived as "deplorable", "a misuse of science", etc... Do you stop believing human gene-editing for enhancement purposes is entirely valid?``` I don't think so; I think such an individual would simply avoid publicly advocating for human gene-editing for enhancement purposes, out of concern for funding and [social desirability][wiki_soc]{:target="_blank"}. I'm getting ahead of myself...what did those researchers believe in 2017? Well, before getting to this, what were the 500 people polled like?
+Note that this survey[^16] occurred prior to the He Jiankui affair. If this same survey had been conducted not long after the He Jiankui affair, I believe findings might have changed considerably, with more researchers not supporting germline-editing in humans. Nonetheless, I believe that researchers' _real_ sentiments (including those they might keep private) wouldn't have changed much due to the affair. One way to think about this might be by imagining the following situation:
 
-_Demographics_
+```It's 2017. You have genetics-training and believe human gene-editing for enhancement purposes is entirely valid (the whole deal - intelligence, attractiveness, hair color, etc...). A researcher in China oversteps current ethical boundaries, producing 3 gene-edited humans and shifting the window of social acceptability of human gene-editing more towards it being perceived as "deplorable", "a misuse of science", etc... Do you stop believing human gene-editing for enhancement purposes is entirely valid?
+```
 
-![](/assets/images/design_babies_p1/GenEn_AttitudesDemo_2017.png)
+I don't think such an individual would cease believing this; I think this individual would simply avoid publicly advocating for human gene-editing for enhancement purposes, out of concern for their research funding and [social desirability][wiki_soc]{:target="_blank"}. So, controlling for the natural drift in sentiments driven by continuing progress (safer, more precise, cheaper human gene-editing and better governance measures) in the field, I don't think the distribution of sentiments of researchers with genetics-training will have changed drastically since the He Jiankui affair.
 
-The opinions of interest (at least to me) are those of the 36 clinical laboratory scientists, 148 research scientists, and 17 ELSI[^16] researchers, but the paper does not partition the results by Profession, which I find unfortunate.
+&emsp; What were the demographics of the survey participants like? At a glance, there were 500 participants; the largest age groups by a sizable margin were the 25-29 and 30-34 year-olds; most participants came from North America (63.5%); most participants (42.5%) were genetic nurses or counselors, and the next largest group (29.7%) was the research scientists; and a combined (71.3%) were not religious at all or were slightly religious. For the full _demographics_ table of Armsby et al., see the Appendix.
 
-_Opinions on the Acceptability of Human Gene-Editing_
+&emsp; The opinions most of interest (at least to me) are those of the 36 clinical laboratory scientists, 148 research scientists, and 17 ELSI[^17] researchers (I suspect these individuals would actually be the ones responsible for performing experiments on, clinically applying, or developing policy for human gene-editing) in the study, but the paper does not partition the results by Profession, which I find unfortunate.
 
-![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions_2017.png)
+&emsp; What did these researchers think of the acceptability of human gene-editing? The study uses the categories "Agree Strongly/Agree", "Neutral", and "Disagree Strongly/Disagree". As an aside for later, I believe people in the "Neutral" category will, for the most part, drift into and out of this group depending on future affairs or progress in human gene-editing. So, if there is some debacle, many people with neutral sentiments might shift to the disagree camp and people with agreeing sentiments might shift to the neutral camp. Likewise, if there is some clear form progress in technology, application, or governance, the reverse might occur: disagree &rarr; neutral, and neutral &rarr; agree.
 
-_Opinions on Different Uses of Human Gene-Editing_
+&emsp; At a glance, ~88% of participants agreed that gene-editing human somatic cells[^18] (treatment of heritable diseases; edits won't be passed on to future individuals) is morally acceptable; ~48% agreed that gene-editing of human germlines is morally acceptable (~32% neutral); ~41% agreed that parents have a right to gene-edit their children (~32% neutral); and ~36% disagree with the idea that unborn individuals have a right to a genetic inheritance free from genetic engineering (~30% neutral). Armsby et al. also looked at specific use cases of gene-editing in humans - generally, around ~70% of participants were strongly supportive of using somatic gene-editing for treatment of physical or intellectual disabilities, while only ~41% were strongly supportive of using germline gene-editing for treatment of physical or intellectual disabilities. There was little support across the board for using somatic or germline gene-editing to improve appearance, physical abilities, or cognitive abilities. See Appendix for the graphs of acceptability of human gene-editing and its uses.
 
-see [opinions](#opinions-on-the-acceptability-of-various-uses-of-human-gene--editing-in-armsby-et-al.-survey)
-
-If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is _slightly_ more permissive of human enhancement than . The picture is incomplete to me, as I am generalizing my fractional perspective of the WHO's and NHGRI's positions on human gene-editing to other organizations with authority over genetic-engineering research activities.
+&emsp; If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is very similar to that of the general public (both were around 70% in support of gene-editing for treatment). The surveyed opinions of those with genetic-training appear to support the clinical application of gene-editing fairly more than the WHO's and NHGRI's positions do. While the total picture is incomplete to me - I am generalizing my fractional perspective of the stances on human gene-editing taken by the WHO, the NHGRI, and those with genetics training - the consensus appears to be _most people (including the scientists with the capacity to perform gene-editing) support somatic cell gene-editing for treatment purposes, but most do not support it for enhancement; organizations involved in governance are slightly more weary of gene-editing, even for treatment purposes. More_.  
 
 ## The Near-Term Future
-_A discussion of some limitations, analogies, and scenarios for forecasting the number of designer babies in the near-term future, along with my specific forecasts of this._
+_A discussion of some considerations, limitations, analogies, and scenarios for forecasting the number of designer babies in the near-term future, along with my specific forecasts of this._
+
+There are many things to consider when forecasting the number of designer babies[^19], as it is a rare (as of March 2022, only 3 gene-edited humans are known to have been born - those from the He Jiankui affair) and divisive effect. From the present vantage point (not thinking about analogies or scenarios), my intuition is that there will not be many gene-edited individuals born by 2030[^20].
+
+[for_book]: https://otexts.com/fpp2/ "https://otexts.com/fpp2/"
+
+When trying to forecast how many gene-edited humans there will be in the near-term future (within approximately 50 years, so by around 2075), several primary considerations come to mind:
+
+
 
 #### *Forecasting Limitations*
 
@@ -108,7 +121,17 @@ _A discussion of some limitations, analogies, and scenarios for forecasting the 
 
 - A majority of people approve human gene-editing for treatment purposes. How will this change?
 - Most people disapprove of gene-editing for enhancement. How will this change?
-- How does perception of gene-editing for treatment or enhancement affect policy? 
+- How does perception of gene-editing for treatment or enhancement affect policy?
+
+- To what extent does the legality of something prevent people from doing it? How about in this specific situation? My preminition is that this will operate in the way couples who really want to get an abortion will get an abortion. But this only works if the abortion works, so when will the abortion work?
+
+Which nation would the first one?
+
+Works for treatment before enhancement?
+What percent of people are born with disabilities?
+How many of them would really want this?
+  Hereitably AND detectable disabilities?
+
 
 <!-- _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._ -->
 
@@ -152,27 +175,15 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 
 ## Link Bibliography
 
-
-
-<!-- Blockquote unless you already did this -->
-
 ## Page Epistemics
 
-#### *Status*
+_Status_: __"Working Draft"__ I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
 
-__"Working Draft"__: I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
+_Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
 
-#### *Certainty*
+_Importance_: __"7.5/10"__
 
-__"Somewhat Likely"__: This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
-
-#### *Importance*
-
-__"7.5/10"__:
-
-#### *Impact*
-
-__"3/10"__:
+_Impact_: __"3/10"__
 
 ## Notes
 
@@ -210,12 +221,19 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^14]: Within the field of [human enhancement][wiki_enh]{:target="_blank"}, a distinction is often made between gene-editing for enhancement versus for treatment. From what I've seen, treatment generally refers to using gene-editing to remove diseases or other malignities, whereas enhancement refers to improving some trait or property of the child (e.g., treatment would be editings genes associated with increased likelihood for breast cancer, whereas an example of enhancement might be making the person taller than they would be otherwise.)
 
-[^15]: From religous book:
+[^15]: [Vera Lucia Raposo][vera], in her paper 2019 paper _[The First Chinese Edited Babies: A Leap of Faith in Science][fir_gen]_, provides a nice section on stances taken against human gene-editing. In summary, they include (1) __sanctity of genome__, (2) __genetic discrimination and eugenics__, (3) __undermining human genetic pool__, and (4) __loss of human nature__. <br><br> "_Ethical concerns have long been asserted against genetic interventions. However, most of the objections have been based more on prejudice than substantive arguments. Critics have invoked the sanctity of the human genome, as if changing it would equate to playing God ([Habermas, 2003][hab]). However, protecting the human genome should not prevent genetic interventions that can improve our lives. What brings real value to our lives is having a genetic code that allows us to live free of severe diseases, not to have an unmodified but unhealthy genetic code. Some have argued the perils of genetic discrimination ([Mehlman & Botkin, 1998][meh]) and eugenics ([Habermas, 2003][hab]), but if that were truth no medical treatment would be allowed under the suspicion of discriminating the ones not that are not treated and of aspiring to create a “superior” society of healthy people. The risk of undermining the human genetic pool ([Committee on Science, Technology, and Law, 2016][com]) is also a recurrent concern, but “there are more than six billion humans on the planet. Absent some kind of magic wand, it is initially difficult to see how any given genetic intervention could change human nature” ([McConnell, 2010][mcc]). The eventual loss of our human nature (Habermas, 2003) has been also invoked, but changing our genes does not change our human nature. Humanity does not reside in a specific genetic code, but in a certain perception of the world and our role in it. That role adds to the story of how we overcome the surrounding environment and ourselves._"
 
 [^16]: After a quick first-pass search, I was not able to find any other surveys on the opinions of bioethicists or people with genetics training towards human gene-editing. When writing this, I could have refrained from including the WHO's and NHGRI's stances on human germline genome editing, but after failing to find the opinion polls I was looking for, I decided that they might be useful for presenting some "official" attitudes towards governance of human gene-editing. Research and development in human gene-edited is something that I would expect to be greatly affected by the ethics committees of organizations
 
 [^17]: Note that ELSI quite certainly stands for "Ethical, Legal and Social Implications" (see [here][nh_elsi]{:target="_blank"}).
 
+[^18]: From the Chapter 4 of _[Human Genome Editing: Science, Ethics, and Governance][gene_book]_ (2017): <br><br> "_The use of human genome editing to make edits in somatic cells for purposes of treating genetically inherited diseases is already in clinical trials. Somatic cells contribute to the various tissues of the body but not to the germline, meaning that, in contrast with heritable germline editing (discussed in Chapter 5), the effects of changes made to somatic cells are limited to the treated individual and would not be inherited by future generations. Morever, germline gene-editing is supported much less than somatic genome gene-editing, even for treatment._"
+
+[^19]: I follow some of the principles outlined in Rob J Hyndman and George Athanasopoulos's chapter on judgemental forecasting in their excellent book _[Forecasting: Principles and Practice, 2nd ed.][for_book]_ (this is just a pointer to advertise their book; I've found it to be a nice and useful read).
+
+[^20]: The existance of this post is partially due 
+
+[gene_book]: https://www.ncbi.nlm.nih.gov/books/NBK447271/ "https://www.ncbi.nlm.nih.gov/books/NBK447271/"
 
 [ivi]: https://ivi-fertility.com/ "https://ivi-fertility.com/"
 
@@ -359,4 +377,16 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [w_em]: https://en.wikipedia.org/wiki/Embryo#Development "https://en.wikipedia.org/wiki/Embryo#Development"
 
-[w_inc]: https://en.wikipedia.org/wiki/Incubator_(culture) "https://en.wikipedia.org/wiki/Incubator_(culture)"
+[w_ink]: https://en.wikipedia.org/wiki/Incubator_(culture) "https://en.wikipedia.org/wiki/Incubator_(culture)"
+
+[vera]: https://pubmed.ncbi.nlm.nih.gov/?term=Raposo%20VL%5BAuthor%5D&cauthor=true&cauthor_uid=31436399 "https://pubmed.ncbi.nlm.nih.gov/?term=Raposo%20VL%5BAuthor%5D&cauthor=true&cauthor_uid=31436399"
+
+[fir_gen]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/"
+
+[hab]: https://monoskop.org/images/3/36/Habermas_J%C3%BCrgen_The_Future_of_Human_Nature_2003.pdf "https://monoskop.org/images/3/36/Habermas_J%C3%BCrgen_The_Future_of_Human_Nature_2003.pdf"
+
+[meh]: https://books.google.com/books?hl=en&lr=&id=uKX_gh6suKYC&oi=fnd&pg=PP9&ots=P3GAf5Lsru&sig=Qd1dQfEOsGpc85PVkFSmJdjwVgw#v=onepage&q&f=false "https://books.google.com/books?hl=en&lr=&id=uKX_gh6suKYC&oi=fnd&pg=PP9&ots=P3GAf5Lsru&sig=Qd1dQfEOsGpc85PVkFSmJdjwVgw#v=onepage&q&f=false"
+
+[mcc]: https://academic.oup.com/jmp/article-abstract/35/4/415/858384 "https://academic.oup.com/jmp/article-abstract/35/4/415/858384"
+
+[com]: https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion "https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion"
