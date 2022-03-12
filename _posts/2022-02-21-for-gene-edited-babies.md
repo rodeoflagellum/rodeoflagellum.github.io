@@ -284,7 +284,21 @@ You assigned the following probabilities to the intervals:<br>
 1001-31623 : 23.98% <br>
 31624-1000000 : 7.69%
 
-So, ___with 90% confidence, I expect the # of gene-edited babies by 2030 to be between 1 and 28683.___
+So, __with 90% confidence, I expect the # of gene-edited babies by 2030 to be between 1 and 28683.__ While I'm not sure how I can exactly take this statement and convert it into a Metaculus prediction, here is my attempt. I use one component per interval. The weighting of the Metaculus components roughly corresponds to the likelihoods for the different intervals (e.g., I will try to move the slider to the ~78% mark for the 1-32 interval). My confidence intervals are non-symmetric; I haven't accounted for this in the analysis in this post, and follow my intuition - "where should most of the mass be for this interval".
+
+![](/assets/images/design_babies_p1/RF_Meta.png)
+
+For comparison, here is Eli Lifland's forecast on the question along with his reasoning:
+
+![](/assets/images/design_babies_p1/eli_meta.png)
+
+>___My prediction:  5.7 – 8.7k___
+>
+Given 3 in the last three years, simple linear extrapolation would put a median at 12. But the median should probably be higher than this. However, I’m not sure how publicized gene-edited babies will be, even if many more gene-edited babies are born.
+>
+According to this article, human genome-editing is largely forbidden.
+>
+This one feels like it should have a peak at 3 but a long right tail; a decent chance this remains at 3. but also plenty of probabilities on higher numbers if a large advanced country lifts legal restrictions to some extent. My distribution is pictured here.
 
 #### *Adjustments*
 
@@ -316,7 +330,7 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 
 ## Link Bibliography
 
-(these are currently unordered; I will try to fix this in the near-term future)
+(these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
 
 - <https://commonfund.nih.gov/editing>
 - <https://worldpopulationreview.com/country-rankings/developed-countries>
@@ -407,6 +421,7 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 - <https://pubmed.ncbi.nlm.nih.gov/?term=Raposo%20VL%5BAuthor%5D&cauthor=true&cauthor_uid=31436399>
 - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/>
 - <https://monoskop.org/images/3/36/Habermas_J%C3%BCrgen_The_Future_of_Human_Nature_2003.pdf>
+- <https://en.wikipedia.org/wiki/John_von_Neumann>
 - <https://books.google.com/books?hl=en&lr=&id=uKX_gh6suKYC&oi=fnd&pg=PP9&ots=P3GAf5Lsru&sig=Qd1dQfEOsGpc85PVkFSmJdjwVgw#v=onepage&q&f=false>
 - <https://academic.oup.com/jmp/article-abstract/35/4/415/858384>
 - <https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion>
@@ -414,13 +429,13 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 
 ## Page Epistemics
 
-_Status_: __"Working Draft"__ I don't believe I will make many more edits to the content of this page in the coming years. I will likely only alter the web-components of this page (e.g., collecting all URLs on the page to generate a link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
+_Status_: __"Working Draft"__ I don't believe I will make many more edits to the content of this page in the coming years. There are some adjustments and updates to make to my forecasts, along with the final retrospective to perform in 2030...I hope I am not dead! I will likely only alter the web-infrastructure of this page (e.g., collecting all URLs on the page to generate an ordered link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
 
-_Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
+_Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the accuracy or thoroughness of my content. This post is no where close to a literature review, and I still lack a deep understanding of molecular biology and of the actual technology for gene-editing humans. My coverage of the policy surrounding gene-editing in humans could have benefitted from more examples. I doubt the actual number of gene-edited children will fall outside my 90% confidence interval, but am somewhat uncertain about my likelihoods for the widespread treatment and breakthrough scenarios. Did I down-weight these too much? Am I too optimistic - will there simply be less than 10 gene-edited babies? Did I not weigh the 1-32 interval enough? That such musing plague me indicates to me that I still have some reservations about the "completeness" of this forecast.
 
-_Importance_: __"7/10"__
+_Importance_: __"6.5/10"__ I think human gene-editing can be a transformative technology for social good. Imagining people being free from painful and debilitating disease, being physical capable, having a robust immune system, being very cognitively able, etc... is a tantalizing prospect. [John von Neumann][von]'s intellect pops into my mind from time to time when I think about human gene-editing. With better genes, humanity could do so much more; nevertheless, there is the potential for things to go very, very wrong.
 
-_Impact_: __"3/10"__
+_Impact_: __"3.5/10"__ I think some of my friends might read this and appreciate the current state of human gene-editing research slightly more. 
 
 ## Notes
 
@@ -473,6 +488,8 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 [^21]: This is the [SPIES][spy] (Subjective Probability Interval Estimates) method for judgemental forecasting; for a working example in Javascript, check out [here][spy2]. <br><br> "_This work introduces a novel method for reducing overprecision in estimates. This method, called Subjective Probability Interval Estimates (SPIES), does not directly elicit a confidence interval. Rather, it presents the judge with the entire range of values, divided into 11 intervals of equal width. These intervals can span the entire range, or, in case the value scale does not have pre-determined high and low bounds, a range that includes all plausible values, with an additional interval at each end representing all extreme values which lie outside this plausible range. The judge then estimates a probability for each interval. In case of estimating one true value, this probability is the likelihood that the interval includes the correct answer. For estimates of a population’s properties, this probability is the proportion of the population that is included in the interval. Since the SPIES range includes all possible values, the sum of these probabilities is constrained to equal exactly 100% (see Figure 1 for an illustrative example). The judge’s output, then, is a series of subjective probabilities that total 100%. These subjective probabilities can be computed for numerous types of estimates. In addition to the estimated distribution, it is possible to calculate confidence intervals of virtually any width and confidence level, by combining the SPIES’ intervals within the SPIES task. For example, from the estimate of a future temperature in Pittsburgh, as in Figure 1, it is possible to calculate the most likely 10-degree and 20-degree intervals, as well as the judge’s 70% and 90% confidence intervals, all without having to elicit the judgment from the judge multiple times. The SPIES method, then, offers great versatility and flexibility to the recipient of the estimate. In this paper I make the argument, and present data to support it, that SPIES can significantly reduce overprecision in two ways. As an elicitation method, SPIES forces the judge to consider all possible values, including ones that often go ignored in the estimation process of other, more instantiated methods. This enables judges to produce confidence intervals of greater width and better calibration. As an intervention for reducing bias, SPIES influences subsequent estimates in other elicitation formats, by inducing judges to revise their estimation process. The remainder of this dissertation will be organized in two parts, each presenting data from three 12 laboratory experiments. Part I will focus on SPIES as an elicitation method. It will present a comparison between estimates made using this method and estimates made using other methods and tests of the robustness of this difference. In Part II, I will explore how making an estimate with the SPIES method can improve the calibration of subsequent confidence interval estimates. Finally, I will discuss implications, theory extensions and possible applications of the SPIES method, within and outside the realm of cognitive research._"
 
 [^22]: My original intention was to write this paragraph following the current one this footnote is in: <br><br> "The pool of people who desire to have their children gene-edited changes over time, likely due to such things as cultural and generational changes, progress in the safety and effectives of gene-editing, and policy on gene-editing, among other things. To approximate the present size of this population, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. There are some immediate problems with this approach - the study only covers 20 nations, these 20 nations are relatively "developed", so  My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time."<br><br>I would like to have used the populations, religiosity, approvals, and [human development indices][world] of the countries listed to find the correlation between approval, religiosity, and human development index to estimate a median approval for the rest of the world's population. Then, I would examine how many members of the two subsets of the global population that approve gene-editing for treatment and approve gene-editing for intelligence would be inclined to actually seek out and use gene-editing if it were various degress of legal, available, and desirable.
+
+[von]: https://en.wikipedia.org/wiki/John_von_Neumann "https://en.wikipedia.org/wiki/John_von_Neumann"
 
 [som]: https://commonfund.nih.gov/editing "https://commonfund.nih.gov/editing"
 
