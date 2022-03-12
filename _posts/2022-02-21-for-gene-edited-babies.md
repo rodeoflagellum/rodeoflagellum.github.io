@@ -284,13 +284,13 @@ You assigned the following probabilities to the intervals:<br>
 1001-31623 : 23.98% <br>
 31624-1000000 : 7.69%
 
-So, __with 90% confidence, I expect the # of gene-edited babies by 2030 to be between 1 and 28683.__ While I'm not sure how I can exactly take this statement and convert it into a Metaculus prediction, here is my attempt. I use one component per interval. The weighting of the Metaculus components roughly corresponds to the likelihoods for the different intervals (e.g., I will try to move the slider to the ~78% mark for the 1-32 interval). My confidence intervals are non-symmetric; I haven't accounted for this in the analysis in this post, and follow my intuition - "where should most of the mass be for this interval".
+So, __with 90% confidence, I expect the # of gene-edited babies by 2030 to be between 1 and 28683.__ While I'm not sure how I can exactly take this statement and convert it into a Metaculus prediction, but here is my attempt. I use one component per interval. The weighting of the Metaculus components roughly corresponds to the likelihoods for the different intervals (e.g., I will try to move the slider to the ~78% mark for the 1-32 interval). My confidence intervals are non-symmetric; I haven't accounted for this in the analysis in this post, and follow my intuition - "where should most of the mass be for this interval".
 
 ![](/assets/images/design_babies_p1/RF_Meta.png)
 
 For comparison, here is Eli Lifland's forecast on the question along with his reasoning:
 
-![](/assets/images/design_babies_p1/eli_meta.png)
+![](/assets/images/design_babies_p1/AK2OoyF.png)
 
 >___My prediction:  5.7 – 8.7k___
 >
@@ -435,7 +435,7 @@ _Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the a
 
 _Importance_: __"6.5/10"__ I think human gene-editing can be a transformative technology for social good. Imagining people being free from painful and debilitating disease, being physical capable, having a robust immune system, being very cognitively able, etc... is a tantalizing prospect. [John von Neumann][von]'s intellect pops into my mind from time to time when I think about human gene-editing. With better genes, humanity could do so much more; nevertheless, there is the potential for things to go very, very wrong.
 
-_Impact_: __"3.5/10"__ I think some of my friends might read this and appreciate the current state of human gene-editing research slightly more. 
+_Impact_: __"3.5/10"__ I think some of my friends might read this and appreciate the current state of human gene-editing research slightly more. Since this post is part of a contest, there is a slightly heightened potential for increased readership.
 
 ## Notes
 
