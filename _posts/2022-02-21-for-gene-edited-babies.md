@@ -2,7 +2,7 @@
 layout: post
 title:  "Forecast Series: Designer Babies, P1"
 date:  2022-02-21 21:40:00 -0500
-last_edit: 2022-03-10 16:50:00 -0500
+last_edit: 2022-03-11 16:50:00 -0500
 permalink: "/for_gene_edit_babies/"
 status: "Working Draft"
 certainty: "Somewhat Likely"
@@ -140,10 +140,10 @@ Likelihood (0/100) for 1001-31623 babies?: 20 <br>
 Likelihood (0/100) for 31624-1000000 babies?: 10 <br>
 >
 You assigned the following probabilities to the intervals:<br>
-1-32 - 46.34% <br>
-33-1000 - 39.02% <br>
-1001-31623 - 9.76% <br>
-31624-1000000 - 4.88%
+1-32 : 46.34% <br>
+33-1000 : 39.02% <br>
+1001-31623 : 9.76% <br>
+31624-1000000 : 4.88%
 >
 > With 90% confidence, you expect the # of gene-babes to be between 1 and 15556.
 
@@ -182,7 +182,42 @@ Here are some questions regarding desirability, availability, and legality that 
 
 There are some general principles to take into consideration for each of the following scenarios. In any case, designer babies will either come from the scientific community through experiments, clinical trials, etc... or from the public accessing the technology to do so, either in hospitals (government funded) or privately. I expect the former to precede the latter. In both instances, there is some population[^22] who desires for their child/children to be gene-edited, either for treatment or enhancement purposes, and there is some subset of this population that might actually have this desire realized someday (the ones who desired it AND had it done). For every jurisdiction considering gene-editing human embryos, a successful, publicized birth as part of a scientific experiment will very likely precede any widespread public adoption. When and where will these first gene-edited babies be born?
 
-&emsp; There are five general scenarios that subsume, in my mind, much of the space of possibility for human gene-editing futures in the next 8 years, i.e. between 2022 and 2030. For each scenario, I access the likelihood of the different intervals of Pablo's log space that I provided earlier, and then aggregate each interval across the scenarios to generate a final estimate. The details of this will become apparent soon.
+&emsp; There are five general scenarios that subsume, in my mind, much of the space of possibility for human gene-editing futures in the next 8 years, i.e. between 2022 and 2030. For each scenario, I access the likelihood of the different intervals that I provided earlier, and then aggregate each interval across the scenarios to generate a final estimate. The details of this will become apparent soon.
+
+__Business as Usual__: Progress in human somatic and germline gene-editing continues at its current pace. There are programs that lead to reductions in the cost of gene-editing, more accurate genetic targeting, and better governance of human gene-editing, but these do not affect the legality of applying gene-editing to human embryos. Stances against the gene-editing of human embyros, such as those of the National Institute of Health (NIH) in [2015][s_2015] and [2018][s_2018], are relatively common across university, governmental, and clinical research boards.
+
+> [2015 statement] However, NIH will not fund any use of gene-editing technologies in human embryos. The concept of altering the human germline in embryos for clinical purposes has been debated over many years from many different perspectives, and has been viewed almost universally as a line that should not be crossed. Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain. These include the serious and unquantifiable safety issues, ethical issues presented by altering the germline in a way that affects the next generation without their consent, and a current lack of compelling medical applications justifying the use of CRISPR/Cas9 in embryos.
+>
+> [2018 statement] Lest there be any doubt, and as we have stated previously, NIH does not support the use of gene-editing technologies in human embryos.
+
+It's a toss-up as to whether another researcher similar to He Jiankui performs an unauthorized gene-editing experiment, despite the stiff international backlash that would be garnered by such a deed, but the possibility nevertheless exists. The opinions of researchers and the public alike drifts back and forth between increased and decreased support for human gene-editing, but the trend seems to be that support is gradually increasing, presumably because religiosity is decreasing, gene-editing is becoming more feasible, and governance and regulation is becoming better established. There may even be a trial or two where in cases of severe heritable diseases, embryos have their germlines genetically edited. Subjectively, then:
+
+> Likelihood (0/100) for 1-32 babies?: 95 <br>
+Likelihood (0/100) for 33-1000 babies?: 60 <br>
+Likelihood (0/100) for 1001-31623 babies?: 10 <br>
+Likelihood (0/100) for 31624-1000000 babies?: 2 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 : 56.89% <br>
+33-1000 : 35.93% <br>
+1001-31623 : 5.99% <br>
+31624-1000000 : 1.2%
+>
+> With 90% confidence, you expect the # of gene-babes to be between 1 and 923.
+
+__Localized Treatments__: Interest in human somatic and germline gene-editing grows; over time, this generates more funding and leads to the creation of more genetics research programs than had previously been expected, which in turn leads to more progress in the field of human gene-editing. Developments such as the NIH's [Somatic Cell Genome Editing][som] program have the subsidiary consequence of motivating researchers to explore, at a more rapid pace, the ethics and science of germline gene-editing.
+
+>The NIH Common Fund’s Somatic Cell Genome Editing (SCGE) program is working to improve the efficacy and specificity of gene editing approaches to help reduce the burden of common and rare diseases caused by genetic changes. Genome editing technologies present an exciting prospect for treatments and possibly even cures for these diseases. SCGE is developing quality tools to perform and assess effective and safe genome editing in non-reproductive (“somatic”) cells of the body. These research tools will be made widely available to the research community to reduce the time and cost required to develop new therapies.
+
+Several years after this growth, a few technological leaps, or a relaxation of governance platforms, perhaps in some developing countries, prompt clinic trials employing germline gene-editing for the treatment of heritable diseases. While the international rebuke still exists, it is not nearly as strong as it was in 2018, during the He Jiankui affair; rather, researchers and the public alike note cautiously that, while there still appear to be some issues with the application of gene-editing in humans, it appears promising and viable for the treatment of certain diseases. As such, in the 1-3 years preceding 2030, some trial treatments get off the ground sooner than some people would have expected, though the number of gene-edited babies is still relatively low. Subjectively, then:  
+
+
+
+__Widespread Treatment__
+
+__Technological Breakthrough__
+
+__Moral Breakthrough__
 
 <!-- &emsp; The pool of people who desire to have their children gene-edited changes over time, likely due to such things as cultural and generational changes, progress in the safety and effectives of gene-editing, and policy on gene-editing, among other things. To approximate the present size of this population, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. There are some immediate problems with this approach - the study only covers 20 nations, these 20 nations are relatively "developed", so  My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time. -->
 
@@ -277,6 +312,8 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 
 (these are currently unordered; I will try to fix this in the near-term future)
 
+- <https://commonfund.nih.gov/editing>
+- <https://worldpopulationreview.com/country-rankings/developed-countries>
 - <https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos>
 - <https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-claim-first-gene-edited-babies-chinese-researcher>
 - <https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering>
@@ -429,7 +466,11 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 
 [^21]: This is the [SPIES][spy] (Subjective Probability Interval Estimates) method for judgemental forecasting; for a working example in Javascript, check out [here][spy2]. <br><br> "_This work introduces a novel method for reducing overprecision in estimates. This method, called Subjective Probability Interval Estimates (SPIES), does not directly elicit a confidence interval. Rather, it presents the judge with the entire range of values, divided into 11 intervals of equal width. These intervals can span the entire range, or, in case the value scale does not have pre-determined high and low bounds, a range that includes all plausible values, with an additional interval at each end representing all extreme values which lie outside this plausible range. The judge then estimates a probability for each interval. In case of estimating one true value, this probability is the likelihood that the interval includes the correct answer. For estimates of a population’s properties, this probability is the proportion of the population that is included in the interval. Since the SPIES range includes all possible values, the sum of these probabilities is constrained to equal exactly 100% (see Figure 1 for an illustrative example). The judge’s output, then, is a series of subjective probabilities that total 100%. These subjective probabilities can be computed for numerous types of estimates. In addition to the estimated distribution, it is possible to calculate confidence intervals of virtually any width and confidence level, by combining the SPIES’ intervals within the SPIES task. For example, from the estimate of a future temperature in Pittsburgh, as in Figure 1, it is possible to calculate the most likely 10-degree and 20-degree intervals, as well as the judge’s 70% and 90% confidence intervals, all without having to elicit the judgment from the judge multiple times. The SPIES method, then, offers great versatility and flexibility to the recipient of the estimate. In this paper I make the argument, and present data to support it, that SPIES can significantly reduce overprecision in two ways. As an elicitation method, SPIES forces the judge to consider all possible values, including ones that often go ignored in the estimation process of other, more instantiated methods. This enables judges to produce confidence intervals of greater width and better calibration. As an intervention for reducing bias, SPIES influences subsequent estimates in other elicitation formats, by inducing judges to revise their estimation process. The remainder of this dissertation will be organized in two parts, each presenting data from three 12 laboratory experiments. Part I will focus on SPIES as an elicitation method. It will present a comparison between estimates made using this method and estimates made using other methods and tests of the robustness of this difference. In Part II, I will explore how making an estimate with the SPIES method can improve the calibration of subsequent confidence interval estimates. Finally, I will discuss implications, theory extensions and possible applications of the SPIES method, within and outside the realm of cognitive research._"
 
-[^22]: My original intention was to write this paragraph following the current one this footnote is in: <br><br> "The pool of people who desire to have their children gene-edited changes over time, likely due to such things as cultural and generational changes, progress in the safety and effectives of gene-editing, and policy on gene-editing, among other things. To approximate the present size of this population, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. There are some immediate problems with this approach - the study only covers 20 nations, these 20 nations are relatively "developed", so  My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time."<br><br>I would like to have used the populations, religiosity, approvals, and human development indices of the countries listed to find the correlation between approval, religiosity, and human development index to estimate a median approval for the rest of the world's population. Then, I would examine how many members of the two subsets of the global population that approve gene-editing for treatment and approve gene-editing for intelligence would be inclined to actually seek out and use gene-editing if it were various degress of legal, available, and desirable. 
+[^22]: My original intention was to write this paragraph following the current one this footnote is in: <br><br> "The pool of people who desire to have their children gene-edited changes over time, likely due to such things as cultural and generational changes, progress in the safety and effectives of gene-editing, and policy on gene-editing, among other things. To approximate the present size of this population, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. There are some immediate problems with this approach - the study only covers 20 nations, these 20 nations are relatively "developed", so  My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time."<br><br>I would like to have used the populations, religiosity, approvals, and [human development indices][world] of the countries listed to find the correlation between approval, religiosity, and human development index to estimate a median approval for the rest of the world's population. Then, I would examine how many members of the two subsets of the global population that approve gene-editing for treatment and approve gene-editing for intelligence would be inclined to actually seek out and use gene-editing if it were various degress of legal, available, and desirable.
+
+[som]: https://commonfund.nih.gov/editing "https://commonfund.nih.gov/editing"
+
+[world]: https://worldpopulationreview.com/country-rankings/developed-countries "https://worldpopulationreview.com/country-rankings/developed-countries "
 
 [s_2015]: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos"
 
