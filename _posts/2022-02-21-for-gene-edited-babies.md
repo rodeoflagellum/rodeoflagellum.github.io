@@ -145,7 +145,7 @@ You assigned the following probabilities to the intervals:<br>
 1001-31623 : 9.76% <br>
 31624-1000000 : 4.88%
 >
-> With 90% confidence, you expect the # of gene-babes to be between 1 and 15556.
+> With 90% confidence, you expect the # of gene-edited babies to be between 1 and 15556.
 
 Now, I will try to make a more detailed estimate. From my explorations of human gene-editing, which includes the research I referenced in the earlier section covering perspectives on human gene-editing, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
 
@@ -153,7 +153,7 @@ Now, I will try to make a more detailed estimate. From my explorations of human 
 - __Availability__: How easy, globally speaking, it is to have your child be gene-edited, regardless of whether it is illegal.
 - __Desirability__: To what degree society finds human gene-editing unacceptable and dissuades its application, to what degree people generally desire to have their children be gene-edited, and to what degree some people are willing to go to have their children be gene-edited.
 
-In the following sections, I generate adoption scenarios for human gene-editing by tuning the legality, availability, and desirability parameters. These scenarios and analogies, when taken together, provide a more thorough picture of how human gene-editing practices might unfold in the coming years. The question to ask for each of these components is _what information is important and how should it be weighted?_.
+In the following sections, I generate adoption scenarios for human gene-editing by tuning the legality, availability, and desirability parameters. These scenarios, when taken together, provide a more thorough picture of how human gene-editing practices might unfold in the coming years. The question to ask for each of these components is _what information is important and how should it be weighted?_.
 
 Here are some questions regarding desirability, availability, and legality that introduce other factors influencing the potential number of gene-edited births by 2030.
 
@@ -182,7 +182,7 @@ Here are some questions regarding desirability, availability, and legality that 
 
 There are some general principles to take into consideration for each of the following scenarios. In any case, designer babies will either come from the scientific community through experiments, clinical trials, etc... or from the public accessing the technology to do so, either in hospitals (government funded) or privately. I expect the former to precede the latter. In both instances, there is some population[^22] who desires for their child/children to be gene-edited, either for treatment or enhancement purposes, and there is some subset of this population that might actually have this desire realized someday (the ones who desired it AND had it done). For every jurisdiction considering gene-editing human embryos, a successful, publicized birth as part of a scientific experiment will very likely precede any widespread public adoption. When and where will these first gene-edited babies be born?
 
-&emsp; There are five general scenarios that subsume, in my mind, much of the space of possibility for human gene-editing futures in the next 8 years, i.e. between 2022 and 2030. For each scenario, I access the likelihood of the different intervals that I provided earlier, and then aggregate each interval across the scenarios to generate a final estimate. The details of this will become apparent soon.
+&emsp; There are four general scenarios that subsume, in my mind, much of the space of possibility for human gene-editing futures in the next 8 years, i.e. between 2022 and 2030. For each scenario, I access the likelihood of the different intervals that I provided earlier, and then aggregate each interval across the scenarios to generate a final estimate. The details of this will become apparent soon.
 
 __Business as Usual__: Progress in human somatic and germline gene-editing continues at its current pace. There are programs that lead to reductions in the cost of gene-editing, more accurate genetic targeting, and better governance of human gene-editing, but these do not affect the legality of applying gene-editing to human embryos. Stances against the gene-editing of human embyros, such as those of the National Institute of Health (NIH) in [2015][s_2015] and [2018][s_2018], are relatively common across university, governmental, and clinical research boards.
 
@@ -203,82 +203,88 @@ You assigned the following probabilities to the intervals:<br>
 1001-31623 : 5.99% <br>
 31624-1000000 : 1.2%
 >
-> With 90% confidence, you expect the # of gene-babes to be between 1 and 923.
+> With 90% confidence, you expect the # of gene-edited babies to be between 1 and 923.
 
-__Localized Treatments__: Interest in human somatic and germline gene-editing grows; over time, this generates more funding and leads to the creation of more genetics research programs than had previously been expected, which in turn leads to more progress in the field of human gene-editing. Developments such as the NIH's [Somatic Cell Genome Editing][som] program have the subsidiary consequence of motivating researchers to explore, at a more rapid pace, the ethics and science of germline gene-editing.
+__Localized Treatment__: Interest in human somatic and germline gene-editing grows; over time, this generates more funding and leads to the creation of more genetics research programs than had previously been expected, which in turn leads to more progress in the field of human gene-editing. Developments such as the NIH's [Somatic Cell Genome Editing][som] program have the subsidiary consequence of motivating researchers to explore, at a more rapid pace, the ethics and science of germline gene-editing.
 
 >The NIH Common Fund’s Somatic Cell Genome Editing (SCGE) program is working to improve the efficacy and specificity of gene editing approaches to help reduce the burden of common and rare diseases caused by genetic changes. Genome editing technologies present an exciting prospect for treatments and possibly even cures for these diseases. SCGE is developing quality tools to perform and assess effective and safe genome editing in non-reproductive (“somatic”) cells of the body. These research tools will be made widely available to the research community to reduce the time and cost required to develop new therapies.
 
 Several years after this growth, a few technological leaps, or a relaxation of governance platforms, perhaps in some developing countries, prompt clinic trials employing germline gene-editing for the treatment of heritable diseases. While the international rebuke still exists, it is not nearly as strong as it was in 2018, during the He Jiankui affair; rather, researchers and the public alike note cautiously that, while there still appear to be some issues with the application of gene-editing in humans, it appears promising and viable for the treatment of certain diseases. As such, in the 1-3 years preceding 2030, some trial treatments get off the ground sooner than some people would have expected, though the number of gene-edited babies is still relatively low. Subjectively, then:  
 
+> Likelihood (0/100) for 1-32 babies?: 75 <br>
+Likelihood (0/100) for 33-1000 babies?: 90 <br>
+Likelihood (0/100) for 1001-31623 babies?: 90 <br>
+Likelihood (0/100) for 31624-1000000 babies?: 2 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 : 29.18% <br>
+33-1000 : 35.02% <br>
+1001-31623 : 35.02% <br>
+31624-1000000 : 0.78%
+>
+> With 90% confidence, you expect the # of gene-edited babies to be between 1 and 23558.
 
+__Widespread Treatment__: This is a variant of _Localized Treatment_ where adoption is, as the scenario title goes, more widespread. This is to say that we underestimated how many unique jurisdictions adopted using or testing out human gene-editing sparingly.
 
-__Widespread Treatment__
+> Likelihood (0/100) for 1-32 babies?: 50 <br>
+Likelihood (0/100) for 33-1000 babies?: 85 <br>
+Likelihood (0/100) for 1001-31623 babies?: 99 <br>
+Likelihood (0/100) for 31624-1000000 babies?: 70 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 : 16.45% <br>
+33-1000 : 27.96% <br>
+1001-31623 : 32.57% <br>
+31624-1000000 : 23.03%
+>
+> With 90% confidence, you expect the # of gene-edited babies to be between 1 and 579091.
 
-__Technological Breakthrough__
+__Breakthrough__: Evolutionary progress is difficult to predict, but with regard to genetically engineering human embryos, it might be the case that such progress befalls this field sometime between 2022 and 2030. Perhaps something that is as of yet unpublished but which might forward gene-editing drastically increases humanity's support for germline genome editing. I suspect that, given the existing medical infrastructure globally, such a breakthrough would still take several years to permeate into the clinical application. Subjectively, then:
 
-__Moral Breakthrough__
+> Likelihood (0/100) for 1-32 babies?: 10 <br>
+Likelihood (0/100) for 33-1000 babies?: 15 <br>
+Likelihood (0/100) for 1001-31623 babies?: 65 <br>
+Likelihood (0/100) for 31624-1000000 babies?: 85 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 : 5.71% <br>
+33-1000 : 27.96% <br>
+1001-31623 : 37.14% <br>
+31624-1000000 : 48.57%
+>
+> With 90% confidence, you expect the # of gene-edited babies to be between 1 and 800818.
 
 <!-- &emsp; The pool of people who desire to have their children gene-edited changes over time, likely due to such things as cultural and generational changes, progress in the safety and effectives of gene-editing, and policy on gene-editing, among other things. To approximate the present size of this population, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. There are some immediate problems with this approach - the study only covers 20 nations, these 20 nations are relatively "developed", so  My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time. -->
 
-Immediately
-
-Want something that has benefits, but could have a high personal cost, is difficult to get, etc...
-
-
-What's something that people support but usually don't go through with themselves?
-
-__Conservative Adoption__
-<!-- #### *Analogies* -->
-
-
-<!-- https://worldpopulationreview.com/country-rankings/developed-countries -->
-
-<!--
-Legality and responses  to human gene heavily disincentive human gene-editing. The policies in place seem to be a function of bioethicist opinion, understanding of teh consequences.
-
-Availability is a function of legality, the cost of the technology -->
-
-
-
-<!-- Sanity Check for Legality:
-
-- _Am I missing any pertinent information?_:
-- _Am I weighting more recent events more heavily?_
-- _Am I misunderstanding causal events?_
-- _Am I thinking wishfully?_
-- _Are my forecasts going to affect the forecasting target?_
-- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point? -->
-
-<!-- Scenario forecasting:
-Have you generated scenarios based on possible factors/drivers,
-    their relative impacts, the interactions between them, and the targets to be forecast?
-Have you at least done "best", "middle", "worst" scenarios?
-
-Forecasting by analogy:
-What is similar to what I am forecasting?
-What are the attributes of similarity?
-Have you based the forecasts on multiple instead of single analogies?
-Have you based your analogies on similar attributes? -->
-
-
 #### *Updated Forecast*
 
-<!-- There are notable limitations with forecasting the future of the human gene-editing.
+Taking these scenarios together, I would assign a likelihood of 90 to the _Business as Usual_ scenario (this scenario seems most plausible, given that this scenario seems to hold for other scientific enterprises involving emerging and ethically trying technologies), a likelihood of 60 to the _Localized Treatment_ scenario (I imagine this would occur in fewer realities than the first scenario, as much would need to be done in a relatively short amount of time for this scenario to occur), a likelihood of 35 to the _Widespread Treatment_ scenario (as even more would need to occur than in scenario two, which is even less likely to occur), and a likelihood of 5 to the _Breakthrough_ scenario (as these don't occur very often). So, this would mean that I given the following weights to each of my past estimates:
 
-- My lack of expertise in the subject
-- A majority of people approve human gene-editing for treatment purposes. How will this change?
-- Most people disapprove of gene-editing for enhancement. How will this change?
-- How does perception of gene-editing for treatment or enhancement affect policy?
+> Likelihood (0/100) for Business as Usual?: 90 <br>
+Likelihood (0/100) for Localized Treatment?: 60 <br>
+Likelihood (0/100) for Widespread Treatment?: 35 <br>
+Likelihood (0/100) for Breakthrough?: 5 <br>
+>
+You assigned the following weights:<br>
+Business as Usual : 47.37% <br>
+Localized Treatment : 31.58% <br>
+Widespread Treatment : 18.42% <br>
+Breakthrough : 2.63%
 
-- To what extent does the legality of something prevent people from doing it? How about in this specific situation? My preminition is that this will operate in the way couples who really want to get an abortion will get an abortion. But this only works if the abortion works, so when will the abortion work?
+Thus, a final SPIES estimate would be:
 
-Which nation would the first one?
+> Likelihood (0/100) for 1-32 babies?: (95 x 0.4737) + (75 x 0.3158) + (50 x 0.1842) + (10 x 0.0263) = 78.1595 = ~78 <br>
+Likelihood (0/100) for 33-1000 babies?: (60 x 0.4737) + (90 x 0.3158) + (85 x 0.1842) + (15 x 0.0263) = 72.8955 = ~73 <br>
+Likelihood (0/100) for 1001-31623 babies?: (10 x 0.4737) + (90 x 0.3158) + (99 x 0.1842) + (65 x 0.0263) = 53.1043 = ~53 <br>
+Likelihood (0/100) for 31624-1000000 babies?: (2 x 0.4737) + (2 x 0.3158) + (70 x 0.1842) + (85 x 0.0263) = 16.7085 = ~17 <br>
+>
+You assigned the following probabilities to the intervals:<br>
+1-32 : 35.29% <br>
+33-1000 : 33.03% <br>
+1001-31623 : 23.98% <br>
+31624-1000000 : 7.69%
 
-Works for treatment before enhancement?
-What percent of people are born with disabilities?
-How many of them would really want this?
-  Hereitably AND detectable disabilities? -->
+So, ___with 90% confidence, I expect the # of gene-edited babies by 2030 to be between 1 and 28683.___
 
 #### *Adjustments*
 
@@ -666,3 +672,20 @@ When considering the legality of human gene-editing, legislators seem influenced
 Should some organization or individual researcher employ gene-editing in human embyros without oversight, I expect that the international response will be, at least within the next few years, very similar to that of the He Jianjui affair. This gives credence to two ideas. First, it seems highly likely that the only plausible instances of designer babies being born (in at least the next ~5 years; in subsequent sections, I will examine what this number of years should be) will come from "rouge" scientists, and second, such a ubiquitous, negative response to producing designer babies should reduce the probability that someone actually goes forth with the procedure.
 
 &emsp; Legality appears to be a function of the bioethicists' opinions,  -->
+
+
+<!-- There are notable limitations with forecasting the future of the human gene-editing.
+
+- My lack of expertise in the subject
+- A majority of people approve human gene-editing for treatment purposes. How will this change?
+- Most people disapprove of gene-editing for enhancement. How will this change?
+- How does perception of gene-editing for treatment or enhancement affect policy?
+
+- To what extent does the legality of something prevent people from doing it? How about in this specific situation? My preminition is that this will operate in the way couples who really want to get an abortion will get an abortion. But this only works if the abortion works, so when will the abortion work?
+
+Which nation would the first one?
+
+Works for treatment before enhancement?
+What percent of people are born with disabilities?
+How many of them would really want this?
+  Hereitably AND detectable disabilities? -->
