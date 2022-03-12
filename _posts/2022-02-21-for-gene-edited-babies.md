@@ -180,24 +180,17 @@ Here are some questions regarding desirability, availability, and legality that 
 
 <!-- &emsp; Given the perspectives on human gene-editing that I explored  earlier, I think it makes most sense to begin by postulating about how people's intentions and opinions on the topic might generate different scenarios for the clinical application of human gene-editing. -->
 
-<!-- #### *Three Axes* -->
+Some general principles are characteristic of each of the following scenarios. In every case, designer babies will either come from the scientific community (experiments, clinical trials, etc...) or from the public. In both cases, there is some population who desires for their child/children to be gene-edited, either for treatment or enhancement purposes, and there is some subset of this population that might someday actually have this desire realized (the ones who desired it AND had it done).
 
-<!--
-When considering the legality of human gene-editing, legislators seem influenced primarily by the research governance policies of the ethics committees of organizations like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_,  Wikipedia's page on [genetic engineering regulation][wiki_gen2], and the book _[Human Genome Editing: Science, Ethics, and Governance][gene_book]_ provide some coverage of existing measures. Laws differ by region; for example, Singapore and Japan evaluate the permissibility of gene-editing research based on their expected risks, whereas Brazil includes regulation of human somatic gene-editing under its GMO laws (see [here][gene_book]).
+&emsp; The pool of people who desire to have their children gene-edited changes over time, but to approximate its present size, I refer back to the PEW research [survey][PEW report] in 2020 of 20 publics. My thinking is this: establish how many people might want to use gene-editing for treatment and/or enhancement, and then postulate how different levels of availability, legality, and scientific progress might affect this number over time.
 
-&emsp; While I have not read over much policy outside of NHGRI's Genome Statute and Legislation Database, the general signal is that most regions strongly disincentivize the clinical application of human gene-editing. Further evidence for this is the WHO's, NHGRI's, and National Institute of Health's (NIH), among other organizations, firm stances against widespread clinical use of human genome editing.  For the most part, genetically modifying humans is out of the question. This is illustrated by the NIH's statements in [2015][s_2015] and [2018][s_2018].
+Immediately
 
-> [2015 statement ] However, NIH will not fund any use of gene-editing technologies in human embryos. The concept of altering the human germline in embryos for clinical purposes has been debated over many years from many different perspectives, and has been viewed almost universally as a line that should not be crossed. Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain. These include the serious and unquantifiable safety issues, ethical issues presented by altering the germline in a way that affects the next generation without their consent, and a current lack of compelling medical applications justifying the use of CRISPR/Cas9 in embryos.
->
-> [2018 statement] Lest there be any doubt, and as we have stated previously, NIH does not support the use of gene-editing technologies in human embryos.
+Want something that has benefits, but could have a high personal cost, is difficult to get, etc...
 
-Should some organization or individual researcher employ gene-editing in human embyros without oversight, I expect that the international response will be, at least within the next few years, very similar to that of the He Jianjui affair. This gives credence to two ideas. First, it seems highly likely that the only plausible instances of designer babies being born (in at least the next ~5 years; in subsequent sections, I will examine what this number of years should be) will come from "rouge" scientists, and second, such a ubiquitous, negative response to producing designer babies should reduce the probability that someone actually goes forth with the procedure.
 
-&emsp; Legality appears to be a function of the bioethicists' opinions,  -->
 
-Some general principles are characteristic of each of the following scenarios. In every case, designer babies will either come from the scientific community (experiments, clinical trials, etc...) or from the public. In both cases, there is some population who desires for their child/children to be gene-edited, either for treatment or enhancement purposes, and there is some subset of this population that might someday actually have this desire realized (the ones who desired it AND had it done). The pool of people who desire to have their children gene-edited changes over time, but to approximate its present size, I refer back to the PEW Research survey in 2020 of 20 publics.  
-
-#### *Analogies*
+<!-- #### *Analogies* -->
 
 
 
@@ -230,7 +223,7 @@ Have you based the forecasts on multiple instead of single analogies?
 Have you based your analogies on similar attributes? -->
 
 
-#### *Final Forecast*
+#### *Updated Forecast*
 
 <!-- There are notable limitations with forecasting the future of the human gene-editing.
 
@@ -248,6 +241,14 @@ What percent of people are born with disabilities?
 How many of them would really want this?
   Hereitably AND detectable disabilities? -->
 
+#### *Adjustments*
+
+In this section, I will provide adjustments to my forecasts as new and existing information becomes known to me. I expect to do this every year until 2030.
+
+#### *Retrospective*
+
+In this section, I will examine the actual value resolve value, i.e. the number of designer babies born by 2030, and will discuss the manners in which I was incorrect.
+
 ## Appendix
 
 #### *Armsby et al. Survey Figures*
@@ -263,6 +264,10 @@ ___Opinions on the Acceptability of Human Gene-Editing___
 ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 
 ![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
+
+#### *Approval by Nation for Gene-Editing (PEW)*
+
+![](/assets/images/design_babies_p1/GenEn_PEWNations_2020.png)
 
 ## Link Bibliography
 
@@ -366,7 +371,7 @@ _Status_: __"Working Draft"__ I don't believe I will make many more edits to the
 
 _Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the accuracy or thoroughness of my content. I think my personal take is on point, but that the public and bioethicist takes are very incomplete (I have not done an extensive search of all bioethics surveys or reports). For the scenarios, I think.
 
-_Importance_: __"7.5/10"__
+_Importance_: __"7/10"__
 
 _Impact_: __"3/10"__
 
@@ -599,3 +604,18 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 [mcc]: https://academic.oup.com/jmp/article-abstract/35/4/415/858384 "https://academic.oup.com/jmp/article-abstract/35/4/415/858384"
 
 [com]: https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion "https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion"
+
+<!-- #### *Three Axes* -->
+
+<!--
+When considering the legality of human gene-editing, legislators seem influenced primarily by the research governance policies of the ethics committees of organizations like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_,  Wikipedia's page on [genetic engineering regulation][wiki_gen2], and the book _[Human Genome Editing: Science, Ethics, and Governance][gene_book]_ provide some coverage of existing measures. Laws differ by region; for example, Singapore and Japan evaluate the permissibility of gene-editing research based on their expected risks, whereas Brazil includes regulation of human somatic gene-editing under its GMO laws (see [here][gene_book]).
+
+&emsp; While I have not read over much policy outside of NHGRI's Genome Statute and Legislation Database, the general signal is that most regions strongly disincentivize the clinical application of human gene-editing. Further evidence for this is the WHO's, NHGRI's, and National Institute of Health's (NIH), among other organizations, firm stances against widespread clinical use of human genome editing.  For the most part, genetically modifying humans is out of the question. This is illustrated by the NIH's statements in [2015][s_2015] and [2018][s_2018].
+
+> [2015 statement ] However, NIH will not fund any use of gene-editing technologies in human embryos. The concept of altering the human germline in embryos for clinical purposes has been debated over many years from many different perspectives, and has been viewed almost universally as a line that should not be crossed. Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain. These include the serious and unquantifiable safety issues, ethical issues presented by altering the germline in a way that affects the next generation without their consent, and a current lack of compelling medical applications justifying the use of CRISPR/Cas9 in embryos.
+>
+> [2018 statement] Lest there be any doubt, and as we have stated previously, NIH does not support the use of gene-editing technologies in human embryos.
+
+Should some organization or individual researcher employ gene-editing in human embyros without oversight, I expect that the international response will be, at least within the next few years, very similar to that of the He Jianjui affair. This gives credence to two ideas. First, it seems highly likely that the only plausible instances of designer babies being born (in at least the next ~5 years; in subsequent sections, I will examine what this number of years should be) will come from "rouge" scientists, and second, such a ubiquitous, negative response to producing designer babies should reduce the probability that someone actually goes forth with the procedure.
+
+&emsp; Legality appears to be a function of the bioethicists' opinions,  -->
