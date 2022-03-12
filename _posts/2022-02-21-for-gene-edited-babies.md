@@ -147,46 +147,76 @@ You assigned the following probabilities to the intervals:<br>
 >
 > With 90% confidence, you expect the # of gene-babes to be between 1 and 15556.
 
-Now, I will try to make a more informed estimate. From my explorations of human gene-editing, including the research referenced to in the earlier section on people's perspectives on the subject, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
+Now, I will try to make a more informed estimate. From my explorations of human gene-editing, which includes the research I referenced in the earlier section covering perspectives on human gene-editing, 3 principal components, which I believe subsume most of the plausible factors guiding the future application of human gene-editing, stand out to me: legality, availability, and desirability. Generally, I would describe these as
 
 - __Legality__: The state of global governance of human genome editing for treatment or enhancement, including how states respond in the future to situations such as the He Jiankui affair.
 - __Availability__: How easy, globally speaking, it is to have your child be gene-edited, regardless of whether it is illegal.
-- __Desirability__: To what degree society finds human gene-editing unacceptable and dissuades its application, people generally desire to have their children be gene-edited, and some people are willing to go to have their children be gene-edited.
+- __Desirability__: To what degree society finds human gene-editing unacceptable and dissuades its application, to what degree people generally desire to have their children be gene-edited, and to what degree some people are willing to go to have their children be gene-edited.
 
-For each of these components, adoption scenarios and analogies can be generated that, when taken together, provide a more thorough picture of how human gene-editing practices might unfold in society. The question to ask for each of these components is _what information is important and how should it be weighted?_.
+In the following sections, I generate adoption scenarios for human gene-editing by tuning the legality, availability, and desirability parameters. These scenarios and analogies, when taken together, provide a more thorough picture of how human gene-editing practices might unfold in the coming years. The question to ask for each of these components is _what information is important and how should it be weighted?_.
+
+Here are some questions regarding desirability, availability, and legality that introduce other factors influencing the potential number of gene-edited births by 2030.
+
+- How many people desire to have their children gene-edited?
+    - How many people desire to treat their children through gene-editing?
+        - How might this change?
+        - Are there are alternative treatments outside of gene-editing?
+    - How many people desire to enhance their children through gene-editing?
+        - How might this change?
+        - Are there are alternative treatments outside of gene-editing?
+    - Will there be any social stigma around having gene-edited children?
+    - How painless[^9] will human gene-editing be?
+    - How effective (works as desired) will human gene-editing be?
+- How available will human gene-editing be?
+    - Will private organizations or individuals offer gene-editing services?
+        - If so, where, when, and to what extent?
+        - How easy will it be for a researcher to perform human gene-editing?
+    - How expensive will human gene-editing be?
+- Will human gene-editing be legal?
+    - If so, where, when, and to what extent?
+    - If not, then what will the repercussions be?
+
+#### *Scenarios*
 
 <!-- &emsp; Given the perspectives on human gene-editing that I explored  earlier, I think it makes most sense to begin by postulating about how people's intentions and opinions on the topic might generate different scenarios for the clinical application of human gene-editing. -->
 
+<!-- #### *Three Axes* -->
 
-#### *Legality*
+<!--
+When considering the legality of human gene-editing, legislators seem influenced primarily by the research governance policies of the ethics committees of organizations like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_,  Wikipedia's page on [genetic engineering regulation][wiki_gen2], and the book _[Human Genome Editing: Science, Ethics, and Governance][gene_book]_ provide some coverage of existing measures. Laws differ by region; for example, Singapore and Japan evaluate the permissibility of gene-editing research based on their expected risks, whereas Brazil includes regulation of human somatic gene-editing under its GMO laws (see [here][gene_book]).
 
-The legality of human gene-editing in nations is guided primarily by governance policies provided by the ethics committees of organization like the WHO or NHGRI.  The NHGRI's _[Genome Statute and Legislation Database][gen_dat]_,  Wikipedia's page on [genetic engineering regulation][wiki_gen2], and the book _[Human Genome Editing: Science, Ethics, and Governance.][gene_book]_ provide some examples of the existing measures in place that
-<!-- 
+&emsp; While I have not read over much policy outside of NHGRI's Genome Statute and Legislation Database, the general signal is that most regions strongly disincentivize the clinical application of human gene-editing. Further evidence for this is the WHO's, NHGRI's, and National Institute of Health's (NIH), among other organizations, firm stances against widespread clinical use of human genome editing.  For the most part, genetically modifying humans is out of the question. This is illustrated by the NIH's statements in [2015][s_2015] and [2018][s_2018].
+
+> [2015 statement ] However, NIH will not fund any use of gene-editing technologies in human embryos. The concept of altering the human germline in embryos for clinical purposes has been debated over many years from many different perspectives, and has been viewed almost universally as a line that should not be crossed. Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain. These include the serious and unquantifiable safety issues, ethical issues presented by altering the germline in a way that affects the next generation without their consent, and a current lack of compelling medical applications justifying the use of CRISPR/Cas9 in embryos.
+>
+> [2018 statement] Lest there be any doubt, and as we have stated previously, NIH does not support the use of gene-editing technologies in human embryos.
+
+Should some organization or individual researcher employ gene-editing in human embyros without oversight, I expect that the international response will be, at least within the next few years, very similar to that of the He Jianjui affair. This gives credence to two ideas. First, it seems highly likely that the only plausible instances of designer babies being born (in at least the next ~5 years; in subsequent sections, I will examine what this number of years should be) will come from "rouge" scientists, and second, such a ubiquitous, negative response to producing designer babies should reduce the probability that someone actually goes forth with the procedure.
+
+&emsp; Legality appears to be a function of the bioethicists' opinions,  -->
+
+Some general principles are characteristic of each of the following scenarios. In every case, designer babies will either come from the scientific community (experiments, clinical trials, etc...) or from the public. In both cases, there is some population who desires for their child/children to be gene-edited, either for treatment or enhancement purposes, and there is some subset of this population that might someday actually have this desire realized (the ones who desired it AND had it done). The pool of people who desire to have their children gene-edited changes over time, but to approximate its present size, I refer back to the PEW Research survey in 2020 of 20 publics.  
+
+#### *Analogies*
+
+
+
+
+<!--
 Legality and responses  to human gene heavily disincentive human gene-editing. The policies in place seem to be a function of bioethicist opinion, understanding of teh consequences.
 
 Availability is a function of legality, the cost of the technology -->
 
-[wiki_gen2]: https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering "https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering"
 
-[gen_dat]: https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database "https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database"
 
-Present legality:
-
-Statement for Legality:
-
-Sanity Check for Legality:
+<!-- Sanity Check for Legality:
 
 - _Am I missing any pertinent information?_:
 - _Am I weighting more recent events more heavily?_
 - _Am I misunderstanding causal events?_
 - _Am I thinking wishfully?_
 - _Are my forecasts going to affect the forecasting target?_
-- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point?
-
-#### *Availability*
-
-
-#### *Desirability*
+- _Where have I anchored myself relative to the community prediction?_ Are my forecasts too close to an initial reference point? -->
 
 <!-- Scenario forecasting:
 Have you generated scenarios based on possible factors/drivers,
@@ -218,23 +248,6 @@ What percent of people are born with disabilities?
 How many of them would really want this?
   Hereitably AND detectable disabilities? -->
 
-
-<!-- _Several scenarios I've thought about for how the adoption of human gene-editing might turn out over the coming decades._ -->
-
-<!-- Isolated Use Cases
-
-Steady Use Cases
-
-Explosive Treatment Use Cases
-
-Explosive General Use Cases -->
-
-
-
-.
-
-
-
 ## Appendix
 
 #### *Armsby et al. Survey Figures*
@@ -252,6 +265,100 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 ![](/assets/images/design_babies_p1/GenEn_AttitudesOpinions2_2017.jpg)
 
 ## Link Bibliography
+
+(these are currently unordered; I will try to fix this in the near-term future)
+
+- <https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos>
+- <https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-claim-first-gene-edited-babies-chinese-researcher>
+- <https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering>
+- <https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database>
+- <https://hbr.org/2014/05/a-simple-tool-for-making-better-forecasts>
+- <https://www.cmu.edu/tepper/programs/phd/program/assets/dissertations/organizational-behavior-and-theory-haran-dissertation.pdf>
+- <https://otexts.com/fpp2/>
+- <https://www.lesswrong.com/users/yagudin>
+- <https://www.lesswrong.com/users/sam_atis>
+- <https://www.lesswrong.com/users/elifland>
+- <https://www.lesswrong.com/posts/hTHhiZ9kGEo7r8YRS/impactful-forecasting-prize-for-forecast-writeups-on-curated>
+- <https://www.ncbi.nlm.nih.gov/books/NBK447271/>
+- <https://ivi-fertility.com/>
+- <https://www.metaculus.com/questions/>
+- <https://www.metaculus.com/accounts/profile/101341/>
+- <https://oxford.universitypressscholarship.com/view/10.1093/oso/9780197547045.001.0001/oso-9780197547045>
+- <https://en.wikipedia.org/wiki/Optimism_bias>
+- <https://www.genome.gov/Funded-Programs-Projects/ELSI-Research-Program-ethical-legal-social-implications>
+- <https://en.wikipedia.org/wiki/Social-desirability_bias>
+- <https://pubmed.ncbi.nlm.nih.gov/31599688/>
+- <https://www.genome.gov/about-genomics/educational-resources/timelines/eugenics>
+- <https://www.genome.gov/>
+- <https://www.who.int/publications/i/item/9789240030381>
+- <https://www.who.int/news/item/26-07-2019-statement-on-governance-and-oversight-of-human-genome-editing>
+- <https://en.wikipedia.org/wiki/CCR5>
+- <https://en.wikipedia.org/wiki/CRISPR_gene_editing>
+- <https://en.wikipedia.org/wiki/Southern_University_of_Science_and_Technology>
+- <https://en.wikipedia.org/wiki/Shenzhen>
+- <https://en.wikipedia.org/wiki/He_Jiankui>
+- <https://en.wikipedia.org/wiki/Appeal_to_ridicule>
+- <https://en.wikipedia.org/wiki/Eugenics>
+- <https://en.wikipedia.org/wiki/He_Jiankui_affair>
+- <https://en.wikipedia.org/wiki/Designer_baby>
+- <https://www.duq.edu/academics/faculty/henk-ten-have>
+- <https://scholar.google.com/citations?user=J-tTRHwAAAAJ>
+- <https://link.springer.com/chapter/10.1007/978-3-030-54161-3_198>
+- <https://www.mpatraoneves.pt/en/publicacoes/>
+- <https://henktenhave.org/home/>
+- <https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>
+- <https://www.pewresearch.org/>
+- <https://en.wikipedia.org/wiki/Nature_versus_nurture>
+- <https://en.wikipedia.org/wiki/Genome_editing>
+- <https://en.wikipedia.org/wiki/Embryo_quality>
+- <https://en.wikipedia.org/wiki/In_vitro_fertilisation>
+- <https://en.wikipedia.org/wiki/Semen_cryopreservation>
+- <https://en.wikipedia.org/wiki/Oocyte_cryopreservation>
+- <https://en.wikipedia.org/wiki/Transvaginal_oocyte_retrieval>
+- <https://www.uclahealth.org/obgyn/fertility>
+- <https://www.uclahealth.org/obgyn/egg-freezing>
+- <https://www.pewresearch.org/science/wp-content/uploads/sites/16/2020/12/PS_2020.12.10_international-science-religion_TOPLINE.pdf>
+- <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>
+- <https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores>
+- <https://en.wikipedia.org/wiki/Polygenic_score>
+- <https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/penn-fertility-care/embryo-screening/treatments-and-procedures>
+- <https://ivi-fertility.com/blog/embryo-screening-right-for-me/>
+- <https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis>
+- <https://healthcare.utah.edu/>
+- <https://healthcare.utah.edu/fertility/treatments/fertility-preservation/sperm-freezing/>
+- <https://www.wikipedia.org/>
+- <https://en.wikipedia.org/wiki/Heritability>
+- <https://en.wikipedia.org/wiki/Heritability_of_IQ>
+- <https://en.wikipedia.org/wiki/Human_enhancement>
+- <https://en.wikipedia.org/wiki/Fertilisation>
+- <https://en.wikipedia.org/wiki/Egg_cell>
+- <https://en.wikipedia.org/wiki/Spermatozoon>
+- <https://en.wikipedia.org/wiki/In_vitro>
+- <https://en.wikipedia.org/wiki/Menstrual_cycle>
+- <https://en.wikipedia.org/wiki/Ovary>
+- <https://en.wikipedia.org/wiki/Zygote>
+- <https://en.wikipedia.org/wiki/Embryo_culture>
+- <https://en.wikipedia.org/wiki/Uterus>
+- <https://en.wikipedia.org/wiki/Pregnancy>
+- <https://en.wikipedia.org/wiki/Ovarian_hyperstimulation_syndrome>
+- <https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome>
+- <https://en.wikipedia.org/wiki/Bleeding>
+- <https://en.wikipedia.org/wiki/Asphyxia>
+- <https://en.wikipedia.org/wiki/Airway_obstruction>
+- <https://en.wikipedia.org/wiki/Apnea>
+- <https://en.wikipedia.org/wiki/Hypotension>
+- <https://en.wikipedia.org/wiki/Pulmonary_aspiration>
+- <https://en.wikipedia.org/wiki/Propofol>
+- <https://en.wikipedia.org/wiki/Volatile_organic_compound>
+- <https://en.wikipedia.org/wiki/Embryo#Development>
+- <https://en.wikipedia.org/wiki/Incubator_(culture)>
+- <https://pubmed.ncbi.nlm.nih.gov/?term=Raposo%20VL%5BAuthor%5D&cauthor=true&cauthor_uid=31436399>
+- <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724388/>
+- <https://monoskop.org/images/3/36/Habermas_J%C3%BCrgen_The_Future_of_Human_Nature_2003.pdf>
+- <https://books.google.com/books?hl=en&lr=&id=uKX_gh6suKYC&oi=fnd&pg=PP9&ots=P3GAf5Lsru&sig=Qd1dQfEOsGpc85PVkFSmJdjwVgw#v=onepage&q&f=false>
+- <https://academic.oup.com/jmp/article-abstract/35/4/415/858384>
+- <https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion>
+
 
 ## Page Epistemics
 
@@ -312,6 +419,14 @@ The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M) for this page was lik
 [^20]: The existence of this post is partially due elifland, [sam_atis][sam_atis], and [yagudin][yag]'s _[Impactful Forecasting Contest][imp]_. They ranked 50 Metaculus questions by their impact, on the following scales: <br><br> __Decision importance__: The importance of the decisions which will be affected by this question. Should combine cause area importance + importance within cause area. __Decision relevance__: How much of an impact would this have on actual decisions if the forecast changed by a substantial amount? This factor is re-used from Nuño Sempere’s An estimate of the value of Metaculus questions. __Ease of contribution__: ​​How easy will it be for a "median generalist forecaster" to make a contribution to the analysis on this question within a few hours? e.g. questions requiring lots of domain expertise or background reading would score low here. __Neglectedness__ of contributions: How few contributions have there been on this specific question so far? How in need of attention is it? This should be subjectively evaluated using the existing count of forecasts and quantity + quality of comments/writeups.<br><br>"_A curation score was calculated, weighing decision importance at twice the other three due to it feeling like the most important factor. We chose a set of 25 questions based mainly on the curation score, but also including a diversity of cause areas and question types._"<br><br>The question that this post focuses on - _How many gene-edited babies will there be by 2029?_ - was given a score of 17.<br><br> "_Decision Importance: 3. Since He Jiankui went rogue (assuming nothing weird was going on with CCP) this has become a v. interesting Q. Important path to reduce suffering (some diseases like sickle cell will be easy to eliminate with CRISPR). Ease of contribution: 2. Fairly tricky to forecast on with no domain-specific expertise but developments here do get media coverage. Neglectedness: 3. Think there hasn't been enough discussion paid to gene-editing so fairly neglected - but decent number of forecasts, just the comments aren't *that* enlightening (yet)._"
 
 [^21]: This is the [SPIES][spy] (Subjective Probability Interval Estimates) method for judgemental forecasting; for a working example in Javascript, check out [here][spy2]. <br><br> "_This work introduces a novel method for reducing overprecision in estimates. This method, called Subjective Probability Interval Estimates (SPIES), does not directly elicit a confidence interval. Rather, it presents the judge with the entire range of values, divided into 11 intervals of equal width. These intervals can span the entire range, or, in case the value scale does not have pre-determined high and low bounds, a range that includes all plausible values, with an additional interval at each end representing all extreme values which lie outside this plausible range. The judge then estimates a probability for each interval. In case of estimating one true value, this probability is the likelihood that the interval includes the correct answer. For estimates of a population’s properties, this probability is the proportion of the population that is included in the interval. Since the SPIES range includes all possible values, the sum of these probabilities is constrained to equal exactly 100% (see Figure 1 for an illustrative example). The judge’s output, then, is a series of subjective probabilities that total 100%. These subjective probabilities can be computed for numerous types of estimates. In addition to the estimated distribution, it is possible to calculate confidence intervals of virtually any width and confidence level, by combining the SPIES’ intervals within the SPIES task. For example, from the estimate of a future temperature in Pittsburgh, as in Figure 1, it is possible to calculate the most likely 10-degree and 20-degree intervals, as well as the judge’s 70% and 90% confidence intervals, all without having to elicit the judgment from the judge multiple times. The SPIES method, then, offers great versatility and flexibility to the recipient of the estimate. In this paper I make the argument, and present data to support it, that SPIES can significantly reduce overprecision in two ways. As an elicitation method, SPIES forces the judge to consider all possible values, including ones that often go ignored in the estimation process of other, more instantiated methods. This enables judges to produce confidence intervals of greater width and better calibration. As an intervention for reducing bias, SPIES influences subsequent estimates in other elicitation formats, by inducing judges to revise their estimation process. The remainder of this dissertation will be organized in two parts, each presenting data from three 12 laboratory experiments. Part I will focus on SPIES as an elicitation method. It will present a comparison between estimates made using this method and estimates made using other methods and tests of the robustness of this difference. In Part II, I will explore how making an estimate with the SPIES method can improve the calibration of subsequent confidence interval estimates. Finally, I will discuss implications, theory extensions and possible applications of the SPIES method, within and outside the realm of cognitive research._"
+
+[s_2015]: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-nih-funding-research-using-gene-editing-technologies-human-embryos"
+
+[s_2018]: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-claim-first-gene-edited-babies-chinese-researcher "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/statement-claim-first-gene-edited-babies-chinese-researcher"
+
+[wiki_gen2]: https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering "https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering"
+
+[gen_dat]: https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database "https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database"
 
 [spy2]: https://hbr.org/2014/05/a-simple-tool-for-making-better-forecasts "https://hbr.org/2014/05/a-simple-tool-for-making-better-forecasts"
 
