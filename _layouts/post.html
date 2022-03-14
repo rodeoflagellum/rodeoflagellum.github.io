@@ -38,7 +38,7 @@ layout: default
       </time> &nbsp;
 
       {%- if page.status -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Status</a>: {{ page.status }}  &nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Status</a>: {{ page.status }} &nbsp;
       {%- endif -%}
 
       {%- if page.certainty -%}
@@ -46,15 +46,15 @@ layout: default
       {%- endif -%}
       <br>
       {%- if page.importance -%}
-      <a href="https://rodeoflagellum.github.io/cert_stat_impact/">Importance</a>: {{ page.importance}}  &nbsp;
+      <a href="https://rodeoflagellum.github.io/cert_stat_impact/">Importance</a>: {{ page.importance}} &nbsp;
       {%- endif -%}
 
       {%- if page.impact -%}
-        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }} &nbsp;
+        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }}&nbsp;
       {%- endif -%}
 
 
-      • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+      • &nbsp;Word Count: {{ page.content | number_of_words }}&nbsp;
 
       • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
 
