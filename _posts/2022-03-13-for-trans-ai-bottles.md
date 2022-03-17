@@ -21,7 +21,6 @@ the AI research community."
 {:toc}
 
 ## Motivation
-_This essay if part 
 
 #### *Adjustments*
 
