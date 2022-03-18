@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EnsembleSplice"
+title:  "A Venture in Splice Site Prediction"
 date:  2022-03-07 12:21:00 -0500
 last_edit: 2022-03-09 12:48:00 -0500
 permalink: "/res_ensemblesplice/"
@@ -10,8 +10,7 @@ importance: "3"
 impact: "5"
 tags: [machine-learning, biology, research]
 image: /assets/images/MQOhQhF8WN0.jpg
-desc: "My reflections and thoughts on a research paper that I am trying to write: EnsembleSplice: Ensemble Deep Learning
-for Splice Site Prediction."
+desc: "My reflections and thoughts on a research paper that I am trying to write."
 ---
 
 ## Table of Contents
@@ -20,6 +19,8 @@ for Splice Site Prediction."
 {:toc}
 
 ## Motivation
+
+
 
 ## Abstract
 
