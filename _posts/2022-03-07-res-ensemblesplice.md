@@ -38,7 +38,7 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 ### *Introduction*
 
-$4 \cdot 5$
+\(4 \cdot 5\)
 
 ### *Related Work*
 
