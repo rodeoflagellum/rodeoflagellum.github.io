@@ -20,7 +20,7 @@ desc: "My reflections and thoughts on a research paper that I am trying to write
 
 ## Motivation
 
-During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The program was moderately difficult for me, at least relative to another REU I was in two years prior. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
+During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The paid internship was moderately difficult for me, at least relative to another REU I was in two years prior, and was aimed at having its students write and submit original research in DL. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
 
 &emsp; All REU students had to present and submit their research progress on three separate occasions over the ten week period. These occasions were very, though not extremely, stressful. By the final presentation, the REU students were supposed to have their research ready to for submission to research journals. In my opinion, most of the research projects the REU students conducted (including my own) were low-impact - for a long time, I perceived them as "not worthy to be considered _actual science_", but have since updated this belief with the thought "while not particularly noteworthy, publicizing research is better than concealing it". All three advisors[^1] were set on getting the research of the REU students published, which makes sense, but my expectation for how intensely the advisors would push for publication was much too low. Generally speaking, the advisors were nice, albeit somewhat terse, and I frequently ate with them, especially with the school's NLP-guru + computer science department chair.
 
@@ -31,6 +31,8 @@ During the summer of the year 2021, I participated in an NSF-funded REU program 
 &emsp; As time wore on, I contacted my advisor less frequently, and eventually found comfort in using the excuse that the start of my last semester at college meant I was unable to get much done on my research[^3]. For several months, I didn't touch EnsembleSplice, and only took it up again in December 2021. The same feelings of dread returned, and I didn't do much with my code or the draft I wrote at the end of the summer. I resolved to complete the work by the end of February 2022; this didn't occur of course (planning fallacy!), and as a result my internal monologue was polluted with statements like "you weren't meant for research", "look at REU student X, he was able to get it done so elegantly", "if you had done this incrementally, you'd already be done!", "this [me not having completed EnsembleSplice in February] is proof you are inferior", and "you are such a loser".
 
 &emsp; In early March 2022, I had some sort of mental breakthrough while sitting on my couch. Some cognitive burden shifted, and now, rather than being inhibited by my fears that my work wasn't thorough, important, or efficient enough, I accepted that it was OK to completely refactor my code, to implement more tests, and to spend as much time as I wanted making things more efficient. I was motivated by a desire to leave no rock unturned in my research pipeline. As of 20 March 2022, this motivation persists. This newfound hope for EnsembleSplice also lead me to creating this page. In the rest of this post, I want to cover each of the prospective sections of my upcoming paper, and in detail, explain my reasoning, concerns, and doubts for them.
+
+__Outline__: This research seeks to use a technique from machine learning (ML) called ensemble learning to outperform state-of-the-art DL models in splice site prediction. The contribution of EnsembleSplice to science can be thought of as "an example of a method from ML/DL that has not been used for splice site prediction that outperforms some existing DL methods for splice site prediction". This is a very small contribution, and I consider it mentally to fall into the class of contributions "an example of something humanity uses ML/DL for in the early 21st century".
 
 ## Abstract
 
@@ -66,7 +68,7 @@ During the summer of the year 2021, I participated in an NSF-funded REU program 
 
 #### *Status*
 
-__"Working Draft"__: 
+__"Working Draft"__:
 
 #### *Certainty*
 
