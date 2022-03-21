@@ -38,6 +38,8 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 ### *Introduction*
 
+$4 \cdot 5$
+
 ### *Related Work*
 
 ### *Methodology*
@@ -58,7 +60,7 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 ### *Conclusion*
 
-### References
+### *References*
 
 ## Appendix
 
