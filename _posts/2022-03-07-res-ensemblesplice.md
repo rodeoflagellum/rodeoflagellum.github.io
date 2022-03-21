@@ -32,33 +32,33 @@ During the summer of the year 2021, I participated in an NSF-funded REU program 
 
 &emsp; In early March 2022, I had some sort of mental breakthrough while sitting on my couch. Some cognitive burden shifted, and now, rather than being inhibited by my fears that my work wasn't thorough, important, or efficient enough, I accepted that it was OK to completely refactor my code, to implement more tests, and to spend as much time as I wanted making things more efficient. I was motivated by a desire to leave no rock unturned in my research pipeline. As of 20 March 2022, this motivation persists. This newfound hope for EnsembleSplice also lead me to creating this page. In the rest of this post, I want to cover each of the prospective sections of my upcoming paper, and in detail, explain my reasoning, concerns, and doubts for them.
 
-__Overview of my research project__: My work seeks to use a technique from machine learning (ML) called ensemble learning to outperform state-of-the-art DL models in the task of splice site prediction. The contribution of EnsembleSplice to science can be thought of as "_an example of a method from ML/DL that has not been used for splice site prediction that outperforms some existing DL methods for splice site prediction_". This is a very small contribution and, as such, I consider it to fall into the following class of contributions: "_an example of a scientific problem humanity applied ML/DL to in the early 21st century_".
+__Overview of my research project__: My work seeks to use a technique from machine learning (ML) called ensemble learning to outperform state-of-the-art DL models in the task of splice site prediction. In particular, I ensemble a group of artificial neural networks (ANNs). The contribution of EnsembleSplice to science can be thought of as "_an example of a method from ML/DL that has not been used for splice site prediction that outperforms some existing DL methods for splice site prediction_". This is a very small contribution and, as such, I consider it to fall into the following class of contributions: "_an example of a scientific problem humanity applied ML/DL to in the early 21st century_".
 
-## Abstract
+## The Paper
 
-## Introduction
+### *Introduction*
 
-## Related Work
+### *Related Work*
 
-## Methodology
+### *Methodology*
 
-### Datasets
+#### *Datasets*
 
-### EnsembleSplice Pipeline
+#### *EnsembleSplice Pipeline*
 
-### One-hot Encoding
+#### *One-hot Encoding*
 
-### Cross Validation, Training, and Testing
+#### *Cross Validation, Training, and Testing*
 
-## Experiments and Results
+### *Experiments and Results*
 
-### Evaluation Metrics
+#### *Evaluation Metrics*
 
-### Model Benchmarking
+#### *Model Benchmarking*
 
-## Conclusion
+### *Conclusion*
 
-## References
+### References
 
 ## Appendix
 
