@@ -13,6 +13,11 @@ image: /assets/images/yashowardhan-singh-7ALIbwRkwig-unsplash.jpg
 desc: "My results and recorded internal monologue for some psychological surveys; I do not discuss the surveys themselves in this post."
 ---
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
+
 ## Motivation
 
 I came across [YourMorals.org](https://yourmorals.org/) when reading about [Gwern](https://www.gwern.net/Links)'s personality, philosophy/morals, and political leanings; YourMorals.org welcomes newcomers with the following message[^1]:
