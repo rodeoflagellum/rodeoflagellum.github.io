@@ -8,7 +8,6 @@ status: "Notes"
 certainty: "Likely"
 importance: "3"
 impact: "5"
-mathjax: yes
 tags: [machine-learning, biology, research]
 image: /assets/images/MQOhQhF8WN0.jpg
 desc: "My reflections and thoughts on a research paper that I am trying to write."
