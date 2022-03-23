@@ -12,8 +12,6 @@ desc: "My explanation for the metrics \"Certainty\", \"Status\", \"Importance\",
 
 ## Status
 
-$$ 67^4 $$
-
 My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
 
 |Status Tag|Explanation|

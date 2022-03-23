@@ -13,10 +13,6 @@ image: /assets/images/MQOhQhF8WN0.jpg
 desc: "My reflections and thoughts on a research paper that I am trying to write."
 ---
 
-++ 5 \cdot 7 ++
-
-$ 6 \cdot 19 $
-
 ## Table of Contents
 {:.no_toc}
 * TOC
