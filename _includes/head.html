@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {%- seo -%}
-  
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
   {%- feed_meta -%}
@@ -16,5 +16,21 @@
     {% include collecttags.html %}
   {% endif %}
 
-  {%- include mathjax.html -%}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      TeX: {
+        equationNumbers: {
+          autoNumber: "AMS"
+        }
+      },
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+      }
+    });
+  </script>
+
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 </head>

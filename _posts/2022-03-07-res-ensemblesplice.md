@@ -21,7 +21,9 @@ desc: "My reflections and thoughts on a research paper that I am trying to write
 
 $$ 5+7 $$
 
+<span>
 $ 6 \cdot 19 $
+</span>
 
 ## Table of Contents
 {:.no_toc}
