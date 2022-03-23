@@ -4,9 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {%- seo -%}
-
-  {% include mathjax.html %}
-
+  
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
   {%- feed_meta -%}
@@ -17,4 +15,6 @@
   {% if site.tags != "" %}
     {% include collecttags.html %}
   {% endif %}
+
+  {%- include mathjax.html -%}
 </head>

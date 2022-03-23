@@ -15,7 +15,7 @@ desc: "My reflections and thoughts on a research paper that I am trying to write
 
 \\[ x^4 + 3x^3 + 2x^2 \\]
 
-$$ x^2 + x $$
+\\[  x^2 + x \\]
 
 \\( x^2 + 7 \\)
 
