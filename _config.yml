@@ -31,8 +31,8 @@ github_username:  "rodeoflagellum"
 author: Rodeo Flagellum
 copyright: "Rodeo Flagellum 2022"
 
-# Should I use this?
-markdown: pandoc
+# # Should I use this?
+# markdown: pandoc
 
 
 
