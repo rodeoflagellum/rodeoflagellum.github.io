@@ -34,7 +34,7 @@ copyright: "Rodeo Flagellum 2022"
 # # Should I use this?
 # markdown: pandoc
 
-# markdown: kramdown
+markdown: kramdown
 
 # Build settings
 # Remove minima theme, now this is a regular theme
