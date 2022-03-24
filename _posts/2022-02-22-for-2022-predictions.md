@@ -2,16 +2,21 @@
 layout: post
 title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
-last_edit: 2022-02-28 17:38:18 -0500
+last_edit: 2022-03-23 17:38:18 -0500
 permalink: "/acx_contest_2022/"
 status: "Draft"
 certainty: "N/A"
 importance: "3.5/10"
 impact: "1/10"
-tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
+tags: [forecasting, prediction]
 desc: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 ---
+
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
 
 From Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
 
@@ -25,7 +30,11 @@ The winner will get eternal glory (realistically: mentioned on an Open Thread) a
 - Give [feedback](https://docs.google.com/forms/d/14TY66nT7Q4EGb2hauCubPY5P2eFGsN1gUZ5Z9VBk5kM/viewform?edit_requested=true) on the contest here
 - And once again, the form where you take the contest is here
 
-## Prediction Table
+## Question Topics and Aggregated Predictions
+
+![](/assets/images/acx_table.png)
+
+## My Predictions
 
 |Question|Rodeo's Prediction|Scott's Prediction|FP's Prediction|Yglesias's Predictions|Outcome|
 |:---|:---|:---|:---|:---|:---|

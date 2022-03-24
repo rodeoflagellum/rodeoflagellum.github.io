@@ -10,6 +10,11 @@ image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 desc: "My explanation for the metrics \"Certainty\", \"Status\", \"Importance\", and \"Impact\" that I use on many of my posts; I also provide my motivation for including these."
 ---
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
+
 ## Status
 
 My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
