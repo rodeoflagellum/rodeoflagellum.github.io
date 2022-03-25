@@ -2,7 +2,7 @@
 layout: post
 title:  "EnsembleSplice"
 date:  2022-03-07 12:21:00 -0500
-last_edit: 2022-03-20 12:48:00 -0500
+last_edit: 2022-03-25 12:48:00 -0500
 permalink: "/res_ensemblesplice/"
 status: "Notes"
 certainty: "Likely"
@@ -18,7 +18,9 @@ desc: "My reflections and thoughts on a research paper that I am trying to write
 * TOC
 {:toc}
 
-## Motivation
+
+
+## [Motivation](#motivation)
 
 During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The paid internship was moderately difficult for me, at least relative to another REU I was in two years prior, and was aimed at having its students write and submit original research in DL. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
 
@@ -34,11 +36,24 @@ During the summer of the year 2021, I participated in an NSF-funded REU program 
 
 __Overview of my research project__: My work seeks to use a technique from machine learning (ML) called ensemble learning to outperform state-of-the-art DL models in the task of splice site prediction. In particular, I ensemble a group of artificial neural networks (ANNs). The contribution of EnsembleSplice to science can be thought of as "_an example of a method from ML/DL that has not been used for splice site prediction that outperforms some existing DL methods for splice site prediction_". This is a very small contribution and, as such, I consider it to fall into the following class of contributions: "_an example of a scientific problem humanity applied ML/DL to in the early 21st century_".
 
-## The Paper
+__Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
-### *Introduction*
+## Paper v0
 
-\(4 \cdot 5\)
+
+## A Work in Progress
+
+### *Abstract*
+
+> __Motivation__: Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
+>
+__Results__: We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for _Homo sapiens_ and _Arabidopsis thaliana_, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.
+>
+__Availability:__ Code is made available for reproducibility purposes at <https://github.com/OluwadareLab/EnsembleSplice>.
+>
+__Contact__: [my advisor's email]
+
+### _[*Introduction*](#paper-v0-introduction)_
 
 ### *Related Work*
 
@@ -61,6 +76,8 @@ __Overview of my research project__: My work seeks to use a technique from machi
 ### *Conclusion*
 
 ### *References*
+
+## Final Submission
 
 ## Appendix
 

@@ -7,6 +7,10 @@
 
   {% include mathjax.html %}
 
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
   {%- feed_meta -%}
