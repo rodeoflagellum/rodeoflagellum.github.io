@@ -42,6 +42,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+google_analytics: "G-E8HECX1ZM2"
+
 # defaults:
 #   -
 #     scope:
