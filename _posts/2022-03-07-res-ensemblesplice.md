@@ -18,8 +18,6 @@ desc: "My reflections and thoughts on a research paper that I am trying to write
 * TOC
 {:toc}
 
-
-
 ## [Motivation](#motivation)
 
 During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The paid internship was moderately difficult for me, at least relative to another REU I was in two years prior, and was aimed at having its students write and submit original research in DL. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
@@ -38,44 +36,64 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 __Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
-## Paper v0
+## [A Work in Progress](#a-work-in-progress)
+
+### [Abstract](#abstract)
+
+___Version 0___
+
+**Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
+**Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02
+**Availability:** Code is made available for reproducibility purposes at <https://github.com/OluwadareLab/EnsembleSplice>{https://github.com/OluwadareLab/EnsembleSplice}.
+**Contact:** ooluwada@uccs.edu
+
+### [Introduction](#introduction)
+
+___Version 0___
+
+Organismal genomes are studied primarily through genome annotation, which involves classifying genomic elements based on their function or location . This annotation is typically performed at the nucleotide-level to determine the locations of key genetic elements in DNA sequences, at the protein-level to evaluate proteomic function, or at the process-level to study the mechanisms underlying gene interaction .
+
+Genes responsible for protein coding are composed of alternating nucleotide regions called introns, which are the non-protein coding regions, and exons, which are the protein coding regions. During DNA transcription in eukaryotic cells, introns are cut out by spliceosomes and exons are combined together; this general process is called RNA splicing, and is critical for the creation of mature mRNA from pre-mRNA and for protein synthesis . The dinucleotides AG and GT are often present in the $3'$ intron boundary, or donor splice site (DoSS) region, and the $5'$ intron boundary, or acceptor splice site (AcSS) region, respectively, and are biological markers involved in RNA splicing  (see Figure ). Nucleotide-level annotation was designed to accurately detect the location of these splice sites, which can be used to identify genes in eukaryotic genomes; a variety of other computational approaches have also been developed for this purpose.
+
+EnsembleSplice is one such computational method, and is a deep learning pipeline that employs ensemble learning for splice site prediction. Ensemble learning methods have been shown to enhance classification results, and have, in recent years, been successfully applied within the field of bioinformatics  .
+
+We contribute the following to research on splice site prediction:
+- We develop EnsembleSplice, a DL architecture that learns from an ensemble of convolutional neural network (CNN) and dense neural network (DNN) architectures to achieve state-of-the-art performance at predicting splice sites.
+- We evaluate the performance of EnsembleSplice across three datasets and two organisms.
+- We create a usage tutorial, detail all architectural design choices, and, for reproducibility, make the code available at <https://github.com/tmartin2/EnsembleSplice>
+
+### Related Work
+
+___Version 0___
+
+The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance . Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed . While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.
+
+Deep learning (DL), along with better computing architectures, has largely solved these issues. In recent years, splice site prediction has been done using deep neural networks (NNs), including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). CNNs are the most frequently adopted architecture, and deviate widely in their depth (number of layers) and parameters across studies. SpliceRover, SpliceFinder, DeepSplicer, DeepSS, Spliceator, and iss-CNN, among others,   employ CNNs. In some instances, such as that of Splice2Deep, multiple CNN models are created and the results are aggregated to produce a best final estimate . Typically, human true and false donor and acceptor sites are one-hot-encoded and batch feed into these architectures, which perform automatic feature extraction, and exceed the earlier ML techniques in terms of their classification accuracy. Other DL methods such as the long-short term memory (LSTM) neural network or recurrent neural network (RNN), which both are sequence learning networks and often employed in time series analyses, have been used on genomic DNA. A notable example is SpliceViNCI, which consists of a bidirectional LSTM augmented with integrated gradients .
+
+### Methodology
+
+#### Datasets
+
+___Version 0___
+
+Each dataset used in this paper consists of both confirmed true (positive) DoSS/AcSS and confirmed false (negative) AcSS/DoSS. Evaluation of classification performance is separated by splice site type, which means that one model is trained to distinguish between false/true DoSS regions and another is trained to distinguish between false/true AcSS regions. It is important to note that EnsembleSplice is tested on both imbalanced datasets (HS$^3$D) and balanced ones (*Homo sapiens* and *Arabidopsis thaliana*). See Table .
 
 
-## A Work in Progress
+#### EnsembleSplice Pipeline
 
-### *Abstract*
+#### One-hot Encoding
 
-> __Motivation__: Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
->
-__Results__: We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for _Homo sapiens_ and _Arabidopsis thaliana_, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.
->
-__Availability:__ Code is made available for reproducibility purposes at <https://github.com/OluwadareLab/EnsembleSplice>.
->
-__Contact__: [my advisor's email]
+#### Cross Validation, Training, and Testing
 
-### _[*Introduction*](#paper-v0-introduction)_
+### Experiments and Results
 
-### *Related Work*
+#### Evaluation Metrics
 
-### *Methodology*
+#### Model Benchmarking
 
-#### *Datasets*
+### Conclusion
 
-#### *EnsembleSplice Pipeline*
-
-#### *One-hot Encoding*
-
-#### *Cross Validation, Training, and Testing*
-
-### *Experiments and Results*
-
-#### *Evaluation Metrics*
-
-#### *Model Benchmarking*
-
-### *Conclusion*
-
-### *References*
+### References
 
 ## Final Submission
 
