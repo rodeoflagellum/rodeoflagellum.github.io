@@ -2,12 +2,14 @@
 layout: post
 title: Some Epistemical Considerations for This Site
 date: 2022-02-21 12:00:00 -0500
-last_edit: 2022-02-28 17:58:18 -0500
+last_edit: 2022-03-28 15:00:18 -0400
 permalink: /cert_stat_impact/
 status: "Draft"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "My explanation for the metrics \"Certainty\", \"Status\", \"Importance\", and \"Impact\" that I use on many of my posts; I also provide my motivation for including these."
+desc: "I want to sort knowledge and writing on this site. To do this, I employ
+various metrics. This page describes some of these metrics, along with my
+thoughts on them."
 ---
 
 ## Table of Contents
@@ -15,7 +17,11 @@ desc: "My explanation for the metrics \"Certainty\", \"Status\", \"Importance\",
 * TOC
 {:toc}
 
-## Status
+<!-- ## Main Pipeline
+
+Presently, my posts and writing pieces are not well organized, partly because I am still trying to get into the habit of writing often and because I am trying to populate this site with content. I believe that my abilities to "define" a unit of knowledge or to really _feel_ a concept are weak - I find myself struggling often with answering questions such as "how much do I actually know" or "how many nodes of evidence to I need to confidently make a claim". The fogginess that blankets my general understanding of the ways things work, except when I am pressed to produce knowledge in narrow knowledge domains, leads me to find solace in the use of measurement and metrics to characterize things. I want to understand the properties of my writing and of the concepts I write on from a meta-level perspective.
+
+- Think about what I want to write in terms of what I intend to contribute on the topic, both in terms of my own understanding of it and in terms of how it might benefit others -->
 
 My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
 

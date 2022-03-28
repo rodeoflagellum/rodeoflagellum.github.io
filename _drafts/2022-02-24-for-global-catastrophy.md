@@ -12,8 +12,6 @@ _Here I forecast on questions concerning commercial pet cloning in the 2020's - 
 
 ## First Pass
 
-
-
 ### External Links
 
 ### Appendix

@@ -40,12 +40,13 @@ __Overview of this post__: In the remaining sections, I look at the state of my 
 
 ### [Abstract](#abstract)
 
-___Version 0___
 
-**Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
-**Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02
-**Availability:** Code is made available for reproducibility purposes at <https://github.com/OluwadareLab/EnsembleSplice>{https://github.com/OluwadareLab/EnsembleSplice}.
-**Contact:** ooluwada@uccs.edu
+> **Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
+>
+**Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.
+>
+**Availability:** Code is made available for reproducibility purposes at [GitHub repository].\\
+**Contact:** [advisor's email address]
 
 ### [Introduction](#introduction)
 
@@ -100,24 +101,6 @@ Each dataset used in this paper consists of both confirmed true (positive) DoSS/
 ## Appendix
 
 ## Link Bibliography
-
-## Page Epistemics
-
-#### *Status*
-
-__"Working Draft"__:
-
-#### *Certainty*
-
-__"Somewhat Likely"__:
-
-#### *Importance*
-
-__"7.5/10"__:
-
-#### *Impact*
-
-__"3/10"__:
 
 ## Notes
 
