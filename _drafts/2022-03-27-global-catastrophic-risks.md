@@ -75,6 +75,7 @@ Here are questions that I am accumulating in the subject[^1].
 
 ## [Open Questions](#questions)
 
+
 ## [Glossary](#glossary)
 
 ## [Index](#index)
