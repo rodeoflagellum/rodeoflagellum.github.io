@@ -13,12 +13,13 @@ image: /assets/images/MQOhQhF8WN0.jpg
 desc: "My reflections and thoughts on a research paper that I am trying to write."
 ---
 
-## Table of Contents
+# Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
 
-## [Motivation](#motivation)
+# [Motivation](#motivation)
+_My description of where this research enterprise started, where I currently am with it, and where I would like for it to end._
 
 During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The paid internship was moderately difficult for me, at least relative to another REU I was in two years prior, and was aimed at having its students write and submit original research in DL. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
 
@@ -36,67 +37,115 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 __Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
-## [A Work in Progress](#a-work-in-progress)
+# [A Work in Progress](#a-work-in-progress)
+_My current progress on EnsembleSplice, along with detailed notes on my considerations for each tentative section of the paper._
 
-### [Abstract](#abstract)
+## [Abstract](#abstract)
+_The abstract of the paper. Originally, this was section was formatted in the AAAI fashion, but later changed to the formatting for BMC Bioinformatics._
 
 
-> **Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
+> [section state at the tail of the 2021 summer]
+>
+**Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
 >
 **Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.
 >
-**Availability:** Code is made available for reproducibility purposes at [GitHub repository].\\
+**Availability:** Code is made available for reproducibility purposes at [GitHub repository].
+>
 **Contact:** [advisor's email address]
 
-### [Introduction](#introduction)
+## [Introduction](#introduction)
+_The introduction of the paper. With this section, I desire to introduce splice site prediction and the ensembling method used in EnsembleSplice._
 
-___Version 0___
-
+> [section state at the tail of the 2021 summer]
+>
 Organismal genomes are studied primarily through genome annotation, which involves classifying genomic elements based on their function or location . This annotation is typically performed at the nucleotide-level to determine the locations of key genetic elements in DNA sequences, at the protein-level to evaluate proteomic function, or at the process-level to study the mechanisms underlying gene interaction .
-
-Genes responsible for protein coding are composed of alternating nucleotide regions called introns, which are the non-protein coding regions, and exons, which are the protein coding regions. During DNA transcription in eukaryotic cells, introns are cut out by spliceosomes and exons are combined together; this general process is called RNA splicing, and is critical for the creation of mature mRNA from pre-mRNA and for protein synthesis . The dinucleotides AG and GT are often present in the $3'$ intron boundary, or donor splice site (DoSS) region, and the $5'$ intron boundary, or acceptor splice site (AcSS) region, respectively, and are biological markers involved in RNA splicing  (see Figure ). Nucleotide-level annotation was designed to accurately detect the location of these splice sites, which can be used to identify genes in eukaryotic genomes; a variety of other computational approaches have also been developed for this purpose.
-
-EnsembleSplice is one such computational method, and is a deep learning pipeline that employs ensemble learning for splice site prediction. Ensemble learning methods have been shown to enhance classification results, and have, in recent years, been successfully applied within the field of bioinformatics  .
-
+>
+&emsp; Genes responsible for protein coding are composed of alternating nucleotide regions called introns, which are the non-protein coding regions, and exons, which are the protein coding regions. During DNA transcription in eukaryotic cells, introns are cut out by spliceosomes and exons are combined together; this general process is called RNA splicing, and is critical for the creation of mature mRNA from pre-mRNA and for protein synthesis . The dinucleotides AG and GT are often present in the $3'$ intron boundary, or donor splice site (DoSS) region, and the $5'$ intron boundary, or acceptor splice site (AcSS) region, respectively, and are biological markers involved in RNA splicing  (see Figure ). Nucleotide-level annotation was designed to accurately detect the location of these splice sites, which can be used to identify genes in eukaryotic genomes; a variety of other computational approaches have also been developed for this purpose.
+>
+![](/assets/images/ensemblesplice/splicing.png){: width=40% }
+>
+&emsp; EnsembleSplice is one such computational method, and is a deep learning pipeline that employs ensemble learning for splice site prediction. Ensemble learning methods have been shown to enhance classification results, and have, in recent years, been successfully applied within the field of bioinformatics.
+>
 We contribute the following to research on splice site prediction:
+>
 - We develop EnsembleSplice, a DL architecture that learns from an ensemble of convolutional neural network (CNN) and dense neural network (DNN) architectures to achieve state-of-the-art performance at predicting splice sites.
 - We evaluate the performance of EnsembleSplice across three datasets and two organisms.
-- We create a usage tutorial, detail all architectural design choices, and, for reproducibility, make the code available at <https://github.com/tmartin2/EnsembleSplice>
+% , comparing model accuracies across species and examining the transfer learning capabilities between genomes.
+- We create a usage tutorial, detail all architectural design choices, and, for reproducibility, make the code available at [GitHub repository].
 
-### Related Work
+## [Related Work](#related-work)
 
-___Version 0___
+_A glance at some historical remarks on deep learning being used for splice site prediction._
 
-The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance . Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed . While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.
+> [section state at the tail of the 2021 summer]
+>
+The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance. Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed. While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.
+>
+&emsp; Deep learning (DL), along with better computing architectures, has largely solved these issues. In recent years, splice site prediction has been done using deep neural networks (NNs), including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). CNNs are the most frequently adopted architecture, and deviate widely in their depth (number of layers) and parameters across studies. SpliceRover, SpliceFinder, DeepSplicer, DeepSS, Spliceator, and iss-CNN, among others, employ CNNs. In some instances, such as that of Splice2Deep, multiple CNN models are created and the results are aggregated to produce a best final estimate. Typically, human true and false donor and acceptor sites are one-hot-encoded and batch feed into these architectures, which perform automatic feature extraction, and exceed the earlier ML techniques in terms of their classification accuracy. Other DL methods such as the long-short term memory (LSTM) neural network or recurrent neural network (RNN), which both are sequence learning networks and often employed in time series analyses, have been used on genomic DNA. A notable example is SpliceViNCI, which consists of a bidirectional LSTM augmented with integrated gradients.
 
-Deep learning (DL), along with better computing architectures, has largely solved these issues. In recent years, splice site prediction has been done using deep neural networks (NNs), including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). CNNs are the most frequently adopted architecture, and deviate widely in their depth (number of layers) and parameters across studies. SpliceRover, SpliceFinder, DeepSplicer, DeepSS, Spliceator, and iss-CNN, among others,   employ CNNs. In some instances, such as that of Splice2Deep, multiple CNN models are created and the results are aggregated to produce a best final estimate . Typically, human true and false donor and acceptor sites are one-hot-encoded and batch feed into these architectures, which perform automatic feature extraction, and exceed the earlier ML techniques in terms of their classification accuracy. Other DL methods such as the long-short term memory (LSTM) neural network or recurrent neural network (RNN), which both are sequence learning networks and often employed in time series analyses, have been used on genomic DNA. A notable example is SpliceViNCI, which consists of a bidirectional LSTM augmented with integrated gradients .
+## Methodology
 
-### Methodology
+_Coverage of the EnsembleSplice architecture, along with the methods and datasets used to study EnsembleSplice._
 
-#### Datasets
+### Datasets
 
-___Version 0___
+>Each dataset used in this paper consists of both confirmed true (positive) DoSS/AcSS and confirmed false (negative) AcSS/DoSS. Evaluation of classification performance is separated by splice site type, which means that one model is trained to distinguish between false/true DoSS regions and another is trained to distinguish between false/true AcSS regions. It is important to note that EnsembleSplice is tested on both imbalanced datasets (HS$^3$D) and balanced ones (*Homo sapiens* and *Arabidopsis thaliana*). See Table .
 
-Each dataset used in this paper consists of both confirmed true (positive) DoSS/AcSS and confirmed false (negative) AcSS/DoSS. Evaluation of classification performance is separated by splice site type, which means that one model is trained to distinguish between false/true DoSS regions and another is trained to distinguish between false/true AcSS regions. It is important to note that EnsembleSplice is tested on both imbalanced datasets (HS$^3$D) and balanced ones (*Homo sapiens* and *Arabidopsis thaliana*). See Table .
+#### HS$^3$D.
 
+>The Homo Sapiens Splice Sites Dataset (HS$^3$D) consists of human genomic DNA introns and exons extracted from the Primate Division of GenBank Rel.123. There are 2,796 confirmed positive DoSS regions, 2,880 confirmed positive AcSS regions, 271,937 confirmed negative DoSS regions, and 329,374 confirmed negative AcSS regions. This paper randomly selects 10000 false DoSS regions and 10000 false AcSS regions from the 271,937 and 329,374 available in the dataset, respectively; the Python code ```random.seed(123454)``` is used to shuffle the entire HS$^3$D dataset before the false DoSS and false AcSS subsets are selected. The nucleotide consensus AG for AcSS regions occurs at positions 69 and 70, and the nucleotide consensus GT for DoSS regions occurs at positions 71 and 72. The HS$^3$D dataset can be accessed at <http://www.sci.unisannio.it/docenti/rampone/>.
 
-#### EnsembleSplice Pipeline
+#### *Homo sapiens* and *Arabidopsis thaliana*.
 
-#### One-hot Encoding
+>The *Homo sapiens* and *Arabidopsis thaliana* datasets consist of splice site regions selected from annotated genomic DNA sequences for *Homo sapiens* and *Arabidopsis thaliana* in Ensembl . The peripheral nucleotide sequences padding each AcSS or DoSS were determined via Bedtools . Each splice  site region in the datasets is $602$ nucleotides long; each DoSS region has consensus GT at positions $301$ and $302$, and each AcSS has consensus AG also at positions $301$ and $302$. In the  *Homo sapiens* dataset, there are $250,400$ confirmed positive and negative DoSS regions, and $248,150$ confirmed positive and negative AcSS regions. The *Arabidopsis thaliana* dataset includes $110,314$ confirmed positive and negative DoSS regions, and $112,336$ confirmed positive and negative AcSS regions. The confirmed negative AcSS and DoSS regions were selected from chromosomes $21$, $2$, $2L$, $1$, and $I$. Again, this paper randomly selects $8000$ true/false DoSS regions and $8000$ true/false AcSS regions from both datasets. As with the HS$^3$D dataset, the Python code ```random.seed(123454)``` is used for shuffling the *Homo sapiens* and *Arabidopsis thaliana* datasets before the DoSS and AcSS subsets are selected. The *Homo sapiens* and *Arabidopsis thaliana* datasets can be accessed at <https://github.com/SomayahAlbaradei/Splice_Deep>.
+>
+![](/assets/images/ensemblesplice/t1.png){: width=40% }
 
-#### Cross Validation, Training, and Testing
+### EnsembleSplice Pipeline
 
-### Experiments and Results
+>We now propose EnsembleSplice, a DL architecture that consists of an ensemble of three CNN and three DNN sub-models, for the task of splice site detection. See Figure 2 for the full architecture.
+>
+>The sub-models in EnsembleSplice generate predictions for whether genomic DNA input sequences are positive DoSS or negative DoSS, or if the AcSS model is being used, for whether the sequences are positive AcSS or negative AcSS. These binary predictions are then aggregated (stacked) into a new dataset, where each sub-model's predictions become a column vector, and this dataset is then fed into a Logistic Regression classifier, which produces the final predictions for the inputted sequences.
+>
+Consider a family \\[ \mathcal{D} = \{S_0, S_1, \dotsc, S_n\} \\] of nucleotide splice site regions. We have the ordered set \\[S_i = \{x_1, x_2, \dotsc, x_{\|S_i\|}\}\\] where $S_i$ is the $i$-th nucleotide splice site region, and \\[x_j \in X = \{\text{A}, \text{C}, \text{G}, \text{T}\}\text{, } 0 \leq j \leq \|S_i\| \\]
+For all $0 \leq i \leq n$, $S_i$ is encoded as a $\|S_i\| \times \|X\|$ binary matrix through one-hot encoding. These encoded sequences are fed to the three CNNs and three DNNs.
+>
+>Each CNN sub-model in EnsembleSplice is composed of three convolutional layers and a dropout layer. The convolutional layers automatically extract local and global features from the AcSS or DoSS input sequences. In particular, these layers form complex representations of the sequences, and are the components of the CNN that allow it to accurately discriminate between the true/false acceptor/donor sites. The first layer has $72$ convolutional filters and a kernel size of $5$, the second layer has $144$ convolutional filters and a kernel size of $7$, and the third layer has $168$ convolutional filters and a kernel size of $7$. Each convolutional layer employs the $ReLU$ activation function as its final component; this removes noisy or otherwise irrelevant features, thus improving feature selection . Additionally, each convoluational layer has a stride size of $1$. Next, a dropout layer prunes a percentage ($20\%$) of each network's total convolutional nodes, which limits the co-dependencies each node in the network has on other nodes in the network, subsequently reducing model overfitting . Lastly, the output is fed through a $Softmax$ activation function, which produces, for each given input sequence, a probability of that sequence being a true/false acceptor/donor site. The ADAM optimizer with an inverse time decay learning rate schedule is used during model compilation . This architecture is consistent across the CNN sub-models, and is used for both AcSS prediction and DoSS prediction. The CNN architecture parameters were selected using hyperparameter tuning. For the hyperparameter tuning, see Table .
+>
+>The DNN sub-models in EnsembleSplice consist of two fully-connected dense layers, followed by a dropout layer, another fully-connected dense layer, and another dropout layer. The first two fully-connected dense layers have $704$ and $224$ nodes, respectively, and both use a kernel regularizer with an L2 regularization penalty of $0.025$. The third fully-connected densee layer has $512$ nodes, but uses no regularization penalties. The first dropout layer prunes $10\%$ of the DNN's nodes and the second dropout layer prunes $15\%$. Each fully-connected layer incorporates the $ReLU$ activation function. Identical to the CNN sub-models, the output layer is a $Softmax$ activation function and model compilation for the DNN sub-models is completed via the ADAM optimizer with an inverse time decay learning rate schedule. All DNN sub-models use this architecture for both AcSS prediction and DoSS prediction, and the parameters for this architecture were also selected using hyperparameter tuning.
+>
+> EnsembleSplice is implemented via the TensorFlow/Keras framework . For all experiments conducted, $30$ was the maximal number of epochs used for training. The early model stopping callback, which ceases training if the model's validation loss does not improve for a selected number of epochs, was used during training and validation, which occurred in Google Colaboratory <https://colab.research.google.com/>{https://colab.research.google.com/} and made use of Graphical Processing Unit (GPU) hardware. Cross validation was used for initial CNN and DNN sub-model architecture testing.
+>
+![](/assets/images/ensemblesplice/t2.png){: width=40% }
 
-#### Evaluation Metrics
+### One-hot Encoding
 
-#### Model Benchmarking
+> Genomic DNA splice site regions are composed of four nucleotides - A (Adenine), C (Cytosine), G (Guanine), or T (Thymine). Given the input constraints of DL architectures, these nucleotides are encoded numerically, as opposed to categorically. Each nucleotide corresponds to a row in a $4 \times 4$ identity matrix. The encoding scheme utilized in this paper is that A corresponds to ```[1, 0, 0, 0]```, C corresponds to ```[0, 1, 0, 0]```, G corresponds to ```[0, 0, 1, 0]```, and T corresponds to ```[0, 0, 0, 1]```. Since each splice site region consists of some $N$ nucleotides, the final numerical representation for each splice site region is a $N \times 4$ matrix, where each row is a one-hot encoded nucleotide that occurs at the same index as it did in the splice site region's original representation.
 
-### Conclusion
+### Cross Validation, Training, and Testing
 
-### References
+>
+The HS$^3$D, *Homo sapiens*, *Arabidopsis thaliana* dataset subsets were each split into a training ($80\%$ of the data) and a testing ($20\%$ of the data) subset. Cross-validation has been demonstrated to be an effective tool for model selection, and as such,
+10-fold cross validation was used for evaluating alternative EnsembleSplice sub-model architectures . For each dataset, the training subset of that dataset was partitioned into $10$ approximately equal sized subsets. Every subset was used at some point to evaluate the performance of EnsembleSplice; for each of the $10$ runs,  training occurred on $9$ subsets, and testing occurred on the last subset. The cross-validation performance for a particular dataset was the average performance over the $10$ folds. Once the sub-model architectures for EnsembleSplice were chosen, EnsembleSplice was trained on the full training subset of each dataset, and then tested **once** on the testing subset of the respective dataset. No additional training or validation occurred following the final test run; the results reported for EnsembleSplice in this paper are the performances from this final test run.
 
-## Final Submission
+## Experiments and Results
+
+### Evaluation Metrics
+
+>To measure the performance of EnsembleSplice, and to compare EnsembleSplice with with other splice site detection models, the counts of correctly identified true AcSS or DoSS (true positive, ``TP''), correctly identified false AcSS or DoSS (true negative, ``TN''), incorrectly identified true AcSS or DoSS (false positive, ``FP''), and incorrectly identified false AcSS or DoSS (false negative, ``FN'') are used. See Table 3.
+>
+![](/assets/images/ensemblesplice/t3.png){: width=40% }
+>
+From these metrics, additional metrics common to classification tasks can be used for evaluation: Accuracy (Acc) - the fraction of AcSS or DoSS correctly identified, Precision (Pre) - the fraction of positive classifications for AcSS or DoSS that were positive, Sensitivity (Sn) - the fraction of positive AcSS or DoSS with a positive classification (true positive rate), Specificity (Sp) - the fraction of negative AcSS or DoSS with a negative classification (true negative rate), Matthew's correlation coefficient (Mcc) - the correlation between true/false AcSS and DoSS and the classifications for them generated by the mode, and F$_1$ score - the harmonic means of the fraction of positive classifications for AcSS or DoSS that were positive and the fraction of positive AcSS or DoSS that were correctly identified. Lastly, the error rate measures how often the classifier misclassified the data. The equations for these metrics are in Table .
+
+### Model Benchmarking
+
+## Conclusion
+
+## References
+
+# Final Submission
 
 ## Appendix
 
