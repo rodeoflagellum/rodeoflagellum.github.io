@@ -10,15 +10,55 @@ importance: "3"
 impact: "5"
 tags: [machine-learning, biology, research]
 image: /assets/images/MQOhQhF8WN0.jpg
-desc: "My reflections and thoughts on a research paper that I am trying to write."
+desc: "My reflections and thoughts on a research paper that I am trying to write. This is mostly for me to unleash some steam after spending a lot of time working on something that I do not believe is too important."
 ---
 
-# Table of Contents
+## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
+<!--
+Orderings
+TOC
+Motivation
+A Work in Progress
+  Abstract
+  Introduction
+  Related Work
+  Methodology
+    Datasets
+      HS3D
+      Homo + Arab
+    One Hot Encoding
+    EnsembleSplice Pipeline
+    Cross Validation, Training, and Testing
+  Experiments and Results
+    Evaluation Metrics
+    Performance Benchmarking
+  Conclusion
+  Acknowledgements
+Paper Breakdown (Issues)
+  Incomplete Knowledge (abs, intro, rel)
+  Ensembling, Really?
+  Unoptimized Code
+  Hyperparameter Tuning
+  "State-of-the-art" (critique of other)
+  Its Place in Science (where this falls within science)
+Reflections
+  Was it worth it?
+  Did I have fun?
+  Would I do it again?
+Further Reading
+_Research papers and Wikipedia pages that may be interesting if you found this
+topic interesting_
+External Links
+Appendices
+Link Bibliography (all links and citations, including additional tags
+for some of the citations)
+Footnotes
+-->
 
-# [Motivation](#motivation)
+## [Motivation](#motivation)
 _My description of where this research enterprise started, where I currently am with it, and where I would like for it to end._
 
 During the summer of the year 2021, I participated in an NSF-funded REU program on deep learning (DL) and bioinformatics. The paid internship was moderately difficult for me, at least relative to another REU I was in two years prior, and was aimed at having its students write and submit original research in DL. Each week the REU students, the advisors, and some PhD students had a group check-in on the REU student's research progress. Throughout the program, advisors, PhD students, and guest lecturers taught the REU students about various DL topics, such as natural language processing (NLP) and reinforcement learning (RL).
@@ -37,56 +77,111 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 __Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
-# [A Work in Progress](#a-work-in-progress)
-_My current progress on EnsembleSplice, along with detailed notes on my considerations for each tentative section of the paper._
+## [A Work in Progress](#a-work-in-progress)
+_My current progress on EnsembleSplice._
 
-## [Abstract](#abstract)
-_The abstract of the paper. Originally, this was section was formatted in the AAAI fashion, but later changed to the formatting for BMC Bioinformatics._
+### [Abstract](#abstract)
+_The abstract of the paper; an overview of the topic and my contribution._
 
 
-> [section state at the tail of the 2021 summer]
->
-**Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.
->
-**Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.
->
-**Availability:** Code is made available for reproducibility purposes at [GitHub repository].
->
+**Motivation:** Identifying splice site (SS) regions is an important step in the genomic DNA sequencing pipelines of both biomedical and pharmaceutical research. Within this research purview, efficient and accurate SS detection is highly desirable, and a variety of computational models have been developed towards this end. In particular, neural network (NN) architectures have recently been shown to outperform classical machine learning (ML) approaches for the task of SS prediction. Despite these advances, there is still considerable potential for improvement, especially in terms of model accuracy and inter-species generalizability.\\
+**Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.\\
+**Availability:** Code is made available for reproducibility purposes at [GitHub repository].\\
 **Contact:** [advisor's email address]
 
-## [Introduction](#introduction)
-_The introduction of the paper. With this section, I desire to introduce splice site prediction and the ensembling method used in EnsembleSplice._
+### [Introduction](#introduction)
+_The introduction - an overview of the biology of splice sites._
 
-> [section state at the tail of the 2021 summer]
->
-Organismal genomes are studied primarily through genome annotation, which involves classifying genomic elements based on their function or location . This annotation is typically performed at the nucleotide-level to determine the locations of key genetic elements in DNA sequences, at the protein-level to evaluate proteomic function, or at the process-level to study the mechanisms underlying gene interaction .
->
+Organismal genomes are studied primarily through genome annotation, which involves classifying genomic elements based on their function or location . This annotation is typically performed at the nucleotide-level to determine the locations of key genetic elements in DNA sequences, at the protein-level to evaluate proteomic function, or at the process-level to study the mechanisms underlying gene interaction.\\
 &emsp; Genes responsible for protein coding are composed of alternating nucleotide regions called introns, which are the non-protein coding regions, and exons, which are the protein coding regions. During DNA transcription in eukaryotic cells, introns are cut out by spliceosomes and exons are combined together; this general process is called RNA splicing, and is critical for the creation of mature mRNA from pre-mRNA and for protein synthesis . The dinucleotides AG and GT are often present in the $3'$ intron boundary, or donor splice site (DoSS) region, and the $5'$ intron boundary, or acceptor splice site (AcSS) region, respectively, and are biological markers involved in RNA splicing  (see Figure ). Nucleotide-level annotation was designed to accurately detect the location of these splice sites, which can be used to identify genes in eukaryotic genomes; a variety of other computational approaches have also been developed for this purpose.
->
+
 ![](/assets/images/ensemblesplice/splicing.png){: width=40% }
->
-&emsp; EnsembleSplice is one such computational method, and is a deep learning pipeline that employs ensemble learning for splice site prediction. Ensemble learning methods have been shown to enhance classification results, and have, in recent years, been successfully applied within the field of bioinformatics.
->
+
+&emsp; EnsembleSplice is one such computational method, and is a deep learning pipeline that employs ensemble learning for splice site prediction. Ensemble learning methods have been shown to enhance classification results, and have, in recent years, been successfully applied within the field of bioinformatics.\\
 We contribute the following to research on splice site prediction:
->
 - We develop EnsembleSplice, a DL architecture that learns from an ensemble of convolutional neural network (CNN) and dense neural network (DNN) architectures to achieve state-of-the-art performance at predicting splice sites.
 - We evaluate the performance of EnsembleSplice across three datasets and two organisms.
 % , comparing model accuracies across species and examining the transfer learning capabilities between genomes.
 - We create a usage tutorial, detail all architectural design choices, and, for reproducibility, make the code available at [GitHub repository].
 
-## [Related Work](#related-work)
+### [Related Work](#related-work)
+_The related works - an overview of the history of splice site detection and classification._
 
-_A glance at some historical remarks on deep learning being used for splice site prediction._
-
-> [section state at the tail of the 2021 summer]
->
-The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance. Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed. While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.
->
+The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance. Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed. While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.\\
 &emsp; Deep learning (DL), along with better computing architectures, has largely solved these issues. In recent years, splice site prediction has been done using deep neural networks (NNs), including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). CNNs are the most frequently adopted architecture, and deviate widely in their depth (number of layers) and parameters across studies. SpliceRover, SpliceFinder, DeepSplicer, DeepSS, Spliceator, and iss-CNN, among others, employ CNNs. In some instances, such as that of Splice2Deep, multiple CNN models are created and the results are aggregated to produce a best final estimate. Typically, human true and false donor and acceptor sites are one-hot-encoded and batch feed into these architectures, which perform automatic feature extraction, and exceed the earlier ML techniques in terms of their classification accuracy. Other DL methods such as the long-short term memory (LSTM) neural network or recurrent neural network (RNN), which both are sequence learning networks and often employed in time series analyses, have been used on genomic DNA. A notable example is SpliceViNCI, which consists of a bidirectional LSTM augmented with integrated gradients.
 
-## Methodology
 
-_Coverage of the EnsembleSplice architecture, along with the methods and datasets used to study EnsembleSplice._
+### [Methodology](#methodology)
+_The methodology - datasets, architectures, design features, and procedures._
+
+#### [Datasets](#datasets)
+
+#### [HS3D](#hs3d)
+
+#### *[Homo sapiens & Arabidopsis thaliana](#homo-arab)*
+
+#### [One Hot Encoding](#one-hot-encoding)
+
+#### [EnsembleSplice Pipeline](#pipeline)
+
+#### [Cross Validation, Training, and Testing](#val-train-test)
+
+### [Experiments and Results](#experiments-results)
+_EnsembleSplice's performance relative to 3 other state-of-the-art DL methods for splice site detection._
+
+#### [Evaluation Metrics](#evaluation-metrics)
+
+#### [Performance Benchmarking](#performance-benchmarking)
+
+### [Conclusion](#conclusion)
+_How did EnsembleSplice do? and is it useful?_
+
+### [Acknowledgements](#acknowledgments)
+_Extending my thanks to some people (note this section is different from the that of the original paper)_
+
+## [Paper Breakdown (Issues)](#issues)
+_Criticisms of myself and the scientific community with regard to poor code implementations, researcher incentives, and minimum thresholds for scientific contributions._
+
+### [Incomplete Knowledge](#incomplete-knowledge) (abs, intro, rel)
+_Subjective estimates for how much I might be missing with my research._
+
+<!-- Hehe ### [Ensembling, Really?](#ensembling)
+_The elephant in the room - can EnsembleSplice really be said to use "ensemble learning"._ -->
+
+### [Unoptimized Code](#unoptimized-code)
+_Thoughts on how my code could be optimized, and a justification for why I don't think it is worth it to fully pursue these adjustments._
+
+### [Hyperparameter Tuning](#hparam-tuning)
+_A short discussion and series of questions on the effectiveness of hyperparamter tuning._
+
+### ["State-of-the-art"](#state-of-the-art)
+_A brief critique of research using deep learning for splice site prediction, and my thoughts on how researchers are wasting their time._
+
+### [Place in Science](#place-in-science)
+_Some commentary on where EnsembleSplice falls within science; what is its contribution,  and how will people regard it in the future?_
+
+<!-- (where this falls within science) -->
+
+## [Reflections](#reflections)
+
+### [Was it worth it?](#worth-it-question)
+
+### [Did I have fun?](#fun-question)
+
+### [Would I do it again?](#again-question)
+
+## [Further Reading](#further-reading)
+_Research papers and Wikipedia pages that may be interesting if you found this topic interesting_
+
+## [External Links](#external-links)
+## [Appendices](#appendices)
+### [Code Review](#code-review)
+### [Sub-Model Figures](#sub-model-figures)
+### [References](#references)
+## [Link Bibliography](#link-bibliography)
+
+
+
 
 ### Datasets
 
@@ -139,15 +234,20 @@ The HS$^3$D, *Homo sapiens*, *Arabidopsis thaliana* dataset subsets were each sp
 >
 From these metrics, additional metrics common to classification tasks can be used for evaluation: Accuracy (Acc) - the fraction of AcSS or DoSS correctly identified, Precision (Pre) - the fraction of positive classifications for AcSS or DoSS that were positive, Sensitivity (Sn) - the fraction of positive AcSS or DoSS with a positive classification (true positive rate), Specificity (Sp) - the fraction of negative AcSS or DoSS with a negative classification (true negative rate), Matthew's correlation coefficient (Mcc) - the correlation between true/false AcSS and DoSS and the classifications for them generated by the mode, and F$_1$ score - the harmonic means of the fraction of positive classifications for AcSS or DoSS that were positive and the fraction of positive AcSS or DoSS that were correctly identified. Lastly, the error rate measures how often the classifier misclassified the data. The equations for these metrics are in Table .
 
-### Model Benchmarking
-
-## Conclusion
 
 ## References
 
-# Final Submission
+## [Reflections](#reflections)
 
 ## Appendix
+
+### Code and Schematics
+
+### Sub-Model Figures
+
+### References
+
+###
 
 ## Link Bibliography
 

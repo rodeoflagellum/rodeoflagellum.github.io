@@ -45,17 +45,20 @@ layout: default
       {%- if page.certainty -%}
          • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Certainty</a>: {{ page.certainty }} &nbsp;
       {%- endif -%}
-      <br>
+
       {%- if page.importance -%}
-      <a href="https://rodeoflagellum.github.io/cert_stat_impact/">Importance</a>: {{ page.importance}} &nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Importance</a>: {{ page.importance }} &nbsp;
       {%- endif -%}
 
       {%- if page.impact -%}
-        • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }}&nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Impact</a>: {{ page.impact }} &nbsp;
       {%- endif -%}
 
+      {%- if page.readibility -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/cert_stat_impact/">Readibility</a>: {{ page.readibility }} &nbsp;
+      {%- endif -%}
 
-      • &nbsp;Word Count: {{ page.content | number_of_words }}&nbsp;
+      • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
 
       • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
 

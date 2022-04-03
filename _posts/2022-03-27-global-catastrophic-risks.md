@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Global Catastrophic Risks"
+title:  "Global Catastrophic and Extreme Risks"
 date:  2022-03-27 12:14:00 -0500
 permalink: "/gcr/"
 status: "Notes"
@@ -31,6 +31,7 @@ Here are questions that I am accumulating in the subject[^1].
 
 - __Future of Humanity Institute__; <https://www.fhi.ox.ac.uk/>
 - __Future of Life Institute__; <https://futureoflife.org/>
+- __Centre for Long-Term Resilience__; <https://www.longtermresilience.org/>
 - __Global Catastrophic Risk Institute__; <https://gcrinstitute.org/>
 - __Global Priorities Institute__; <http://www.globalpriorities.org/>
 - __Forethought Foundation__; <https://www.forethought.org/>
@@ -74,7 +75,6 @@ Here are questions that I am accumulating in the subject[^1].
 |||||| -->
 
 ## [Open Questions](#questions)
-
 
 ## [Glossary](#glossary)
 
