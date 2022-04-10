@@ -156,3 +156,6 @@ With the launch of NGA Images, the National Gallery of Art implemented an open a
 ___Footnotes___
 
 [^1]: I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts.
+
+
+<!-- Comments on Notes  -->

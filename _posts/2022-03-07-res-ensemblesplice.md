@@ -266,3 +266,65 @@ other advisors.
 
 [^3]: This excuse was partially true, and I still felt badly about not doing more during the remainder of my summer. Had I incrementally worked on my REU project during the fall semester, I might have gotten most of it done. Whenever I thought about the project during the semester, I felt some sort of mental collapse, and uttered
 things akin to "no, no, I can't do this, I have other work to do" internally.
+
+
+<!-- \bgroup
+\def\arraystretch{1.2}%
+\begin{table*}[htp!]
+\caption{Ensemble Selection}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+    \hline
+
+    Dataset & Splice Site & Metric & ENS1 & ENS2 & ENS3  & ENS4  & ENS5  & ENS6  & ENS7 & ENS8\\
+
+    \hline
+
+    \multirow{8}{*}{HS$^3$D} & \multirow{4}{*}{Acceptor} & Double-Fault & 0.043 & 0.000 & ? & 0.012  & ? & ? & ? & ?\\
+    & & Correlation & 0.907 & 0.960 & ? & 0.874  & ? & ? & ? & ?\\
+    & & Q-Statistic & 0.995 & 0.596 & ? & 0.782  & ? & ? & ? & ?\\
+     & & Accuracy & 0.908 & 0.954 & ? & 0.952  & ? & ? & ? & ?\\ \cline{2-11}
+    & \multirow{4}{*}{Donor} & Double-Fault & 0.027 & 0.000 & ? & 0.007  & ? & ? & ? & ?\\
+    & & Correlation & 0.946 & 0.976 & ? & 0.926  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.997 & 0.531 & ? & 0.766  & ? & ? &  ? & ?\\
+    & & Accuracy & 0.936 & 0.965 & ? & 0.965  & ? & ? & ? & ?\\
+
+    \hline
+
+    \multirow{8}{*}{\textit{Arabidopsis thaliana}} & \multirow{4}{*}{Acceptor} & Double-Fault & 0.024 & 0.008 & ? & 0.014  & ? & ? & ? & ?\\
+    & & Correlation & 0.963 & 0.933 & ? & 0.946  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.990 & 0.993 & ? & 0.981  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.912 & 0.946 & ? & 0.944  & ? & ? &  ? & ?\\ \cline{2-11}
+    & \multirow{4}{*}{Donor} & Double-Fault & 0.013 & 0.003 & ? & 0.006  & ? & ? & ? & ?\\
+    & & Correlation & 0.973 & 0.965 & ? & 0.963  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.992 & 0.985 & ? & 0.856  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.929 & 0.952 & ? & 0.954  & ? & ? &  ? & ?\\
+
+    \hline
+
+    \multirow{8}{*}{\textit{Homo sapiens}} & \multirow{4}{*}{Acceptor} & Double-Fault & 0.035 & 0.006 & ? & 0.016  & ? & ? & ? & ?\\
+    & & Correlation & 0.954 & 0.948 & ? & 0.926 & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.992 & 0.988 & ? & 0.976  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.894 & 0.939 & ? & 0.938  & ? & ? &  ?& ?\\ \cline{2-11}
+    & \multirow{4}{*}{Donor} & Double-Fault & 0.022 & 0.001 & ? & 0.009  & ? & ? & ? & ?\\
+    & & Correlation & 0.964 & 0.976 & ? & 0.948  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.993 & 0.861 & ? & 0.976  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.907 & 0.952 & ? & 0.950  & ? & ? &  ? & ?\\
+
+    \hline
+
+    \multirow{8}{*}{Averages} & \multirow{4}{*}{Acceptor} & Double-Fault & 0.034 & 0.004 & ? & 0.014  & ? & ? & ? & ?\\
+    & & Correlation & 0.941 & 0.947 & ? & 0.915  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.992 & 0.859 & ? & 0.913  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.905 & 0.946 & ? & 0.945  & ? & ? &  ? & ?\\ \cline{2-11}
+    & \multirow{4}{*}{Donor} & Double-Fault & 0.021 & 0.001 & ? & 0.007  & ? & ? & ? & ?\\
+    & & Correlation & 0.961 & 0.972 & ? & 0.946  & ? & ? &  ? & ?\\
+    & & Q-Statistic & 0.994 & 0.792 & ? & 0.866  & ? & ? &  ? & ?\\
+     & & Accuracy & 0.924 & 0.956 & ? & 0.956  & ? & ? &  ? & ?\\
+
+
+    \hline
+\end{tabular}
+\end{center}
+\label{table:all}
+\end{table*} -->
