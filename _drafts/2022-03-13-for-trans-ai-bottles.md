@@ -123,7 +123,7 @@ __Metaculus AI Safety Search Terms__
   - "logical induction"
 - Natural Language Processing (NLP)
 - Reinforcement Learning (RL)
-- Multi-modal Learning 
+- Multi-modal Learning
 
 __LessWrong AI/DL and AI Safety Search Terms__
 
@@ -288,15 +288,15 @@ __Google Scholar__
 
 ## Forecasting Questions
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="100%" height="300"></iframe>
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="100%" height="300"></iframe>
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="100%" height="300"></iframe>
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="100%" height="300"></iframe>
 
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="550" height="260"></iframe>
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
 
 
 <!-- num word count in posts,
