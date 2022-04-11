@@ -65,8 +65,6 @@ The full extent of the negative impact that could be engendered by transformativ
 
 <!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/ -->
 
-
-
  <!-- but that such impacts might originate from the DL research community is useful in that -->
 
 In this context, some prospective research questions to be addressed might be:
@@ -94,11 +92,11 @@ __Disclaimer__:
 <!-- I have never published peer-reviewed research on AI Safety. -->
 
 ## [Search Terms](#search-terms)
-_Here I
+_Here I explored different search terms_
 
 ### Metaculus Search Terms
 
-- Interpretability and Explainability
+- AI Safety, Interpretability, or Explainability
   - "ai safety"
   - "ai alignment"
   - "aligned ai"
@@ -124,11 +122,38 @@ _Here I
   - "reward modeling"
   - "logical induction"
 - Natural Language Processing (NLP)
-
 - Reinforcement Learning (RL)
-
+  - "Reinforcement Learning"
+  - "DQN", "Q-learning"
+  - "Deep Q Network"
+  - "Temporal difference learning"
+  - "Sarsa"
+  - "TD learning"
+  - "Proximal policy optimization"
 - Multi-modal Learning
-
+  - "Multimodal Machine Learning"
+  - "multimodal representation"
+  - "multimodal representation learning"
+  - "multimodal AI"
+  - "multimodal artificial intelligence"
+  - "multimodal feature learning"
+  - "multimodal observations"
+  - "Multimodal deep Learning"
+  - "Multimodal reinforcement learning"
+  - "multimodal fusion"
+  - "Multi-modal Machine Learning"
+  - "Multi-modal Machine Learning"
+  - "multi-modal representation learning"
+  - "multi-modal AI"
+  - "multi-modal artificial intelligence"
+  - "multi-modal feature learning"
+  - "multi-modal observations"
+  - "Multi-modal deep Learning"
+  - "Multi-modal reinforcement learning"
+  - "multi-modal fusion"
+  - "cross-modal learning"
+  - "multi-modality learning"
+  - "multimodality learning"
 
 ### LessWrong Search Categories
 
@@ -205,7 +230,7 @@ _Here I
   - Superintelligence
   - Whole Brain Emulation
 
-### EA Forum Search Terms
+### EA Forum Search Categories 
 
 - Global Catastrophic Risk (AI)
   - Global Catastrophic Risk (AI)
@@ -267,7 +292,7 @@ _Here I
   - Ought
   - People for the Ethical Treatment of Reinforcement Learners
 
-__FLI AI Safety Search Areas__
+### FLI Search Categories
 
 - Foundations
   - Foundations of Rational Agency
@@ -495,9 +520,6 @@ __FLI AI Safety Search Areas__
       - Detailed Audit Trails
       - Report Sufficiency
       - Causal Accounting
-
-
-
 
 ### Full Search Terms
 
