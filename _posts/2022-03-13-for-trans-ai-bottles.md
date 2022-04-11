@@ -273,6 +273,7 @@ __FLI AI Safety Search Terms__
       - History Analysis
       - Detecting Channel Switching
   - Averting Instrumental Incentives
+  
 
 ## Querying Methods
 
@@ -283,8 +284,6 @@ __OpenAlex__
 __LessWrong, EAF, Alignment Forum__
 
 __Google Scholar__
-
-##
 
 ## Forecasting Questions
 
