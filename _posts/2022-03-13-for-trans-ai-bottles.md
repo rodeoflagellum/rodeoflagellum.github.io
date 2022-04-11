@@ -21,6 +21,7 @@ the AI research community."
 {:toc}
 
 ## [Outlook](#outlook)
+_Here I provide a brief overview of the AI Safety landscape and introduce why characterizing AI Safety's place within the wider context of DL research is important_
 
 [AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is steadily growing both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3]. [Insert discussion on the Metaculus community and Open Philanthropy]
 
@@ -92,9 +93,10 @@ __Disclaimer__:
 
 <!-- I have never published peer-reviewed research on AI Safety. -->
 
-## Search Terms
+## [Search Terms](#search-terms)
+_Here I
 
-__Metaculus AI Safety Search Terms__
+### Metaculus Search Terms
 
 - Interpretability and Explainability
   - "ai safety"
@@ -122,10 +124,13 @@ __Metaculus AI Safety Search Terms__
   - "reward modeling"
   - "logical induction"
 - Natural Language Processing (NLP)
+
 - Reinforcement Learning (RL)
+
 - Multi-modal Learning
 
-__LessWrong AI/DL and AI Safety Search Terms__
+
+### LessWrong Search Categories
 
 - Basic Alignment Theory
   - AIXI
@@ -200,7 +205,7 @@ __LessWrong AI/DL and AI Safety Search Terms__
   - Superintelligence
   - Whole Brain Emulation
 
-__EA Forum AI/DL and AI Safety Search Terms__
+### EA Forum Search Terms
 
 - Global Catastrophic Risk (AI)
   - Global Catastrophic Risk (AI)
@@ -284,18 +289,33 @@ __FLI AI Safety Search Areas__
         - Follow-on Analysis
         - Impact Regularizers
           - Defined Impact Regularizer
-          - Learned IMpact Regularizer 
+          - Learned IMpact Regularizer
       - Safe exploration
       - Computational Humility
       - Mild Optimization
     - Error-Tolerant Agent Design
 
-Table
+### Full Search Terms
 
-Source | Sublevel | Term | Search Term  
 
+<!-- Node size is word count OR paper count in 2 networks
+Edges sizes are given by how many papers use both these terms
+
+Searched with AI &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with DL &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Safety &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Alignment &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+-->
 
 ## Querying Methods
+__
 
 __ArXiv__
 
