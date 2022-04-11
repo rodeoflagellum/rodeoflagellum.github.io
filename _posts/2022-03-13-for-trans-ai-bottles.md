@@ -42,35 +42,254 @@ Speculation is diverse regarding the internal form or the embodiment that an ext
 
 One particular threshold for considering the consequences of what sophisticated AI systems might "do" is in terms of human civilizational-wide change, akin to what occurred during the agricultural or industrial revolutions. In this vein, [Open Philanthropy][open_phil]{:target="_blank"} provides the following [definition][trans]{:target="_blank"} of _transformative AI_ as "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution"[^8].
 
-&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many formulations for understanding the potential impact of AI. Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems likely that if transformative AI is to be created it will stem from the DL research community; presently, 100  [Metaculus][meta]{:target="_blank"} community members assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculus members believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
+&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many formulations for understanding the potential impact of AI. Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems somewhat plausible that, in the event transformative AI is to created, it will stem from the DL research community; presently, 100 [Metaculus][meta]{:target="_blank"} community members assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculus members believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/4055/" width="100%" height="300"></iframe>
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5121/" width="100%" height="300"></iframe>
 
-The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of risks from AI as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems, predominantly in the DL community.
+The full extent of the negative impact that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of risks from AI as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, there is some credence to
+&emsp; Instrumentally speaking, ensuring that those in the DL community are at least
 
 
-(The DL community needs to key close to AI Safety)
+<!-- (The DL community needs to key close to AI Safety)
 (An idea to solve problems in AI Safety is to increase funding, and increasing talent)
 (Some researchers in DL are not interested in AI Safety)
-()
+() -->
 
 <!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/ -->
 
 
 
- but that such impacts might originate from the DL research community is useful in that
+ <!-- but that such impacts might originate from the DL research community is useful in that -->
 
-The main research questions to be addressed are
+In this context, some prospective research questions to be addressed might be:
 
-- What's the present landscape of the AI Safety community?
-- What's the present landscape of the general AI/DL research community?
-- How much of the wider AI/DL research community follows principles of AI Safety or is concerned about AI risk?
-- How might the landscape of the AI Safety community change with regard to funding, participation, and progress?
-- How might the landscape of the general AI/DL research community change with regard to funding, participation, and progress?
+- How does the amount of funding and participation in the AI Safety community affect progress in AI Safety?
+- How large is the AI Safety community relative to the general AI/DL research community? How will this change?
+- How might this change with regard to funding, participation, and progress, among other things?
+- How do the AI Safety and general AI/DL communities overlap?
+- How might this change with regard to funding, participation, and progress, among other things?
+
+<!-- [Search for DL with AI Safety terms and without AI Safety terms]
+DL with, DL without, AI safety with DL, AI safety without,
+timeliens and numbers
+
+search for occurrence of words in
+just titles
+just abstracts
+titles and abstracts
+all of the paper  -->
+
+__Contribution__:
+
+__Disclaimer__:
+
+<!-- I have never published peer-reviewed research on AI Safety. -->
+
+## Search Terms
+
+__Metaculus AI Safety Search Terms__
+
+- "ai safety"
+- "ai alignment"
+- "aligned ai"
+- "value alignment problem"
+- "reward hacking"
+- "reward tampering"
+- "tampering problem"
+- "safe exploration"
+- "robust to distributional shift"
+- "scalable oversight"
+- "explainable AI"
+- "interpretable AI"
+- "explainable model"
+- "verification for machine learning"
+- "verifiable machine learning"
+- "interpretable model"
+- "interpretable machine learning"
+- "cooperative inverse reinforcement learning"
+- "value learning"
+- "iterated amplification"
+- "preference learning"
+- "AI safety via debate"
+- "reward modeling"
+- "logical induction"
+
+__LessWrong AI/DL and AI Safety Search Terms__
+
+- Basic Alignment Theory
+  - AIXI
+  - Coherent Extrapolated Volition
+  - Complexity of Value
+  - Corrigibility
+  - Decision Theory
+  - Embedded Agency
+  - Fixed Point Theorems
+  - Goodhart's Law
+  - Goal-Directedness
+  - Infra-Bayesianism
+  - Inner Alignment
+  - Instrumental Convergence
+  - Intelligence Explosion
+  - Logical Induction
+  - Logical Uncertainty
+  - Mesa-Optimization
+  - Myopia
+  - Newcomb's Problem
+  - Optimization
+  - Orthogonality Thesis
+  - Outer Alignment
+  - Paperclip Maximizer
+  - Recursive Self-Improvement
+  - Solomonoff Induction
+  - Treacherous Turn
+  - Utility Functions
+- Engineering Alignment
+  - AI Boxing (Containment)
+  - Conservatism (AI)
+  - Debate (AI safety technique)
+  - Factored Cognition
+  - Humans Consulting HCH
+  - Impact Measures
+  - Inverse Reinforcement Learning
+  - Iterated Amplification
+  - Mild Optimization
+  - Oracle AI
+  - Reward Functions
+  - Tool AI
+  - Transparency / Interpretability
+  - Tripwire
+  - Value Learning
+- Strategy
+  - AI Governance
+  - AI Risk
+  - AI Services (CAIS)
+  - AI Takeoff
+  - AI Timelines
+  - Computing Overhang
+  - Regulation and AI Risk
+  - Transformative AI
+- Organizations
+  - AI Safety Camp
+  - CHAI (UC Berkeley)
+  - DeepMind
+  - FHI (Oxford)
+  - Future of Life Institute (FLI)
+  - MIRI
+  - OpenAI
+  - Ought
+- Other
+  - AI Capabilities
+  - GPT
+  - Language Models
+  - Machine Learning
+  - Narrow AI
+  - Neuromorphic AI
+  - Reinforcement Learning
+  - Research Agendas
+  - Superintelligence
+  - Whole Brain Emulation
+
+__EA Forum AI/DL and AI Safety Search Terms__
+
+- Global Catastrophic Risk (AI)
+  - Global Catastrophic Risk (AI)
+  - AI alignment
+  - AI boxing
+  - AI ethics
+  - AI forecasting
+  - AI race
+  - AI safety
+  - AI skepticism
+  - AI takeoff
+  - AI winter
+  - Alignment tax
+  - Anthropic capture
+  - Artificial intelligence
+  - Artificial sentience
+  - Basic AI drive
+  - Brain-computer interfaces
+  - Capability control method
+  - Collective superintelligence
+  - Comprehensive AI Services
+  - Computation hazard
+  - Economics of artificial intelligence
+  - Governance of artificial intelligence
+  - Human-level artificial intelligence
+  - Indirect normativity
+  - Infrastructure profusion
+  - Instrumental convergence thesis
+  - Intelligence explosion
+  - Malignant AI failure mode
+  - Mind crime
+  - Motivation selection method
+  - Oracle AI
+  - Orthogonality thesis
+  - Perverse instantiation
+  - Quality superintelligence
+  - Sovereign AI
+  - Speed superintelligence
+  - Superintelligence
+  - Tool AI
+  - Whole brain emulation
+- Artificial Intelligence (organizations)
+  - AI Impacts
+  - AI Safety Camp
+  - AI Safety Support
+  - Aligned AI
+  - Alignment Research Center
+  - Anthropic
+  - Center for Human-Compatible Artificial Intelligence
+  - Center for Security and Emerging Technology
+  - Centre for Long-Term Resilience
+  - Centre for the Governance of AI
+  - Charity Science Foundation
+  - DeepMind
+  - Leverhulme Center for the Future of Intelligence
+  - Machine Intelligence Research Institute
+  - Nonlinear Fund
+  - OpenAI
+  - Ought
+  - People for the Ethical Treatment of Reinforcement Learners
+
+__FLI AI Safety Search Terms__
+
+- Validation
+  - Avoiding Reward Hacking
+    - Pursuing Environmental Goals
+      - Environmental Goals
+      - Predicting Future Observations
+      - Model Lookahead
+      - History Analysis
+      - Detecting Channel Switching
+  - Averting Instrumental Incentives
+
+## Querying Methods
+
+
+
+<!-- num word count in posts,
+num of posts with this tags,
+break down into AI safety tags and
+general deep learning tags using
+FLI map
+
+LW, EAF tags all searched
+on LW, EAF, Alignment
+
+link to all these tags-->
+
+# how to categorize Safety tags
+
+## Appendix
+
+
+
+## Link Bibliography
+
+(these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
 
 [agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
 
@@ -116,11 +335,14 @@ The main research questions to be addressed are
 
 [ai_fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
 
+## Notes
 
+#### *Cover Photo*
 
-__Contribution of this post__:
+The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for this page was likely taken by [Urja Bhatt](https://unsplash.com/@urjabhatt){:target="_blank"}. I found the photo on [Unsplash](https://unsplash.com/){:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license){:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
-__Disclaimer__: I have never published peer-reviewed research on AI Safety.
+#### *Footnotes*
+
 
 [^1]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
 
@@ -140,9 +362,58 @@ __Disclaimer__: I have never published peer-reviewed research on AI Safety.
 
 [^9]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
 
+<!-- Personal Notes
+Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
+Come up with a disclaimer
+Either research changing landscape/popularity of "control mechanisms"
+(Alignment Forum, LessWrong, Google Trends, OpenAlex research base)
+Or look into restrictions and other parameters concerning computability
+(look for quotes or research that discuss this)
+
+Goals
+1. rigorous and nuanced thinking about the future of AI
+2. provide an arena for discussion and exchange of ideas regarding the future of AI, and especially the likelihood, timing, and impacts of transformative AI
+
+Original and Creative
+Synthesize at least some of the predictions made in the Forecasting AI Progress tournament
+Are well and clearly written, so that it is comprehensible and enjoyable to read
+
+⅔ weight given to essay quality, and ⅓ weight given to relevance
+
+Forum query methods; https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates
+
+https://api.openalex.org/works?search=transformative%20ai,ai%20safety
+
+Search all LessWrong tags relating to AI in the literature
+
+Additional Topics
+Can we map the disagreements between notable figures in the AI risk community, as presented in the Late 2021 MIRI Conversations, onto disagreements about quantifiable predictions? Which views do we expect to imply predictions that we think are likely to fare better, and why?
+
+Build off of Reframing Superintelligence
+Is Deep Learning sufficient for achieving Transformative AI (roughly, AI that precipitates a transition comparable to the agricultural or industrial revolution), if not, how many new substantial insights might be needed?
+
+What fraction of the field of AI will be dedicated to working on AI Safety, broadly defined? Will the field have substantial influence on how AI systems are designed, tested and/or deployed? Justify your views with, amongst other things, reference to quantitative predictions.-->
 
 
+<!-- ### LessWrong
 
+### EA-Forum
+
+### Alignment Forum
+
+### OpenAlex
+
+## Question 1
+
+## Question 2
+
+## Question 3
+
+## Discussion
+
+## Forecasts  
+
+## Conclusion -->
 
 <!--
 and seems to be steadily growing both in terms of popularity and funding. Concern regarding AI systems or intelligent machines has been around for some time f
@@ -180,37 +451,6 @@ https://aisafety.com/2017/09/26/map-ai-safety-community/
 --- -->
 
 
-
-
-
-## Querying
-
-### ArXiv
-
-Link: https://arxiv.org/search/advanced?terms-0-operator=AND&terms-0-term=%22ai+safety%22&terms-0-field=all&terms-1-operator=OR&terms-1-term=%22ai+alignment%22&terms-1-field=all&terms-2-operator=OR&terms-2-term=%22aligned+ai%22&terms-2-field=all&terms-3-operator=OR&terms-3-term=%22value+alignment+problem%22&terms-3-field=all&terms-4-operator=OR&terms-4-term=%22reward+hacking%22&terms-4-field=all&terms-5-operator=OR&terms-5-term=%22reward+tampering%22&terms-5-field=all&terms-6-operator=OR&terms-6-term=%22tampering+problem%22&terms-6-field=all&terms-7-operator=OR&terms-7-term=%22safe+exploration%22&terms-7-field=all&terms-8-operator=OR&terms-8-term=%22robust+to+distributional+shift%22&terms-8-field=all&terms-9-operator=OR&terms-9-term=%22scalable+oversight%22&terms-9-field=all&terms-10-operator=OR&terms-10-term=%22explainable+AI%22&terms-10-field=all&terms-11-operator=OR&terms-11-term=%22interpretable+AI%22&terms-11-field=all&terms-12-operator=OR&terms-12-term=%22explainable+model%22&terms-12-field=all&terms-13-operator=OR&terms-13-term=%22verification+for+machine+learning%22&terms-13-field=all&terms-14-operator=OR&terms-14-term=%22verifiable+machine+learning%22&terms-14-field=all&terms-15-operator=OR&terms-15-term=%22interpretable+model%22&terms-15-field=all&terms-16-operator=OR&terms-16-term=%22interpretable+machine+learning%22&terms-16-field=all&terms-17-operator=OR&terms-17-term=%22cooperative+inverse+reinforcement+learning%22&terms-17-field=all&terms-18-operator=OR&terms-18-term=%22value+learning%22&terms-18-field=all&terms-19-operator=OR&terms-19-term=%22iterated+amplification%22&terms-19-field=all&terms-20-operator=OR&terms-20-term=%22preference+learning%22&terms-20-field=all&terms-21-operator=OR&terms-21-term=%22AI+safety+via+debate%22&terms-21-field=all&terms-22-operator=OR&terms-22-term=%22reward+modeling%22&terms-22-field=all&terms-23-operator=OR&terms-23-term=%22logical+induction%22&terms-23-field=all&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date_first&abstracts=show&size=50&order=-announced_date_first
-
-<!-- ### LessWrong
-
-### EA-Forum
-
-### Alignment Forum
-
-### OpenAlex
-
-## Question 1
-
-## Question 2
-
-## Question 3
-
-## Discussion
-
-## Forecasts  
-
-## Conclusion -->
-
-## Appendix
-
 <!-- LessWrong (by tag, word count)
 EAF (by tag, word count)
 Alignment Forum (by tag, word count)
@@ -223,49 +463,3 @@ When does having more researchers improve safety?
 
 Generate csv of the tags counts  Count appeared unique post | Number of times overall | Average count per year
 Graphs of counts over time for batches of ~15 tags -->
-
-## Link Bibliography
-
-(these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
-
-## From Reading
-
-<!-- Personal Notes
-Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
-Come up with a disclaimer
-Either research changing landscape/popularity of "control mechanisms"
-(Alignment Forum, LessWrong, Google Trends, OpenAlex research base)
-Or look into restrictions and other parameters concerning computability
-(look for quotes or research that discuss this)
-
-Goals
-1. rigorous and nuanced thinking about the future of AI
-2. provide an arena for discussion and exchange of ideas regarding the future of AI, and especially the likelihood, timing, and impacts of transformative AI
-
-Original and Creative
-Synthesize at least some of the predictions made in the Forecasting AI Progress tournament
-Are well and clearly written, so that it is comprehensible and enjoyable to read
-
-⅔ weight given to essay quality, and ⅓ weight given to relevance
-
-Forum query methods; https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates
-
-https://api.openalex.org/works?search=transformative%20ai,ai%20safety
-
-Search all LessWrong tags relating to AI in the literature
-
-Additional Topics
-Can we map the disagreements between notable figures in the AI risk community, as presented in the Late 2021 MIRI Conversations, onto disagreements about quantifiable predictions? Which views do we expect to imply predictions that we think are likely to fare better, and why?
-
-Build off of Reframing Superintelligence
-Is Deep Learning sufficient for achieving Transformative AI (roughly, AI that precipitates a transition comparable to the agricultural or industrial revolution), if not, how many new substantial insights might be needed?
-
-What fraction of the field of AI will be dedicated to working on AI Safety, broadly defined? Will the field have substantial influence on how AI systems are designed, tested and/or deployed? Justify your views with, amongst other things, reference to quantitative predictions.-->
-
-## Notes
-
-#### *Cover Photo*
-
-The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for this page was likely taken by [Urja Bhatt](https://unsplash.com/@urjabhatt){:target="_blank"}. I found the photo on [Unsplash](https://unsplash.com/){:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license){:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
-
-#### *Footnotes*
