@@ -22,7 +22,11 @@ the AI research community."
 
 ## [Outlook](#outlook)
 
-[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is steadily growing both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3].
+[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is steadily growing both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3]. [Insert discussion on the Metaculus community and Open Philanthropy]
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7418/" width="100%" height="300"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7419/" width="100%" height="300"></iframe>
 
 &emsp; Nestled in the wider [deep learning][dl]{:target="_blank"} (DL) and AI community, the "safety" in AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity. AI systems and their wrath is often a theme of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
 
@@ -92,30 +96,34 @@ __Disclaimer__:
 
 __Metaculus AI Safety Search Terms__
 
-- "ai safety"
-- "ai alignment"
-- "aligned ai"
-- "value alignment problem"
-- "reward hacking"
-- "reward tampering"
-- "tampering problem"
-- "safe exploration"
-- "robust to distributional shift"
-- "scalable oversight"
-- "explainable AI"
-- "interpretable AI"
-- "explainable model"
-- "verification for machine learning"
-- "verifiable machine learning"
-- "interpretable model"
-- "interpretable machine learning"
-- "cooperative inverse reinforcement learning"
-- "value learning"
-- "iterated amplification"
-- "preference learning"
-- "AI safety via debate"
-- "reward modeling"
-- "logical induction"
+- Interpretability and Explainability
+  - "ai safety"
+  - "ai alignment"
+  - "aligned ai"
+  - "value alignment problem"
+  - "reward hacking"
+  - "reward tampering"
+  - "tampering problem"
+  - "safe exploration"
+  - "robust to distributional shift"
+  - "scalable oversight"
+  - "explainable AI"
+  - "interpretable AI"
+  - "explainable model"
+  - "verification for machine learning"
+  - "verifiable machine learning"
+  - "interpretable model"
+  - "interpretable machine learning"
+  - "cooperative inverse reinforcement learning"
+  - "value learning"
+  - "iterated amplification"
+  - "preference learning"
+  - "AI safety via debate"
+  - "reward modeling"
+  - "logical induction"
+- Natural Language Processing (NLP)
+- Reinforcement Learning (RL)
+- Multi-modal Learning 
 
 __LessWrong AI/DL and AI Safety Search Terms__
 
@@ -268,6 +276,27 @@ __FLI AI Safety Search Terms__
 
 ## Querying Methods
 
+__ArXiv__
+
+__OpenAlex__
+
+__LessWrong, EAF, Alignment Forum__
+
+__Google Scholar__
+
+##
+
+## Forecasting Questions
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="550" height="260"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="550" height="260"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="550" height="260"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="550" height="260"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="550" height="260"></iframe>
 
 
 <!-- num word count in posts,
