@@ -94,7 +94,259 @@ __Disclaimer__:
 ## [Search Terms](#search-terms)
 _Here I explored different search terms_
 
-### Metaculus Search Terms
+At a glance, the following search instances come up when using
+
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+### Full Search Terms
+
+
+<!-- Node size is word count OR paper count in 2 networks
+Edges sizes are given by how many papers use both these terms
+
+Searched with AI &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with DL &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Safety &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Alignment &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+-->
+
+## Querying Methods
+__
+
+__ArXiv__
+
+__OpenAlex__
+
+__LessWrong, EAF, Alignment Forum__
+
+__Google Scholar__
+
+<!--
+Develop search terms (pooled)
+Develop combinations
+  (DL / AI) + all_terms
+  (AI Safety / AI Alignment) + all terms
+
+Post on FLI landscape + quotes + your findings
+ -->
+
+## Forecasting Questions
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="100%" height="300"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="100%" height="300"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="100%" height="300"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="100%" height="300"></iframe>
+
+<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
+
+
+<!-- num word count in posts,
+num of posts with this tags,
+break down into AI safety tags and
+general deep learning tags using
+FLI map
+
+LW, EAF tags all searched
+on LW, EAF, Alignment
+
+link to all these tags-->
+
+# how to categorize Safety tags
+
+## Appendix
+
+
+
+## Link Bibliography
+
+(these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
+
+[agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
+
+[meta]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
+
+[rare]: https://www.lesswrong.com/posts/Yb26htyo6SMirnzqt/forecasting-rare-events "https://www.lesswrong.com/posts/Yb26htyo6SMirnzqt/forecasting-rare-events"
+
+[smart]: https://intelligence.org/smarter-than-us/ "https://intelligence.org/smarter-than-us/"
+
+[trans]: https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 "https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1"
+
+[arm]: https://www.fhi.ox.ac.uk/team/stuart-armstrong/ "https://www.fhi.ox.ac.uk/team/stuart-armstrong/"
+
+[fli]: https://futureoflife.org/ "https://futureoflife.org/"
+
+[fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
+
+[hal]: https://en.wikipedia.org/wiki/HAL_9000 "https://en.wikipedia.org/wiki/HAL_9000"
+
+[prime]: https://en.wikipedia.org/wiki/The_Metamorphosis_of_Prime_Intellect "https://en.wikipedia.org/wiki/The_Metamorphosis_of_Prime_Intellect"
+
+[in_land]: https://aisafety.com/2017/09/26/map-ai-safety-community/ "https://aisafety.com/2017/09/26/map-ai-safety-community/"
+
+[for_land]: https://futureoflife.org/landscape/ "https://futureoflife.org/landscape/"
+
+[dl]: https://en.wikipedia.org/wiki/Deep_learning "https://en.wikipedia.org/wiki/Deep_learning"
+
+[dar]: https://en.wikipedia.org/wiki/Darwin_among_the_Machines "https://en.wikipedia.org/wiki/Darwin_among_the_Machines"
+
+[butler]: https://en.wikipedia.org/wiki/Samuel_Butler_(novelist) "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)"
+
+[ai_risk]: https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence#History "https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence#History"
+
+[miri]: https://intelligence.org/ "https://intelligence.org/"
+
+[fhi]: https://www.fhi.ox.ac.uk/ "https://www.fhi.ox.ac.uk/"
+
+[impacts]: https://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/ "https://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/"
+
+[open_phil]: https://www.openphilanthropy.org/ "https://www.openphilanthropy.org/"
+
+[ai_safety]: https://intelligence.org/why-ai-safety/ "https://intelligence.org/why-ai-safety/"
+
+[ai_fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
+
+## Notes
+
+#### *Cover Photo*
+
+The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for this page was likely taken by [Urja Bhatt](https://unsplash.com/@urjabhatt){:target="_blank"}. I found the photo on [Unsplash](https://unsplash.com/){:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license){:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+#### *Footnotes*
+
+
+[^1]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
+
+[^2]: The rest of this essay will focus on the growing popularity AI Safety.
+
+[^3]: I did not spend too much time on accumulating data on the current (04/10/2022) landscape of funding for research in AI Safety, but from anecdotal evidence, funding seems to be plentiful and to be supporting the surging number of researchers from physics, software development, and data science, among other fields, migrating to AI Safety.
+
+[^4]: I did not spend much time exploring the earliest historical incidences of thinking on intelligent machines or on the risks incurred by developing artificial intelligence, so please don't assign much confidence that this is in fact the first written instance of thinking about AI risk.
+
+[^5]: I did not spend any time researching how this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
+
+[^6]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
+
+[^7]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I am assuming that the size of the entity is roughly proportional to its influence on AI Safety, for the time being).
+
+[^8]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
+
+[^9]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
+
+<!-- Personal Notes
+Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
+Come up with a disclaimer
+Either research changing landscape/popularity of "control mechanisms"
+(Alignment Forum, LessWrong, Google Trends, OpenAlex research base)
+Or look into restrictions and other parameters concerning computability
+(look for quotes or research that discuss this)
+
+Goals
+1. rigorous and nuanced thinking about the future of AI
+2. provide an arena for discussion and exchange of ideas regarding the future of AI, and especially the likelihood, timing, and impacts of transformative AI
+
+Original and Creative
+Synthesize at least some of the predictions made in the Forecasting AI Progress tournament
+Are well and clearly written, so that it is comprehensible and enjoyable to read
+
+⅔ weight given to essay quality, and ⅓ weight given to relevance
+
+Forum query methods; https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates
+
+https://api.openalex.org/works?search=transformative%20ai,ai%20safety
+
+Search all LessWrong tags relating to AI in the literature
+
+Additional Topics
+Can we map the disagreements between notable figures in the AI risk community, as presented in the Late 2021 MIRI Conversations, onto disagreements about quantifiable predictions? Which views do we expect to imply predictions that we think are likely to fare better, and why?
+
+Build off of Reframing Superintelligence
+Is Deep Learning sufficient for achieving Transformative AI (roughly, AI that precipitates a transition comparable to the agricultural or industrial revolution), if not, how many new substantial insights might be needed?
+
+What fraction of the field of AI will be dedicated to working on AI Safety, broadly defined? Will the field have substantial influence on how AI systems are designed, tested and/or deployed? Justify your views with, amongst other things, reference to quantitative predictions.-->
+
+
+<!-- ### LessWrong
+
+### EA-Forum
+
+### Alignment Forum
+
+### OpenAlex
+
+## Question 1
+
+## Question 2
+
+## Question 3
+
+## Discussion
+
+## Forecasts  
+
+## Conclusion -->
+
+<!--
+and seems to be steadily growing both in terms of popularity and funding. Concern regarding AI systems or intelligent machines has been around for some time f
+
+with the one of first concerns regarding AI systems  emerging earlier in [fiction][ai_fict], and seems to be steadily growing both in terms of popularity and funding.
+
+- AI Safety as a distinct discipline is relatively new.
+- The first use of the term AI safety occurred [here].
+- There have been concerns on ML intelligence for a long time, especially in science fiction.
+- Tranformative AI timelines are important.
+- People are discussing funding AI researchers
+- The full history of AI Safety and of progress in AI systems, generally, is beyond the scope of this essay.
+
+
+
+
+
+From a formal viewpoint, such as that provided
+
+https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers
+
+Start with this post, talking about what transformative AI is including multiple definitions
+and 1 or 2 questions on takeoffs (along with community predictions, included pooled community
+  forecasts and some thoughts on how hte community consensus and Open Phils (see the priors post) have
+  changed over time). Then discuss the Logan post and whether more researcehrs would make a difference
+  use this as a seqway to discussing a list of questions on different sizes of the communities and
+  on their intersection, then go into analyzing the numbers -->
+
+<!-- ---
+_Disclaimers and Epistemic Status_
+
+https://aisafety.com/2017/09/26/map-ai-safety-community/
+
+
+--- -->
+
+
+<!-- LessWrong (by tag, word count)
+EAF (by tag, word count)
+Alignment Forum (by tag, word count)
+ArXiV (by abstract/title, word count)
+OpenAlex (by abstract/title, word count)
+
+How many researchers working on or using AI systems relative to those who work on AI safety?
+Would more researchers focusing on AI safety make a difference?
+When does having more researchers improve safety?
+
+Generate csv of the tags counts  Count appeared unique post | Number of times overall | Average count per year
+Graphs of counts over time for batches of ~15 tags -->
+
+<!-- ### Metaculus Search Terms
 
 - AI Safety, Interpretability, or Explainability
   - "ai safety"
@@ -230,7 +482,7 @@ _Here I explored different search terms_
   - Superintelligence
   - Whole Brain Emulation
 
-### EA Forum Search Categories 
+### EA Forum Search Categories
 
 - Global Catastrophic Risk (AI)
   - Global Catastrophic Risk (AI)
@@ -519,250 +771,4 @@ _Here I explored different search terms_
       - Visualization and Situation Awareness
       - Detailed Audit Trails
       - Report Sufficiency
-      - Causal Accounting
-
-### Full Search Terms
-
-
-<!-- Node size is word count OR paper count in 2 networks
-Edges sizes are given by how many papers use both these terms
-
-Searched with AI &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with DL &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with AI Safety &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with AI Alignment &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
--->
-
-## Querying Methods
-__
-
-__ArXiv__
-
-__OpenAlex__
-
-__LessWrong, EAF, Alignment Forum__
-
-__Google Scholar__
-
-<!--
-Develop search terms (pooled)
-Develop combinations
-  (DL / AI) + all_terms
-  (AI Safety / AI Alignment) + all terms
-
-Post on FLI landscape + quotes + your findings
- -->
-
-## Forecasting Questions
-
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="100%" height="300"></iframe>
-
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="100%" height="300"></iframe>
-
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="100%" height="300"></iframe>
-
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="100%" height="300"></iframe>
-
-<iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
-
-
-<!-- num word count in posts,
-num of posts with this tags,
-break down into AI safety tags and
-general deep learning tags using
-FLI map
-
-LW, EAF tags all searched
-on LW, EAF, Alignment
-
-link to all these tags-->
-
-# how to categorize Safety tags
-
-## Appendix
-
-
-
-## Link Bibliography
-
-(these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
-
-[agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
-
-[meta]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
-
-[rare]: https://www.lesswrong.com/posts/Yb26htyo6SMirnzqt/forecasting-rare-events "https://www.lesswrong.com/posts/Yb26htyo6SMirnzqt/forecasting-rare-events"
-
-[smart]: https://intelligence.org/smarter-than-us/ "https://intelligence.org/smarter-than-us/"
-
-[trans]: https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 "https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1"
-
-[arm]: https://www.fhi.ox.ac.uk/team/stuart-armstrong/ "https://www.fhi.ox.ac.uk/team/stuart-armstrong/"
-
-[fli]: https://futureoflife.org/ "https://futureoflife.org/"
-
-[fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
-
-[hal]: https://en.wikipedia.org/wiki/HAL_9000 "https://en.wikipedia.org/wiki/HAL_9000"
-
-[prime]: https://en.wikipedia.org/wiki/The_Metamorphosis_of_Prime_Intellect "https://en.wikipedia.org/wiki/The_Metamorphosis_of_Prime_Intellect"
-
-[in_land]: https://aisafety.com/2017/09/26/map-ai-safety-community/ "https://aisafety.com/2017/09/26/map-ai-safety-community/"
-
-[for_land]: https://futureoflife.org/landscape/ "https://futureoflife.org/landscape/"
-
-[dl]: https://en.wikipedia.org/wiki/Deep_learning "https://en.wikipedia.org/wiki/Deep_learning"
-
-[dar]: https://en.wikipedia.org/wiki/Darwin_among_the_Machines "https://en.wikipedia.org/wiki/Darwin_among_the_Machines"
-
-[butler]: https://en.wikipedia.org/wiki/Samuel_Butler_(novelist) "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)"
-
-[ai_risk]: https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence#History "https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence#History"
-
-[miri]: https://intelligence.org/ "https://intelligence.org/"
-
-[fhi]: https://www.fhi.ox.ac.uk/ "https://www.fhi.ox.ac.uk/"
-
-[impacts]: https://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/ "https://aiimpacts.org/changes-in-funding-in-the-ai-safety-field/"
-
-[open_phil]: https://www.openphilanthropy.org/ "https://www.openphilanthropy.org/"
-
-[ai_safety]: https://intelligence.org/why-ai-safety/ "https://intelligence.org/why-ai-safety/"
-
-[ai_fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
-
-## Notes
-
-#### *Cover Photo*
-
-The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for this page was likely taken by [Urja Bhatt](https://unsplash.com/@urjabhatt){:target="_blank"}. I found the photo on [Unsplash](https://unsplash.com/){:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license){:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
-
-#### *Footnotes*
-
-
-[^1]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
-
-[^2]: The rest of this essay will focus on the growing popularity AI Safety.
-
-[^3]: I did not spend too much time on accumulating data on the current (04/10/2022) landscape of funding for research in AI Safety, but from anecdotal evidence, funding seems to be plentiful and to be supporting the surging number of researchers from physics, software development, and data science, among other fields, migrating to AI Safety.
-
-[^4]: I did not spend much time exploring the earliest historical incidences of thinking on intelligent machines or on the risks incurred by developing artificial intelligence, so please don't assign much confidence that this is in fact the first written instance of thinking about AI risk.
-
-[^5]: I did not spend any time researching how this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
-
-[^6]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
-
-[^7]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I am assuming that the size of the entity is roughly proportional to its influence on AI Safety, for the time being).
-
-[^8]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
-
-[^9]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
-
-<!-- Personal Notes
-Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
-Come up with a disclaimer
-Either research changing landscape/popularity of "control mechanisms"
-(Alignment Forum, LessWrong, Google Trends, OpenAlex research base)
-Or look into restrictions and other parameters concerning computability
-(look for quotes or research that discuss this)
-
-Goals
-1. rigorous and nuanced thinking about the future of AI
-2. provide an arena for discussion and exchange of ideas regarding the future of AI, and especially the likelihood, timing, and impacts of transformative AI
-
-Original and Creative
-Synthesize at least some of the predictions made in the Forecasting AI Progress tournament
-Are well and clearly written, so that it is comprehensible and enjoyable to read
-
-⅔ weight given to essay quality, and ⅓ weight given to relevance
-
-Forum query methods; https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates
-
-https://api.openalex.org/works?search=transformative%20ai,ai%20safety
-
-Search all LessWrong tags relating to AI in the literature
-
-Additional Topics
-Can we map the disagreements between notable figures in the AI risk community, as presented in the Late 2021 MIRI Conversations, onto disagreements about quantifiable predictions? Which views do we expect to imply predictions that we think are likely to fare better, and why?
-
-Build off of Reframing Superintelligence
-Is Deep Learning sufficient for achieving Transformative AI (roughly, AI that precipitates a transition comparable to the agricultural or industrial revolution), if not, how many new substantial insights might be needed?
-
-What fraction of the field of AI will be dedicated to working on AI Safety, broadly defined? Will the field have substantial influence on how AI systems are designed, tested and/or deployed? Justify your views with, amongst other things, reference to quantitative predictions.-->
-
-
-<!-- ### LessWrong
-
-### EA-Forum
-
-### Alignment Forum
-
-### OpenAlex
-
-## Question 1
-
-## Question 2
-
-## Question 3
-
-## Discussion
-
-## Forecasts  
-
-## Conclusion -->
-
-<!--
-and seems to be steadily growing both in terms of popularity and funding. Concern regarding AI systems or intelligent machines has been around for some time f
-
-with the one of first concerns regarding AI systems  emerging earlier in [fiction][ai_fict], and seems to be steadily growing both in terms of popularity and funding.
-
-- AI Safety as a distinct discipline is relatively new.
-- The first use of the term AI safety occurred [here].
-- There have been concerns on ML intelligence for a long time, especially in science fiction.
-- Tranformative AI timelines are important.
-- People are discussing funding AI researchers
-- The full history of AI Safety and of progress in AI systems, generally, is beyond the scope of this essay.
-
-
-
-
-
-From a formal viewpoint, such as that provided
-
-https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers
-
-Start with this post, talking about what transformative AI is including multiple definitions
-and 1 or 2 questions on takeoffs (along with community predictions, included pooled community
-  forecasts and some thoughts on how hte community consensus and Open Phils (see the priors post) have
-  changed over time). Then discuss the Logan post and whether more researcehrs would make a difference
-  use this as a seqway to discussing a list of questions on different sizes of the communities and
-  on their intersection, then go into analyzing the numbers -->
-
-<!-- ---
-_Disclaimers and Epistemic Status_
-
-https://aisafety.com/2017/09/26/map-ai-safety-community/
-
-
---- -->
-
-
-<!-- LessWrong (by tag, word count)
-EAF (by tag, word count)
-Alignment Forum (by tag, word count)
-ArXiV (by abstract/title, word count)
-OpenAlex (by abstract/title, word count)
-
-How many researchers working on or using AI systems relative to those who work on AI safety?
-Would more researchers focusing on AI safety make a difference?
-When does having more researchers improve safety?
-
-Generate csv of the tags counts  Count appeared unique post | Number of times overall | Average count per year
-Graphs of counts over time for batches of ~15 tags -->
+      - Causal Accounting -->
