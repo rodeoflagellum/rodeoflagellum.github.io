@@ -269,16 +269,48 @@ _Here I
 
 __FLI AI Safety Search Areas__
 
+- Foundations
+  - Foundations of Rational Agency
+    - Logical Uncertainty
+    - Theory of Counterfactuals
+    - Universal Algorithmic Intelligence
+    - Theory of Ethics
+      - Ethical Motivation
+      - Ontological Value
+      - Human Preference Aggregation
+      - Infinite Ethics
+      - Normative Uncertainty
+    - Bounded Rationality
+  - Consistent Decision Making
+    - Decision Theory
+      - Logical Counterfactuals
+      - Open Source Game Theory
+    - Safer Self-Modification
+      - Vingean Reflection
+        - Abstractly Reason About Superior Agents
+        - Reflective Induction Confidence
+        - Löbian Obstacle
+      - Optimal Policy Preservation
+      - Safety Technique Awareness
+    - Goal Stability
+      - Nontransitive Options
+  - Projective Behavioral Bounds
+    - Computational Complexity
+- Verification
+  - Formal Software Verification
+    - Verified Component Design Approaches
+    - Adaptive Control Theory
+    - Verification of Cyberphysical Systems
+    - Making Verification More User Friendly  
+  - Automated Vulnerability Finding
+  - Verification of Intelligent Systems
+    - Verification of Whole AI Systems
+    - Verification of Machine Learning Components
+  - Verification of Recursive Self-Improvement
+  - Implementation Testing
 - Validation
-  - Avoiding Reward Hacking
-    - Pursuing Environmental Goals
-      - Environmental Goals
-      - Predicting Future Observations
-      - Model Lookahead
-      - History Analysis
-      - Detecting Channel Switching
   - Averting Instrumental Incentives
-    - Averting Paranoia
+    - Error-Tolerant Agent Design
     - Domesticity
       - Impact Measures
         - Values-Based Side Effect Evaluation
@@ -289,11 +321,183 @@ __FLI AI Safety Search Areas__
         - Follow-on Analysis
         - Impact Regularizers
           - Defined Impact Regularizer
-          - Learned IMpact Regularizer
+          - Learned Impact Regularizer
       - Safe exploration
-      - Computational Humility
+        - Risk-Sensitive Performance Criteria
+        - Simulated Exploration
+        - Bounded Exploration
+        - Multiobjective Reinforcement Learning
+        - Human Oversight
+        - Buried Honeypot Avoidance
       - Mild Optimization
-    - Error-Tolerant Agent Design
+        - Optimization Measures
+        - Quantilization
+        - Multiobjective Optimization
+      - Computational Humility
+        - Generalized Fallibility Awareness
+        - Resource Value Uncertainty
+        - Temporal Discount Rates
+    - Averting Paranoia
+  - Avoiding Reward Hacking
+    - Pursuing Environmental Goals
+      - Environmental Goals
+      - Predicting Future Observations
+      - Model Lookahead
+      - History Analysis
+      - Detecting Channel Switching
+    - Counterexample Resistance
+    - Adversarial Reward Functions
+    - Variable Indifference
+    - Careful Engineering
+    - Reward Capping
+    - Reward Pretraining
+    - Multiple Rewards
+  - Value Alignment
+    - Ethics Mechanisms
+      - Grounded Ethical Evolution
+        - Moral Trade
+      - Value Specification
+        - Classical Computational Ethics
+        - Value Structuring
+          - Values Geometry
+          - Action and Outcome Evaluations
+          - Game Theoretic Framing
+          - Unified Ethics Spaces
+        - Capability Amplification
+      - Value Learning
+        - Operator Value Learning
+        - Value Elicitation
+          - Value Sourcing
+          - Value Interrogation
+          - Value Factoring
+        - Collaborative Values Learning
+      - Ethical Ensembles
+      - Structured and Privileged Ethical Biases
+      - Drives and Affect
+    - Degrees of Value Evolution
+    - Robust Human Imitation
+      - Inverse Reinforcement Learning
+        - Cooperative Inverse Reinforcement Learning
+      - Imitation Statistical Guarantees
+        - Generative Adversarial Networks
+        - Other Generative Models
+      - Operator Modeling
+      - Reversible Tasks via Variational Autoencoding
+      - Distance from User Demonstration
+      - Narrow Value Learning
+      - Scaling Judgement Learning
+  - Increasing Contextual Awareness
+    - Realistic World-Models
+      - Expressive Representations
+      - Unsupervised Model Learning
+        - Concept Drift
+        - Ontology Identification
+        - Ontology Update Thresholds
+        - Episodic Contexts
+      - Correlations of Dynamics
+      - World-Embedded Solomonoff Induction
+      - Perceptual Distance Agnostic World Models
+      - Knowledge Representation Ensembles
+    - Endowing Common Sense
+      - Common Sense Reasoning
+      - Bootstrapped Common Sense
+      - Seeded Common Sense
+      - Metareasoning
+      - Lengthening Horizons
+    - Concept Geometry
+      - Implicit Human Concepts
+      - Conservative Concepts
+        - Dimensionality Reduction With Anomaly Detection
+      - Multilevel World-Models
+      - World Model Connectedness
+    - Uncertainty Identification and Management
+      - Inferring Latent Variables
+      - Inductive Ambiguity Identification
+        - Scalable Oversight of Ambiguities
+        - Bayesian Feature Selection
+        - Non-Bayesian Confidence Estimation
+        - Active Learning
+        - Realistic-Prior Design
+        - Knows-What-It-Knows Learning
+        - Robustness to Distributional Shift
+          - Covariate Shift
+          - Unsupervised Risk Estimation
+          - Causal Identification
+          - Limited-Information Maximum Likelihood
+          - Active Calibration
+          - Reachability Analysis
+          - Robust Policy Improvement
+          - Counterfactual Reasoning
+          - ML with Contracts
+          - Model Repair
+      - Resource-Aware Reasoning
+        - Decision Under Bounded Computational Resources
+        - Logical Induction
+          - Logical Priors
+          - Impossible Possibilities
+    - Symbolic-Subsymbolic Integration
+      - Use of Structured Knowledge In Subsymbolic Systems
+      - Use of Subsymbolic Processing In Symbolic Systems
+  - Psychological Analogues
+    - Cognitive Parallels
+    - Developmental Psychology
+    - Dysfunctional Systems of Thought
+    - Whole Brain Emulation Safety
+  - Testing and Quality Assurance
+- Security
+  - Standard IT Security
+    - Verified Downstack Software
+    - Utility Function Security
+    - AI to Support Security
+    - Security-Validated Software Engineering
+  - Red Team Analysis
+    - Penetration Testing
+  - Tripwires
+  - Containment
+  - Handling Improper External Behavior
+    - Adversarial ML
+      - Dealing with Adversarial Testing
+    - Statistical-Behavioral Trust Establishment
+    - Modeling Operator Intent
+    - Sensibility-Triggered Defence
+    - Detecting and Managing Low Competence
+  - Privileged Biases
+  - Norm Denial of Service
+  - Misuse Risk
+- Control
+  - Computational Deference
+    - Corrigibility
+      - Interruptability
+    - Utility Indifference
+      - Switchable Objective Functions
+    - Control Transfer
+  - Oversight
+    - Scalable Oversight
+      - Supervised Reward Learning
+      - Semisupervised Reward Learning
+      - Active Reward Learning
+      - Unsupervised Value Iteration
+      - Distant Supervision
+      - Hierarchical Reinforcement Learning
+      - Trust Policy Oversight
+      - Cooperative Inverse Reinforcement Learning
+      - Human Judgement Learner
+      - Informed Oversight
+    - Controlling Another Algorithm
+    - Capability Distillation
+    - Rich Understanding of Human Commands
+    - Monitoring
+      - Transparency of Whiteboxes
+        - Transparent Reinforcement Learners
+      - Interpretability of Blackboxes
+      - Adversarial Transparency
+      - Visualization and Situation Awareness
+      - Detailed Audit Trails
+      - Report Sufficiency
+      - Causal Accounting
+
+
+
 
 ### Full Search Terms
 
