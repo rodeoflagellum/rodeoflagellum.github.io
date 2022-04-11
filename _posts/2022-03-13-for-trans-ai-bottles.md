@@ -94,11 +94,39 @@ __Disclaimer__:
 ## [Search Terms](#search-terms)
 _Here I explored different search terms_
 
-At a glance, the following search instances come up when using
+<!-- At a glance, the following search instances come up when using
 
+Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
+
+General Search Terms
 Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
 
+General Search Terms + "AND Deep Learning"
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
+
+General Search Terms + "AND Artificial Intelligence"
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
+
+General Search Terms + "AND AI"
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
+
+General Search Terms + "AND AI Safety"
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
+
+General Search Terms + "AND AI Alignment"
+Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | |
 
 ### Full Search Terms
 
