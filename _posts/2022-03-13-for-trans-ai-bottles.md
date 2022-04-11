@@ -262,7 +262,7 @@ __EA Forum AI/DL and AI Safety Search Terms__
   - Ought
   - People for the Ethical Treatment of Reinforcement Learners
 
-__FLI AI Safety Search Terms__
+__FLI AI Safety Search Areas__
 
 - Validation
   - Avoiding Reward Hacking
@@ -273,7 +273,27 @@ __FLI AI Safety Search Terms__
       - History Analysis
       - Detecting Channel Switching
   - Averting Instrumental Incentives
-  
+    - Averting Paranoia
+    - Domesticity
+      - Impact Measures
+        - Values-Based Side Effect Evaluation
+        - Avoiding Negative Side Effects
+          - Reward Uncertainty
+          - Multi-agent Approaches
+          - Penalize Influence
+        - Follow-on Analysis
+        - Impact Regularizers
+          - Defined Impact Regularizer
+          - Learned IMpact Regularizer 
+      - Safe exploration
+      - Computational Humility
+      - Mild Optimization
+    - Error-Tolerant Agent Design
+
+Table
+
+Source | Sublevel | Term | Search Term  
+
 
 ## Querying Methods
 
@@ -284,6 +304,15 @@ __OpenAlex__
 __LessWrong, EAF, Alignment Forum__
 
 __Google Scholar__
+
+<!--
+Develop search terms (pooled)
+Develop combinations
+  (DL / AI) + all_terms
+  (AI Safety / AI Alignment) + all terms
+
+Post on FLI landscape + quotes + your findings
+ -->
 
 ## Forecasting Questions
 
