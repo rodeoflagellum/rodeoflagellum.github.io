@@ -27,7 +27,7 @@ _Here I briefly examine the AI Safety landscape and motivate curiosity on AI Saf
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7419/" width="100%" height="300"></iframe>
 
-&emsp; Why so much newfound funding for AI safety? Nestled within the wider [deep learning][dl]{:target="_blank"} (DL) and AI community, the field of AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity presently and in the future. AI systems and their wrath are often themes of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
+&emsp; Why so much newfound funding for AI safety? Nestled within the wider [deep learning][dl]{:target="_blank"} (DL) and AI community, the field of AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity, presently and in the future. AI systems and their wrath are often themes of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
 
 > The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question.
 
@@ -55,10 +55,19 @@ One benchmark for considering the extent of what sophisticated AI systems might 
 
 The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step at broadcasting 
+&emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step towards achieving this, and could benefit investigations on how much bottlenecks in mitigating AI risk are funding, interest, or talent related. An example of such discussion can be found in [Logan Riggs][riggs] recent [LessWrong][lw] post _[Convincing All Capability Researchers][rig_post]_ regarding [Not Relevant][nr]'s [comment][comment]:
 
+> Give the world's thousand most respected AI researchers $1M each to spend 3 months working on AI alignment, with an extra $100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
 
+[nr]: https://www.lesswrong.com/users/not-relevant "https://www.lesswrong.com/users/not-relevant"
 
+[comment]: https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq "https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq"
+
+[rig_post]: https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers "https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers"
+
+[lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+
+[riggs]: https://www.lesswrong.com/users/elriggs "https://www.lesswrong.com/users/elriggs"
 
 
 <!-- (The DL community needs to key close to AI Safety)
@@ -76,7 +85,7 @@ focus on TRANSFORMATIVE AI-->
 
  <!-- but that such impacts might originate from the DL research community is useful in that -->
 
-Some prospective research questions to be addressed might be:
+Some prospective research questions (as an agenda) to be addressed might be:
 
 - How does the amount of funding and participation in the AI Safety community affect progress in AI Safety?
 - How large is the AI Safety community relative to the general AI/DL research community? How will this change?
