@@ -59,16 +59,18 @@ The full extent of the negative impacts that could be engendered by transformati
 
 > Give the world's thousand most respected AI researchers $1M each to spend 3 months working on AI alignment, with an extra $100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
 
-[nr]: https://www.lesswrong.com/users/not-relevant "https://www.lesswrong.com/users/not-relevant"
+So, some questions (as an agenda) to address what share AI Safety forms of the DL/AI community might be:
 
-[comment]: https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq "https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq"
+- How large is the AI Safety community relative to the general AI/DL research community? How can this be measured? How might this change with regard to research, funding, participation, and progress, among other things?
+- How do AI Safety and the general AI/DL community overlap? How might this change with regard to research, funding, participation, and progress, among other things?
 
-[rig_post]: https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers "https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers"
+and, more generally:
 
-[lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+- How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-[riggs]: https://www.lesswrong.com/users/elriggs "https://www.lesswrong.com/users/elriggs"
+__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV. Additionally, I use these results in an attempt to forecast the nu
 
+__Disclaimer__:
 
 <!-- (The DL community needs to key close to AI Safety)
 (An idea to solve problems in AI Safety is to increase funding, and increasing talent)
@@ -85,13 +87,7 @@ focus on TRANSFORMATIVE AI-->
 
  <!-- but that such impacts might originate from the DL research community is useful in that -->
 
-Some prospective research questions (as an agenda) to be addressed might be:
 
-- How does the amount of funding and participation in the AI Safety community affect progress in AI Safety?
-- How large is the AI Safety community relative to the general AI/DL research community? How will this change?
-- How might this change with regard to funding, participation, and progress, among other things?
-- How do the AI Safety and general AI/DL communities overlap?
-- How might this change with regard to funding, participation, and progress, among other things?
 
 <!-- [Search for DL with AI Safety terms and without AI Safety terms]
 DL with, DL without, AI safety with DL, AI safety without,
@@ -102,10 +98,6 @@ just titles
 just abstracts
 titles and abstracts
 all of the paper  -->
-
-__Contribution__:
-
-__Disclaimer__:
 
 <!-- I have never published peer-reviewed research on AI Safety. -->
 
@@ -209,6 +201,18 @@ link to all these tags-->
 ## Link Bibliography
 
 (these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
+
+
+[nr]: https://www.lesswrong.com/users/not-relevant "https://www.lesswrong.com/users/not-relevant"
+
+[comment]: https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq "https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq"
+
+[rig_post]: https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers "https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers"
+
+[lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+
+[riggs]: https://www.lesswrong.com/users/elriggs "https://www.lesswrong.com/users/elriggs"
+
 
 [agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
 
