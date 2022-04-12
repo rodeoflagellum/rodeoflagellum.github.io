@@ -55,23 +55,19 @@ One benchmark for considering the extent of what sophisticated AI systems might 
 
 The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step towards achieving this, and could benefit investigations on how much bottlenecks in mitigating AI risk are funding, interest, or talent related. An example of such discussion can be found in [Logan Riggs][riggs] recent [LessWrong][lw] post _[Convincing All Capability Researchers][rig_post]_ regarding [Not Relevant][nr]'s [comment][comment]:
+&emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step towards achieving this, and could benefit investigations on how much bottlenecks in mitigating AI risk relate to funding, interest, or talent. An example of such discussion can be found in [Logan Riggs][riggs] recent [LessWrong][lw] post _[Convincing All Capability Researchers][rig_post]_ regarding [Not Relevant][nr]'s [comment][comment]:
 
 > Give the world's thousand most respected AI researchers \\$1M each to spend 3 months working on AI alignment, with an extra \\$100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
 
 So, some questions (as an agenda) to address AI Safety's place within the DL/AI community might be:
 
-- How large is the AI Safety community relative to the general AI/DL research community? How can this be measured? How might this change with regard to research, funding, participation, and progress, among other things?
-- How do AI Safety and the general AI/DL community overlap? How might this change with regard to research, funding, participation, and progress, among other things?
-- To what extent does the general AI/DL community focus on or address AI risk mitigation?
-
-and, more generally:
-
+- How much research has been conducted in AI Safety relative to the general AI/DL research community? How should this be measured?
+- How does the AI Safety and general AI/DL research community overlap? How much of general AI/DL research addresses AI risk?
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of AI Safety research, of DL/AI research, and of the share of research in AI/DL that AI Safety takes up.
+__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of select topics in AI Safety research and in DL/AI research, and forecast the share of research in AI/DL that AI Safety takes up. This review of research term frequency serves the purpose of (1) capturing which topics in AI Safety might be neglected, and (2) capturing how neglected AI Safety might be as a whole relative to general research in AI/DL.  
 
-__Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work.  
+<!-- __Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work. Such changes might be achievable by broadcasting research on AI risk or by incentivizing participation by increasing funding.  -->
 
 <!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
 
