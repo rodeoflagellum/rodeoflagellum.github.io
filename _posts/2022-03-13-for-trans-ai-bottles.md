@@ -10,7 +10,7 @@ importance: "8.5"
 impact: "5.5"
 tags: [forecasting, prediction, ai, ai-safety, governance]
 image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
-desc: "The longer version of a forecasting essay for Metaculus on difference between the AI Safety and general DL/AI communities."
+desc: "The longer version of a forecasting essay for Metaculus on differences between the AI Safety and general DL/AI communities."
 ---
 
 ## Table of Contents
@@ -57,9 +57,9 @@ The full extent of the negative impacts that could be engendered by transformati
 
 &emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step towards achieving this, and could benefit investigations on how much bottlenecks in mitigating AI risk are funding, interest, or talent related. An example of such discussion can be found in [Logan Riggs][riggs] recent [LessWrong][lw] post _[Convincing All Capability Researchers][rig_post]_ regarding [Not Relevant][nr]'s [comment][comment]:
 
-> Give the world's thousand most respected AI researchers \$1M each to spend 3 months working on AI alignment, with an extra \$100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
+> Give the world's thousand most respected AI researchers \\$1M each to spend 3 months working on AI alignment, with an extra \\$100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
 
-So, some questions (as an agenda) to address what share AI Safety forms of the DL/AI community might be:
+So, some questions (as an agenda) to address AI Safety's place within the DL/AI community might be:
 
 - How large is the AI Safety community relative to the general AI/DL research community? How can this be measured? How might this change with regard to research, funding, participation, and progress, among other things?
 - How do AI Safety and the general AI/DL community overlap? How might this change with regard to research, funding, participation, and progress, among other things?
@@ -68,7 +68,7 @@ and, more generally:
 
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV. Additionally, I forecast the near-term future of AI Safety research, of DL/AI research, and of the share of research in AI/DL that AI Safety take up.
+__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of AI Safety research, of DL/AI research, and of the share of research in AI/DL that AI Safety takes up.
 
 <!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
 
@@ -83,26 +83,9 @@ https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-rese
 
 https://www.openphilanthropy.org/blog/report-semi-informative-priors#Background:_inside-view_and_outside-view_approaches_to_forecasting_AGI
 
-focus on TRANSFORMATIVE AI-->
-
- <!-- but that such impacts might originate from the DL research community is useful in that -->
-
-
-
-<!-- [Search for DL with AI Safety terms and without AI Safety terms]
-DL with, DL without, AI safety with DL, AI safety without,
-timeliens and numbers
-
-search for occurrence of words in
-just titles
-just abstracts
-titles and abstracts
-all of the paper  -->
-
-<!-- I have never published peer-reviewed research on AI Safety. -->
 
 ## [Querying](#search-terms)
-_Here I explored different search terms_
+_This section consists of an exploration of 408 search terms, including implementation details._
 
 <!-- At a glance, the following search instances come up when using
 
@@ -110,65 +93,12 @@ Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
 
 Google Scholar does not appear to be case sensitive
 
+## [Querying Results](#query)
+_This section consists of an exploration of 408 search terms, including implementation details._
 
-General Search Terms
-| Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | | |
+## Discussion
 
-General Search Terms + "AND (Deep Learning OR Artificial Intelligence)"
-
-|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | | |
-
-General Search Terms + "AND (AI Safety OR AI Alignment)"
-
-|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | | |
-
-
-### Full Search Terms
-
-
-<!-- Node size is word count OR paper count in 2 networks
-Edges sizes are given by how many papers use both these terms
-
-Searched with AI &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with DL &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with AI Safety &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
-
-Searched with AI Alignment &
-Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
--->
-
-## Querying Methods
-__
-
-__ArXiv__
-
-__OpenAlex__
-
-__LessWrong, EAF, Alignment Forum__
-
-__Google Scholar__
-
-<!--
-Develop search terms (pooled)
-Develop combinations
-  (DL / AI) + all_terms
-  (AI Safety / AI Alignment) + all terms
-
-Post on FLI landscape + quotes + your findings
- -->
-
-## Forecasting Questions
+## Forecasting
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5899/" width="100%" height="300"></iframe>
 
@@ -180,28 +110,25 @@ Post on FLI landscape + quotes + your findings
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
 
-
-<!-- num word count in posts,
-num of posts with this tags,
-break down into AI safety tags and
-general deep learning tags using
-FLI map
-
-LW, EAF tags all searched
-on LW, EAF, Alignment
-
-link to all these tags-->
-
-# how to categorize Safety tags
+## Final Thoughts
 
 ## Appendix
 
+### Search Terms
 
+### Querying Google Scholar
+
+### Querying OpenAlex
+
+### Querying ArXiV
+
+### Querying LW/EAF
+
+### General Code
 
 ## Link Bibliography
 
 (these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
-
 
 [nr]: https://www.lesswrong.com/users/not-relevant "https://www.lesswrong.com/users/not-relevant"
 
@@ -212,7 +139,6 @@ link to all these tags-->
 [lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
 
 [riggs]: https://www.lesswrong.com/users/elriggs "https://www.lesswrong.com/users/elriggs"
-
 
 [agi]: https://en.wikipedia.org/wiki/Artificial_general_intelligence "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
 
@@ -284,6 +210,8 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 [^8]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
 
 [^9]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
+
+[^10]: Why these?
 
 <!-- Personal Notes
 Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
@@ -813,3 +741,72 @@ Graphs of counts over time for batches of ~15 tags -->
       - Detailed Audit Trails
       - Report Sufficiency
       - Causal Accounting -->
+
+<!-- [Search for DL with AI Safety terms and without AI Safety terms]
+DL with, DL without, AI safety with DL, AI safety without,
+timeliens and numbers
+
+search for occurrence of words in
+just titles
+just abstracts
+titles and abstracts
+all of the paper  -->
+
+
+<!-- num word count in posts,
+num of posts with this tags,
+break down into AI safety tags and
+general deep learning tags using
+FLI map
+
+LW, EAF tags all searched
+on LW, EAF, Alignment
+
+link to all these tags-->
+
+
+
+<!-- General Search Terms
+| Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
+
+General Search Terms + "AND (Deep Learning OR Artificial Intelligence)"
+
+|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
+
+General Search Terms + "AND (AI Safety OR AI Alignment)"
+
+|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
+-->
+
+
+
+<!-- Node size is word count OR paper count in 2 networks
+Edges sizes are given by how many papers use both these terms
+
+Searched with AI &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with DL &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Safety &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+
+Searched with AI Alignment &
+Source | Sublevel | Term | Search Term | Post Count | Paper Count | Post Word Count | Paper Word Count  
+-->
+
+<!--
+Develop search terms (pooled)
+Develop combinations
+  (DL / AI) + all_terms
+  (AI Safety / AI Alignment) + all terms
+
+Post on FLI landscape + quotes + your findings
+ -->
