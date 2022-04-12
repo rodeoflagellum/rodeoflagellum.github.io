@@ -118,7 +118,25 @@ _This section consists of an exploration of 408 search terms, including implemen
 
 ### Querying Google Scholar
 
+<!-- https://www.lesswrong.com/graphiql?query=%7BPostsList(terms%3A%20%7Bview%3A%20%22nearbyEvents%22%2C%20filter%3A%20%22SSC%22%2C%20lat%3A%200%2C%20lng%3A%200%7D)%20%7B%0A%20%20_id%0A%20%20createdAt%0A%20%20title%0A%20%20mongoLocation%0A%20%20location%0A%7D%7D
+
+https://forum.effectivealtruism.org/graphiql
+
+https://www.lesswrong.com/graphiql
+
+# One Quotes
+      https://api.openalex.org/works?search=%22ai%20safety%22&filter=publication_year:2021
+      # One No Quotes
+      https://api.openalex.org/works?search=ai%20safety&filter=publication_year:2021
+      # Both Quotes
+      https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021 -->
+
 ### Querying OpenAlex
+
+Search for works with the terms "AI" AND "AI Safety" in their titles
+
+```https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021
+```
 
 ### Querying ArXiV
 
