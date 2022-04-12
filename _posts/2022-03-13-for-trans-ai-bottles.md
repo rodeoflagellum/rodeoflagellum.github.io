@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "General AI/DL Community vs. AI Safety"
+title:  "AI Safety ⊂ AI/DL Research"
 date:  2022-04-09 12:00:00 -0400
 last_edit: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
@@ -55,10 +55,13 @@ One benchmark for considering the extent of what sophisticated AI systems might 
 
 The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, characterizing the AI Safety within the broader context of DL research might
+&emsp; Instrumentally speaking, ensuring that those in the DL community are minimally aware of the problems with AI
 
 
-ensuring that those in the DL community are at least
+characterizing the size and influence of AI Safety within the broader context of DL research might
+
+
+
 
 
 <!-- (The DL community needs to key close to AI Safety)
