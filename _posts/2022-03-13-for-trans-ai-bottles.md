@@ -2,7 +2,7 @@
 layout: post
 title:  "General AI/DL Community vs. AI Safety"
 date:  2022-04-09 12:00:00 -0400
-last_edit: 2022-04-10 12:10:00 -0400
+last_edit: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
 status: "Draft"
 certainty: "7.0"
@@ -10,9 +10,7 @@ importance: "8.5"
 impact: "5.5"
 tags: [forecasting, prediction, ai, ai-safety, governance]
 image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
-desc: "A short essay for Metaculus on forecasting to what
-degree principles of AI safety are and will be present in
-the AI research community."
+desc: "The longer version of a forecasting essay for Metaculus on difference between the AI Safety and general DL/AI communities."
 ---
 
 ## Table of Contents
@@ -21,23 +19,23 @@ the AI research community."
 {:toc}
 
 ## [Outlook](#outlook)
-_Here I provide a brief overview of the AI Safety landscape and introduce why characterizing AI Safety's place within the wider context of DL research is important_
+_Here I briefly examine the AI Safety landscape and motivate curiosity on AI Safety's place within the wider context of deep learning research_
 
-[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is steadily growing both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3]. [Insert discussion on the Metaculus community and Open Philanthropy]
+[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI Safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is steadily growing both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3]. More recently, [Open Philanthropy][open_phil] donated ~80 million USD across 2019 and 2020 towards reducing risks from AI. Should Open Philanthropy continue to exist, the [Metaculus][meta]{:target="_blank"} community predicts that the funding for AI Safety will continue to increase, with median predictions of 78 million USD and 121 million USD for the years 2025 and 2030, respectively.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7418/" width="100%" height="300"></iframe>
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7419/" width="100%" height="300"></iframe>
 
-&emsp; Nestled in the wider [deep learning][dl]{:target="_blank"} (DL) and AI community, the "safety" in AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity. AI systems and their wrath is often a theme of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
+&emsp; Why so much newfound funding for AI safety? Nestled within the wider [deep learning][dl]{:target="_blank"} (DL) and AI community, the field of AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity presently and in the future. AI systems and their wrath are often themes of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
 
 > The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question.
 
-The complexity of the aims and problems within AI Safety is driven in part by the complexity of intelligence and of human values. From an informal viewpoint, the landscape of AI Safety can be understood by looking at organizations and individuals who broadcast concern regarding AI and who generate research. Here is one such map, created in 2017 by [Søren Elverlin][in_land]{:target="_blank"}[^5]. I believe that it's a safe bet that most people who work in AI Safety will have heard of many of the entities listed in this map.
+The complexity of the aims and problems within AI Safety is driven in part by the complexity of intelligence and of human values. From an informal viewpoint, the landscape of AI Safety can be understood by looking at the organizations and individuals who broadcast concern regarding AI and who generate research oriented around these concerns. One such map, created in 2017 by [Søren Elverlin][in_land]{:target="_blank"}[^5], attempts to capture the AI Safety community. I believe that it's a safe bet that most people who work in AI Safety will have heard of many of the entities listed in this map.
 
 ![](/assets/images/ai_vs_dl/informal_map.png){: width=40% }
 
-From a more formal viewpoint, the [Future of Life Institute][fli]{:target="_blank"}'s [AI Safety map][for_land]{:target="_blank"}[^6] has AI Safety as a root node containing five main branches (___Validation___, ___Control___, ___Verification___, ___Security___, and ___Foundations___)[^7].
+From a more formal viewpoint, the [Future of Life Institute][fli]{:target="_blank"}'s [AI Safety map][for_land]{:target="_blank"}[^6] has AI Safety as a root node containing five main branches of concern (___Validation___, ___Control___, ___Verification___, ___Security___, and ___Foundations___)[^7].
 
 ![](/assets/images/ai_vs_dl/formal_map.png){: width=40% }
 
@@ -45,17 +43,22 @@ Speculation is diverse regarding the internal form or the embodiment that an ext
 
 > In fact, knowing AI behavior can be a lot more useful to us than understanding intelligence. Imagine that a professor claimed to have the world's most intelligent AI and, when asked about what it did, responded indignantly, "Do? What do you mean _do_? It doesn't _do_ anything! It's just really, really smart!" Well, we might or might not end up convinced by such rhetoric, but that machine is certainly not one we'd need to start worrying about. But if the machine started winning bin on the stock market or crafting convincing and moving speeches - well, we still might not agree that it's "intelligent," but it certainly would be something to start worrying about.
 
-One particular threshold for considering the consequences of what sophisticated AI systems might "do" is in terms of human civilizational-wide change, akin to what occurred during the agricultural or industrial revolutions. In this vein, [Open Philanthropy][open_phil]{:target="_blank"} provides the following [definition][trans]{:target="_blank"} of _transformative AI_ as "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution"[^8].
+One benchmark for considering the extent of what sophisticated AI systems might "do" is the degree of change engendered in human civilization. In this vein, [Open Philanthropy][open_phil]{:target="_blank"} provides the following [definition][trans]{:target="_blank"} of _transformative AI_ as "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution"[^8].
 
-&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many formulations for understanding the potential impact of AI. Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems somewhat plausible that, in the event transformative AI is to created, it will stem from the DL research community; presently, 100 [Metaculus][meta]{:target="_blank"} community members assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculus members believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
+<!-- Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. -->
+
+&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many framings for understanding the potential impacts of AI. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems somewhat plausible that, in the event transformative AI is created, it will stem from the DL research community; presently, 100 Metaculites assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculus members believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/4055/" width="100%" height="300"></iframe>
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5121/" width="100%" height="300"></iframe>
 
-The full extent of the negative impact that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of risks from AI as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems, predominantly in the DL community.
+The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, ensuring that those in the DL community are at least
+&emsp; Instrumentally speaking, characterizing the AI Safety within the broader context of DL research might
+
+
+ensuring that those in the DL community are at least
 
 
 <!-- (The DL community needs to key close to AI Safety)
@@ -73,7 +76,7 @@ focus on TRANSFORMATIVE AI-->
 
  <!-- but that such impacts might originate from the DL research community is useful in that -->
 
-In this context, some prospective research questions to be addressed might be:
+Some prospective research questions to be addressed might be:
 
 - How does the amount of funding and participation in the AI Safety community affect progress in AI Safety?
 - How large is the AI Safety community relative to the general AI/DL research community? How will this change?
