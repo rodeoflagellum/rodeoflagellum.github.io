@@ -55,10 +55,7 @@ One benchmark for considering the extent of what sophisticated AI systems might 
 
 The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
-&emsp; Instrumentally speaking, ensuring that those in the DL community are minimally aware of the problems with AI
-
-
-characterizing the size and influence of AI Safety within the broader context of DL research might
+&emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI from might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step at broadcasting 
 
 
 
