@@ -68,9 +68,9 @@ and, more generally:
 
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV. Additionally, I use these results in an attempt to forecast the nu
+__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV. Additionally, I forecast the near-term future of AI Safety research, of DL/AI research, and of the share of research in AI/DL that AI Safety take up.
 
-__Disclaimer__:
+<!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
 
 <!-- (The DL community needs to key close to AI Safety)
 (An idea to solve problems in AI Safety is to increase funding, and increasing talent)
