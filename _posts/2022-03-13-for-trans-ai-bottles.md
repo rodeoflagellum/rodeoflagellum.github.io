@@ -47,7 +47,7 @@ One benchmark for considering the extent of what sophisticated AI systems might 
 
 <!-- Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. -->
 
-&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many framings for understanding the potential impacts of AI. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems somewhat plausible that, in the event transformative AI is created, it will stem from the DL research community; presently, 100 Metaculites assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculus members believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
+&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many framings for understanding the potential impacts of AI. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current community consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI is difficult. Nonetheless, it seems somewhat plausible that, in the event transformative AI is created, it will stem from the DL research community; presently, 100 Metaculus members assign a median probability of 70% that [artificial general intelligence][agi] (AGI) will be based on DL. Moreover, 121 Metaculites believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/4055/" width="100%" height="300"></iframe>
 
@@ -63,12 +63,15 @@ So, some questions (as an agenda) to address AI Safety's place within the DL/AI 
 
 - How large is the AI Safety community relative to the general AI/DL research community? How can this be measured? How might this change with regard to research, funding, participation, and progress, among other things?
 - How do AI Safety and the general AI/DL community overlap? How might this change with regard to research, funding, participation, and progress, among other things?
+- To what extent does the general AI/DL community focus on or address AI risk mitigation?
 
 and, more generally:
 
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
 __Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of AI Safety research, of DL/AI research, and of the share of research in AI/DL that AI Safety takes up.
+
+__Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work.  
 
 <!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
 
