@@ -63,7 +63,13 @@ The full extent of the negative impact that could be engendered by transformativ
 (Some researchers in DL are not interested in AI Safety)
 () -->
 
-<!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/ -->
+<!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/
+
+https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers
+
+https://www.openphilanthropy.org/blog/report-semi-informative-priors#Background:_inside-view_and_outside-view_approaches_to_forecasting_AGI
+
+focus on TRANSFORMATIVE AI-->
 
  <!-- but that such impacts might originate from the DL research community is useful in that -->
 
@@ -91,42 +97,33 @@ __Disclaimer__:
 
 <!-- I have never published peer-reviewed research on AI Safety. -->
 
-## [Search Terms](#search-terms)
+## [Querying](#search-terms)
 _Here I explored different search terms_
 
 <!-- At a glance, the following search instances come up when using
 
 Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
 
+Google Scholar does not appear to be case sensitive
+
+
 General Search Terms
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
+| Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
 
-General Search Terms + "AND Deep Learning"
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
+General Search Terms + "AND (Deep Learning OR Artificial Intelligence)"
 
-General Search Terms + "AND Artificial Intelligence"
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
+|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
 
-General Search Terms + "AND AI"
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
+General Search Terms + "AND (AI Safety OR AI Alignment)"
 
-General Search Terms + "AND AI Safety"
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
+|Search Term | OpenAlex | ArXiV  | GS | LW (Word Count) | LW (Tagged Post) | EAF (Word Count) | EAF (Tagged Posts) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| "AI" |  | | | | | | |
 
-General Search Terms + "AND AI Alignment"
-Search Term | OpenAlex Count | ArXiV Count | Google Scholar Count | LW Post Count | LW Count | EAF Post Count | EAF Count|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| "AI" |  | | | | | |
 
 ### Full Search Terms
 
