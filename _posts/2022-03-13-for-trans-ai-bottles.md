@@ -69,6 +69,22 @@ So, some questions (as an agenda) to address AI Safety's place within the DL/AI 
 
 __Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of select topics in AI Safety research and in DL/AI research, and forecast the share of research in AI/DL that AI Safety takes up. This review of research term frequency serves the purpose of (1) capturing which topics in AI Safety might be neglected, and (2) capturing how neglected AI Safety might be as a whole relative to general research in AI/DL.  
 
+Search up AI Safety, Deep Learning, AI Safety + Deep Learning
+for the years on Google Scholar individually, and add the results to the plots
+with OpenAlex and ArXiV
+
+Ideally do AI Safety, Deep Learning, AI,
+AI + DeepDL + AI Safety, AI + DL , AI + AI safety , AI Safety + DL
+
+<!-- The ultimate goal is to see how much research in DL is occurring
+relative to research in AI Safety. Research activity is influenced
+by participation, which is influenced by funding and interest, and by
+talent. Within these areas of research, certain terms are discussed.
+Seeing how frequently they occur, generally speaking, can inform us
+about how much they are being researched, discussed, etc... In
+terms of increasing AI Safety research, this is particularly useful in that
+it allows us to see which areas are being neglected.   -->
+
 <!-- __Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work. Such changes might be achievable by broadcasting research on AI risk or by incentivizing participation by increasing funding.  -->
 
 <!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
@@ -94,6 +110,384 @@ Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
 
 ## [Querying Results](#query)
 _This section consists of an exploration of 408 search terms, including implementation details._
+
+| Search Term | OpenAlex | ArXiV |
+| :---: | :---: | :---: | :---: |
+| Machine Learning | 134805 | 121092 |
+| Artificial intelligence | 53193 | 50704 |
+| Reinforcement Learning | 35951 | 12696 |
+| Containment | 12381 | 22272 |
+| Language Models | 7886 | 25976 |
+| Computational Complexity | 3195 | 27626 |
+| Active Learning | 15379 | 9269 |
+| Interruptability | 22587 | 502 |
+| Generative Adversarial Networks | 8087 | 7110 |
+| Operator Modeling | 230 | 14126 |
+| Natural Language Processing | 7553 | 6577 |
+| Myopia | 12986 | 17 |
+| Research Agendas | 12479 | 262 |
+| Other Generative Models | 0 | 11123 |
+| Value Learning | 162 | 10883 |
+| interpretable model | 391 | 9178 |
+| Brain-computer interfaces | 8806 | 485 |
+| Optimization Measures | 232 | 7611 |
+| Fixed Point Theorems | 7637 | 202 |
+| Utility Functions | 2003 | 4947 |
+| Oversight | 6738 | 111 |
+| Q-learning | 3906 | 2098 |
+| Decision Theory | 2033 | 3644 |
+| Complexity of Value | 82 | 5508 |
+| explainable model | 101 | 5472 |
+| Implementation Testing | 137 | 5362 |
+| Unsupervised Model Learning | 0 | 5115 |
+| interpretable machine learning | 545 | 4405 |
+| Multiobjective Optimization | 4562 | 198 |
+| Value Structuring | 285 | 4227 |
+| Follow-on Analysis | 613 | 3712 |
+| Value Specification | 11 | 4097 |
+| Simulated Exploration | 8 | 3060 |
+| Impact Measures | 317 | 2642 |
+| preference learning | 436 | 2485 |
+| reward modeling | 155 | 2623 |
+| Deep Q Network | 491 | 2202 |
+| Penetration Testing | 2506 | 143 |
+| Reward Functions | 358 | 2172 |
+| Bounded Rationality | 2011 | 483 |
+| Value Factoring | 173 | 2318 |
+| Expressive Representations | 8 | 2482 |
+| Temporal difference learning | 393 | 2070 |
+| Multi-agent Approaches | 820 | 1480 |
+| History Analysis | 1542 | 758 |
+| Ought | 2154 | 145 |
+| Domesticity | 1867 | 352 |
+| Multi-modal Learning | 117 | 2055 |
+| multimodality learning | 481 | 1584 |
+| Value Sourcing | 99 | 1898 |
+| Standard IT Security | 92 | 1896 |
+| Bounded Exploration | 7 | 1908 |
+| multi-modality learning | 117 | 1751 |
+| Control Transfer | 157 | 1631 |
+| Developmental Psychology | 1622 | 40 |
+| Concept Drift | 1273 | 317 |
+| explainable AI | 656 | 895 |
+| Correlations of Dynamics | 74 | 1440 |
+| Anthropic | 1421 | 9 |
+| Reachability Analysis | 982 | 439 |
+| GPT | 853 | 538 |
+| Multimodal Machine Learning | 73 | 1273 |
+| cross-modal learning | 71 | 1125 |
+| verification for machine learning | 35 | 1121 |
+| Inverse Reinforcement Learning | 694 | 441 |
+| multimodal fusion | 562 | 542 |
+| Hierarchical Reinforcement Learning | 514 | 567 |
+| MIRI | 959 | 11 |
+| Multi-modal Machine Learning | 15 | 935 |
+| Capability control method | 0 | 920 |
+| Multimodal deep Learning | 229 | 685 |
+| multimodal representation | 123 | 779 |
+| verifiable machine learning | 2 | 852 |
+| Consistent Decision Making | 6 | 839 |
+| Operator Value Learning | 0 | 821 |
+| Engineering Alignment | 0 | 816 |
+| multi-modal fusion | 214 | 591 |
+| Distant Supervision | 448 | 351 |
+| Inferring Latent Variables | 0 | 788 |
+| Tool AI | 6 | 760 |
+| Multiple Rewards | 15 | 750 |
+| AI Capabilities | 19 | 736 |
+| Realistic World-Models | 1 | 750 |
+| Predicting Future Observations | 1 | 743 |
+| Multi-modal deep Learning | 53 | 688 |
+| multi-modal feature learning | 7 | 731 |
+| DQN | 268 | 454 |
+| AI ethics | 270 | 449 |
+| Value Alignment | 107 | 543 |
+| multimodal representation learning | 43 | 599 |
+| multimodal artificial intelligence | 3 | 637 |
+| Values Geometry | 2 | 630 |
+| interpretable AI | 36 | 573 |
+| Mild Optimization | 0 | 609 |
+| Impossible Possibilities | 42 | 558 |
+| multi-modal representation learning | 12 | 584 |
+| multimodal feature learning | 8 | 563 |
+| AI Impacts | 20 | 549 |
+| Adaptive Control Theory | 64 | 504 |
+| Formal Software Verification | 19 | 544 |
+| Covariate Shift | 267 | 274 |
+| logical induction | 7 | 516 |
+| Logical Induction | 7 | 516 |
+| Model Repair | 106 | 416 |
+| safe exploration | 72 | 416 |
+| Impact Regularizers | 2 | 477 |
+| Economics of artificial intelligence | 33 | 423 |
+| multi-modal artificial intelligence | 0 | 442 |
+| AI Risk | 29 | 410 |
+| Concept Geometry | 5 | 430 |
+| Human-level artificial intelligence | 20 | 405 |
+| OpenAI | 59 | 361 |
+| Robustness to Distributional Shift | 6 | 412 |
+| robust to distributional shift | 6 | 411 |
+| Transparency / Interpretability | 3 | 406 |
+| Proximal policy optimization | 143 | 261 |
+| Environmental Goals | 202 | 202 |
+| Motivation selection method | 0 | 398 |
+| Supervised Reward Learning | 2 | 393 |
+| Reward Uncertainty | 50 | 339 |
+| Quantilization | 4 | 379 |
+| Robust Policy Improvement | 2 | 380 |
+| Logical Uncertainty | 8 | 370 |
+| ai safety | 55 | 311 |
+| AI safety | 55 | 311 |
+| TD learning | 60 | 299 |
+| Report Sufficiency | 0 | 359 |
+| Counterfactual Reasoning | 194 | 164 |
+| Theory of Ethics | 258 | 91 |
+| Careful Engineering | 0 | 342 |
+| Factored Cognition | 11 | 329 |
+| Transformative AI | 9 | 331 |
+| Adversarial ML | 12 | 327 |
+| Drives and Affect | 22 | 307 |
+| Sarsa | 248 | 78 |
+| AI Governance | 80 | 239 |
+| Goal Stability | 3 | 301 |
+| Logical Priors | 1 | 298 |
+| Active Reward Learning | 11 | 281 |
+| Governance of artificial intelligence | 49 | 241 |
+| Utility Function Security | 1 | 281 |
+| multimodal observations | 8 | 263 |
+| Monitoring AI | 4 | 264 |
+| multi-modal observations | 3 | 264 |
+| Causal Accounting | 40 | 217 |
+| Active Calibration | 37 | 214 |
+| Common Sense Reasoning | 82 | 164 |
+| AI boxing | 1 | 242 |
+| Testing and Quality Assurance | 123 | 120 |
+| Controlling Another Algorithm | 0 | 239 |
+| Intelligence Explosion | 10 | 213 |
+| Intelligence explosion | 10 | 213 |
+| Causal Identification | 35 | 186 |
+| Bayesian Feature Selection | 43 | 172 |
+| Learned Impact Regularizer | 0 | 211 |
+| Collaborative Values Learning | 0 | 204 |
+| Capability Distillation | 0 | 203 |
+| Knows-What-It-Knows Learning | 0 | 197 |
+| Computation hazard | 0 | 181 |
+| DeepMind | 42 | 139 |
+| value alignment problem | 8 | 169 |
+| Normative Uncertainty | 40 | 136 |
+| Superintelligence | 141 | 33 |
+| ai alignment | 12 | 161 |
+| aligned ai | 12 | 155 |
+| Adversarial Reward Functions | 0 | 158 |
+| Value Elicitation | 65 | 88 |
+| Utility Indifference | 134 | 15 |
+| Distance from User Demonstration | 0 | 138 |
+| Ontological Value | 14 | 123 |
+| multimodal AI | 12 | 106 |
+| Universal Algorithmic Intelligence | 3 | 112 |
+| Verification of Intelligent Systems | 2 | 111 |
+| Realistic-Prior Design | 0 | 111 |
+| tampering problem | 3 | 105 |
+| Optimal Policy Preservation | 0 | 108 |
+| Modeling Operator Intent | 0 | 106 |
+| Episodic Contexts | 35 | 70 |
+| Cognitive Parallels | 6 | 98 |
+| Action and Outcome Evaluations | 1 | 99 |
+| Conservative Concepts | 8 | 91 |
+| Tripwire | 92 | 5 |
+| Tripwires | 92 | 5 |
+| Metareasoning | 84 | 12 |
+| Embedded Agency | 54 | 39 |
+| AI forecasting | 6 | 86 |
+| multi-modal AI | 1 | 88 |
+| Multimodal reinforcement learning | 7 | 81 |
+| Machine Intelligence Research Institute | 0 | 87 |
+| Theory of Counterfactuals | 17 | 70 |
+| Ethics Mechanisms | 4 | 83 |
+| Ethical Motivation | 34 | 51 |
+| Model Lookahead | 3 | 80 |
+| Adversarial Transparency | 0 | 83 |
+| Limited-Information Maximum Likelihood | 12 | 70 |
+| Multi-modal reinforcement learning | 4 | 77 |
+| AI race | 16 | 64 |
+| Knowledge Representation Ensembles | 0 | 77 |
+| Inner Alignment | 0 | 75 |
+| Visualization and Situation Awareness | 11 | 62 |
+| Outer Alignment | 0 | 68 |
+| Computational Deference | 0 | 67 |
+| Narrow AI | 3 | 62 |
+| Ontology Identification | 6 | 58 |
+| AIXI | 32 | 29 |
+| AI to Support Security | 0 | 61 |
+| Instrumental Convergence | 0 | 59 |
+| Robust Human Imitation | 0 | 59 |
+| Safety Technique Awareness | 0 | 57 |
+| Human Oversight | 18 | 39 |
+| Misuse Risk | 17 | 39 |
+| Automated Vulnerability Finding | 1 | 52 |
+| Verified Component Design Approaches | 0 | 52 |
+| Verification of Machine Learning Components | 0 | 49 |
+| Resource Value Uncertainty | 0 | 49 |
+| Goal-Directedness | 45 | 1 |
+| Global Catastrophic Risk | 40 | 6 |
+| Solomonoff Induction | 11 | 33 |
+| Degrees of Value Evolution | 0 | 43 |
+| Recursive Self-Improvement | 5 | 37 |
+| Logical Counterfactuals | 0 | 42 |
+| Reward Pretraining | 0 | 42 |
+| Implicit Human Concepts | 0 | 42 |
+| Goodhart's Law | 32 | 9 |
+| iterated amplification | 0 | 40 |
+| Iterated Amplification | 0 | 40 |
+| Regulation and AI Risk | 0 | 40 |
+| Multiobjective Reinforcement Learning | 25 | 15 |
+| Narrow Value Learning | 0 | 39 |
+| Oracle AI | 7 | 30 |
+| Neuromorphic AI | 3 | 34 |
+| Dimensionality Reduction With Anomaly Detection | 6 | 31 |
+| Unsupervised Risk Estimation | 2 | 34 |
+| Increasing Contextual Awareness | 1 | 34 |
+| Dealing with Adversarial Testing | 0 | 35 |
+| Projective Behavioral Bounds | 0 | 34 |
+| Resource-Aware Reasoning | 0 | 33 |
+| AI Safety Support | 0 | 32 |
+| Penalize Influence | 0 | 31 |
+| Newcomb's Problem | 24 | 6 |
+| Corrigibility | 25 | 3 |
+| Defined Impact Regularizer | 0 | 28 |
+| Open Source Game Theory | 1 | 26 |
+| Comprehensive AI Services | 0 | 26 |
+| Human Preference Aggregation | 0 | 26 |
+| Security-Validated Software Engineering | 0 | 26 |
+| Interpretability of Blackboxes | 0 | 26 |
+| Detecting Channel Switching | 0 | 25 |
+| Unsupervised Value Iteration | 0 | 25 |
+| Informed Oversight | 3 | 21 |
+| cooperative inverse reinforcement learning | 7 | 16 |
+| Cooperative Inverse Reinforcement Learning | 7 | 16 |
+| Multilevel World-Models | 0 | 23 |
+| Basic Alignment Theory | 0 | 22 |
+| Indirect normativity | 5 | 17 |
+| Non-Bayesian Confidence Estimation | 0 | 21 |
+| Game Theoretic Framing | 3 | 16 |
+| Orthogonality Thesis | 4 | 14 |
+| Whole Brain Emulation | 16 | 2 |
+| AI winter | 2 | 16 |
+| Temporal Discount Rates | 5 | 13 |
+| reward hacking | 2 | 15 |
+| Alignment Research Center | 0 | 17 |
+| Decision Under Bounded Computational Resources | 0 | 17 |
+| Risk-Sensitive Performance Criteria | 3 | 13 |
+| Moral Trade | 6 | 10 |
+| Scaling Judgement Learning | 0 | 16 |
+| Avoiding Negative Side Effects | 4 | 11 |
+| Value Interrogation | 1 | 14 |
+| ML with Contracts | 0 | 15 |
+| Capability Amplification | 0 | 14 |
+| AI Timelines | 0 | 12 |
+| Values-Based Side Effect Evaluation | 0 | 12 |
+| Reward Capping | 0 | 12 |
+| Basic AI drive | 1 | 10 |
+| Uncertainty Identification and Management | 0 | 10 |
+| reward tampering | 2 | 7 |
+| Center for Security and Emerging Technology | 0 | 9 |
+| Ethical Ensembles | 0 | 9 |
+| Infinite Ethics | 2 | 6 |
+| Red Team Analysis | 0 | 8 |
+| Computing Overhang | 0 | 7 |
+| Artificial sentience | 4 | 3 |
+| World Model Connectedness | 0 | 7 |
+| Symbolic-Subsymbolic Integration | 0 | 7 |
+| Mesa-Optimization | 0 | 6 |
+| Mind crime | 2 | 4 |
+| Bootstrapped Common Sense | 0 | 6 |
+| AI skepticism | 0 | 5 |
+| Nonlinear Fund | 1 | 4 |
+| Verification of Cyberphysical Systems | 2 | 3 |
+| Imitation Statistical Guarantees | 0 | 5 |
+| Endowing Common Sense | 0 | 5 |
+| Privileged Biases | 0 | 5 |
+| Error-Tolerant Agent Design | 0 | 4 |
+| Variable Indifference | 0 | 4 |
+| scalable oversight | 0 | 3 |
+| AI safety via debate | 1 | 2 |
+| Coherent Extrapolated Volition | 2 | 1 |
+| Alignment tax | 0 | 3 |
+| Centre for the Governance of AI | 0 | 3 |
+| Pursuing Environmental Goals | 0 | 3 |
+| Counterexample Resistance | 0 | 3 |
+| Psychological Analogues | 0 | 3 |
+| Statistical-Behavioral Trust Establishment | 0 | 3 |
+| Scalable Oversight | 0 | 3 |
+| Rich Understanding of Human Commands | 0 | 3 |
+| Transparent Reinforcement Learners | 0 | 3 |
+| AI Takeoff | 0 | 2 |
+| Collective superintelligence | 1 | 1 |
+| Perverse instantiation | 0 | 2 |
+| Sovereign AI | 0 | 2 |
+| Foundations of Rational Agency | 2 | 0 |
+| Grounded Ethical Evolution | 0 | 2 |
+| Classical Computational Ethics | 0 | 2 |
+| Unified Ethics Spaces | 0 | 2 |
+| Seeded Common Sense | 0 | 2 |
+| Switchable Objective Functions | 1 | 1 |
+| Trust Policy Oversight | 0 | 2 |
+| Detailed Audit Trails | 0 | 2 |
+| Anthropic capture | 0 | 1 |
+| Instrumental convergence thesis | 0 | 1 |
+| Speed superintelligence | 0 | 1 |
+| Center for Human-Compatible Artificial Intelligence | 0 | 1 |
+| Reflective Induction Confidence | 0 | 1 |
+| Making Verification More User Friendly | 0 | 1 |
+| Verification of Whole AI Systems | 0 | 1 |
+| Avoiding Reward Hacking | 0 | 1 |
+| Use of Subsymbolic Processing In Symbolic Systems | 0 | 1 |
+| Semisupervised Reward Learning | 0 | 1 |
+| Human Judgement Learner | 0 | 1 |
+| Transparency of Whiteboxes | 0 | 1 |
+| Infra-Bayesianism | 0 | 0 |
+| Paperclip Maximizer | 0 | 0 |
+| Treacherous Turn | 0 | 0 |
+| Humans Consulting HCH | 0 | 0 |
+| AI Services (CAIS) | 0 | 0 |
+| AI Safety Camp | 0 | 0 |
+| CHAI (UC Berkeley) | 0 | 0 |
+| Future of Humanity Institute (FHI) | 0 | 0 |
+| Future of Life Institute (FLI) | 0 | 0 |
+| Infrastructure profusion | 0 | 0 |
+| Malignant AI failure mode | 0 | 0 |
+| Quality superintelligence | 0 | 0 |
+| Centre for Long-Term Resilience | 0 | 0 |
+| Charity Science Foundation | 0 | 0 |
+| Leverhulme Center for the Future of Intelligence | 0 | 0 |
+| People for the Ethical Treatment of Reinforcement Learners | 0 | 0 |
+| Safer Self-Modification | 0 | 0 |
+| Vingean Reflection | 0 | 0 |
+| Abstractly Reason About Superior Agents | 0 | 0 |
+| Löbian Obstacle | 0 | 0 |
+| Nontransitive Options | 0 | 0 |
+| Verification of Recursive Self-Improvement | 0 | 0 |
+| Averting Instrumental Incentives | 0 | 0 |
+| Buried Honeypot Avoidance | 0 | 0 |
+| Computational Humility | 0 | 0 |
+| Generalized Fallibility Awareness | 0 | 0 |
+| Averting Paranoia | 0 | 0 |
+| Structured and Privileged Ethical Biases | 0 | 0 |
+| Reversible Tasks via Variational Autoencoding | 0 | 0 |
+| Ontology Update Thresholds | 0 | 0 |
+| World-Embedded Solomonoff Induction | 0 | 0 |
+| Perceptual Distance Agnostic World Models | 0 | 0 |
+| Lengthening Horizons | 0 | 0 |
+| Inductive Ambiguity Identification | 0 | 0 |
+| Scalable Oversight of Ambiguities | 0 | 0 |
+| Use of Structured Knowledge In Subsymbolic Systems | 0 | 0 |
+| Dysfunctional Systems of Thought | 0 | 0 |
+| Whole Brain Emulation Safety | 0 | 0 |
+| Verified Downstack Software | 0 | 0 |
+| Handling Improper External Behavior | 0 | 0 |
+| Sensibility-Triggered Defence | 0 | 0 |
+| Detecting and Managing Low Competence | 0 | 0 |
+| Norm Denial of Service | 0 | 0 |
 
 ## Discussion
 
