@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI Safety ⊂ AI/DL Research"
+title:  "| AI Safety ∩ AI/DL Research |"
 date:  2022-04-09 12:00:00 -0400
 last_edit: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
@@ -12,6 +12,8 @@ tags: [forecasting, prediction, ai, ai-safety, governance]
 image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
 desc: "The longer version of a forecasting essay for Metaculus on differences between the AI Safety and general DL/AI communities."
 ---
+
+<!-- ⊂ -->
 
 ## Table of Contents
 {:.no_toc}
@@ -138,6 +140,19 @@ Search for works with the terms "AI" AND "AI Safety" in their titles
 ### Querying ArXiV
 
 ### Querying LW/EAF
+
+<!-- I looked for year ranges
+01-01-2000
+01-01-2010
+
+01-02-2010
+01-01-2015
+
+01-02-2015
+01-01-2019
+
+01-02-2018
+04-15-2022 -->
 
 ### General Code
 
@@ -825,3 +840,21 @@ Develop combinations
 
 Post on FLI landscape + quotes + your findings
  -->
+
+
+ <!-- {
+ posts(input: {
+ terms: {
+ meta: null  # this seems to get both meta and non-meta posts
+ after: "10-1-2000"
+ before: "10-11-2020" # or some date in the future
+ }
+ }) {
+ results {
+ title
+ url
+ pageUrl
+ postedAt
+ }
+ }
+ } -->
