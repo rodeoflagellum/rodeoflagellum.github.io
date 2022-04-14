@@ -79,16 +79,18 @@ So, some questions to address AI Safety's place within the DL/AI community might
 
 To begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that one reasonable method might be to query some of the research APIs and databases I frequently use when reading about AI Safety, or about DL/AI, to see how much work had been done in different areas. There are two main groupings I explored:
 
-- The intersection of AI Safety and DL, and the intersection of AI Safety and AI
-- Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
+- Group 1: The intersection of AI Safety and DL, and the intersection of AI Safety and AI
+- Group 2: Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
 
-For this first group, I searched ("AI Safety" and "Deep Learning") and ("AI Safety" and "Artificial Intelligence") for the years 2000 through 2022. I cut off the results for 2022.
+For all groups, I searched through the years 2000 through 2022, and cut off 2022 in the graphs. The abbreviations are (AR) = ArXiV; (GS) = Google Scholar, no citations; (GS, R) = Google Scholar Reviews only, no citations; and (OA) = OpenAlex. In every search, I looked for exact phrases (e.g., "AI Safety" rather than AI Safety).
 
 __Intersection of AI Safety and AI/DL__
 
 ![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
 
+The data in this graph comes from searching "AI Safety" and "Deep Learning", or from searching "AI Safety" and "Artificial Intelligence". The raw data for the years 2000 through 2022 can be found in the Appendix. Note that "AI Safety + DL (OA)" and "AI Safety + AI (OA)" produced no results, which I don't have an explanation for.
 
+&emsp; The first noteworthy finding from this search, which is not too surprising, is that AI Safety overlaps more with work on Artificial Intelligence than it does on Deep Learning ($265 - 149 = 116$ more results for non-review Google Scholar search). The trend for ArXiV (this may be more useful for detecting _research_ signals in these fields, since Google Scholar produces many non-research results) is similar ($51 \text{ for AI } > 5 \text{ for DL }$)
 
 __AI Safety, Deep Learning, and Artificial Intelligence__
 
