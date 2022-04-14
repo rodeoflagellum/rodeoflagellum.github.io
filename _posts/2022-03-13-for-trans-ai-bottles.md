@@ -518,19 +518,23 @@ __Results__
 
 ### Search Terms
 
+(coming soon)
+
 ### Querying Google Scholar
+
+(coming soon)
 
 ### Querying OpenAlex
 
-Search for works with the terms "AI" AND "AI Safety" in their titles
-
-```https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021
-```
+(coming soon)
 
 ### Querying ArXiV
 
+(coming soon)
+
 ### Querying LW/EAF
 
+(coming soon)
 <!-- I looked for year ranges
 01-01-2000
 01-01-2010
@@ -547,7 +551,6 @@ Search for works with the terms "AI" AND "AI Safety" in their titles
 ### Raw Output for Graphs
 
 {'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99],'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
-
 
 ### General Code
 
@@ -651,7 +654,7 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^10]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
 
-[^11]: Rather than using Google Scholar and OpenAlex to explore these fields, I decided to only use ArXiV because the Metaculus questions on these subjects 
+[^11]: Rather than using Google Scholar and OpenAlex to explore these fields, I decided to only use ArXiV because the Metaculus questions on these subjects used search queries unique to ArXiV.
 
 
 <!-- Personal Notes
