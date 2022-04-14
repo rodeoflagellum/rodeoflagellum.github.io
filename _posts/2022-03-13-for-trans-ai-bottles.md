@@ -75,9 +75,14 @@ So, some questions to address AI Safety's place within the DL/AI community might
 - How do the AI Safety community and general AI/DL research community overlap? How much of general AI/DL research, independent of AI Safety, addresses AI risk?
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-## [Querying Results](#query)
+## [Querying](#query)
 
-To answer begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that it would be
+To begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that one reasonable method might be to query some of the research APIs and databases I frequently use when reading about AI Safety, or about DL/AI to see how many results come up. There are three main groupings I explored, notably
+
+- The intersection of AI Safety and DL, and the intersection of AI Safety and AI
+- Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
+
+
 
 __AI Safety, Deep Learning, and Artificial Intelligence__
 
@@ -626,11 +631,11 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 #### *Footnotes*
 
-[^1]: What is my reasoning for using Google Scholar, OpenAlex, LessWrong, EAF, and ArXiV? These entities came to mind when I questioned "How could I accumulate research on AI Safety or DL/AI generally?". In learning about AI Safety, most of my time has been spent on the EA Forum and LessWrong, along with an occasional look at the Future of Humanity Institute's work, and an occasional Google Scholar / Wikipedia / ArXiV query. Actually, I use Wikipedia quite frequently. I did not spend too much time looking for other research API's or general search tools. I used OpenAlex mostly because it is new and I wanted to get a feel for it, but also because it seems to contain much more research than standard research API's. As will soon become apparent in this essay, I was limited in my use of Google Scholar because Google Scholar would boot me out after only a few hundred queries, and querying all the things I want to query would take too long manually. For the EAF and LessWrong, I downloaded all or most of the 
+[^1]: What is my reasoning for using Google Scholar, OpenAlex, LessWrong, EAF, and ArXiV? These entities came to mind when I questioned "How could I accumulate research on AI Safety or DL/AI generally?". In learning about AI Safety, most of my time has been spent on the EA Forum and LessWrong, along with an occasional look at the Future of Humanity Institute's work, and an occasional Google Scholar / Wikipedia / ArXiV query. I did not spend too much time looking for other research APIs or search tools. I used OpenAlex mostly because it is new and I wanted to get a feel for it, but also because it seems to contain much more research than standard research APIs. As will soon become apparent in this essay, I was limited in my use of Google Scholar because Google Scholar would boot me out after only a few hundred queries, and querying all the things I want to query would take too long to perform manually. For the EAF and LessWrong, I downloaded all or most of the posts (7089 and 16416 results, respectfully) from their APIs, but have ran out of time to create a decent method to search through them for all the research terms. I will send you the files containing the URLs to these posts upon request - just email me at rodeo DOT flagellum AT gmail DOT com. Also, please email me (or comment) links to other research databases that I should have known about or should have searched.
 
-[^2]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
+[^2]: I queried Google Scholar to find the earliest instances of the exact phrases "AI Safety" or "Safe AI". Of course, M.G. Rodd's paper likely does not mark the "dawn of the field of AI Safety". I am not familiar enough with AI Safety to know whether there is a consensus on some origin or major turning point for the field. If there is such an event, please point it out to me, so I can add it in the Outlook section.
 
-[^3]: The rest of this essay will focus on the growing popularity AI Safety.
+[^3]: The rest of this essay will focus on aspects of the growing popularity AI Safety.
 
 [^4]: I did not spend too much time on accumulating data on the current (04/10/2022) landscape of funding for research in AI Safety, but from anecdotal evidence, funding seems to be plentiful and to be supporting the surging number of researchers from physics, software development, and data science, among other fields, migrating to AI Safety.
 
@@ -640,12 +645,13 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^7]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
 
-[^8]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I am assuming that the size of the entity is roughly proportional to its influence on AI Safety, for the time being).
+[^8]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I think it would not be reasonable to assume that the size of the entity is roughly proportional to its influence).
 
 [^9]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
 
 [^10]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
 
+[^11]: Rather than using Google Scholar and OpenAlex to explore these fields, I decided to only use ArXiV because the Metaculus questions on these subjects 
 
 
 <!-- Personal Notes
