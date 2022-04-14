@@ -10,20 +10,14 @@ importance: "8.5"
 impact: "5.5"
 tags: [forecasting, prediction, ai, ai-safety, governance]
 image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
-desc: "The longer version of a forecasting essay for Metaculus on differences between the AI Safety and general DL/AI communities."
+desc: "The full version of an essay I wrote on some trends in the AI Safety and general DL/AI communities for Metaculus's AI Progress Contest."
 ---
 
 <!-- ⊂ -->
 
-__Contribution__: In this essay, I contribute a first-pass search of research terms relevant to research in AI Safety, Deep Learning (DL), and Artificial Intelligence (AI), using [Google Scholar][gs], the [LessWrong][lw_pi]/[EAF][ea_Pi] API, [OpenAlex][openalex], and [ArXiV][arxiv][^10]. I perform a brief analysis based on term frequency, and find that AI Safety roughly accounts for 0.04497% of AI/DL research, and that for every AI Safety result, there are roughly 1830 and 880 disjoint results for research involving AI and DL, respectively. Additionally, I forecast the near-term future of select topics in AI Safety and DL/AI research, based off of several Metaculus questions. This preliminary review of research term frequency might aid in AI risk reduction by helping (1) detail which topics in AI Safety might be neglected, (2) capture how neglected AI Safety might be holistically, relative to general research in AI/DL, and (3) assess how certain areas within DL that are relevant to AI risk might change over the coming years.
+__Contribution__: In this essay, I contribute a first-pass search of research terms relevant to research in AI Safety, Deep Learning (DL), and Artificial Intelligence (AI), using [Google Scholar][gs], the [LessWrong][lw_pi]/[EAF][ea_Pi] API, [OpenAlex][openalex], and [ArXiV][arxiv][^1]. I perform a brief analysis of AI research trends based on term frequency, and find that AI Safety roughly accounts for 0.04497% of AI/DL research, and that for every AI Safety search result, there are roughly 1830 and 880 disjoint search results for research involving AI and DL, respectively. Additionally, I forecast the near-term future of select topics in AI Safety and DL/AI research. These forecasts and this preliminary review of research term frequency could be useful for AI risk reduction (1) through detailing which topics in AI Safety might be neglected, (2) through capturing how neglected AI Safety might be as a whole, relative to general research in AI/DL, and (3) through assessing how certain areas within DL that are relevant to AI risk might change over the coming years.
 
-__Epistemic Status and Disclaimer__: I have a Bachelor's degree in Mathematics and Neuroscience, and have been interested in AI Safety only since ~2019; I have never published research on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any shortcomings abundantly clear. I am fairly confident that my findings here will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base.  
-
-[gs]: https://scholar.google.com/ "https://scholar.google.com/"
-[arxiv]: https://arxiv.org/ "https://arxiv.org/"
-[openalex]: https://openalex.org/ "https://openalex.org/"
-[lw_pi]: https://www.lesswrong.com/graphiql "https://www.lesswrong.com/graphiql"
-[ea_Pi]: https://forum.effectivealtruism.org/graphiql "https://forum.effectivealtruism.org/graphiql"
+__Epistemic Status and Disclaimer__: I have a Bachelor's degree in Mathematics and Neuroscience, and have only been invested in AI Safety for several years; I have never published research or written academically on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any of these shortcomings abundantly clear. I am fairly confident that my findings here will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base.  
 
 ## Table of Contents
 {:.no_toc}
@@ -31,92 +25,59 @@ __Epistemic Status and Disclaimer__: I have a Bachelor's degree in Mathematics a
 {:toc}
 
 ## [Outlook](#outlook)
-_Here I briefly examine the landscape of AI Safety and provide introduce some questions relating to how the general DL/AI research community handles AI risk_
+_Here I examine the landscape of AI Safety and introduce some questions relating to how the general DL/AI research community handles AI risk_
 
-[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of the phrase "AI Safety" I could find in academic literature appears to be in 2000, in the publication _Poopville_[^1]. The field is growing rapidly both in terms of popularity[^2] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^3]. More recently, [Open Philanthropy][open_phil] donated ~80 million USD across 2019 and 2020 towards reducing risks from AI. Should Open Philanthropy continue to exist, the [Metaculus][meta]{:target="_blank"} community predicts that the funding for AI Safety will continue to increase, with median predictions of 78 million USD and 121 million USD for the years 2025 and 2030, respectively.
+[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of "AI Safety" or "Safe AI" I could find in academic literature appears to be in 1995, in M. G. Rodd's publication _[Safe AI - is this Possible?][f]_, but the origins of AI Safety as a field are less obvious[^2]. In any case, the field is growing rapidly, both in terms of popularity[^3] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to at least ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^4].
+
+&emsp; More recently, [Open Philanthropy][open_phil] donated ~80 million USD across 2019 and 2020 towards reducing risks from AI. Should Open Philanthropy continue exist, the [Metaculus][meta]{:target="_blank"} community predicts that the funding for AI Safety will continue to increase, with median predictions of 78 million USD and 121 million USD for the years 2025 and 2030, respectively.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7418/" width="100%" height="300"></iframe>
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/7419/" width="100%" height="300"></iframe>
 
-Why so much newfound funding for decreasing risk from AI? Nestled within the wider [deep learning][dl]{:target="_blank"} (DL) and AI research community, the field of AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity, presently and in the future. AI systems and their wrath are often themes of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^4]
+Why so much newfound funding for decreasing risk from AI? Nestled within the wider [deep learning][dl]{:target="_blank"} (DL) and AI research community, the field of AI Safety stems from the concern that AI systems can be deleterious, in a variety of ways minor or grave, to humanity, presently and in the future. AI systems and their wrath are often themes of [science fiction][fict]{:target="_blank"}, captured by systems such as [HAL 9000][hal]{:target="_blank"} or [Prime Intellect][prime]{:target="_blank"}. Perhaps [the earliest][ai_risk]{:target="_blank"} formulation of the threat of AI systems was in [Samuel Butler][butler]{:target="_blank"}'s 1863 essay entitled _[Darwin among the Machines][dar]{:target="_blank"}_, in which he wrote[^5]
 
 > The upshot is simply a question of time, but that the time will come when the machines will hold the real supremacy over the world and its inhabitants is what no person of a truly philosophic mind can for a moment question.
 
-The complexity of the aims and problems within AI Safety is driven in part by the complexity of intelligence and of human values. From an informal viewpoint, the landscape of AI Safety can be understood by looking at the organizations and individuals who broadcast concern regarding AI and who generate research oriented around these concerns. One such map, created in 2017 by [Søren Elverlin][in_land]{:target="_blank"}[^5], attempts to capture this community; I believe that it's a safe bet that most people who work in AI Safety will have heard of many of the entities listed in Elverlin's map.
+The complexity of the aims and problems within AI Safety is driven in part by the complexity of intelligence and human values. From an informal viewpoint, the landscape of AI Safety can be understood by looking at the organizations and individuals who broadcast concern regarding AI and who generate research oriented around these concerns.
+
+&emsp; One such map, created in 2017 by [Søren Elverlin][in_land]{:target="_blank"}[^6], attempts to capture the AI Safety community; I believe that it's a safe bet that most people who work in AI Safety will have heard of many of the entities listed in Elverlin's map.
 
 ![](/assets/images/ai_vs_dl/informal_map.png){: width=40% }
 
-From a more formal viewpoint, the [Future of Life Institute][fli]{:target="_blank"}'s [AI Safety map][for_land]{:target="_blank"}[^6] has AI Safety as a root node containing five main branches of concern (___Validation___, ___Control___, ___Verification___, ___Security___, and ___Foundations___)[^7].
+From a more formal viewpoint, the [Future of Life Institute][fli]{:target="_blank"}'s [AI Safety map][for_land]{:target="_blank"}[^7] has AI Safety as a root node containing five main branches of concern (___Validation___, ___Control___, ___Verification___, ___Security___, and ___Foundations___)[^8].
 
 ![](/assets/images/ai_vs_dl/formal_map.png){: width=40% }
 
-Speculation is diverse regarding the internal form or the embodiment that an extremely dangerous AI system might take, but researchers often frame risk from AI in terms of what an AI system can achieve rather than in terms of how complex it is or of whether it's conscious. For example, [Stuart Armstrong][arm]{:target="_blank"}, a prominent AI Safety researcher, writes in _[Smarter Than Us][smart]{:target="_blank"}_
+Speculation is diverse regarding the internal form or the embodiment that an extremely dangerous AI system might take, but researchers often frame risk from AI in terms of what an AI system can achieve rather than in terms of how [complex it is or whether it's conscious][orth]. For example, [Stuart Armstrong][arm]{:target="_blank"}, an AI Safety researcher at the FHI, writes in _[Smarter Than Us][smart]{:target="_blank"}_
 
 > In fact, knowing AI behavior can be a lot more useful to us than understanding intelligence. Imagine that a professor claimed to have the world's most intelligent AI and, when asked about what it did, responded indignantly, "Do? What do you mean _do_? It doesn't _do_ anything! It's just really, really smart!" Well, we might or might not end up convinced by such rhetoric, but that machine is certainly not one we'd need to start worrying about. But if the machine started winning bin on the stock market or crafting convincing and moving speeches - well, we still might not agree that it's "intelligent," but it certainly would be something to start worrying about.
 
-One benchmark for considering the extent of what sophisticated AI systems might "do" is the degree of change they engender in human civilization. In this vein of thinking, Open Philanthropy provides the following definition of _[transformative AI][trans]{:target="_blank"}_ as "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution"[^8].
+One benchmark for considering the extent of what sophisticated AI systems might "do" is the degree of change they engender in human civilization. In this vein of thinking, Open Philanthropy provides the following definition of _[transformative AI][trans]{:target="_blank"}_ as "AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution"[^9].
 
 <!-- Of course, considering the prospect of transformative AI, especially its timelines, is an important endeavor within AI Safety. -->
 
-&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many framings for understanding the potential impacts of AI. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^9], along with the current consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI seems difficult. Nonetheless, it's somewhat plausible that, in the event transformative AI is created, it will stem from the DL research community; presently, 100 Metaculus members assign this possibility (i.e., [artificial general intelligence][agi] (AGI) will be based on DL) a median probability of 70%. Moreover, 121 Metaculites believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
+&emsp; As we have seen, AI Safety is a broad field, and transformative AI is but one of many framings for understanding the potential impacts of AI. Given the difficulties of forecasting [rare events][rare]{:target="_blank"}[^10], along with the current consensus that no AGI has ever existed (an empty reference class), predicting the trajectory and impact of transformative AI seems difficult. Nonetheless, it's somewhat plausible that, in the event transformative AI is created, it will stem from the DL research community; presently, 100 Metaculus members assign this possibility (i.e., [artificial general intelligence][agi] (AGI) will be based on DL) a median probability of 70%. Moreover, 121 Metaculites believe that the date that "the first [strong and robotic] AGI [is] first developed and demonstrated" will be between 2037 and 2084 (1st quartile - 3rd quartile), with a median prediction of 2052.
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/4055/" width="100%" height="300"></iframe>
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5121/" width="100%" height="300"></iframe>
 
-The full extent of the negative impacts that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
+The full extent of the poor outcomes for humanity that could be engendered by transformative AI, or by AI systems generally, is beyond the scope of this essay. However, taking the magnitude of the severity of AI risks as given, these predictions, along with other trajectories researched by the AI Safety community, indicate the need for urgent monitoring and governance of AI systems and computing resource, predominantly in the DL community.
 
 &emsp; Instrumentally speaking, ensuring that those in the general AI/DL research community are lucidly aware of the risks from AI might greatly improve the outcomes for humanity. As such, characterizing the size, influence, and general parameters of AI Safety within the broader context of AI/DL research might be a first step towards achieving this, and could benefit investigations on how much bottlenecks in mitigating AI risk relate to funding, interest, or talent. An example of such discussion regarding approaches to tackle AI alignment can be found in [Logan Riggs][riggs] recent [LessWrong][lw] post _[Convincing All Capability Researchers][rig_post]_ regarding [Not Relevant][nr]'s [comment][comment]:
 
 > Give the world's thousand most respected AI researchers \\$1M each to spend 3 months working on AI alignment, with an extra \\$100M if by the end they can propose a solution alignment researchers can't shoot down. I promise you that other than like 20 industry researchers who are paid silly amounts, every one of them would take the million. They probably won't make any progress, but from then on when others ask them whether they think alignment is a real unsolved problem, they will be way more likely to say yes. That only costs you a billion dollars! I literally think I could get someone reading this the money to do this (at least at an initially moderate scale) - all it needs is a competent person to step up.
 
-So, some questions (as an agenda) to address AI Safety's place within the DL/AI community might be:
+So, some questions to address AI Safety's place within the DL/AI community might be:
 
 - How much has AI safety been researched, relative to the amount of research on AI/DL systems generally?
 - How do the AI Safety community and general AI/DL research community overlap? How much of general AI/DL research, independent of AI Safety, addresses AI risk?
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-<!-- Search up AI Safety, Deep Learning, AI Safety + Deep Learning
-for the years on Google Scholar individually, and add the results to the plots
-with OpenAlex and ArXiV
-
-Ideally do AI Safety, Deep Learning, AI,
-AI + DeepDL + AI Safety, AI + DL , AI + AI safety , AI Safety + DL -->
-
-<!-- The ultimate goal is to see how much research in DL is occurring
-relative to research in AI Safety. Research activity is influenced
-by participation, which is influenced by funding and interest, and by
-talent. Within these areas of research, certain terms are discussed.
-Seeing how frequently they occur, generally speaking, can inform us
-about how much they are being researched, discussed, etc... In
-terms of increasing AI Safety research, this is particularly useful in that
-it allows us to see which areas are being neglected.   -->
-
-<!-- __Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work. Such changes might be achievable by broadcasting research on AI risk or by incentivizing participation by increasing funding.  -->
-
-<!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
-
-<!-- (The DL community needs to key close to AI Safety)
-(An idea to solve problems in AI Safety is to increase funding, and increasing talent)
-(Some researchers in DL are not interested in AI Safety)
-() -->
-
-<!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/
-
-https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers
-
-https://www.openphilanthropy.org/blog/report-semi-informative-priors#Background:_inside-view_and_outside-view_approaches_to_forecasting_AGI
-
-
-## [Querying](#search-terms)
-_This section consists of an exploration of 408 search terms, including implementation details._
-
-<!-- At a glance, the following search instances come up when using
-
-Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
-
 ## [Querying Results](#query)
+
+To answer begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that it would be
 
 __AI Safety, Deep Learning, and Artificial Intelligence__
 
@@ -589,6 +550,20 @@ Search for works with the terms "AI" AND "AI Safety" in their titles
 
 (these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
 
+[orth]: https://www.lesswrong.com/tag/orthogonality-thesis "https://www.lesswrong.com/tag/orthogonality-thesis"
+
+[f]: https://sci-hubtw.hkvisa.net/10.1016/0952-1976(95)00010-x "https://sci-hubtw.hkvisa.net/10.1016/0952-1976(95)00010-x"
+
+[gs]: https://scholar.google.com/ "https://scholar.google.com/"
+
+[arxiv]: https://arxiv.org/ "https://arxiv.org/"
+
+[openalex]: https://openalex.org/ "https://openalex.org/"
+
+[lw_pi]: https://www.lesswrong.com/graphiql "https://www.lesswrong.com/graphiql"
+
+[ea_Pi]: https://forum.effectivealtruism.org/graphiql "https://forum.effectivealtruism.org/graphiql"
+
 [nr]: https://www.lesswrong.com/users/not-relevant "https://www.lesswrong.com/users/not-relevant"
 
 [comment]: https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq "https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy?commentId=kPBhEMBLGD2u9uicq"
@@ -651,26 +626,27 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 #### *Footnotes*
 
+[^1]: What is my reasoning for using Google Scholar, OpenAlex, LessWrong, EAF, and ArXiV? These entities came to mind when I questioned "How could I accumulate research on AI Safety or DL/AI generally?". In learning about AI Safety, most of my time has been spent on the EA Forum and LessWrong, along with an occasional look at the Future of Humanity Institute's work, and an occasional Google Scholar / Wikipedia / ArXiV query. Actually, I use Wikipedia quite frequently. I did not spend too much time looking for other research API's or general search tools. I used OpenAlex mostly because it is new and I wanted to get a feel for it, but also because it seems to contain much more research than standard research API's. As will soon become apparent in this essay, I was limited in my use of Google Scholar because Google Scholar would boot me out after only a few hundred queries, and querying all the things I want to query would take too long manually. For the EAF and LessWrong, I downloaded all or most of the 
 
-[^1]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
+[^2]: Query results on OpenAlex and then on Google Scholar and ArXiv for earliest.
 
-[^2]: The rest of this essay will focus on the growing popularity AI Safety.
+[^3]: The rest of this essay will focus on the growing popularity AI Safety.
 
-[^3]: I did not spend too much time on accumulating data on the current (04/10/2022) landscape of funding for research in AI Safety, but from anecdotal evidence, funding seems to be plentiful and to be supporting the surging number of researchers from physics, software development, and data science, among other fields, migrating to AI Safety.
+[^4]: I did not spend too much time on accumulating data on the current (04/10/2022) landscape of funding for research in AI Safety, but from anecdotal evidence, funding seems to be plentiful and to be supporting the surging number of researchers from physics, software development, and data science, among other fields, migrating to AI Safety.
 
-[^4]: I did not spend much time exploring the earliest historical incidences of thinking on intelligent machines or on the risks incurred by developing artificial intelligence, so please don't assign much confidence that this is in fact the first written instance of thinking about AI risk.
+[^5]: I did not spend much time exploring the earliest historical incidences of thinking on intelligent machines or on the risks incurred by developing artificial intelligence, so please don't assign much confidence that this is in fact the first written instance of thinking about AI risk.
 
-[^5]: I did not spend any time researching how this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
+[^6]: I did not spend any time researching how this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
 
-[^6]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
+[^7]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
 
-[^7]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I am assuming that the size of the entity is roughly proportional to its influence on AI Safety, for the time being).
+[^8]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I am assuming that the size of the entity is roughly proportional to its influence on AI Safety, for the time being).
 
-[^8]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
+[^9]: Open Philanthropy provides a second definition of transformative AI, given how nebulous the first definition is. The second definition (one or more of the descriptions must hold): <br><br>__(1)__ _AI systems capable of fulfilling all the necessary functions of human scientists, unaided by humans, in developing another technology (or set of technologies) that ultimately becomes widely credited with being the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. Note that just because AI systems could accomplish such a thing unaided by humans doesn’t mean they would; it’s possible that human scientists would provide an important complement to such systems, and could make even faster progress working in tandem than such systems could achieve unaided. I emphasize the hypothetical possibility of AI systems conducting substantial unaided research to draw a clear distinction from the types of AI systems that exist today. I believe that AI systems capable of such broad contributions to the relevant research would likely dramatically accelerate it._,<br><br>__(2)__ _AI systems capable of performing tasks that currently (in 2016) account for the majority of full-time jobs worldwide, and/or over 50% of total world wages, unaided and for costs in the same range as what it would cost to employ humans. Aside from the fact that this would likely be sufficient for a major economic transformation relative to today, I also think that an AI with such broad abilities would likely be able to far surpass human abilities in a subset of domains, making it likely to meet one or more of the other criteria laid out here._,<br><br>__(3)__ _Surveillance, autonomous weapons, or other AI-centric technology that becomes sufficiently advanced to be the most significant driver of a transition comparable to (or more significant than) the agricultural or industrial revolution. (This contrasts with the first point because it refers to transformative technology that is itself AI-centric, whereas the first point refers to AI used to speed research on some other transformative technology.)_
 
-[^9]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
+[^10]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
 
-[^10]: Why these?
+
 
 <!-- Personal Notes
 Read https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence#Sec1 on Transformative AI
@@ -1300,3 +1276,42 @@ Post on FLI landscape + quotes + your findings
        https://api.openalex.org/works?search=ai%20safety&filter=publication_year:2021
        # Both Quotes
        https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021 -->
+
+       <!-- Search up AI Safety, Deep Learning, AI Safety + Deep Learning
+       for the years on Google Scholar individually, and add the results to the plots
+       with OpenAlex and ArXiV
+
+       Ideally do AI Safety, Deep Learning, AI,
+       AI + DeepDL + AI Safety, AI + DL , AI + AI safety , AI Safety + DL -->
+
+       <!-- The ultimate goal is to see how much research in DL is occurring
+       relative to research in AI Safety. Research activity is influenced
+       by participation, which is influenced by funding and interest, and by
+       talent. Within these areas of research, certain terms are discussed.
+       Seeing how frequently they occur, generally speaking, can inform us
+       about how much they are being researched, discussed, etc... In
+       terms of increasing AI Safety research, this is particularly useful in that
+       it allows us to see which areas are being neglected.   -->
+
+       <!-- __Summary Statement__: Reducing the risk from AI is important. AI risk mitigation might improve if more AI/DL researchers worked in the field AI Safety or addressed AI safety in their work. Such changes might be achievable by broadcasting research on AI risk or by incentivizing participation by increasing funding.  -->
+
+       <!-- __Disclaimer__: I only have an undergraduate degree in Mathematics and Neuroscience; I have never performed a literature review of AI Safety research; I have never published research in a scientific journal; An -->
+
+       <!-- (The DL community needs to key close to AI Safety)
+       (An idea to solve problems in AI Safety is to increase funding, and increasing talent)
+       (Some researchers in DL are not interested in AI Safety)
+       () -->
+
+       <!-- https://www.metaculus.com/questions/4055/will-the-first-agi-be-based-on-deep-learning/
+
+       https://www.lesswrong.com/posts/vaHgLF2BCEdK3KxQd/convincing-all-capability-researchers
+
+       https://www.openphilanthropy.org/blog/report-semi-informative-priors#Background:_inside-view_and_outside-view_approaches_to_forecasting_AGI
+
+
+       ## [Querying](#search-terms)
+       _This section consists of an exploration of 408 search terms, including implementation details._
+
+       <!-- At a glance, the following search instances come up when using
+
+       Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
