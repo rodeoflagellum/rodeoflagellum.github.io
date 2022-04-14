@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI Safety ∩ AI/DL Research"
+title:  "AI Safety ∩ AI/DL Research "
 date:  2022-04-09 12:00:00 -0400
 last_edit: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
@@ -14,6 +14,16 @@ desc: "The longer version of a forecasting essay for Metaculus on differences be
 ---
 
 <!-- ⊂ -->
+
+__Contribution__: In this essay, I contribute a first-pass search of research terms relevant to research in AI Safety, Deep Learning (DL), and Artificial Intelligence (AI), using [Google Scholar][gs], the [LessWrong][lw_pi]/[EAF][ea_Pi] API, [OpenAlex][openalex], and [ArXiV][arxiv][^10]. I perform a brief analysis based on term frequency, and find that AI Safety roughly accounts for x% of DL research and y% of AI research. Additionally, I forecast the near-term future of select topics in AI Safety and DL/AI research, based off of several Metaculus questions. This preliminary review of research term frequency might aid in AI risk reduction by helping (1) detail which topics in AI Safety might be neglected, (2) capture how neglected AI Safety might be holistically, relative to general research in AI/DL, and (3) assess how certain areas within DL that are relevant to AI risk might change over the coming years.
+
+__Epistemtic Status and Disclaimer__: My knowledge is limited, I have a Bachelor's degree in Mathematics and Neuroscience; I try
+
+[gs]: https://scholar.google.com/ "https://scholar.google.com/"
+[arxiv]: https://arxiv.org/ "https://arxiv.org/"
+[openalex]: https://openalex.org/ "https://openalex.org/"
+[lw_pi]: https://www.lesswrong.com/graphiql "https://www.lesswrong.com/graphiql"
+[ea_Pi]: https://forum.effectivealtruism.org/graphiql "https://forum.effectivealtruism.org/graphiql"
 
 ## Table of Contents
 {:.no_toc}
@@ -67,14 +77,12 @@ So, some questions (as an agenda) to address AI Safety's place within the DL/AI 
 - How do the AI Safety community and general AI/DL research community overlap? How much of general AI/DL research, independent of AI Safety, addresses AI risk?
 - How does the amount of interest in, funding in, and participation in the AI Safety community affect progress in AI Safety?
 
-__Contribution__: With these questions in mind, I contribute a search and a comparison of research terms relevant to AI Safety and to DL/AI research using Google Scholar, the LessWrong/EAF API, OpenAlex, and ArXiV[^10]. Additionally, I forecast the near-term future of select topics in AI Safety research and in DL/AI research, and forecast the share of research in AI/DL that AI Safety takes up. This review of research term frequency serves the purpose of (1) capturing which topics in AI Safety might be neglected, and (2) capturing how neglected AI Safety might be as a whole relative to general research in AI/DL.  
-
-Search up AI Safety, Deep Learning, AI Safety + Deep Learning
+<!-- Search up AI Safety, Deep Learning, AI Safety + Deep Learning
 for the years on Google Scholar individually, and add the results to the plots
 with OpenAlex and ArXiV
 
 Ideally do AI Safety, Deep Learning, AI,
-AI + DeepDL + AI Safety, AI + DL , AI + AI safety , AI Safety + DL
+AI + DeepDL + AI Safety, AI + DL , AI + AI safety , AI Safety + DL -->
 
 <!-- The ultimate goal is to see how much research in DL is occurring
 relative to research in AI Safety. Research activity is influenced
@@ -109,7 +117,42 @@ _This section consists of an exploration of 408 search terms, including implemen
 Use OpenAlex Over Time, LW Over Time, EAF Over Time  -->
 
 ## [Querying Results](#query)
-_This section consists of an exploration of 408 search terms, including implementation details._
+
+__AI Safety, Deep Learning, and Artificial Intelligence__
+
+![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research_ai_dl_safe.png)
+
+__Close Up of AI Safety Queries__
+
+![](/assets/images/ai_vs_dl/CLOSE.png)
+
+__Intersection of AI Safety and AI/DL__
+
+![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
+
+__Fields Related to AI Safety, and AI Safety__
+
+![](/assets/images/ai_vs_dl/arxiv_research.png)
+
+
+### Search 1
+
+__Goal__
+
+__Deficits__
+
+__Results__
+
+### Search 2
+
+__Goal__
+
+- Search individual terms related to AI Safety, Deep Learning, Reinforcement Learning, Multimodal Learning, and Natural Language Processing in OpenAlex, Google Scholar, ArXiV,
+LessWrong, and the EA Forum as a first pass.
+
+__Deficits__
+
+__Results__
 
 | Search Term | OpenAlex | ArXiV |
 | :---: | :---: | :---: | :---: |
@@ -511,19 +554,6 @@ _This section consists of an exploration of 408 search terms, including implemen
 
 ### Querying Google Scholar
 
-<!-- https://www.lesswrong.com/graphiql?query=%7BPostsList(terms%3A%20%7Bview%3A%20%22nearbyEvents%22%2C%20filter%3A%20%22SSC%22%2C%20lat%3A%200%2C%20lng%3A%200%7D)%20%7B%0A%20%20_id%0A%20%20createdAt%0A%20%20title%0A%20%20mongoLocation%0A%20%20location%0A%7D%7D
-
-https://forum.effectivealtruism.org/graphiql
-
-https://www.lesswrong.com/graphiql
-
-# One Quotes
-      https://api.openalex.org/works?search=%22ai%20safety%22&filter=publication_year:2021
-      # One No Quotes
-      https://api.openalex.org/works?search=ai%20safety&filter=publication_year:2021
-      # Both Quotes
-      https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021 -->
-
 ### Querying OpenAlex
 
 Search for works with the terms "AI" AND "AI Safety" in their titles
@@ -547,6 +577,11 @@ Search for works with the terms "AI" AND "AI Safety" in their titles
 
 01-02-2018
 04-15-2022 -->
+
+### Raw Output for Graphs
+
+{'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99],'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+
 
 ### General Code
 
@@ -1252,3 +1287,16 @@ Post on FLI landscape + quotes + your findings
  }
  }
  } -->
+
+ <!-- https://www.lesswrong.com/graphiql?query=%7BPostsList(terms%3A%20%7Bview%3A%20%22nearbyEvents%22%2C%20filter%3A%20%22SSC%22%2C%20lat%3A%200%2C%20lng%3A%200%7D)%20%7B%0A%20%20_id%0A%20%20createdAt%0A%20%20title%0A%20%20mongoLocation%0A%20%20location%0A%7D%7D
+
+ https://forum.effectivealtruism.org/graphiql
+
+ https://www.lesswrong.com/graphiql
+
+ # One Quotes
+       https://api.openalex.org/works?search=%22ai%20safety%22&filter=publication_year:2021
+       # One No Quotes
+       https://api.openalex.org/works?search=ai%20safety&filter=publication_year:2021
+       # Both Quotes
+       https://api.openalex.org/works?search=%22ai%20safety%22,%20%22AI%22&filter=publication_year:2021 -->
