@@ -82,7 +82,7 @@ To begin answering these questions, and to lay some groundwork for future meta-s
 - The intersection of AI Safety and DL, and the intersection of AI Safety and AI
 - Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
 
-For this first group, I searched ("AI Safety" and "Deep Learning") and ("AI Safety" and "Artificial Intelligence") for the years 2000 to 2022. I cut off the results for 2022.
+For this first group, I searched ("AI Safety" and "Deep Learning") and ("AI Safety" and "Artificial Intelligence") for the years 2000 through 2022. I cut off the results for 2022.
 
 __Intersection of AI Safety and AI/DL__
 
@@ -537,18 +537,7 @@ __Results__
 ### Querying LW/EAF
 
 (coming soon)
-<!-- I looked for year ranges
-01-01-2000
-01-01-2010
 
-01-02-2010
-01-01-2015
-
-01-02-2015
-01-01-2019
-
-01-02-2018
-04-15-2022 -->
 
 ### Raw Output for Graphs
 
