@@ -17,7 +17,7 @@ desc: "The full version of an essay I wrote on some trends in the AI Safety and 
 
 __Contribution__: In this essay, I contribute a first-pass search of research terms relevant to research in AI Safety, Deep Learning (DL), and Artificial Intelligence (AI), using [Google Scholar][gs], the [LessWrong][lw_pi]/[EAF][ea_Pi] API, [OpenAlex][openalex], and [ArXiV][arxiv][^1]. I perform a brief analysis of AI research trends based on term frequency, and find that AI Safety roughly accounts for 0.04497% of AI/DL research, and that for every AI Safety search result, there are roughly 1830 and 880 disjoint search results for research involving AI and DL, respectively. Additionally, I forecast the near-term future of select topics in AI Safety and DL/AI research. These forecasts and this preliminary review of research term frequency could be useful for AI risk reduction (1) through detailing which topics in AI Safety might be neglected, (2) through capturing how neglected AI Safety might be as a whole, relative to general research in AI/DL, and (3) through assessing how certain areas within DL that are relevant to AI risk might change over the coming years.
 
-__Epistemic Status and Disclaimer__: I have a Bachelor's degree in Mathematics and Neuroscience, and have only been invested in AI Safety for several years; I have never published research or written academically on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any of these shortcomings abundantly clear. I am fairly confident that my findings here will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base.  
+__Disclaimer and Epistemic Status__: I have a Bachelor's degree in Mathematics and Neuroscience, and have only been invested in AI Safety for several years; I have never published research or written academically on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any of these shortcomings abundantly clear. I am fairly confident that my findings here will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base.  
 
 ## Table of Contents
 {:.no_toc}
@@ -77,10 +77,16 @@ So, some questions to address AI Safety's place within the DL/AI community might
 
 ## [Querying](#query)
 
-To begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that one reasonable method might be to query some of the research APIs and databases I frequently use when reading about AI Safety, or about DL/AI to see how many results come up. There are three main groupings I explored, notably
+To begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that one reasonable method might be to query some of the research APIs and databases I frequently use when reading about AI Safety, or about DL/AI, to see how much work had been done in different areas. There are two main groupings I explored:
 
 - The intersection of AI Safety and DL, and the intersection of AI Safety and AI
 - Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
+
+For this first group, I searched ("AI Safety" and "Deep Learning") and ("AI Safety" and "Artificial Intelligence") for the years 2000 to 2022. I cut off the results for 2022.
+
+__Intersection of AI Safety and AI/DL__
+
+![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
 
 
 
@@ -91,10 +97,6 @@ __AI Safety, Deep Learning, and Artificial Intelligence__
 __Close Up of AI Safety Queries__
 
 ![](/assets/images/ai_vs_dl/CLOSE.png)
-
-__Intersection of AI Safety and AI/DL__
-
-![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
 
 __Fields Related to AI Safety, and AI Safety__
 
