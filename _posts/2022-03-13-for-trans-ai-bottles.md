@@ -82,15 +82,15 @@ To begin answering these questions, and to lay some groundwork for future meta-s
 - Group 1: The intersection of AI Safety and DL, and the intersection of AI Safety and AI
 - Group 2: Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
 
-For all groups, I searched through the years 2000 through 2022, and cut off 2022 in the graphs. The abbreviations are (AR) = ArXiV; (GS) = Google Scholar, no citations; (GS, R) = Google Scholar Reviews only, no citations; and (OA) = OpenAlex. In every search, I looked for exact phrases (e.g., "AI Safety" rather than AI Safety).
+For all groups, I searched through the years 2000 through 2022, and cut off 2022 in the graphs. The abbreviations are (AR) = ArXiV; (GS) = Google Scholar, no citations; (GS, R) = Google Scholar Reviews only, no citations; and (OA) = OpenAlex. In every search, I looked for exact phrases (e.g., "AI Safety" rather than AI Safety). The raw data for the years 2000 through 2022 can be found in the Appendix[^12]. As of the time of writing this, the year 2022 is
 
 __Intersection of AI Safety and AI/DL__
 
 ![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
 
-The data in this graph comes from searching "AI Safety" and "Deep Learning", or from searching "AI Safety" and "Artificial Intelligence". The raw data for the years 2000 through 2022 can be found in the Appendix. Note that "AI Safety + DL (OA)" and "AI Safety + AI (OA)" produced no results, which I don't have an explanation for.
+The data in this graph comes from searching "AI Safety" and "Deep Learning", or from searching "AI Safety" and "Artificial Intelligence". Note that "AI Safety + DL (OA)" and "AI Safety + AI (OA)" produced no results, which I don't have an explanation for.
 
-&emsp; The first noteworthy finding from this search, which is not too surprising, is that AI Safety overlaps more with work on Artificial Intelligence than it does on Deep Learning ($265 - 149 = 116$ more results for non-review Google Scholar search). The trend for ArXiV (this may be more useful for detecting _research_ signals in these fields, since Google Scholar produces many non-research results) is similar ($51 \text{ for AI } > 5 \text{ for DL }$)
+&emsp; The first noteworthy finding from this search, which is not too surprising, is that AI Safety overlaps more with work on Artificial Intelligence than it does on Deep Learning ($265 > 149$ for AI, DL respectively for non-review Google Scholar search). The trend for ArXiV (this may be more useful for detecting _research_ signals in these fields, since Google Scholar produces many non-research results) is similar ($51 > 5$ for AI, DL respectively).
 
 __AI Safety, Deep Learning, and Artificial Intelligence__
 
@@ -103,26 +103,6 @@ __Close Up of AI Safety Queries__
 __Fields Related to AI Safety, and AI Safety__
 
 ![](/assets/images/ai_vs_dl/arxiv_research.png)
-
-
-### Search 1
-
-__Goal__
-
-__Deficits__
-
-__Results__
-
-### Search 2
-
-__Goal__
-
-- Search individual terms related to AI Safety, Deep Learning, Reinforcement Learning, Multimodal Learning, and Natural Language Processing in OpenAlex, Google Scholar, ArXiV,
-LessWrong, and the EA Forum as a first pass.
-
-__Deficits__
-
-__Results__
 
 | Search Term | OpenAlex | ArXiV |
 | :---: | :---: | :---: | :---: |
@@ -522,7 +502,160 @@ __Results__
 
 ### Search Terms
 
-(coming soon)
+[m_mm]: https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/ "https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/"
+
+[m_rl]: https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/ "https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/"
+
+[m_nlp]: https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/ "https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/"
+
+[m_safe1]: https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/ "https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/"
+
+[m_safe2]: https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/ "https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/"
+
+UNEDITED TERMS
+
+__AI Safety Questions__ ([1][m_safe1] and [2][m_safe2]) on Metaculus:
+
+['ai safety', 'ai alignment', 'aligned ai', 'value alignment problem', 'reward hacking',
+'reward tampering', 'tampering problem', 'safe exploration', 'robust to distributional shift',
+'scalable oversight', 'explainable AI', 'interpretable AI', 'explainable model',
+'verification for machine learning', 'verifiable machine learning', 'interpretable model',
+'interpretable machine learning', 'cooperative inverse reinforcement learning', 'value learning',
+'iterated amplification', 'preference learning', 'AI safety via debate', 'reward modeling',
+'logical induction']
+
+__[NLP Question][m_nlp]__ on Metaculus:
+
+['Natural Language Processing (NLP)']
+
+__[RL Question][m_rl]__ on Metaculus:
+
+['Reinforcement Learning (RL)', 'Reinforcement Learning', 'DQN',
+'Q-learning', 'Deep Q Network', 'Temporal difference learning',
+'Sarsa', 'TD learning', 'Proximal policy optimization']
+
+__[Multimodal Learning Question][m_mm]__ on Metaculus:
+
+['Multi-modal Learning', 'Multimodal Machine Learning', 'multimodal representation',
+'multimodal representation learning', 'multimodal AI', 'multimodal artificial intelligence',
+'multimodal feature learning', 'multimodal observations', 'Multimodal deep Learning',
+'Multimodal reinforcement learning', 'multimodal fusion', 'Multi-modal Machine Learning',
+'Multi-modal Machine Learning', 'multi-modal representation learning', 'multi-modal AI',
+'multi-modal artificial intelligence', 'multi-modal feature learning', 'multi-modal observations',
+'Multi-modal deep Learning', 'Multi-modal reinforcement learning', 'multi-modal fusion', '
+cross-modal learning', 'multi-modality learning', 'multimodality learning']
+
+__LessWrong__ (ARTIFICIAL INTELLIGENCE, Basic Alignment Theory, Engineering Alignment, Strategy, Organizations, Other)
+
+<https://www.lesswrong.com/tags/all>
+
+['Basic Alignment Theory', 'AIXI', 'Coherent Extrapolated Volition', 'Complexity of Value',
+'Corrigibility', 'Decision Theory', 'Embedded Agency', 'Fixed Point Theorems', "Goodhart's Law",
+'Goal-Directedness', 'Infra-Bayesianism', 'Inner Alignment', 'Instrumental Convergence',
+'Intelligence Explosion', 'Logical Induction', 'Logical Uncertainty', 'Mesa-Optimization',
+'Myopia', "Newcomb's Problem", 'Optimization', 'Orthogonality Thesis', 'Outer Alignment',
+'Paperclip Maximizer', 'Recursive Self-Improvement', 'Solomonoff Induction', 'Treacherous Turn',
+'Utility Functions', 'Engineering Alignment', 'AI Boxing (Containment)', 'Conservatism (AI)',
+'Debate (AI safety technique)', 'Factored Cognition', 'Humans Consulting HCH', 'Impact Measures',
+'Inverse Reinforcement Learning', 'Iterated Amplification', 'Mild Optimization', 'Oracle AI',
+'Reward Functions', 'Tool AI', 'Transparency / Interpretability', 'Tripwire', 'Value Learning',
+'Strategy', 'AI Governance', 'AI Risk', 'AI Services (CAIS)', 'AI Takeoff', 'AI Timelines',
+'Computing Overhang', 'Regulation and AI Risk', 'Transformative AI', 'Organizations', 'AI Safety Camp',
+'CHAI (UC Berkeley)', 'DeepMind', 'FHI (Oxford)', 'Future of Life Institute (FLI)', 'MIRI', 'OpenAI',
+'Ought', 'AI Capabilities', 'GPT', 'Language Models', 'Machine Learning', 'Narrow AI',
+'Neuromorphic AI', 'Reinforcement Learning', 'Research Agendas', 'Superintelligence',
+'Whole Brain Emulation']
+
+__Effective Altruism Forum__ (Global Catastrophic Risk (AI) and Artificial Intelligence (organizations))
+
+<https://forum.effectivealtruism.org/tags/all>
+
+['Global Catastrophic Risk (AI)', 'AI alignment', 'AI boxing', 'AI ethics', 'AI forecasting',
+'AI race', 'AI safety', 'AI skepticism', 'AI takeoff', 'AI winter', 'Alignment tax', 'Anthropic capture',
+'Artificial intelligence', 'Artificial sentience', 'Basic AI drive', 'Brain-computer interfaces',
+'Capability control method', 'Collective superintelligence', 'Comprehensive AI Services',
+'Computation hazard', 'Economics of artificial intelligence', 'Governance of artificial intelligence',
+'Human-level artificial intelligence', 'Indirect normativity', 'Infrastructure profusion',
+'Instrumental convergence thesis', 'Intelligence explosion', 'Malignant AI failure mode',
+'Mind crime', 'Motivation selection method', 'Oracle AI', 'Orthogonality thesis',
+'Perverse instantiation', 'Quality superintelligence', 'Sovereign AI', 'Speed superintelligence',
+'Superintelligence', 'Tool AI', 'Whole brain emulation', 'AI Impacts', 'AI Safety Camp', 'AI Safety Support',
+'Aligned AI', 'Alignment Research Center', 'Anthropic', 'Center for Human-Compatible Artificial Intelligence',
+'Center for Security and Emerging Technology', 'Centre for Long-Term Resilience',
+'Centre for the Governance of AI', 'Charity Science Foundation', 'DeepMind',
+'Leverhulme Center for the Future of Intelligence', 'Machine Intelligence Research Institute',
+'Nonlinear Fund', 'OpenAI', 'Ought', 'People for the Ethical Treatment of Reinforcement Learners']
+
+__FLI__ ([Landscape for AI Safety][formal_map])
+
+['FLI', 'Foundations of Rational Agency', 'Logical Uncertainty', 'Theory of Counterfactuals',
+'Universal Algorithmic Intelligence', 'Theory of Ethics', 'Ethical Motivation', 'Ontological Value',
+'Human Preference Aggregation', 'Infinite Ethics', 'Normative Uncertainty', 'Bounded Rationality',
+'Consistent Decision Making', 'Decision Theory', 'Logical Counterfactuals', 'Open Source Game Theory',
+'Safer Self-Modification', 'Vingean Reflection', 'Abstractly Reason About Superior Agents',
+'Reflective Induction Confidence', 'Löbian Obstacle', 'Optimal Policy Preservation', 'Safety Technique Awareness',
+'Goal Stability', 'Nontransitive Options', 'Projective Behavioral Bounds', 'Computational Complexity',
+'Formal Software Verification', 'Verified Component Design Approaches', 'Adaptive Control Theory',
+'Verification of Cyberphysical Systems', 'Making Verification More User Friendly',
+'Automated Vulnerability Finding', 'Verification of Intelligent Systems', 'Verification of Whole AI Systems',
+'Verification of Machine Learning Components', 'Verification of Recursive Self-Improvement',
+'Implementation Testing', 'Averting Instrumental Incentives', 'Error-Tolerant Agent Design',
+'Domesticity', 'Impact Measures', 'Values-Based Side Effect Evaluation', 'Avoiding Negative Side Effects',
+'Reward Uncertainty', 'Multi-agent Approaches', 'Penalize Influence', 'Follow-on Analysis',
+'Impact Regularizers', 'Defined Impact Regularizer', 'Learned Impact Regularizer', 'Safe exploration',
+'Risk-Sensitive Performance Criteria', 'Simulated Exploration', 'Bounded Exploration',
+'Multiobjective Reinforcement Learning', 'Human Oversight', 'Buried Honeypot Avoidance',
+'Mild Optimization', 'Optimization Measures', 'Quantilization', 'Multiobjective Optimization',
+'Computational Humility', 'Generalized Fallibility Awareness', 'Resource Value Uncertainty',
+'Temporal Discount Rates', 'Averting Paranoia', 'Avoiding Reward Hacking',
+'Pursuing Environmental Goals', 'Environmental Goals', 'Predicting Future Observations',
+'Model Lookahead', 'History Analysis', 'Detecting Channel Switching', 'Counterexample Resistance',
+'Adversarial Reward Functions', 'Variable Indifference', 'Careful Engineering', 'Reward Capping',
+'Reward Pretraining', 'Multiple Rewards', 'Value Alignment', 'Ethics Mechanisms',
+'Grounded Ethical Evolution', 'Moral Trade', 'Value Specification', 'Classical Computational Ethics',
+'Value Structuring', 'Values Geometry', 'Action and Outcome Evaluations', 'Game Theoretic Framing',
+'Unified Ethics Spaces', 'Capability Amplification', 'Value Learning', 'Operator Value Learning',
+'Value Elicitation', 'Value Sourcing', 'Value Interrogation', 'Value Factoring',
+'Collaborative Values Learning', 'Ethical Ensembles', 'Structured and Privileged Ethical Biases',
+'Drives and Affect', 'Degrees of Value Evolution', 'Robust Human Imitation',
+'Inverse Reinforcement Learning', 'Cooperative Inverse Reinforcement Learning',
+'Imitation Statistical Guarantees', 'Generative Adversarial Networks', 'Other Generative Models',
+'Operator Modeling', 'Reversible Tasks via Variational Autoencoding',
+'Distance from User Demonstration', 'Narrow Value Learning', 'Scaling Judgement Learning',
+'Increasing Contextual Awareness', 'Realistic World-Models', 'Expressive Representations',
+'Unsupervised Model Learning', 'Concept Drift', 'Ontology Identification', 'Ontology Update Thresholds',
+'Episodic Contexts', 'Correlations of Dynamics', 'World-Embedded Solomonoff Induction',
+'Perceptual Distance Agnostic World Models', 'Knowledge Representation Ensembles',
+'Endowing Common Sense', 'Common Sense Reasoning', 'Bootstrapped Common Sense',
+'Seeded Common Sense', 'Metareasoning', 'Lengthening Horizons', 'Concept Geometry',
+'Implicit Human Concepts', 'Conservative Concepts', 'Dimensionality Reduction With Anomaly Detection',
+'Multilevel World-Models', 'World Model Connectedness', 'Uncertainty Identification and Management',
+'Inferring Latent Variables', 'Inductive Ambiguity Identification', 'Scalable Oversight of Ambiguities',
+'Bayesian Feature Selection', 'Non-Bayesian Confidence Estimation', 'Active Learning',
+'Realistic-Prior Design', 'Knows-What-It-Knows Learning', 'Robustness to Distributional Shift',
+'Covariate Shift', 'Unsupervised Risk Estimation', 'Causal Identification',
+'Limited-Information Maximum Likelihood', 'Active Calibration', 'Reachability Analysis',
+'Robust Policy Improvement', 'Counterfactual Reasoning', 'ML with Contracts', 'Model Repair',
+'Resource-Aware Reasoning', 'Decision Under Bounded Computational Resources', 'Logical Induction',
+'Logical Priors', 'Impossible Possibilities', 'Symbolic-Subsymbolic Integration',
+'Use of Structured Knowledge In Subsymbolic Systems', 'Use of Subsymbolic Processing In Symbolic Systems',
+'Psychological Analogues', 'Cognitive Parallels', 'Developmental Psychology',
+'Dysfunctional Systems of Thought', 'Whole Brain Emulation Safety', 'Testing and Quality Assurance',
+'Standard IT Security', 'Verified Downstack Software', 'Utility Function Security',
+'AI to Support Security', 'Security-Validated Software Engineering', 'Red Team Analysis',
+'Penetration Testing', 'Tripwires', 'Containment', 'Handling Improper External Behavior',
+'Adversarial ML', 'Dealing with Adversarial Testing', 'Statistical-Behavioral Trust Establishment',
+'Modeling Operator Intent', 'Sensibility-Triggered Defence', 'Detecting and Managing Low Competence',
+'Privileged Biases', 'Norm Denial of Service', 'Misuse Risk', 'Computational Deference',
+'Corrigibility', 'Interruptibility', 'Utility Indifference', 'Switchable Objective Functions',
+'Control Transfer', 'Oversight', 'Scalable Oversight', 'Supervised Reward Learning',
+'Semisupervised Reward Learning', 'Active Reward Learning', 'Unsupervised Value Iteration',
+'Distant Supervision', 'Hierarchical Reinforcement Learning', 'Trust Policy Oversight',
+'Cooperative Inverse Reinforcement Learning', 'Human Judgement Learner', 'Informed Oversight',
+'Controlling Another Algorithm', 'Capability Distillation', 'Rich Understanding of Human Commands',
+'Monitoring', 'Transparency of Whiteboxes', 'Transparent Reinforcement Learners',
+'Interpretability of Blackboxes', 'Adversarial Transparency', 'Visualization and Situation Awareness',
+'Detailed Audit Trails', 'Report Sufficiency', 'Causal Accounting']
 
 ### Querying Google Scholar
 
@@ -543,13 +676,15 @@ __Results__
 
 ### Raw Output for Graphs
 
-{'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99],'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'FEW': [0, 0, 0, 0, 0, 0, 0, 1, 2, 5, 9, 10, 9, 28, 49, 66, 89, 202, 348, 699, 1164, 1666, 536], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99], 'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 
 ### General Code
 
 ## Link Bibliography
 
 (these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
+
+[few]: https://www.metaculus.com/questions/5962/few-shot-learning-2020-12-14-to-2027-01-01/ "https://www.metaculus.com/questions/5962/few-shot-learning-2020-12-14-to-2027-01-01/"
 
 [orth]: https://www.lesswrong.com/tag/orthogonality-thesis "https://www.lesswrong.com/tag/orthogonality-thesis"
 
@@ -648,3 +783,5 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 [^10]: See <https://stats.stackexchange.com/questions/93523/how-do-we-predict-rare-events> and <https://www.semanticscholar.org/paper/The-limits-of-forecasting-methods-in-anticipating-Goodwin-Wright/c1d3c776a5f8bb131ee9e0cc3a939ab80c7cc0c6>
 
 [^11]: Rather than using Google Scholar and OpenAlex to explore these fields, I decided to only use ArXiV because the Metaculus questions on these subjects used search queries unique to ArXiV.
+
+[^12]: It's worth noting that I forgot to include the terms for the Metaculus question on Few Shot Learning, but have included it in the graph for ArXiV search results.
