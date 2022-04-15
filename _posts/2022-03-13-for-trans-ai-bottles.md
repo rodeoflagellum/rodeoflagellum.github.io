@@ -27,7 +27,7 @@ __Disclaimer and Epistemic Status__: I have a Bachelor's degree in Mathematics a
 ## [Outlook](#outlook)
 _Here I examine the landscape of AI Safety and introduce some questions relating to how the general DL/AI research community handles AI risk_
 
-[AI safety][ai_safety]{:target="_blank"} as a distinct discipline is relatively new; the earliest occurrence of "AI Safety" or "Safe AI" I could find in academic literature appears to be in 1995, in M. G. Rodd's publication _[Safe AI - is this Possible?][f]_, but the origins of AI Safety as a field are less obvious[^2]. In any case, the field is growing rapidly, both in terms of popularity[^3] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to at least ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^4].
+[AI safety][ai_safety]{:target="_blank"}, as a distinct discipline, is relatively new; the earliest occurrence of "AI Safety" or "Safe AI" I could find in academic literature appears to be in 1995, in M. G. Rodd's publication _[Safe AI - is this Possible?][f]_, but the origins of AI Safety as a field are less obvious[^2]. In any case, the field is growing rapidly, both in terms of popularity[^3] and funding. In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to at least ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^4].
 
 &emsp; More recently, [Open Philanthropy][open_phil] donated ~80 million USD across 2019 and 2020 towards reducing risks from AI. Should Open Philanthropy continue exist, the [Metaculus][meta]{:target="_blank"} community predicts that the funding for AI Safety will continue to increase, with median predictions of 78 million USD and 121 million USD for the years 2025 and 2030, respectively.
 
@@ -79,20 +79,24 @@ So, some questions to address AI Safety's place within the DL/AI community might
 
 To begin answering these questions, and to lay some groundwork for future meta-science investigations of AI Safety, I decided that one reasonable method might be to query some of the research APIs and databases I frequently use when reading about AI Safety, or about DL/AI, to see how much work had been done in different areas. There are two main groupings I explored:
 
-- Group 1: The intersection of AI Safety and DL, and the intersection of AI Safety and AI
-- Group 2: Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), and Mulimodal Learning (MM) that are important to AI Safety[^11]
+- __Group 1__: The intersection of AI Safety and DL, and the intersection of AI Safety and AI
+- __Group 2__: Subfields of DL/AI such as Natural Language Processing (NLP), Reinforcement Learning (RL), Few-Shot Learning (FEW), and Multimodal Learning (MM) that are important to AI Safety[^11]
 
-For all groups, I searched through the years 2000 through 2022, and cut off 2022 in the graphs. The abbreviations are (AR) = ArXiV; (GS) = Google Scholar, no citations; (GS, R) = Google Scholar Reviews only, no citations; and (OA) = OpenAlex. In every search, I looked for exact phrases (e.g., "AI Safety" rather than AI Safety). The raw data for the years 2000 through 2022 can be found in the Appendix[^12]. As of the time of writing this, the year 2022 is
+For all groups, I searched from the years 2000 through 2022, and cut off 2022 in the graphs. Here are the abbreviations: (AR) = ArXiV; (GS) = Google Scholar All Results, no citations; (GS, R) = Google Scholar Reviews only, no citations; and (OA) = OpenAlex. In every search, I looked for exact phrases (e.g., _"AI Safety"_ rather than _AI Safety_). The raw data for the year 2000 through 2022 can be found in the Appendix[^12].
 
-__Intersection of AI Safety and AI/DL__
+<!-- As of the time of writing this, the year 2022 is ~29% over; this percentage is somewhat useful for predicting  -->
+
+__Intersection of AI Safety and AI/DL__ (Group 1)
 
 ![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research.png)
 
-The data in this graph comes from searching "AI Safety" and "Deep Learning", or from searching "AI Safety" and "Artificial Intelligence". Note that "AI Safety + DL (OA)" and "AI Safety + AI (OA)" produced no results, which I don't have an explanation for.
+The data in this graph comes from searching "AI Safety" and "Deep Learning", or from searching "AI Safety" and "Artificial Intelligence". Note that "AI Safety + DL (OA)" and "AI Safety + AI (OA)" both produced zero results, which I don't have an explanation for.
 
-&emsp; The first noteworthy finding from this search, which is not too surprising, is that AI Safety overlaps more with work on Artificial Intelligence than it does on Deep Learning ($265 > 149$ for AI, DL respectively for non-review Google Scholar search). The trend for ArXiV (this may be more useful for detecting _research_ signals in these fields, since Google Scholar produces many non-research results) is similar ($51 > 5$ for AI, DL respectively).
+&emsp; The first noteworthy finding from this search is that AI Safety overlaps more with work on Artificial Intelligence than it does on Deep Learning ($265 > 149$ for AI, DL respectively for non-review Google Scholar search), which is not too surprising. The trend for ArXiV (this may be more useful for detecting _research_ signals in these fields, since Google Scholar produces many non-research results) is similar ($51 > 5$ for AI, DL respectively).
 
-__AI Safety, Deep Learning, and Artificial Intelligence__
+&emsp; Across research platforms, there have is a mean
+
+__AI Safety, Deep Learning, and Artificial Intelligence__ (Group 1)
 
 ![](/assets/images/ai_vs_dl/arxiv_gs_openalex_research_ai_dl_safe.png)
 
@@ -100,9 +104,13 @@ __Close Up of AI Safety Queries__
 
 ![](/assets/images/ai_vs_dl/CLOSE.png)
 
-__Fields Related to AI Safety, and AI Safety__
+__Fields Related to AI Safety, and AI Safety__ (Group 2)
 
 ![](/assets/images/ai_vs_dl/arxiv_research.png)
+
+__Preliminary, Full Term Search__ (Group 2)
+
+Scanning down the list, the word "Containment" immediately comes out
 
 | Search Term | OpenAlex | ArXiV |
 | :---: | :---: | :---: | :---: |
@@ -502,16 +510,6 @@ __Fields Related to AI Safety, and AI Safety__
 
 ### Search Terms
 
-[m_mm]: https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/ "https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/"
-
-[m_rl]: https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/ "https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/"
-
-[m_nlp]: https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/ "https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/"
-
-[m_safe1]: https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/ "https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/"
-
-[m_safe2]: https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/ "https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/"
-
 UNEDITED TERMS
 
 __AI Safety Questions__ ([1][m_safe1] and [2][m_safe2]) on Metaculus:
@@ -586,7 +584,7 @@ __Effective Altruism Forum__ (Global Catastrophic Risk (AI) and Artificial Intel
 'Leverhulme Center for the Future of Intelligence', 'Machine Intelligence Research Institute',
 'Nonlinear Fund', 'OpenAI', 'Ought', 'People for the Ethical Treatment of Reinforcement Learners']
 
-__FLI__ ([Landscape for AI Safety][formal_map])
+__FLI__ ([Landscape for AI Safety][for_land])
 
 ['FLI', 'Foundations of Rational Agency', 'Logical Uncertainty', 'Theory of Counterfactuals',
 'Universal Algorithmic Intelligence', 'Theory of Ethics', 'Ethical Motivation', 'Ontological Value',
@@ -683,6 +681,16 @@ __FLI__ ([Landscape for AI Safety][formal_map])
 ## Link Bibliography
 
 (these are currently unordered and lack descriptions; my apologies - I will try to fix this in the near-term future)
+
+[m_mm]: https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/ "https://www.metaculus.com/questions/6576/multi-modal-e-prints-2021-02-14-to-2031-02-14/"
+
+[m_rl]: https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/ "https://www.metaculus.com/questions/5961/reinforcement-learning-2021-01-01-2031-01-01/"
+
+[m_nlp]: https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/ "https://www.metaculus.com/questions/6299/nlo-e-prints-2021-01-14-to-2030-01-14/"
+
+[m_safe1]: https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/ "https://www.metaculus.com/questions/5899/ai-safety--other-2021-through-2026/"
+
+[m_safe2]: https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/ "https://www.metaculus.com/questions/6586/ai-safety-e-prints-2021-02-14-2031-02-14/"
 
 [few]: https://www.metaculus.com/questions/5962/few-shot-learning-2020-12-14-to-2027-01-01/ "https://www.metaculus.com/questions/5962/few-shot-learning-2020-12-14-to-2027-01-01/"
 
