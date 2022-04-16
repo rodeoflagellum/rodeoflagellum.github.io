@@ -793,3 +793,5 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 [^11]: Rather than using Google Scholar and OpenAlex to explore these fields, I decided to only use ArXiV because the Metaculus questions on these subjects used search queries unique to ArXiV.
 
 [^12]: It's worth noting that I forgot to include the terms for the Metaculus question on Few Shot Learning, but have included it in the graph for ArXiV search results.
+
+[^15]: $x(t) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(t) = 586848$ for AI. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(t) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(t) = 269393$ for DL.
