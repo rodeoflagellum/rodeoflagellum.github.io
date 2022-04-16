@@ -869,16 +869,34 @@ Here is an example (truncated) of what's returned when this query is performed.
 
 This is the Python dictionary I have for the querying I used in some of the graphs above. The abbreviations are as follows:
 
-- NLP: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions
-- NLP_SAFE: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety"
-- RL: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions
-- RL_SAFE: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety"
-- MULT: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions
-- MULT_SAFE: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety"
-- FEW: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions
-- SAFE: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions
-- AI_Safety_AI: "AI Safety", an ArXiV query for the phrase "AI Safety"
-
+- __NLP__: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions
+- __NLP_SAFE__: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety"
+- __RL__: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions
+- __RL_SAFE__: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety"
+- __MULT__: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions
+- __MULT_SAFE__: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety"
+- __FEW__: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions (note that I forgot to search the intersection of Few Shot Learning and AI Safety on ArXiV, so there is no FEW_SAFE category)
+- __SAFE__: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions
+- __AI_SAFETY_AR__: "AI Safety", an ArXiV query for the phrase "AI Safety"
+- __DL_AR__: "Deep Learning", an ArXiV query for the phrase "Deep Learning"
+- __AI_AR__: "Artificial Intelligence", an ArXiV query for the phrase "Artificial Intelligence"
+- __DL_AI_SAFETY_AR__: "Deep Learning AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning"
+- __AI_AI_SAFETY_AR__: "Artificial Intelligence AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning"
+- __AI_SAFETY__:
+- __AI_SAFETY_R__:
+- __SAFE_DL__:
+- __SAFE_DL_R__:
+- __SAFE_AI__:
+- __SAFE_AI_R__:
+- __DL__:
+- __DL_R__:
+- __AI__:
+- __AI_R__:
+- __OP_DL__:
+- __OP_AI__:
+- __OP_SAFE__:
+- __OP_DL_SAFE__:
+- __OP_AI_SAFE__:
 
 {'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'FEW': [0, 0, 0, 0, 0, 0, 0, 1, 2, 5, 9, 10, 9, 28, 49, 66, 89, 202, 348, 699, 1164, 1666, 536], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99], 'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 
