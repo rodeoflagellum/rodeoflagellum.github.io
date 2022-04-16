@@ -625,7 +625,7 @@ This, in my mind, indicates that the community leans towards fairly accurate on 
 
 Presently, the community predicts 13k (IQR: 7.6k - >20k) FEW e-prints for [2020-01-01, 2027-01-01], which the line of best fit for the cummatively summed results supports (the ARIMA model estimates much higher, perhaps due to weighting the 2020-2021 difference too greatly).
 
-Should the community's predictions come to pass, Few Shot Learning's representation on ArXiV will grow around 13000/1517=8.57 (IQR: 5.00 - >13.18) times between 2020-12-31 and 2027-02-14, inclusive (1517 FEW papers were published between 2000 and 2019, inclusive).
+&emsp; Should the community's predictions come to pass, Few Shot Learning's representation on ArXiV will grow around 13000/1517=8.57 (IQR: 5.00 - >13.18) times between 2020-12-31 and 2027-02-14, inclusive (1517 FEW papers were published between 2000 and 2019, inclusive).
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5962/" width="100%" height="300"></iframe>
 
@@ -645,10 +645,17 @@ Should the community's predictions come to pass, Multimodal Learning's represent
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
 
+---
+
 ## [Final Thoughts](#final-thoughts)
+_Some notes on the big picture of what might come to pass for AI Safety and for DL research in the coming years_
+
+---
 
 ## [Issues and Questions](#issues-questions)
 _Some issues and questions concerning my work that I would like, at some point, to address, but which for the sake of time, I haven't yet addressed_
+
+---
 
 ## [Appendix](#appendix)
 
@@ -798,8 +805,67 @@ __FLI__ ([Landscape for AI Safety][for_land])
 
 ### Querying LW/EAF
 
-(coming soon)
+Credit here should be given to Nuño Sempere for the Appendix of his _[Big List of Cause Candidates][big_list]_ post on the EAF; this is where I learned how to query the LessWrong and EAF API. Since queries of the API only return up to 5000 lines, I had to break up my queries by date. The date intervals I used were: [01-01-2000, 01-01-2010], [01-02-2010, 01-01-2015], [01-02-2015, 01-01-2019], and [01-02-2019, 04-15-2022]. I use these intervals for both APIs, but did not record how many results were returned for each interval, which means it could be the case that the results returned were cut off after 5000 lines, and I was plainly unaware of it. Since I manually changed the dates, and manually copied over and aggregated the results in single file, there is major room for error.  
 
+```
+{
+posts(input: {
+terms: {
+meta: null  #
+after: "01-02-2019"
+before: "04-15-2022"
+}
+}) {
+results {
+title
+url
+pageUrl
+postedAt
+}
+}
+}
+```
+
+Here is an example (truncated) of what's returned when this query is performed.
+
+```
+{
+  "data": {
+    "posts": {
+      "results": [
+        {
+            "title": "Brian Tomasik – The Importance of Wild-Animal Suffering",
+            "url": "https://longtermrisk.org/the-importance-of-wild-animal-suffering/",
+            "pageUrl": "https://forum.effectivealtruism.org/posts/JMsJhxRbTnPuADdCi/brian-tomasik-the-importance-of-wild-animal-suffering",
+            "postedAt": "2009-07-08T12:42:44.362Z"
+        },
+        ]
+    }
+},
+"extensions": {
+ "cacheControl": {
+   "version": 1,
+   "hints": [
+     {
+       "path": [
+         "posts"
+       ],
+       "maxAge": 0
+     },
+     {
+       "path": [
+         "posts",
+         "results"
+       ],
+       "maxAge": 0
+     }
+   ]
+ }
+}
+}
+```
+
+[big_list]: https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates "https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates"
 
 ### Raw Output for Graphs
 
@@ -808,6 +874,8 @@ __FLI__ ([Landscape for AI Safety][for_land])
 ### General Code
 
 PlaceHolder[^14]
+
+---
 
 ## Link Bibliography
 
@@ -906,6 +974,8 @@ PlaceHolder[^14]
 [ai_safety]: https://intelligence.org/why-ai-safety/ "https://intelligence.org/why-ai-safety/"
 
 [ai_fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
+
+---
 
 ## Notes
 
