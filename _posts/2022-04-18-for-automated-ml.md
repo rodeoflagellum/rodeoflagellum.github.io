@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Trends in DNA Digital Data Storage"
-date:  2022-04-18 12:00:00 -0400
-last_edit: 2022-04-18 12:48:00 -0400
-permalink: "/for_emerging_DNA/"
+title:  "Forecast: Developments in AutoML"
+date:  2022-04-18 11:59:00 -0400
+last_edit: 2022-04-18 12:41:00 -0400
+permalink: "/for_automated_ML"
 status: "Draft"
-image: /assets/images/urja-bhatt-HcxlQto32mI-unsplash.jpg
-tags: [forecasting, biology, prediction]
-desc: "An overview of some trends in DNA digital data storage and an offering of some forecasting questions on the subject."
+image: /assets/images/urja-bhatt-EixJg5_hXKg-unsplash_copy.jpg
+tags: [forecasting, ai, machine-learning, prediction]
+desc: "An overview of some trends in automated machine learning and an offering of some forecasting questions on the subject."
 ---
 
 (!In Progress)
