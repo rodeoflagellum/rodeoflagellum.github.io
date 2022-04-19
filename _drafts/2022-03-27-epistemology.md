@@ -17,6 +17,8 @@ tags: [epistemics]
 ### Summary
 _A brief summary of this writing piece, including my ratings of the piece's durability and writing impact._
 
+
+
 ---
 
 ### Core Ideas and Claims
@@ -51,7 +53,7 @@ _Quotes in the piece that I like or that are succinct explanations for phenomena
 
 - N/A
 
---- 
+---
 
 ### To Memorize
 _Raw text translations for potential Anki cards to be generated from this piece._
