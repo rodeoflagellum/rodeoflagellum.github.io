@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Some Epistemical Considerations for This Site
-date: 2022-02-21 12:00:00 -0500
-last_edit: 2022-03-28 15:00:18 -0400
-permalink: /cert_stat_impact/
-status: "Draft"
+title: Considerations for This Site
+date: 2022-02-21 12:00:00 -0400
+last_edit: 2022-04-19 15:00:18 -0400
+permalink: /site_considerations/
+status: "Working Draft"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 desc: "I want to sort knowledge and writing on this site. To do this, I employ
 various metrics. This page describes some of these metrics, along with my
 thoughts on them."
+---
+
+__Epistemic Status__: This page
+
 ---
 
 ## Table of Contents

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Research API (OpenAlex)"
+title:  "Using OpenAlex"
 date:  2022-03-30 12:21:00 -0400
 last_edit: 2022-03-30 12:48:00 -0400
 permalink: "/metasci_openalex/"

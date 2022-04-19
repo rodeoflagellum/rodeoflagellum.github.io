@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trends in DNA Digital Data Storage"
+title:  "Forecast: DNA Digital Data Storage"
 date:  2022-04-18 12:00:00 -0400
 last_edit: 2022-04-18 12:48:00 -0400
 permalink: "/for_emerging_DNA/"
