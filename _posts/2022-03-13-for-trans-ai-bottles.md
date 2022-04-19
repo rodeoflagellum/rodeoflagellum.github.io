@@ -4,7 +4,7 @@ title:  "AI Safety ∩ AI/DL Research "
 date:  2022-04-09 12:00:00 -0400
 last_edit: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
-status: "Draft"
+status: "Working Draft"
 certainty: "7.0"
 importance: "8.5"
 impact: "5.5"
@@ -17,7 +17,7 @@ desc: "The full version of an essay I wrote on some trends in the AI Safety and 
 
 __Contribution__: In this essay, I contribute a first-pass search of research terms relevant to research in AI Safety, Deep Learning (DL), and Artificial Intelligence (AI), using [Google Scholar][gs], the [LessWrong][lw_pi]/[EAF][ea_Pi] API, [OpenAlex][openalex], and [ArXiV][arxiv][^1]. I perform a brief analysis of AI research trends based on term frequency, and find that AI Safety roughly accounts for 0.04497% of AI/DL research, and that for every AI Safety search result, there are roughly 1830 and 880 disjoint search results for research involving AI and DL, respectively. Additionally, I forecast the near-term future of select topics in AI Safety and AI/DL research. These forecasts and this preliminary review of research term frequency could be useful for AI risk reduction (1) through detailing which topics in AI Safety might be neglected, (2) through capturing how neglected AI Safety might be as a whole, relative to general research in AI/DL, and (3) through assessing how certain areas within DL that are relevant to AI risk might change over the coming years.
 
-__Disclaimer and Epistemic Status__: My background is in neuroscience and machine learning, but I am an expert in neither; I have only been invested in AI Safety for several years, but have never published research or written academically on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any of these shortcomings abundantly clear[^2]. I wrote this essay for a contest, and present my thoughts to a hypothetical audience with college-level education, but potentially without much knowledge of AI. I am fairly confident that my findings here (and the data I've collected) will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base, or for at least motivating such an investigation.  
+__Disclaimer and Epistemic Status__: My background is in neuroscience and machine learning, but I am an expert in neither; I have only been invested in AI Safety for several years, but have never published research or written academically on topics within AI Safety. There are issues with some of the methodologies I've used for this first-pass search, but I take care to make any of these shortcomings abundantly clear[^2]. I wrote this essay for a contest, and present my thoughts to a hypothetical audience with college-level education, but potentially without much knowledge of AI. I am fairly confident that my findings here (and the data I've collected) will be useful for a more thorough attempt at estimating the size, influence, and future of the AI Safety research base relative to the general AI/DL research base, or for at least motivating such an investigation. Note that this post is currently a _working draft_, so there are still many things I have to do and that I would like to add.
 
 ---
 
@@ -873,40 +873,60 @@ Here is an example (truncated) of what's returned when this query is performed.
 
 This is the Python dictionary I have for the querying I used in some of the graphs above. The abbreviations are as follows:
 
-- __NLP__: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions
-- __NLP_SAFE__: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety"
-- __RL__: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions
-- __RL_SAFE__: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety"
-- __MULT__: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions
-- __MULT_SAFE__: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety"
-- __FEW__: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions (note that I forgot to search the intersection of Few Shot Learning and AI Safety on ArXiV, so there is no FEW_SAFE category)
-- __SAFE__: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions
-- __AI_SAFETY_AR__: "AI Safety", an ArXiV query for the phrase "AI Safety"
-- __DL_AR__: "Deep Learning", an ArXiV query for the phrase "Deep Learning"
-- __AI_AR__: "Artificial Intelligence", an ArXiV query for the phrase "Artificial Intelligence"
-- __DL_AI_SAFETY_AR__: "Deep Learning AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning"
-- __AI_AI_SAFETY_AR__: "Artificial Intelligence AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning"
-- __AI_SAFETY__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Any Type"
-- __AI_SAFETY_R__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Review"
-- __SAFE_DL__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Any Type"
-- __SAFE_DL_R__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Review"
-- __SAFE_AI__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Any Type"
-- __SAFE_AI_R__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Review"
-- __DL__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Any Type"
-- __DL_R__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Review"
-- __AI__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Any Type"
-- __AI_R__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Review"
-- __OP_DL__: "Deep Learning", an OpenAlex query for the phrase "Deep Learning"
-- __OP_AI__: "Artificial Intelligence", an OpenAlex query for the phrase "Artificial Intelligence"
-- __OP_SAFE__: "AI Safety", an OpenAlex query for the phrase "AI Safety"
-- __OP_DL_SAFE__: "AI Safety AND Deep Learning", an OpenAlex query for the phrase "AI Safety" and "Deep Learning"
-- __OP_AI_SAFE__: "AI Safety AND Artificial Intelligence", an OpenAlex query for the phrase "AI Safety" and "Artificial Intelligence"
+- __NLP__: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions (total: 33423)
+- __NLP_SAFE__: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety" (total: 1)
+- __RL__: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions (total: 12660)
+- __RL_SAFE__: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety" (total: 12630)
+- __MULT__: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions (total: 755)
+- __MULT_SAFE__: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety" (total: 662)
+- __FEW__: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions (note that I forgot to search the intersection of Few Shot Learning and AI Safety on ArXiV, so there is no FEW_SAFE category) (total: 4883)
+- __SAFE__: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions (total: 1715)
+- __AI_SAFETY_AR__: "AI Safety", an ArXiV query for the phrase "AI Safety" (total: 67)
+- __DL_AR__: "Deep Learning", an ArXiV query for the phrase "Deep Learning" (total: 26234)
+- __AI_AR__: "Artificial Intelligence", an ArXiV query for the phrase "Artificial Intelligence" (total: 50513)
+- __DL_AI_SAFETY_AR__: "Deep Learning AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (total: 5)
+- __AI_AI_SAFETY_AR__: "Artificial Intelligence AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (total: 51)
+- __AI_SAFETY__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Any Type" (total: 265)
+- __AI_SAFETY_R__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Review" (total: 6)
+- __SAFE_DL__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Any Type" (total: 149)
+- __SAFE_DL_R__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Review" (total: 4)
+- __SAFE_AI__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Any Type" (total: 265)
+- __SAFE_AI_R__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Review" (total: 6)
+- __DL__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Any Type" (total: 225999)
+- __DL_R__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Review" (total: 2180)
+- __AI__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Any Type" (total: 604970)
+- __AI_R__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Review" (total: 4811)
+- __OP_DL__: "Deep Learning", an OpenAlex query for the phrase "Deep Learning" (total: 87240)
+- __OP_AI__: "Artificial Intelligence", an OpenAlex query for the phrase "Artificial Intelligence" (total: 53248)
+- __OP_SAFE__: "AI Safety", an OpenAlex query for the phrase "AI Safety" (total: 55)
+- __OP_DL_SAFE__: "AI Safety AND Deep Learning", an OpenAlex query for the phrase "AI Safety" and "Deep Learning" (total: 0)
+- __OP_AI_SAFE__: "AI Safety AND Artificial Intelligence", an OpenAlex query for the phrase "AI Safety" and "Artificial Intelligence" (total: 0)
 
 {'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'FEW': [0, 0, 0, 0, 0, 0, 0, 1, 2, 5, 9, 10, 9, 28, 49, 66, 89, 202, 348, 699, 1164, 1666, 536], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99], 'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+
+---
 
 ### General Code
 
 (coming soon)
+
+__ARIMA Model__
+
+```
+model = pmdarima.auto_arima(
+      np.cumsum(data["RL"][:-1]), # this will change of course
+      start_p=1,
+      start_q=1,
+      test='adf',
+      max_p=3,
+      max_q=3,
+      D=0,
+      trace=True,
+      error_action='ignore',
+      suppress_warnings=True,
+      stepwise=False,
+)
+```
 
 ---
 
@@ -1010,6 +1030,8 @@ This is the Python dictionary I have for the querying I used in some of the grap
 
 [ai_fict]: https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction "https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction"
 
+[pmd]: https://pypi.org/project/pmdarima/ "https://pypi.org/project/pmdarima/"
+
 ---
 
 ## Notes
@@ -1022,7 +1044,7 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^1]: What is my reasoning for using Google Scholar, OpenAlex, LessWrong, EAF, and ArXiV? These entities came to mind when I questioned "How could I accumulate research on AI Safety or AI/DL generally?". In learning about AI Safety, most of my time has been spent on the EA Forum and LessWrong, along with an occasional look at the Future of Humanity Institute's work, and an occasional Google Scholar / Wikipedia / ArXiV query. I did not spend too much time looking for other research APIs or search tools. I used OpenAlex mostly because it is new and I wanted to get a feel for it, but also because it seems to contain much more research than standard research APIs. As will soon become apparent in this essay, I was limited in my use of Google Scholar because Google Scholar would boot me out after only a few hundred queries, and querying all the things I want to query would take too long to perform manually. For the EAF and LessWrong, I downloaded all or most of the posts (7089 and 16416 results, respectfully) from their APIs, but have ran out of time to create a decent method to search through them for all the research terms. I will send you the files containing the URLs to these posts upon request - just email me at rodeo DOT flagellum AT gmail DOT com. Also, please email me (or comment) links to other research databases that I should have known about or should have searched.
 
-[^2]: I've attempted to accumulate questions, counter-points, and issues in the section Questions and Issues. I would very much appreciate criticism, either in comments or email, on the full gamut of this post (e.g., notifying me that this entire enterprise of looking at search terms is actually risky, or mentioning that the graph x-axis should end at 2030 instead of at 2031). In the interim between now and when I actually get this section up, the largest concerns of mine are that I (1) I did not properly look at the dates for some of the Metaculus community's prediction (e.g., one AI Safety question on Metaculus uses the interval [2021-01-01, 2026-12-31], but on my graph I use the year 2027 for the final prediction, when it should really be 2026, as "up to 2026-12-31" is for the year 2026) - the consequence of this is that _some_ graphs have the Metaculus community's prediction one year behind or ahead; (2) I should have used results for the term "AI" and "Artificial Intelligence" to mean the same thing, which is difficult considering there is some tremendous overlap - alternatively, I could have searched, for example, "AI Safety AND AI", "AI Safety AND Artificial Intelligence", and "AI Safety AND artificial intelligence", and then have chosen the group with the most results; (3) the next issue is that I simply could do more tests and comparisons (I will hopefully get to this); (4) the outlook section is too narrow, and anyone who is reading this should probably just look past it. 
+[^2]: __[For those coming over from Metaculus, this footnote was absent, so please look 1 note ahead for the rest of the article]__: I've attempted to accumulate questions, counter-points, and issues in the section Questions and Issues. I would very much appreciate criticism, either in comments or email, on the full gamut of this post (e.g., notifying me that this entire enterprise of looking at search terms is actually risky, or mentioning that the graph x-axis should end at 2030 instead of at 2031). In the interim between now and when I actually get this section up, the largest concerns of mine are that I (1) did not properly look at the dates for some of the Metaculus community's predictions (e.g., one AI Safety question on Metaculus uses the interval [2021-01-01, 2026-12-31], but on my graph I use the year 2027 for the final prediction, when it should really be 2026, as "up to 2026-12-31" is for the year 2026) - the consequence of this is that _some_ graphs have the Metaculus community's predictions one year behind or ahead; (2) should have used results for the term "AI" and "Artificial Intelligence" to mean the same thing (same with "Deep Learning" and "DL", etc...), which is difficult considering there is some tremendous overlap between the terms - alternatively, I could have searched, for example, "AI Safety AND AI", "AI Safety AND Artificial Intelligence", and "AI Safety AND artificial intelligence", and then have chosen the group with the most results; (3) simply could do more tests and comparisons (I will hopefully get to this); (4) wrote the outlook section poorly (it's too sparse, and seems out of place in my mind) - anyone who is reading this should probably just look past it; (5) should have looked at the reference papers for each of the FLI terms to see if there were better ways to get the frequency of a concept; (5) should have been more explicit with the fact that I did not look at any of the results for "Google Scholar search, Reviews only" in my comparisons; (6) should have looked for more contradictions between open and resolved questions on the same phenomenon.
 
 [^3]: I queried Google Scholar to find the earliest instances of the exact phrases "AI Safety" or "Safe AI". Of course, M.G. Rodd's paper likely does not mark the "dawn of the field of AI Safety". I am not familiar enough with AI Safety to know whether there is a consensus on some origin or major turning point for the field. If there is such an event, please point it out to me, so I can add it in the Outlook section.
 
@@ -1032,9 +1054,9 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^6]: I did not spend much time exploring the earliest historical incidences of thinking on intelligent machines or on the risks incurred by developing artificial intelligence, so please don't assign much confidence that this is in fact the first written instance of thinking about AI risk.
 
-[^7]: I did not spend any time researching how this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
+[^7]: I did not spend any time researching who this is, or what their influence on AI Safety has been. The accuracy of the map as an informal representation of the AI Safety community seems on point, but I am biased as someone who has only spectated the development of the field.
 
-[^8]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important.
+[^8]: Given my present experience, I am unsure of how important the FLI is as a pioneer of AI Safety. I am not familiar with its history or influence in the field, other than the fact that, anecdotally, the organization seems important. I am not qualified to make accurate statements regarding how comprehensive FLI's map is.
 
 [^9]: I did not look for a description of how many named disciplines there were or for a description of how important each listed entity is for AI Safety (I think it would not be reasonable to assume that the size of the entity is roughly proportional to its influence).
 
@@ -1046,8 +1068,8 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^13]: It's worth noting that I forgot to include the terms for the Metaculus question on Few Shot Learning, but have included it in the graph for ArXiV search results.
 
-[^14]: $x(9) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(9) = 586848$ for AI at the start of 2031. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(9) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(9) = 269393$ for DL at the start of 2031.
+[^14]: I am not fantastic with time series modeling, but I thought it would be nice to see what an automatically generated ARIMA model had to say about changes in the research terms. If you believe or have evidence of a correct or better parameterization, I would love to hear it! The current ARIMA I use comes from Python's [pmdarima][pmd] (see General Code section).
 
-[^15]: Hello
+[^15]: $x(9) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(9) = 586848$ for AI by the end of 2030. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(9) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(9) = 269393$ for DL by the end of 2030.
 
-[^16]: hello
+[^16]: [The following only applies to ArXiV queries] The Metaculus question on AI Safety I am referencing here examines the total number of e-prints published in [2021-02-14, 2031-02-14], which I take to mean "total e-prints published roughly during 2021 up to roughly the end of 2030". Since the number of e-prints for 2021 are known (there was 558), I subtract them from the Metaculus community's prediction of 12k (IQR: 6.6k - 19k), giving us approximately 11.5k (IQR: 6k - 18.5k) additional e-prints for "total e-prints during 2022 up to roughly the end of 2030". Looking at the previous footnote, we know that there might be around 586848 new e-prints on AI and 269393 new e-prints on DL after 2021 up to the end of 2030. Between the years 2000 and 2021, inclusive, 67 e-prints were published on AI Safety. 
