@@ -873,34 +873,34 @@ Here is an example (truncated) of what's returned when this query is performed.
 
 This is the Python dictionary I have for the querying I used in some of the graphs above. The abbreviations are as follows:
 
-- __NLP__: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions (total: 33423)
-- __NLP_SAFE__: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety" (total: 1)
-- __RL__: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions (total: 12660)
-- __RL_SAFE__: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety" (total: 12630)
-- __MULT__: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions (total: 755)
-- __MULT_SAFE__: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety" (total: 662)
-- __FEW__: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions (note that I forgot to search the intersection of Few Shot Learning and AI Safety on ArXiV, so there is no FEW_SAFE category) (total: 4883)
-- __SAFE__: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions (total: 1715)
-- __AI_SAFETY_AR__: "AI Safety", an ArXiV query for the phrase "AI Safety" (total: 67)
-- __DL_AR__: "Deep Learning", an ArXiV query for the phrase "Deep Learning" (total: 26234)
-- __AI_AR__: "Artificial Intelligence", an ArXiV query for the phrase "Artificial Intelligence" (total: 50513)
-- __DL_AI_SAFETY_AR__: "Deep Learning AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (total: 5)
-- __AI_AI_SAFETY_AR__: "Artificial Intelligence AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (total: 51)
-- __AI_SAFETY__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Any Type" (total: 265)
-- __AI_SAFETY_R__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Review" (total: 6)
-- __SAFE_DL__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Any Type" (total: 149)
-- __SAFE_DL_R__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Review" (total: 4)
-- __SAFE_AI__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Any Type" (total: 265)
-- __SAFE_AI_R__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Review" (total: 6)
-- __DL__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Any Type" (total: 225999)
-- __DL_R__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Review" (total: 2180)
-- __AI__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Any Type" (total: 604970)
-- __AI_R__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Review" (total: 4811)
-- __OP_DL__: "Deep Learning", an OpenAlex query for the phrase "Deep Learning" (total: 87240)
-- __OP_AI__: "Artificial Intelligence", an OpenAlex query for the phrase "Artificial Intelligence" (total: 53248)
-- __OP_SAFE__: "AI Safety", an OpenAlex query for the phrase "AI Safety" (total: 55)
-- __OP_DL_SAFE__: "AI Safety AND Deep Learning", an OpenAlex query for the phrase "AI Safety" and "Deep Learning" (total: 0)
-- __OP_AI_SAFE__: "AI Safety AND Artificial Intelligence", an OpenAlex query for the phrase "AI Safety" and "Artificial Intelligence" (total: 0)
+- __NLP__: "Natural Language Processing", an ArXiV query using the terms in the Metaculus NLP questions (2000-2022 total: 33423)
+- __NLP_SAFE__: "Natural Language Processing AND AI Safety", an ArXiV query using the terms in the Metaculus NLP questions AND the phrase "AI Safety" (2000-2022 total: 1)
+- __RL__: "Reinforcement Learning", an ArXiV query using the terms in the Metaculus RL questions (2000-2022 total: 12660)
+- __RL_SAFE__: "Reinforcement Learning AND AI Safety", an ArXiV query using the terms in the Metaculus RL questions AND the phrase "AI Safety" (2000-2022 total: 12630)
+- __MULT__: "Multimodal Learning", an ArXiV query using the terms in the Metaculus Multimodal Learning questions (2000-2022 total: 755)
+- __MULT_SAFE__: "Multimodal Learning AND AI Safety", an ArXiV query using the terms in the Metaculus Multimodal Learning questions AND the phrase "AI Safety" (2000-2022 total: 662)
+- __FEW__: "Few Shot Learning", an ArXiV query using the terms in the Metaculus Few Shot Learning questions (note that I forgot to search the intersection of Few Shot Learning and AI Safety on ArXiV, so there is no FEW_SAFE category) (2000-2022 total: 4883)
+- __SAFE__: "AI Safety, Explainability, or Interpretability", an ArXiV query using terms in the Metaculus AI Safety, Explainability, or Interpretability questions (2000-2022 total: 1715)
+- __AI_SAFETY_AR__: "AI Safety", an ArXiV query for the phrase "AI Safety" (2000-2022 total: 67)
+- __DL_AR__: "Deep Learning", an ArXiV query for the phrase "Deep Learning" (2000-2022 total: 26234)
+- __AI_AR__: "Artificial Intelligence", an ArXiV query for the phrase "Artificial Intelligence" (2000-2022 total: 50513)
+- __DL_AI_SAFETY_AR__: "Deep Learning AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (2000-2022 total: 5)
+- __AI_AI_SAFETY_AR__: "Artificial Intelligence AND AI Safety", an ArXiV query for the phrases "Artificial Intelligence" and "Deep Learning" (2000-2022 total: 51)
+- __AI_SAFETY__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Any Type" (2000-2022 total: 265)
+- __AI_SAFETY_R__: "AI Safety", a Google Scholar query for the phrase "AI Safety", without citations and type set to "Review" (2000-2022 total: 6)
+- __SAFE_DL__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Any Type" (2000-2022 total: 149)
+- __SAFE_DL_R__: "AI Safety AND Deep Learning", a Google Scholar query for the phrases "AI Safety" and "Deep Learning", without citations and type set to "Review" (2000-2022 total: 4)
+- __SAFE_AI__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Any Type" (2000-2022 total: 265)
+- __SAFE_AI_R__: "AI Safety AND Artificial Intelligence", a Google Scholar query for the phrases "AI Safety" and "Artificial Intelligence", without citations and type set to "Review" (2000-2022 total: 6)
+- __DL__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Any Type" (2000-2022 total: 225999)
+- __DL_R__: "Deep Learning", a Google Scholar query for the phrase "Deep Learning", without citations and type set to "Review" (2000-2022 total: 2180)
+- __AI__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Any Type" (2000-2022 total: 604970)
+- __AI_R__: "Artificial Intelligence", a Google Scholar query for the phrase "Artificial Intelligence", without citations and type set to "Review" (2000-2022 total: 4811)
+- __OP_DL__: "Deep Learning", an OpenAlex query for the phrase "Deep Learning" (2000-2022 total: 87240)
+- __OP_AI__: "Artificial Intelligence", an OpenAlex query for the phrase "Artificial Intelligence" (2000-2022 total: 53248)
+- __OP_SAFE__: "AI Safety", an OpenAlex query for the phrase "AI Safety" (2000-2022 total: 55)
+- __OP_DL_SAFE__: "AI Safety AND Deep Learning", an OpenAlex query for the phrase "AI Safety" and "Deep Learning" (2000-2022 total: 0)
+- __OP_AI_SAFE__: "AI Safety AND Artificial Intelligence", an OpenAlex query for the phrase "AI Safety" and "Artificial Intelligence" (2000-2022 total: 0)
 
 {'NLP': [122, 79, 66, 55, 54, 25, 52, 66, 70, 91, 86, 125, 225, 333, 557, 832, 1693, 2398, 3729, 5390, 7135, 8067, 2173], 'NLP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0], 'RL': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 770, 1392, 2280, 3044, 3367, 984], 'RL_SAFE': [1, 5, 6, 6, 4, 2, 5, 5, 14, 17, 22, 47, 78, 72, 78, 135, 326, 768, 1390, 2275, 3038, 3358, 978], 'MULT': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 3, 12, 19, 45, 71, 92, 184, 245, 78], 'MULT_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 2, 2, 9, 17, 37, 62, 83, 158, 221, 68], 'FEW': [0, 0, 0, 0, 0, 0, 0, 1, 2, 5, 9, 10, 9, 28, 49, 66, 89, 202, 348, 699, 1164, 1666, 536], 'SAFE': [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 0, 7, 6, 5, 11, 7, 59, 79, 126, 277, 415, 558, 158], 'AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 6, 19, 13, 14, 4], 'DL_AR': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 2, 10, 54, 99, 305, 679, 1716, 3273, 4678, 6532, 6955, 1928], 'AI_AR': [128, 69, 129, 140, 169, 163, 176, 196, 284, 398, 514, 848, 1468, 1879, 1231, 1210, 2070, 3048, 4765, 5554, 8516, 13587, 3971], 'DL_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0], 'AI_AI_SAFETY_AR': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 4, 13, 10, 11, 3], 'AI_SAFETY': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'AI_SAFETY_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'SAFE_DL': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 22, 30, 39, 43, 7], 'SAFE_DL_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0], 'SAFE_AI': [0, 0, 0, 0, 3, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 2, 4, 14, 33, 57, 76, 63, 10], 'SAFE_AI_R': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 3, 0], 'DL': [40, 25, 50, 54, 56, 91, 107, 106, 141, 157, 234, 202, 299, 459, 938, 2050, 4760, 10300, 25000, 59100, 60400, 57000, 4430], 'DL_R': [2, 2, 0, 1, 0, 1, 2, 3, 2, 4, 4, 2, 7, 7, 11, 15, 49, 96, 206, 350, 544, 810, 62], 'AI': [3590, 3020, 3420, 5010, 6270, 7080, 9340, 12100, 15900, 21100, 20700, 20600, 19200, 18100, 19900, 28300, 37000, 55600, 78800, 87100, 71700, 56800, 4340], 'AI_R': [26, 28, 24, 33, 38, 36, 44, 65, 87, 112, 109, 130, 118, 150, 134, 190, 239, 287, 443, 591, 840, 988, 99], 'OP_DL': [6, 10, 12, 13, 15, 27, 29, 21, 32, 49, 44, 97, 106, 183, 392, 814, 1858, 4338, 9048, 14930, 21059, 27829, 6328], 'OP_AI': [317, 308, 345, 341, 429, 533, 558, 540, 551, 650, 636, 753, 784, 848, 894, 918, 1284, 1958, 4086, 7058, 11074, 14984, 3399], 'OP_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 4, 7, 13, 11, 16, 1], 'OP_DL_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'OP_AI_SAFE': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
 
@@ -1072,4 +1072,4 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^15]: $x(9) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(9) = 586848$ for AI by the end of 2030. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(9) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(9) = 269393$ for DL by the end of 2030.
 
-[^16]: [The following only applies to ArXiV queries] The Metaculus question on AI Safety I am referencing here examines the total number of e-prints published in [2021-02-14, 2031-02-14], which I take to mean "total e-prints published roughly during 2021 up to roughly the end of 2030". Since the number of e-prints for 2021 are known (there was 558), I subtract them from the Metaculus community's prediction of 12k (IQR: 6.6k - 19k), giving us approximately 11.5k (IQR: 6k - 18.5k) additional e-prints for "total e-prints during 2022 up to roughly the end of 2030". Looking at the previous footnote, we know that there might be around 586848 new e-prints on AI and 269393 new e-prints on DL after 2021 up to the end of 2030. Between the years 2000 and 2021, inclusive, 67 e-prints were published on AI Safety. 
+[^16]: [The following only applies to ArXiV queries] The Metaculus question on AI Safety I am referencing here examines the total number of e-prints published in [2021-02-14, 2031-02-14], which I take to mean "total e-prints published roughly during 2021 up to roughly the end of 2030". Since the number of e-prints for 2021 are known (there was 558), I subtract them from the Metaculus community's prediction of 12k (IQR: 6.6k - 19k), giving us approximately 11.5k (IQR: 6k - 18.5k) additional e-prints for "total e-prints during 2022 up to roughly the end of 2030". Looking at the previous footnote, we know that there might be around 586848 new e-prints on AI and 269393 new e-prints on DL after 2021 up to the end of 2030. Between the years 2000 and 2021, inclusive, 67 e-prints were published on AI Safety.
