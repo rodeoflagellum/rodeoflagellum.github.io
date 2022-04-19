@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Notes on \"When pooling forecasts, use the geometric mean of odds\""
+title: "Notes on Epistemology"
 date: 2022-03-27 15:34:57 -0400
-permalink: "/note_when_pooling_forecasts,_use_the_geometric_mean_of_odds/"
+permalink: "/pooling/"
 status: "Notes"
-tags: [forecasting, statistics]
-desc: "These are my ongoing notes for when pooling forecasts, use the geometric mean of odds."
+tags: [epistemics]
 ---
 
 ## Table of Contents
