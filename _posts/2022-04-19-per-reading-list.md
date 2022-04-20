@@ -44,6 +44,17 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 
 ## Unread Entities
 
+
+### Articles
+
+### Books
+
+- Global Catastrophic Risks
+- Superintelligence
+- Machine Learning Refined ed. 2
+- Deep Learning Architectures
+- All of Statistics
+
 ### Wikipedia
 
 - Tragedy of the anticommons: <https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons>
