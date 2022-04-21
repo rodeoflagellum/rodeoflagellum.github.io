@@ -17,7 +17,9 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ---
 
-## Role-Models
+## Role Models
+
+---
 
 ## Top of Page
 
@@ -59,9 +61,13 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ### Overview
 
+---
+
 ## Content
 
 ### The Problems
+
+### Typography
 
 ### Meta-Science Pipeline
 
@@ -87,6 +93,8 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 #### Inadequacies
 
+#### Missing Pieces
+
 ### Questionings
 
 ### Agree/Disagree Slider
@@ -109,6 +117,10 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ### Appendix
 
+### Beliefs and Evidence
+
+### Page Epistemics
+
 ### External Links
 
 ### See Also
@@ -121,7 +133,31 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ---
 
-## Design Feature Wish List
+## Other
+
+### Design Feature Wish List
+
+ - Term Glossary
+ - Questions
+ - Notes
+ - Archive
+ - Topics
+ - Popular Posts
+ - Internet Archive
+ - Gwern's Popups
+ - Convert to PDF
+ - Raw Text
+ - Image Captions
+ - Linkchecker
+ - Link graphs
+ - SPIES tool
+ - Time clock
+
+### About
+
+### Reading List
+
+
 
 <!-- ## Main Pipeline
 
