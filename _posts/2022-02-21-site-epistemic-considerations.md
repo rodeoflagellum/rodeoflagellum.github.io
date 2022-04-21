@@ -91,6 +91,10 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 #### Experimental Designs
 
+#### Fermi Estimates
+
+#### Belief Spotting 
+
 #### Inadequacies
 
 #### Missing Pieces
@@ -137,21 +141,23 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ### Design Feature Wish List
 
- - Term Glossary
+ - Term glossary
  - Questions
  - Notes
  - Archive
  - Topics
- - Popular Posts
+ - Popular posts
  - Internet Archive
- - Gwern's Popups
+ - Gwern's popups
  - Convert to PDF
- - Raw Text
- - Image Captions
+ - Raw text
+ - Image captions
  - Linkchecker
  - Link graphs
  - SPIES tool
  - Time clock
+ - Back to top button
+ - Night/day themes
 
 ### About
 

@@ -1,15 +1,81 @@
 ---
 layout: default
 ---
-<article class="post">
+
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- if page.image -%}
+      <img src="{{ page.image | relative_url }}" alt="" class="featured-image-post">
+      <br><br>
+    {%- endif -%}
+
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+
+    {%- if page.desc -%}
+    <p> <em> {{ page.desc }} </em> </p>
+    {%- endif -%}
+
+    {%- if page.tags -%}
+    <p> <span>
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        {%- if forloop.last -%}
+        <em><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></em>
+        {%- else -%}
+        <em><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></em>,
+        {%- endif -%}
+      {% endfor %}
+    </span> </p>
+    {%- endif -%}
+
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time> - <time class="dt-published" datetime="{{ page.last_edit | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.last_edit | date: date_format }}
+      </time> &nbsp;
+
+      {%- if page.status -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Status</a>: {{ page.status }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.certainty -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Certainty</a>: {{ page.certainty }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.importance -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Importance</a>: {{ page.importance }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.impact -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Impact</a>: {{ page.impact }} &nbsp;
+      {%- endif -%}
+
+      {%- if page.readibility -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Readibility</a>: {{ page.readibility }} &nbsp;
+      {%- endif -%}
+
+      • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+
+      • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
+
+      {%- if page.author -%}
+        • &nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
   </header>
 
-  <div class="post-content">
-    
+  <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
