@@ -2,24 +2,126 @@
 layout: post
 title: Considerations for This Site
 date: 2022-02-21 12:00:00 -0400
-last_edit: 2022-04-19 15:00:18 -0400
+last_edit: 2022-04-21 12:00:18 -0400
 permalink: /site_considerations/
 status: "Working Draft"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want to sort knowledge and writing on this site. To do this, I employ
-various metrics. This page describes some of these metrics, along with my
-thoughts on them."
----
-
-__Epistemic Status__: This page
-
+desc: "I want what I write to be accurate, measured, honest, and clear (there are more things, but these stand out). This page describes things relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for my writing."
 ---
 
 ## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
+
+---
+
+## Role-Models
+
+## Top of Page
+
+### Informal Tags
+
+### Formal Tags
+
+#### Specifics
+
+### Readability
+
+### Durability
+
+### Status
+
+### Certainty
+
+### Impact
+
+### Importance
+
+### View Button
+
+### Time Invested
+
+### Inadequacies Index
+
+### Word Count
+
+---
+
+## After Top of Page
+
+### Epistemic Status
+
+### Disclaimer
+
+### Contribution
+
+### Overview
+
+## Content
+
+### The Problems
+
+### Meta-Science Pipeline
+
+### Elicitations
+
+#### Opinions
+
+#### Questions
+
+#### Criticism
+
+#### Noticing Biases
+
+#### Forecasts
+
+#### Storytelling
+
+#### Visualization
+
+#### Syntheses
+
+#### Experimental Designs
+
+#### Inadequacies
+
+### Questionings
+
+### Agree/Disagree Slider
+
+### Writing Styles and Advice
+
+### Ideas to Write About
+
+### Storing Works
+
+### Heuristics
+
+### Bloom's Taxonomy
+
+---
+
+## Bottom of Page
+
+### Link Bibliography
+
+### Appendix
+
+### External Links
+
+### See Also
+
+### Further Reading
+
+### Footnotes
+
+### References
+
+---
+
+## Design Feature Wish List
 
 <!-- ## Main Pipeline
 
