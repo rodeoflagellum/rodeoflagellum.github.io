@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
+date: 2021-01-21 10:00:00 -0400
+desc: "This page is an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests"
 ---
 
 <!-- Considerations for this post:
@@ -10,10 +12,6 @@ Why does this site exist?
 Who are you?
   What are your goals?
   What are your instruments?-->
-
-_This page is an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests_.
-
---- 
 
 ## Table of Contents
 {:.no_toc}
