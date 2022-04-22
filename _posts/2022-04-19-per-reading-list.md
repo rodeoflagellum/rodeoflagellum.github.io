@@ -4,10 +4,7 @@ title:  "Large Reading List"
 date:  2022-04-19 11:15:00 -0400
 last_edit: 2022-04-19 11:16:00 -0400
 permalink: "/per_reading_list/"
-status: "Notes"
-importance: "0.5"
-impact: "1.0"
-tags: [site]
+tags: [personal, site]
 image: /assets/images/per_reading_list/race_course_at_longchamps_1970.17.114.jpg
 desc: "The list of articles, books, and other things that I've read and found important enough to include here, and that I want to read."
 ---

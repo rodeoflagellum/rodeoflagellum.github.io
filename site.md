@@ -10,16 +10,14 @@ image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site."
 ---
 
+__Disclaimer__: I am in the process of creating the content for this page.
+
 ---
 
 ## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
-
----
-
-## Role Models
 
 ---
 
@@ -62,6 +60,8 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 ### Contribution
 
 ### Overview
+
+### Glossary
 
 ---
 
@@ -119,23 +119,25 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 ## Bottom of Page
 
-### Link Bibliography
-
 ### Appendix
 
 ### Beliefs and Evidence
 
 ### Page Epistemics
 
-### External Links
+### References
+
+### Link Bibliography
 
 ### See Also
 
 ### Further Reading
 
+### External Links
+
 ### Footnotes
 
-### References
+
 
 ---
 
@@ -161,9 +163,13 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
  - Back to top button
  - Night/day themes
 
-### About
+### About Page
+
+### Role Models
 
 ### Reading List
+
+### Name of Site
 
 
 

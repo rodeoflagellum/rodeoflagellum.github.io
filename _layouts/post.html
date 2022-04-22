@@ -26,6 +26,17 @@ layout: default
         <em><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></em>,
         {%- endif -%}
       {% endfor %}
+
+      {%- if page.specifics -%}
+        <br>Specifics:
+        {% for s in page.specifics %}
+          {%- if forloop.last -%}
+          <em>{{ s }}</em>
+          {%- else -%}
+          <em>{{ s }}</em>,&nbsp;
+          {%- endif -%}
+        {% endfor %}
+      {%- endif -%}
     </span> </p>
     {%- endif -%}
 
@@ -42,7 +53,7 @@ layout: default
       {%- endif -%}
 
       {%- if page.status -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Status</a>: {{ page.status }} &nbsp;
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/"><em>{{ page.status }}</em></a> &nbsp;
       {%- endif -%}
 
       {%- if page.certainty -%}
