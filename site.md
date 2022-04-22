@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Considerations for This Site
+title: Site
 date: 2022-02-21 12:00:00 -0400
 last_edit: 2022-04-21 12:00:18 -0400
-permalink: /site_considerations/
+permalink: /site/
 status: "Working Draft"
 tags: [epistemics, site]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want what I write to be accurate, measured, honest, and clear (there are more things, but these stand out). This page describes things relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for my writing."
+desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site."
+---
+
 ---
 
 ## Table of Contents
@@ -93,7 +95,7 @@ desc: "I want what I write to be accurate, measured, honest, and clear (there ar
 
 #### Fermi Estimates
 
-#### Belief Spotting 
+#### Belief Spotting
 
 #### Inadequacies
 
