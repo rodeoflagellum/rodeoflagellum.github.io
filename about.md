@@ -106,7 +106,7 @@ Pooled interests: [_longevity research_, _well-being measurement_, _judgemental 
 
 ### *Personality*
 
-Following Gwern's example, I've taken a slew of personality and morals surveys on the website [YourMorals.org](https://yourmorals.org/), whose contributors perform social psychology research. I have an entire post on this called [My Personality and Morals]({{ site.baseurl }}{% post_url 2022-02-24-per-my-morals %}). 
+Following Gwern's example, I've taken a slew of personality and morals surveys on the website [YourMorals.org](https://yourmorals.org/), whose contributors perform social psychology research. I have an entire post on this called My Personality and Morals. 
 
 ### *Contact*
 
