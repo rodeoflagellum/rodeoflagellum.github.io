@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Archive
+date: 2022-04-21 10:00:00 -0400
 permalink: /archive/
 ---
 
@@ -17,7 +18,7 @@ permalink: /archive/
 <ul>
   {% for post in month.items %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})
       <br>
     </li>
   {% endfor %}

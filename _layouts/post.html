@@ -33,10 +33,13 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
-      </time> - <time class="dt-published" datetime="{{ page.last_edit | date_to_xmlschema }}" itemprop="datePublished">
+      </time>
+      {%- if page.last_edit -%}
+      <time class="dt-published" datetime="{{ page.last_edit | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.last_edit | date: date_format }}
+        - {{ page.last_edit | date: date_format }}
       </time> &nbsp;
+      {%- endif -%}
 
       {%- if page.status -%}
          • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Status</a>: {{ page.status }} &nbsp;
@@ -58,9 +61,13 @@ layout: default
          • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Readibility</a>: {{ page.readibility }} &nbsp;
       {%- endif -%}
 
-      • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+      {%- if page.wc -%}
+         • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+      {%- endif -%}
 
-      • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
+      {%- if page.read -%}
+         • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
+      {%- endif -%}
 
       {%- if page.author -%}
         • &nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>

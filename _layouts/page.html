@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -60,9 +58,13 @@ layout: default
          • &nbsp;<a href="https://rodeoflagellum.github.io/site_considerations/">Readibility</a>: {{ page.readibility }} &nbsp;
       {%- endif -%}
 
-      • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+      {%- if page.wc -%}
+         • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
+      {%- endif -%}
 
-      • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
+      {%- if page.read -%}
+         • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
+      {%- endif -%}
 
       {%- if page.author -%}
         • &nbsp; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
