@@ -11,10 +11,12 @@ desc: "A list of websites I like, along with the two pieces I most enjoyed readi
 ---
 
 - __Argmin gravitas__ <https://www.gleech.org/>
-  - Metrics <https://www.gleech.org/metrics/>
-  - Math tools <https://www.gleech.org/tools>
-- __Slate Star Codex__ <https://slatestarcodex.com/?
-  - Beware The Man Of One Study <https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/>
+  - [Metrics](https://www.gleech.org/metrics/)
+  - [Math tools](https://www.gleech.org/tools)
+- __Slate Star Codex__ <https://slatestarcodex.com/>
+  - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/)
+- __The Long Now Foundation__ <https://longnow.org/>
+  - [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/)
 
 ## Notes
 

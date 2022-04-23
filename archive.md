@@ -18,8 +18,7 @@ permalink: /archive/
 <ul>
   {% for post in month.items %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})
-      <br>
+      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }}; <em>{{ post.desc }}</em>)<br>
     </li>
   {% endfor %}
 </ul>
