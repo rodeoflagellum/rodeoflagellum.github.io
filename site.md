@@ -47,6 +47,8 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Inadequacies Index
 
+
+
 ### Word Count
 
 ---
@@ -75,7 +77,9 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Elicitations
 
-#### Opinions
+#### Personal Opinions
+
+#### Surveys
 
 #### Questions
 
@@ -95,7 +99,9 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 #### Fermi Estimates
 
-#### Belief Spotting
+#### Beliefs and Cached Thoughts
+
+(when conclusions seem obvious to me)
 
 #### Inadequacies
 
@@ -109,9 +115,14 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Ideas to Write About
 
-### Storing Works
+### Storing Evidence
 
 ### Heuristics
+
+- Aim to outperform Wikipedia
+- You are likely not the first person to have come up with this question, or to have started answering it
+- Search every question on Google at least once
+- Search every concept on Google at least once
 
 ### Bloom's Taxonomy
 
@@ -136,8 +147,6 @@ __Disclaimer__: I am in the process of creating the content for this page.
 ### External Links
 
 ### Footnotes
-
-
 
 ---
 
