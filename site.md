@@ -29,6 +29,29 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Formal Tags
 
+{% capture temptags %}
+  {% for tag in site.tags %}
+    #{{ tag[0] }}#
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtemptags = temptags | split:' ' | sort_natural %}
+<ul>
+{% for temptag in sortedtemptags %}
+  {% assign tagitems = temptag | split: '#' %}
+  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+  {% assign words = tagname | split: '-' %}
+  {% capture titlecase %}
+  {% for word in words %}
+    {% if word.size <= 3 %}
+      {{ word | upcase }}
+    {% else %}
+    {{ word | capitalize }}
+    {% endif %}
+  {% endfor %}{% endcapture %}
+   <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ titlecase }} </em></a></li>
+{% endfor %}
+</ul>
+
 #### Specifics
 
 ### Readability
