@@ -3,8 +3,9 @@ layout: post
 title: About
 permalink: /about/
 date: 2021-01-21 10:00:00 -0400
+last_edit: 2021-04-24 14:15:00 -0400
 image: /assets/images/about/laguna_main_altarpiece_1943.8.6822.jpg
-desc: "This page is an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests"
+desc: "An attempt to communicate my motivations, personality, and interets."
 ---
 
 <!-- Considerations for this post:
@@ -21,13 +22,6 @@ Who are you?
 
 ---
 
-## This Site
-
-This site came into being late into the year 2021, as a response to my desire for a place to concentrate and publicize my thinking on various, mostly technologically oriented subjects. I have other justifications for the site's existence as well; most notably, that having it might result in me writing more, and might improve my writing, and less notably but still important to me, that it could serve as personal collection of resources, such as links, research findings, and my past beliefs and ideas. 
-
-### *Motivation*
-
-Since the year 2018, I've been exposed to the [Rationality](https://www.overcomingbias.com/) and [Effective Altruism](https://www.effectivealtruism.org/) movements, and in being exposed to these, have had the pleasure in life to come across the writing of ([Scott Alexander](https://www.lesswrong.com/users/scottalexander) and [Gwern Branwen](https://www.lesswrong.com/users/gwern)), and of ([Alexey Guzey](https://www.lesswrong.com/users/guzey) & [Neel Nanda](https://www.lesswrong.com/users/neel-nanda-1)), among others (the first group has been more influential on my thinking than the latter). These people's websites - [Astral Codex Ten](https://astralcodexten.substack.com/) (ACX), [Slate State Codex](https://slatestarcodex.com/) (SSC), [Gwern.net](https://www.gwern.net/), [Guzey.com](https://guzey.com/), [Neelnanda.io](https://www.neelnanda.io/) - have been a major motivation for me creating this site, partly because they examine many of subjects I'm interested in, such as forecasting, technological development, life optimization, and the future of humanity.
 
 ### *Tags and Content*
 
@@ -35,28 +29,7 @@ I expect the content on this site to predominantly surround topics connecting to
 
 &emsp; I employ tags to sort my posts, but usually find that it's difficult to determine whether a particular tag I've made is useful or could be subsumed by different tag. An example of this internal debate are the _forecasting_ and _prediction_ tags: my intention with _forecasting_ is to communicate that the post involves the process of forecasting, and with _prediction_, that the post includes a specific prediction. Should these two tags simply be the single tag _forecasting_? My tags are loosely influenced by [LessWrong's concepts](https://www.lesswrong.com/tags/all) and the [EA-Forum Wiki](https://forum.effectivealtruism.org/tags/all), along with [Steve Hsu](https://twitter.com/hsu_steve)s' [Information Processing](https://infoproc.blogspot.com/2021/07/polygenic-embryo-screening-comments-on.html). These are all my tags that are currently in use:
 
-{% capture temptags %}
-  {% for tag in site.tags %}
-    #{{ tag[0] }}#
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort_natural %}
-<ul>
-{% for temptag in sortedtemptags %}
-  {% assign tagitems = temptag | split: '#' %}
-  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  {% assign words = tagname | split: '-' %}
-  {% capture titlecase %}
-  {% for word in words %}
-    {% if word.size <= 3 %}
-      {{ word | upcase }}
-    {% else %}
-    {{ word | capitalize }}
-    {% endif %}
-  {% endfor %}{% endcapture %}
-   <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ titlecase }} </em></a></li>
-{% endfor %}
-</ul>
+
 
 &emsp; The infrastructure of expression consists of literature reviews, which aim to thoroughly examine a question, topic, or idea (these will likely be the longest posts); reviews, which also aim to examine a question, topic, or idea, but less thoroughly than in a literature review, as I find this content less interesting or less pressing; notes, which is a general category covering book, research paper, and online article summaries and notes; tutorials and examples; and research I've done. I'm fairly certain that this partition of content will change in the future; my goal with any partitioning is to help concentrate my writing, and to prevent myself from spending more time than I should researching something (maximize increasing or constant returns, minimize [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns)). Beyond this, I also include forecasts I've made, challenges or contests I've participated in, and content I've written for other sites. I expect my content to not adhere precisely these categories, and with this sentiment, it might be more accurate to reimagine the earlier part of this paragraph as a statement for what forms of content I would like to publish on my site.
 
