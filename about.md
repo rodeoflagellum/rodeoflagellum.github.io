@@ -5,7 +5,7 @@ permalink: /about/
 date: 2021-01-21 10:00:00 -0400
 last_edit: 2021-04-24 14:15:00 -0400
 image: /assets/images/about/laguna_main_altarpiece_1943.8.6822.jpg
-desc: "An attempt to communicate my motivations, personality, and interets."
+desc: "An attempt to communicate my motivations, personality, and interests."
 ---
 
 <!-- Considerations for this post:
@@ -22,27 +22,27 @@ Who are you?
 
 ---
 
-## Major Discriminating Characteristics
+## [Discriminating Characteristics](#discriminating-characteristics)
 
-It is usually a straightforward process for people to form judgements about others, so I provide you with some discriminatory characteristics; these come from my memory of demographics surveys I've answered and from things that come to mind when I think of myself.
+I expect most people will find the following discriminatory characteristics useful for gauging how much I should be trusted, and for getting a picture of what human clade I fall into. Most of these identifying categories come from my memory of demographics surveys I've answered. 
 
 I used Python's ```random.shuffle()``` 1 time on the bullet points below (the points were originally ordered differently; I'm unsure as to why I don't want people knowing the original order that these bullets came to my mind). Also, note that ~Y (x%) means "I am x% confident that approximately Y applies to me" and that ~x% means "I believe I am x%".
 
-- Suspected Weight: ~160 lbs / ~72.6 kg (80%)
+- Suspected Weight: ~160 lbs (~72.6 kg) (80%)
 - Tribes: Effective Altruism movement,  Rationality movement
-- Race: Caucasian
-- Gender Identity: ~60% heterosexual  
+- Race: Caucasoid
+- Gender Identity: ~heterosexual (60%)
 - Disabilities or Cognitive Abnormalities: None diagnosed
-- Favorite Nourishment: dark chocolate, almonds, coffee
-- Suspected IQ: ~120 (65%)
+- Favorite Nourishment: dark chocolate, almonds, coffee, blackberries
+- Suspected IQ: ~120 (70%)
 - Education: B.A. Neuroscience and B.A. Mathematics
 - Suspected Cognitive Abnormalities: low empathy (75%), mild autism (60%), some attention deficit (60%)
-- Age: 20-30 years
-- Predominant Life Location: United States
+- Age: Below 40 years
+- Predominant Life Location: United States 
 
-This list could be much longer, but I am content to leave it be for the time being. Ideally, 'rodeo flagellum' or 'cirrostratus whispers' are not directly identified with my person. I am a proponent for online anonymity and privacy, but I don't allocate much effort to this beyond using FireFox with privacy extensions, and occasionally using Tor. I have not thought much about what metadata I generate by participating online, and about whether I should take steps to limit how much data I generate.  
+This list could include many more entries, but I am content to leave it at its current length for the time being. Ideally, 'rodeo flagellum' or 'cirrostratus whispers' are not directly identified with _my person_. I am a proponent for online anonymity and privacy, but I don't allocate much effort to this beyond using FireFox with privacy extensions and using Tor occasionally. I have not thought much about what metadata I generate by participating online in the way I do, and about whether I should take steps to limit what data I generate.  
 
-## Interests
+## [Interests](#interests)
 
 While many of my interests can be gleaned from the tags I've listed earlier, there are also less well defined topics that I want to include here. These topics are things I want to learn more about and believe might be promising areas to work on; I do not yet have a _raison d'être_, but would like to find one. There's still great uncertainty on my end, but deep learning for forecasting or data analysis for longevity research might be the fields of study I begin, overwhelmingly, to allocate my time to. Justifications for my interests precede the areas of research and progress I find interesting. There is a lot of overlap between the justifications and interest areas not included under them, and between interest areas - this list just serves as a rough blueprint for where my attention goes.
 
@@ -57,8 +57,14 @@ While many of my interests can be gleaned from the tags I've listed earlier, the
 
 Pooled interests: [_longevity research_, _well-being measurement_, _judgemental forecasting_, _quantitative modeling_, _deep learning_, 
 
-## Personality
+## [Personality and Morals](#personality-morals)
 
 Following Gwern's example, I've taken a slew of personality and morals surveys on the website [YourMorals.org](https://yourmorals.org/), whose contributors perform social psychology research. I have an entire post on this called My Personality and Morals. 
 
-Either email: rodeo DOT flagellum AT gmail DOT com or Discord: rodeo UNDERSCORE flagellum#5395 works.
+## [Goals](#goals)
+
+## [Notes](#notes)
+
+### [Cover Photo](#cover-photo)
+
+
