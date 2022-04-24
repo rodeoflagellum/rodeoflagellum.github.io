@@ -45,6 +45,7 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Are we living at the most influential time in history? <https://forum.effectivealtruism.org/posts/XXLf6FmWujkxna3E6/are-we-living-at-the-most-influential-time-in-history-1>
 - The Big Here and Long Now <https://longnow.org/essays/big-here-long-now/>
 - The Vulnerable World Hypothesis
+- Report likelihood ratios <https://www.lesswrong.com/posts/yWCszqSCzoWTZCacN/report-likelihood-ratios>
 
 ### [Books/Chapters](#read-books)
 
@@ -63,6 +64,7 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Alignment for Advanced Machine Learning Systems
 - Additive Growth
 - Information Hazards in Biotechnology
+- Replicating and extending the grabby aliens model <https://forum.effectivealtruism.org/posts/7bc54mWtc7BrpZY9e/replicating-and-extending-the-grabby-aliens-model#High_likelihood_vignette>
 
 ### [Books/Chapters](#unread-books)
 
