@@ -10,7 +10,9 @@ image: /assets/images/clock/tall_clock_1943.8.4873.jpg
 desc: "In one way, an attempt to get a sense of when I exist, and in another way, an effort to get into a mood that generates behaviors directed towards bettering the short-term and long-term future."
 ---
 
-<!-- https://www.youtube.com/watch?v=Ki0XXrlKlHY -->
+<!-- Used this idea for the clocks: https://www.youtube.com/watch?v=Ki0XXrlKlHY -->
+
+---
 
 ## [Notes](#notes)
 

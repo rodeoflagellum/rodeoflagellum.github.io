@@ -21,6 +21,8 @@ desc: "An unordered list of websites I like, along with the two pieces I most en
 - __Gwern__ <https://www.gwern.net/>
 - __Alexey Guzey__ <https://guzey.com/>
 
+---
+
 ## [Notes](#notes)
 
 ### [Cover Photo](#cover-photo)

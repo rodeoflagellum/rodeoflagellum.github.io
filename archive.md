@@ -26,3 +26,20 @@ image: /assets/images/archive/phoebe-k-5EfHF-iN0m4-unsplash.jpg
 
 {% endfor %}
 {% endfor %}
+
+---
+
+## [Notes](#notes)
+
+### [Cover Photo](#cover-photo)
+
+The [cover photo][cover_photo]{:target="_blank"} for this page was likely taken by [Phoebe K][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+
+[cover_photo]: https://unsplash.com/photos/5EfHF-iN0m4 "https://unsplash.com/photos/5EfHF-iN0m4"
+
+[author]: https://unsplash.com/@raven_k "https://unsplash.com/@raven_k"
+
+[lic]: https://unsplash.com/license "https://unsplash.com/license"
+
+[unsplash]: https://unsplash.com/ "https://unsplash.com/"
