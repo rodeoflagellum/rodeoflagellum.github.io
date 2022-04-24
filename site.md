@@ -5,7 +5,7 @@ date: 2022-02-21 12:00:00 -0400
 last_edit: 2022-04-21 12:00:18 -0400
 permalink: /site/
 status: "Working Draft"
-tags: [epistemics, site]
+tags: [epistemics, site, personal]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
 desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site."
 ---
@@ -22,6 +22,8 @@ __Disclaimer__: I am in the process of creating the content for this page.
 ---
 
 ## Top of Page
+
+### The Art
 
 ### Informal Tags
 
@@ -47,8 +49,6 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Inadequacies Index
 
-
-
 ### Word Count
 
 ---
@@ -60,6 +60,8 @@ __Disclaimer__: I am in the process of creating the content for this page.
 ### Disclaimer
 
 ### Contribution
+
+- Hanson's simple breakdown
 
 ### Overview
 
@@ -309,9 +311,9 @@ ___Impact___
 
 _Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
 
-## Notes
+## [Notes](#notes)
 
-__Cover Image__
+### [Cover Image](#cover-image)
 
 This [cover image](https://www.nga.gov/collection/art-object-page.52247.html) is an American 18th Century oil on canvas artwork entitled _Hunting Scene with a Harbor_, 18th century associated with Bruce, Ailsa Mellon, Mrs.. The image can be found on the [National Gallery of Art](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable)'s website, and is in the public domain:
 > __Open Access Policy for Images of Works of Art Presumed in the Public Domain__

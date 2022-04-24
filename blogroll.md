@@ -2,12 +2,12 @@
 layout: post
 title: Blogroll
 date: 2022-04-23 18:00:00 -0400
-last_edit: 2022-04-21 18:14:18 -0400
+last_edit: 2022-04-23 18:14:18 -0400
 permalink: /blogroll/
 status: "List"
 tags: [site, personal]
 image: /assets/images/right_hand_1942.5.28.jpg
-desc: "A list of websites I like, along with the two pieces I most enjoyed reading from these sites. If there are not two listed entities, I am still deciding."
+desc: "An unordered list of websites I like, along with the two pieces I most enjoyed reading from these sites. If there are not two listed entities, I am still deciding."
 ---
 
 - __Argmin gravitas__ <https://www.gleech.org/>
@@ -17,12 +17,15 @@ desc: "A list of websites I like, along with the two pieces I most enjoyed readi
   - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/)
 - __The Long Now Foundation__ <https://longnow.org/>
   - [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/)
+- __Overcoming Bias__ <https://www.overcomingbias.com/>
+- __Gwern__ <https://www.gwern.net/>
+- __Alexey Guzey__ <https://guzey.com/>
 
-## Notes
+## [Notes](#notes)
 
-### Cover Photo
+### [Cover Photo](#cover-photo)
 
-This [cover image][cover_photo] is a ~1880 plaster artwork entitled _Right Hand_, by the French sculptor Auguste Rodin, 1840 - 1917. The image can be found on the [National Gallery of Art][gallery]'s website, and is in the public domain:
+This [cover image][cover_photo]{:target="_blank"} is a ~1880 plaster artwork entitled _Right Hand_, by the French sculptor Auguste Rodin, 1840 - 1917. The image can be found on the [National Gallery of Art][gallery]{:target="_blank"}'s website, and is in the public domain:
 > __Open Access Policy for Images of Works of Art Presumed in the Public Domain__
 >
 With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.

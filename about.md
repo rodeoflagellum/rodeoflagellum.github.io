@@ -3,6 +3,7 @@ layout: post
 title: About
 permalink: /about/
 date: 2021-01-21 10:00:00 -0400
+image: /assets/images/about/laguna_main_altarpiece_1943.8.6822.jpg
 desc: "This page is an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests"
 ---
 
