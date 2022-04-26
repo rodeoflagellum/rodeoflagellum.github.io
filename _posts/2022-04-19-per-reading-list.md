@@ -46,6 +46,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - The Big Here and Long Now <https://longnow.org/essays/big-here-long-now/>
 - The Vulnerable World Hypothesis
 - Report likelihood ratios <https://www.lesswrong.com/posts/yWCszqSCzoWTZCacN/report-likelihood-ratios>
+- Reasoning Transparency <https://www.openphilanthropy.org/reasoning-transparency#Example_of_GiveWell_charity_reviews>
+- Evidence on good forecasting practices from the Good Judgment Project <https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/#:~:text=should%20be%20overridden.-,1.7.%20Recipe%20for%20Making%20Predictions,an%20aggregation%20of%20various%20models%2C%20reference%20classes%2C%20other%20experts%2C%20etc.,-1.8.%20Bayesian%20reasoning>
 
 ### [Books/Chapters](#read-books)
 

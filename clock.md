@@ -14,6 +14,65 @@ desc: "In one way, an attempt to get a sense of when I exist, and in another way
 
 ---
 
+## Table of Contents
+{:.no_toc}
+* TOC
+{:toc}
+
+---
+
+## [Now](#now)
+
+### [Hour](#hour)
+
+{% include clock.html %}
+
+### [Day](#day)
+
+### [Month](#month)
+
+### [Year](#year)
+
+### [Half Decade](#half-decade)
+
+### [Decade](#decade)
+
+---
+
+## [Soon](#soon)
+
+### [Half Century](#half-century)
+
+### [Century](#century)
+
+### [Millenium](#millenim)
+
+---
+
+## [20000 Years of Civilization](#civilization)
+
+---
+
+## [Time Since](#since)
+
+### [Anatomically Modern Humans](#human)
+
+### [Language](#language)
+
+### [Writing](#language)
+
+### [Agriculture](#agriculture)
+
+### [Industry](#industry)
+
+### [Nukes](#nukes)
+
+### [Computers](#computer)
+
+### [The Internet](#internet)
+
+---
+
 ## [Notes](#notes)
 
 ### [Cover Photo](#cover-photo)
