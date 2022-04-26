@@ -20,6 +20,25 @@ desc: "An unordered list of websites I like, along with the two pieces I most en
 - __Overcoming Bias__ <https://www.overcomingbias.com/>
 - __Gwern__ <https://www.gwern.net/>
 - __Alexey Guzey__ <https://guzey.com/>
+- __Knowingless__ <https://knowingless.com/>
+- __New Things Under the Sun__ <https://www.newthingsunderthesun.com/claims>
+- __Distill__ <https://distill.pub/>
+- __Daily Papers__ <https://papers.labml.ai/papers/daily>
+- __DeepMind Blog__ <https://www.deepmind.com/blog>
+- __OpenAI Blog__ <https://openai.com/blog/>
+- __Paul Graham__ <http://paulgraham.com/articles.html>
+- __Papers With Code__ <https://paperswithcode.com/>
+- __Open Philanthropy__ <https://www.openphilanthropy.org/blog>
+- __80000 Hours__ <https://80000hours.org/>
+- __Sarah Constantin__ <https://srconstantin.github.io/about/>
+- __Chris Olah__ <https://colah.github.io/>
+- __Terence Tao__ <https://terrytao.wordpress.com/>
+- __Reducing Suffering__ <https://reducing-suffering.org/>
+- __Future of Life Institute__ <https://futureoflife.org/>
+- __Neel Nanda__ <https://www.neelnanda.io/>
+- __Cold Takes__ <https://www.cold-takes.com/>
+- __Katja Grace__ <https://katjagrace.com/>
+- __Luke Muehlhauser__ <https://lukemuehlhauser.com/>
 
 ---
 
