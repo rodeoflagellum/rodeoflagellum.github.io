@@ -124,6 +124,8 @@ Another way
 ### Contribution
 
 - Hanson's simple breakdown
+(Type: Review, Personal Research Summary,
+Summary of Research, Forecast, )
 
 ### Overview
 
@@ -141,7 +143,7 @@ Another way
 
 ### Elicitations
 
-There are many things that I would like to do more. 
+There are many things that I would like to do more.
 
 #### Personal Opinions
 
