@@ -156,7 +156,7 @@ blockquote {
 }
 
 // q {
-// 
+//
 // }
 
 
@@ -274,3 +274,13 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+.table-wrapper {
+  overflow-x: scroll;
+}
+// see https://stackoverflow.com/questions/41076390/is-there-a-way-to-overflow-a-markdown-table-using-html
+
+// <!-- <div class="table-wrapper" markdown="block">
+//
+//
+// </div> -->

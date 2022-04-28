@@ -4,13 +4,13 @@ title: Site
 date: 2022-02-21 12:00:00 -0400
 last_edit: 2022-04-21 12:00:18 -0400
 permalink: /site/
-status: "Working Draft"
+status: "Notes"
 tags: [epistemics, site, personal]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site."
+desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site; this page is a TODO list in some ways."
 ---
 
-__Disclaimer__: I am in the process of creating the content for this page.
+__Disclaimer__: I am in the process of creating the content for this page. More broadly, I am still sorting out how I would like to communicate in writing on this site, what I want to do with it, and what I expect's it place in the greater ecosystem of the Internet to be.
 
 ---
 
@@ -23,11 +23,27 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ## Top of Page
 
+For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Many blogs on the Internet do something like this (e.g., Nintil has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and Gwern has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck, which makes sense because it is probably useful to most people (it is useful to me). The line between too many meta-labels and too few is what I am trying to figure out.
+
+&emsp; Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
+
+&emsp; There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
+
+&emsp; Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
+
 ### The Art
+
+I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about.
+
+&emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them.
 
 ### Informal Tags
 
+I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.   
+
 ### Formal Tags
+
+Find here the formal tags currently in use on the site.
 
 {% capture temptags %}
   {% for tag in site.tags %}
@@ -52,27 +68,50 @@ __Disclaimer__: I am in the process of creating the content for this page.
 {% endfor %}
 </ul>
 
+These tags are
+
 #### Specifics
 
-### Readability
+### Extent
 
-### Durability
+I would like to convey how much time I've spent reviewing something before writing about it. More generally, I want to convey how experienced I am in the topic I am writing on. "Extent" refers to the extent that I have reviewed some topic. This is an experimental category, which means that I haven't yet committed to or found a system that seems useful or seems to "correct".
+
+One way of breaking this down might be roughly by the amount of Internet querying and thinking I've done.
+
+- My brain (writing it to get it written) (1)
+- Internet querying and/or thinking < 5 minutes (2)
+- Internet querying and/or thinking < 60 minutes (3)
+- 1 to 5, 60 minute Internet querying and/or thinking sessions (4)
+- 6 - 15, 60 minute Internet querying and/or thinking sessions (5)
+- > 15, 60 minute Internet querying and/or thinking sessions (6)
+
+Another way
 
 ### Status
 
-### Certainty
+### Confidence
 
 ### Impact
 
 ### Importance
 
-### View Button
+### Readability
 
-### Time Invested
+### Durability
 
-### Inadequacies Index
+### Views
+
+### Inadequacies
 
 ### Word Count
+
+### Reading Time
+
+### Bibliography
+
+### Updates
+
+### Post-Info
 
 ---
 
@@ -102,13 +141,23 @@ __Disclaimer__: I am in the process of creating the content for this page.
 
 ### Elicitations
 
+There are many things that I would like to do more. 
+
 #### Personal Opinions
 
 #### Surveys
 
 #### Questions
 
-#### Criticism
+#### Feedback
+
+I operate by Crocker's Rules (I found this here https://www.alignmentforum.org/users/daniel-kokotajlo)
+
+> Declaring yourself to be operating by "Crocker's Rules" means that other people are allowed to optimize their messages for information, not for being nice to you.  Crocker's Rules means that you have accepted full responsibility for the operation of your own mind - if you're offended, it's your fault.  Anyone is allowed to call you a moron and claim to be doing you a favor.  (Which, in point of fact, they would be.  One of the big problems with this culture is that everyone's afraid to tell you you're wrong, or they think they have to dance around it.)  Two people using Crocker's Rules should be able to communicate all relevant information in the minimum amount of time, without paraphrasing or social formatting.  Obviously, don't declare yourself to be operating by Crocker's Rules unless you have that kind of mental discipline.
+>
+Note that Crocker's Rules does not mean you can insult people; it means that other people don't have to worry about whether they are insulting you.  Crocker's Rules are a discipline, not a privilege.  Furthermore, taking advantage of Crocker's Rules does not imply reciprocity.  How could it?  Crocker's Rules are something you do for yourself, to maximize information received - not something you grit your teeth over and do as a favor.
+>
+"Crocker's Rules" are named after Lee Daniel Crocker.
 
 #### Noticing Biases
 

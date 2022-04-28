@@ -39,6 +39,8 @@ desc: "An unordered list of websites I like, along with the two pieces I most en
 - __Cold Takes__ <https://www.cold-takes.com/>
 - __Katja Grace__ <https://katjagrace.com/>
 - __Luke Muehlhauser__ <https://lukemuehlhauser.com/>
+- __Nintil__ <https://nintil.com/>
+  - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging)
 
 ---
 

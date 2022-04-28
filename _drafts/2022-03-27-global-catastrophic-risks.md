@@ -21,6 +21,7 @@ Here are questions that I am accumulating in the subject[^1].
 
 ## [Nature](#nature)
 
+
 ## [Forecasts](#forecasting-gcr)
 
 ## [Resources](#resources)

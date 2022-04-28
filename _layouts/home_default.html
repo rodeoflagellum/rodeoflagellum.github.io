@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <link rel="shortcut icon" href="/assets/images/android-chrome-512x512.png">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <img src="/assets/images/benedict-meyer-zu-strohe-TpR4-ecdnKQ-unsplash-1.jpg" class="header-image">
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
