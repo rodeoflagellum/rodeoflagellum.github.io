@@ -7,14 +7,14 @@ permalink: /site/
 status: "Notes"
 tags: [epistemics, site, personal]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine ideas for the site; this page is a TODO list in some ways."
+desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine my writing ideas; this page is a TODO list in some ways."
 ---
 
 __Disclaimer__: I am in the process of creating the content for this page. More broadly, I am still sorting out how I would like to communicate in writing on this site, what I want to do with it, and what I expect's it place in the greater ecosystem of the Internet to be.
 
 ---
 
-## Table of Contents
+## [Table of Contents](#top)
 {:.no_toc}
 * TOC
 {:toc}
@@ -72,6 +72,40 @@ These tags are
 
 #### Specifics
 
+### Status
+
+### Impact
+
+### Confidence
+
+Here are some different kinds of support you might have for a claim:
+
+>
+- another detailed analysis you wrote
+- careful examination of one or more studies you feel qualified to assess
+- careful examination of one or more studies you feel only weakly able to assess
+- shallow skimming of one or more studies you feel qualified to assess
+- shallow skimming of one or more studies you feel only weakly able to assess
+- verifiable facts you can easily provide sources for
+- verifiable facts you can’t easily provide sources for
+- expert opinion you feel comfortable assessing
+- expert opinion you can’t can’t easily assess
+- a vague impression you have based on reading various sources, or talking to various experts, or something else
+- a general intuition you have about how the world works
+- a simple argument that seems robust to you
+- a simple argument that seems questionable to you
+- a complex argument that nevertheless seems strong to you
+- a complex argument that seems questionable to you
+- the claim seems to follow logically from other supported claims plus general background knowledge
+- a source you can’t remember, except that you remember thinking at the time it was a trustworthy source, and you think it would be easy to verify the claim if one tried4
+- a combination of any of the above
+
+### Importance
+
+### Readability
+
+### Durability
+
 ### Extent
 
 I would like to convey how much time I've spent reviewing something before writing about it. More generally, I want to convey how experienced I am in the topic I am writing on. "Extent" refers to the extent that I have reviewed some topic. This is an experimental category, which means that I haven't yet committed to or found a system that seems useful or seems to "correct".
@@ -87,65 +121,74 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 
 Another way
 
-### Status
+### Post-Notes
 
-### Confidence
+### Bibliography
 
-### Impact
-
-### Importance
-
-### Readability
-
-### Durability
+### Word Count
 
 ### Views
 
 ### Inadequacies
 
-### Word Count
-
 ### Reading Time
 
-### Bibliography
+### Contentions
 
-### Updates
-
-### Post-Info
+### Enjoyment
 
 ---
 
 ## After Top of Page
 
-### Epistemic Status
+### [Summary](#summary)
 
-### Disclaimer
+### [Takeaways](#takeaways)
 
-### Contribution
+### [Epistemic Status](#epistemic-status)
+
+### [Contribution](#contribution)
 
 - Hanson's simple breakdown
 (Type: Review, Personal Research Summary,
 Summary of Research, Forecast, )
 
-### Overview
+### [Disclaimer](#disclaimer)
 
-### Glossary
+General transparency
+
+>
+- Has the author presented a fair or biased presentation of evidence and arguments on this topic?
+- How much expertise does the author have in this area?
+- How trustworthy is the author in general?
+- What are their biases and conflicts of interest?
+- What was the research process that led to this analysis? What shortcuts were taken?
+- What rough level of confidence does the author have in each of their substantive claims?
+- What support does the author think they have for each of their substantive claims?
+- What does the author think are the most important takeaways, and what could change the author’s mind about those takeaways?
+- If the analysis includes some data analysis, how were the data collected, which analyses were done, and can I access the data myself?
+
+### [Glossary](#glossary)
 
 ---
 
-## Content
+## [Content](#content)
 
-### The Problems
+### [Preferences](#preferences)
 
-### Typography
+#### [The Problems](#problems)
 
-### Meta-Science Pipeline
+#### [Forecasting](#forecasting)
 
-### Elicitations
+### [Typography](#typography)
+
+### [Meta-Science Pipeline](#meta-science)
+
+### [Elicitations](#elicitations)
 
 There are many things that I would like to do more.
 
-#### Personal Opinions
+#### Opinions
 
 #### Surveys
 
@@ -173,62 +216,64 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 
 #### Experimental Designs
 
-#### Fermi Estimates
+#### Estimates
 
-#### Beliefs and Cached Thoughts
+(esp. fermi estimates)
+
+#### Locating Beliefs and Thoughts
 
 (when conclusions seem obvious to me)
+finding beliefs
+cached thoughts
+
+#### [Beliefs Updates
+
+bayesian updates of beliefs
 
 #### Inadequacies
 
 #### Missing Pieces
 
-### Questionings
+### [Questionings](#questioning)
 
-### Agree/Disagree Slider
+(questions from paper)
 
-### Writing Styles and Advice
+### [Writing Styles and Advice](#writing-style-advice)
 
-### Ideas to Write About
+### [Future Post Ideas](#future-posts)
 
-### Storing Evidence
+### [Storing Things](#storage)
 
-### Heuristics
+### [Heuristics](#heuristics)
 
 - Aim to outperform Wikipedia
 - You are likely not the first person to have come up with this question, or to have started answering it
 - Search every question on Google at least once
 - Search every concept on Google at least once
 
-### Bloom's Taxonomy
+### [Bloom's Taxonomy](#bloom)
 
 ---
 
-## Bottom of Page
+## [Bottom of Page](#bottom)
 
-### Appendix
+### [Appendix](#appendix)
 
-### Beliefs and Evidence
+### [References](#references)
 
-### Page Epistemics
+### [See Also](#see-also)
 
-### References
+### [Further Reading](#further-reading)
 
-### Link Bibliography
+### [External Links](#external-links)
 
-### See Also
-
-### Further Reading
-
-### External Links
-
-### Footnotes
+### [Footnotes](#footnotes)
 
 ---
 
-## Other
+## [Other](#other)
 
-### Design Feature Wish List
+### [Design Feature Wish List](#feature-wish-list)
 
  - Term glossary
  - Questions
@@ -248,15 +293,15 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
  - Back to top button
  - Night/day themes
 
-### About Page
+### [Me Page](#about-page)
 
-### Role Models
+### [Influences](#role-models)
 
-### Reading List
+### [Reading List](#reading-list)
 
-### Name of Site
+### [Clock Page](#clock-page)
 
-
+### [Site Name](#site-name)
 
 <!-- ## Main Pipeline
 
