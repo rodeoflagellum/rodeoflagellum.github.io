@@ -72,11 +72,11 @@ These tags are
 
 #### Specifics
 
-### Status
+### [Status](#status)
 
-### Impact
+### [Impact](#impact)
 
-### Confidence
+### [Confidence](#confidence)
 
 Here are some different kinds of support you might have for a claim:
 
@@ -100,13 +100,13 @@ Here are some different kinds of support you might have for a claim:
 - a source you can’t remember, except that you remember thinking at the time it was a trustworthy source, and you think it would be easy to verify the claim if one tried4
 - a combination of any of the above
 
-### Importance
+### [Importance](#importance)
 
-### Readability
+### [Readability](#readability)
 
-### Durability
+### [Durability](#durability)
 
-### Extent
+### [Extent](#extent)
 
 I would like to convey how much time I've spent reviewing something before writing about it. More generally, I want to convey how experienced I am in the topic I am writing on. "Extent" refers to the extent that I have reviewed some topic. This is an experimental category, which means that I haven't yet committed to or found a system that seems useful or seems to "correct".
 
@@ -121,21 +121,21 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 
 Another way
 
-### Post-Notes
+### [Post-Notes](#post-notes)
 
-### Bibliography
+### [Bibliography](#bibliography)
 
-### Word Count
+### [Word Count](#word-count)
 
-### Views
+### [Views](#views)
 
-### Inadequacies
+### [Inadequacies](#inadequacies)
 
-### Reading Time
+### [Reading Time](#reading-time)
 
-### Contentions
+### [Contentions](#contentions)
 
-### Enjoyment
+### [Enjoyment](#enjoyment)
 
 ---
 
@@ -176,9 +176,9 @@ General transparency
 
 ### [Preferences](#preferences)
 
-#### [The Problems](#problems)
+### [The Problems](#problems)
 
-#### [Forecasting](#forecasting)
+### [Forecasting](#forecasting)
 
 ### [Typography](#typography)
 
@@ -213,6 +213,8 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 #### Visualization
 
 #### Syntheses
+
+#### Memes
 
 #### Experimental Designs
 

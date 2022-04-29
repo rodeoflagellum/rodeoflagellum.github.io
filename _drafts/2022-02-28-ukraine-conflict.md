@@ -129,7 +129,7 @@ A potential example of forecasting influencing individual decision making:
 
 ## Notes
 
-#### *Cover Photo*
+### Cover Image
 
 This [cover image](https://www.nga.gov/collection/art-object-page.112264.html) is an oil on panel artwork entitled _Ships in a Gale_, 1660 by Willem van de Velde the Younger. The image can be found on the [National Gallery of Art](https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable)'s website, and is in the public domain:
 > __Open Access Policy for Images of Works of Art Presumed in the Public Domain__

@@ -78,6 +78,25 @@ __Glossary__:
 
 ### [Cover Image](#cover-image)
 
+The [cover image][cover_image]{:target="_blank"} for this page was likely taken by [Phoebe K][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+
+[cover_image]: https://unsplash.com/photos/5EfHF-iN0m4 "https://unsplash.com/photos/5EfHF-iN0m4"
+
+[author]: https://unsplash.com/@raven_k "https://unsplash.com/@raven_k"
+
+[lic]: https://unsplash.com/license "https://unsplash.com/license"
+
+[unsplash]: https://unsplash.com/ "https://unsplash.com/"
+
+This [cover image][cover_image]{:target="_blank"} is a French 19th Century oil on canvas artwork entitled _Race Course at Longchamps_, c. 1870. The image can be found on the [National Gallery of Art][gallery]{:target="_blank"}'s website, and is in the public domain:
+> __Open Access Policy for Images of Works of Art Presumed in the Public Domain__
+>
+With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.
+
+[cover_image]: https://www.nga.gov/collection/art-object-page.52258.html "https://www.nga.gov/collection/art-object-page.52258.html"
+
+[gallery]: https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable "https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable"
+
 ### [References](#references)
 
 ### [Elicitations](#elicitations)

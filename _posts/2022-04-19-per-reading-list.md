@@ -6,7 +6,7 @@ last_edit: 2022-04-24 13:33:00 -0400
 permalink: "/per_reading_list/"
 status: "Notes"
 tags: [personal, site]
-image: /assets/images/per_reading_list/race_course_at_longchamps_1970.17.114.jpg
+image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
 desc: "One unordered list of articles, books, and other things that I've read and found important enough to include here (that I took notes on), and another unordered list containing what I would like to read carefully."
 ---
 
@@ -229,14 +229,14 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 
 ## [Notes](#notes)
 
-### [Cover Photo](#cover-photo)
+### [Cover Image](#cover-image)
 
-This [cover image][cover_photo] is a French 19th Century oil on canvas artwork entitled _Race Course at Longchamps_, c. 1870. The image can be found on the [National Gallery of Art][gallery]'s website, and is in the public domain:
+This [cover image][cover_image]{:target="_blank"} is a French 19th Century oil on canvas artwork entitled _Race Course at Longchamps_, c. 1870. The image can be found on the [National Gallery of Art][gallery]{:target="_blank"}'s website, and is in the public domain:
 > __Open Access Policy for Images of Works of Art Presumed in the Public Domain__
 >
 With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.
 
-[cover_photo]: https://www.nga.gov/collection/art-object-page.52258.html "https://www.nga.gov/collection/art-object-page.52258.html"
+[cover_image]: https://www.nga.gov/collection/art-object-page.52258.html "https://www.nga.gov/collection/art-object-page.52258.html"
 
 [gallery]: https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable "https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable"
 

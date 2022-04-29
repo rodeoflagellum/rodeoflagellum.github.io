@@ -4,7 +4,7 @@ title: Archive
 date: 2022-04-21 10:00:00 -0400
 permalink: /archive/
 tags: [list, site]
-image: /assets/images/archive/phoebe-k-5EfHF-iN0m4-unsplash.jpg
+image: /assets/2022/archive/urja-bhatt-TuvollqROb8-unsplash.jpg
 ---
 
 <!-- From here: https://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year?noredirect=1&lq=1 -->
@@ -19,7 +19,7 @@ image: /assets/images/archive/phoebe-k-5EfHF-iN0m4-unsplash.jpg
 <ul>
   {% for post in month.items %}
     <li>
-      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }}; <em>{{ post.desc }}</em>)<br>
+      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br> <em>{{ post.desc }}</em><br>
     </li>
   {% endfor %}
 </ul>

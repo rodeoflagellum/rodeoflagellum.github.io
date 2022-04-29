@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast: Automatic ML/DL"
+title:  "Forecasting Automatic ML/DL"
 date:  2022-04-18 11:59:00 -0400
 last_edit: 2022-04-22 10:41:00 -0400
 permalink: "/for_automatic_ml"

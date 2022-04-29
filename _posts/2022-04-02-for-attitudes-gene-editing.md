@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast: Attitudes Towards Human Gene-Editing"
+title:  "Forecasting Attitudes Towards Human Gene-Editing"
 date:  2022-04-02 12:00:00 -0400
 last_edit: 2022-04-22 11:00:00 -0400
 permalink: "/for_attitudes_gene_editing/"

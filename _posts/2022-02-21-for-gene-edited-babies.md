@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast: Designer Babies"
+title:  "Forecasting Designer Babies"
 date:  2022-02-21 21:40:00 -0400
 last_edit: 2022-03-11 16:50:00 -0400
 permalink: "/for_gene_edit_babies/"
@@ -9,7 +9,7 @@ certainty: "Somewhat Likely"
 importance: "6.5"
 impact: "3.5"
 tags: [forecasting, prediction, biology, genetic-engineering]
-image: /assets/images/bi2rmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
+image: /assets/2022/for_designer_babies/bi2rmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 desc: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
 
@@ -429,7 +429,6 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 - <https://academic.oup.com/jmp/article-abstract/35/4/415/858384>
 - <https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion>
 
-
 ## Page Epistemics
 
 _Status_: __"Working Draft"__ I don't believe I will make many more edits to the content of this page in the coming years. There are some adjustments and updates to make to my forecasts, along with the final retrospective to perform in 2030...I hope I am not dead! I will likely only alter the web-infrastructure of this page (e.g., collecting all URLs on the page to generate an ordered link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
@@ -442,11 +441,11 @@ _Impact_: __"3.5/10"__ I think some of my friends might read this and appreciate
 
 ## Notes
 
-#### *Cover Photo*
+### Cover Images
 
 The [cover photo](https://unsplash.com/photos/lhsfeT9WZ9M){:target="_blank"} for this page was likely taken by [Birmingham Museums Trust](https://unsplash.com/@birminghammuseumstrust){:target="_blank"}. I found the photo on [Unsplash](https://unsplash.com/){:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license){:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
 
-#### *Footnotes*
+### Footnotes
 
 [^1]: For Henk ten Hank's personal website, see [here][Henk_per]{:target="_blank"}, and for Maria do Céu Patrão Neves's faculty webpage (I was unable to find her personal site after looking for a few minutes, which makes me believe she doesn't have one) see [here][Maria_per]{:target="_blank"}.
 
