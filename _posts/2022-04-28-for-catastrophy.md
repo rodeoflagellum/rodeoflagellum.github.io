@@ -3,10 +3,12 @@ layout: post
 title:  "Forecasting Catastrophes for Humanity"
 date:  2022-04-28 23:01:00 -0400
 modified: 2022-04-30 10:09:00 -0400
-permalink: "/for_human_catastrophe/"
+permalink: "for_catastrophe"
 tags: [longtermism, forecasting, prediction, x-risk, gcr]
 image: /assets/2022/for_catastrophe/ships_in_a_gale_2000.72.1.jpg
 description: "A relatively narrow look at how people have forecasted human extinction as well as the occurrence of catastrophes. My motivation comes partially from Philip Tetlock's upcoming forecasting tournament on existential risk."
+notes: "yes"
+reading_time: "yes"
 ---
 
 __Summary__:
@@ -21,7 +23,6 @@ __Disclaimer__:
 
 __Glossary__
 
--
 
 ---
 

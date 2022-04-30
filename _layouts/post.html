@@ -81,7 +81,7 @@ layout: default
       {%- endif -%}
 
       {%- if page.notes -%}
-         • &nbsp;{{ site.baseurl }}{% link /assets/"post.date | date: '%Y'"/post-notes.html %} &nbsp;
+        • &nbsp;Post-notes &nbsp;
       {%- endif -%}
 
       {%- if page.bibliography -%}
@@ -92,15 +92,11 @@ layout: default
          • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
       {%- endif -%}
 
-      {%- if page.bibliography -%}
-         • &nbsp;Bibliography &nbsp;
+      {%- if page.inadequacies -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Inadequacies</a>: {{ page.inadequacies }} &nbsp;
       {%- endif -%}
 
-      {%- if page.extent -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Extent</a>: {{ page.extent }} &nbsp;
-      {%- endif -%}
-
-      {%- if page.read -%}
+      {%- if page.reading_time -%}
          • &nbsp;Read Time: ~{{ page.content | number_of_words | divided_by: 315 }} minutes &nbsp;
       {%- endif -%}
 

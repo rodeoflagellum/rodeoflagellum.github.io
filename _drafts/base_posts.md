@@ -23,7 +23,7 @@ reading_time: "[]"
 views: "[]"
 ---
 
-__Summary__:
+__Summary__: 
 
 __Takeaways__:
 

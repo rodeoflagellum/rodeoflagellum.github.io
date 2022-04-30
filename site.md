@@ -112,14 +112,12 @@ I would like to convey how much time I've spent reviewing something before writi
 
 One way of breaking this down might be roughly by the amount of Internet querying and thinking I've done.
 
-- My brain (writing it to get it written) (1)
-- Internet querying and/or thinking < 5 minutes (2)
-- Internet querying and/or thinking < 60 minutes (3)
-- 1 to 5, 60 minute Internet querying and/or thinking sessions (4)
-- 6 - 15, 60 minute Internet querying and/or thinking sessions (5)
-- > 15, 60 minute Internet querying and/or thinking sessions (6)
-
-Another way
+- (1) My brain (writing it to get it written)
+- (2) Internet querying and/or thinking < 5 minutes
+- (3) Internet querying and/or thinking < 60 minutes
+- (4) 1 to 5, 60 minute Internet querying and/or thinking sessions
+- (5) 6 - 15, 60 minute Internet querying and/or thinking sessions
+- (6) Over 15, 60 minute Internet querying and/or thinking sessions
 
 ### [Post-Notes](#post-notes)
 
@@ -130,6 +128,43 @@ Another way
 ### [Views](#views)
 
 ### [Inadequacies](#inadequacies)
+
+I thought this listing was interesting and potentially useful. I found it on Gavin's
+Leech's _[Argmin gravitas](https://www.gleech.org/metrics/)_
+
+> [Inadequacies](https://inference-review.com/article/the-mother-lode) is a catalogue of silly statements by scientists or journalists. It's sort of the gag page of the Inference Review, a witty and arch journal for scientific prose. Entries fall into at least one of:
+>
+- Exaggeration (E)
+- Irreproducible results (IR)
+- Inadequate data (ID)
+- Begging the question (BQ)
+- Confusing correlation with causation (CCC)
+- Plagiarism (P)
+- Ill-conceived experiments (ICE)
+- Ill-defined concepts (IDC)
+- Conflicts of interest (CI)
+- Scientists behaving badly (SBB)
+- The numbers don’t add up (2 + 2 = 5)
+- Purely ornamental mathematics (POM)
+- Appalling prose (AP)
+- Why did someone publish this? (WDSPT)
+- Just plain dumb (JPD)
+- Don’t touch our funding (DTF)
+- We told you so (WTYS)
+- Too close to call (TCC)
+- Could be (CB)
+- Stating the Obvious (SO)
+- All of the Above (AA)
+
+The first few entities on the [CrackPot index](https://math.ucr.edu/home/baez/crackpot.html) also seem like they would be helpful for improving my writing (the more points the worse; also, the rest of the list is pretty funny).
+
+>
+- 1 point for every statement that is widely agreed on to be false.
+- 2 points for every statement that is clearly vacuous.
+- 3 points for every statement that is logically inconsistent.
+- 5 points for each such statement that is adhered to despite careful correction.
+- 5 points for using a thought experiment that contradicts the results of a widely accepted real experiment.
+
 
 ### [Reading Time](#reading-time)
 
@@ -147,13 +182,15 @@ Looking at the reading time on this EAF [post](https://forum.effectivealtruism.o
 
 ### [Contribution](#contribution)
 
-- Hanson's simple breakdown
-(Type: Review, Personal Research Summary,
-Summary of Research, Forecast, )
+Robin Hanson broke down contributions into 3 levels
+
+- Level 0: Arguments and claims
+- Level 1: Summaries, evaluation, and commentary (SEC) of Level 0.
+- Level 2: SEC of Level 1.
 
 ### [Disclaimer](#disclaimer)
 
-General transparency
+General transparency on how what I've written is inadequate. 
 
 >
 - Has the author presented a fair or biased presentation of evidence and arguments on this topic?
@@ -190,7 +227,29 @@ There are many things that I would like to do more.
 
 #### Surveys
 
+I really enjoy participating in and reading Aella's surveys. Polling people on Twitter
+strikes me as a very efficient first-pass exploration for questions where answering
+"what do people generally think about this" is useful. As such, I would like to generate
+surveys wherever possible, either to determine if they already exist, or suggest them to
+people.
+
 #### Questions
+
+I can't recall where I found this, but I thought that it might be useful for
+generating questions I might not normally ask.
+
+>
+- __Exploratory questions__ probe facts and basic knowledge: “What research evidence supports the theory of a cancer-prone personality?”
+- __Challenge questions__ examine assumptions, conclusions, and interpretations: “How else might we account for the findings of this experiment?”
+- __Relational questions__ ask for comparisons of themes, ideas, or issues: “What premises of Plessy v. Ferguson did the Supreme Court throw out in deciding Brown v. Board of Education?
+- __Diagnostic questions__ probe motives or causes: “Why did Simone assume a new identity?”
+- __Action questions__ call for a conclusion or action: “In response to a sit-in at California Hall, what
+should the chancellor do?”
+- __Connective and cause-and-effect questions__ ask for causal relationships between ideas, actions, or events: “If the government stopped farm subsidies for wheat, what would happen to the price of bread?”
+- __Extension questions expand the discussion__: “How does this comment relate to what we have previously said?”
+- __Hypothetical questions__ pose a change in the facts or issues: “Suppose Sergei had been rich instead of poor; would the outcome have been the same?”
+- __Priority questions__ seek to identify the most important issue: “From all that we have talked about, what is the most important cause of the decline of American competitiveness?”
+- __Summary questions__ elicit syntheses: “What themes or lessons have emerged from today’s class?”
 
 #### Feedback
 
@@ -220,27 +279,86 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 
 (esp. fermi estimates)
 
+#### Style, Tone, and My Culture
+
 #### Locating Beliefs and Thoughts
 
 (when conclusions seem obvious to me)
 finding beliefs
 cached thoughts
 
-#### [Beliefs Updates
+#### Beliefs Updates
 
 bayesian updates of beliefs
 
 #### Inadequacies
 
+Questions that I try to ask myself
+
+- What would it take to change my mind?
+- How am I wrong?
+- If everyone took what I've said verbatim as __truth__ what might go wrong?
+- How likely it is that something would go wrong if someone important acted on my writing?
+- Am I willing to bet on what I've said?
+- How would expert opinions differ from mine?
+
 #### Missing Pieces
-
-### [Questionings](#questioning)
-
-(questions from paper)
 
 ### [Writing Styles and Advice](#writing-style-advice)
 
+Here I collect advice that I would ideally like to follow.
+
 ### [Future Post Ideas](#future-posts)
+
+Here are some topics I want to write / learn more about, along with my preference
+for them:
+
+- (★) Photonics in Deep Learning
+- (★) Beta-Binomial Distribution in Bayesian Updating
+- (★★★) Time Series for Sea Ice Extent
+- (★★) The SPIES Method
+- (★) Judgemental Forecasting
+- (★★) Fermi Estimates
+- (★★) Bayesian Updates
+- (★★★) A Meta-Science Pipeline
+- (★) Answering Alexander Kruel
+- (★) Giving What We Can Pledge [log]
+- (★) Bets [log]
+- (★★★★★) EnsembleSplice
+- (★) Forecasting Pandemics
+- (★★) Transformative AI
+- (★) Dream Interpretation and Analysis
+- (★★★) Dream Manipulation
+- (★) Human Appendages Regeneration
+- (★) Customizing Melatonin
+- (★★) Human Neural Organoids
+- (★★) Ode to Planes
+- (★★★★) State of Global Priorities Research
+- (★) Signing Up for Cryonics
+- (★★★) Emerging Technologies in Human Enhancement
+- (★★) My Metaculus Track Record
+- (★★) Siblings: To twin or not to twin?
+- (★★) Influencing the People of the Future
+- (★★) My Beliefs
+- (★★) Updating My Beliefs
+- (★★) Ineffective Lifespan Interventions?
+- (★★) Measuring Personality and Morals
+- (★) Distilling Neel Nanda
+- (★) Physical Analogues for Uncertainty and Response Bias
+- (★) Trials in Self-Therapy
+- (★) Breakdown of Your Sins [Game]
+- (★) Trials in Life Optimization
+- (★) Forecasting Pet Cloning
+- (★) Forecasting Progress in Aging Research
+- (★) Forecasting Natural Resources
+- (★) Collective Behavior and the Internet
+- (★) Using LSTMs for Forecasting
+- (★) Extending Surprisingly Popular Answers
+- (★) Notes on "The Hallmarks of Aging"
+- (★★) Blended Drink Preferences
+- (★★) Food and Tea Preferences
+- (★★★★) Summarizing [GPI, FHI, Alignment] Work
+
 
 ### [Storing Things](#storage)
 
@@ -252,6 +370,14 @@ bayesian updates of beliefs
 - Search every concept on Google at least once
 
 ### [Bloom's Taxonomy](#bloom)
+
+>
+- __Knowledge skills__ (remembering previously learned material such as definitions, principles, formulas): “Define shared governance.” “What are Piaget’s stages of development?”
+- __Comprehension skills__ (understanding the meaning of remembered material, usually demonstrated by restating or citing examples): “Explain the process of mitosis.” “What are some examples of alliteration?”
+- __Application skills__ (using information in a new context to solve a problem, answer a question, perform a task): “How does the concept of price elasticity explain the cost of oat bran?” “Given the smallness of the sample, how would you analyze these data?”
+- __Analysis skills__ (breaking a concept into its parts and explaining their interrelationships; distinguishing relevant from extraneous material): “What factors affect the price of gasoline?” “Point out the major arguments Shelby Steele uses to develop his thesis about affirmative action.”
+- __Synthesis skills__ (putting parts together to form a new whole; solving a problem requiring creativity or originality): “How would you design an experiment to show the effect of receiving the Distinguished Teaching Award on a faculty member’s subsequent career progress?” “How would you reorganize Bloom’s taxonomy in light of new research in cognitive science?”
+- __Evaluation skills__(using a set of criteria to arrive at a reasoned judgment of the value of something): “To what extent does the proposed package of tax increases resolve the budget deficit?” “If cocaine were legalized, what would be the implications for public health services?”
 
 ---
 

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+  
+{% assign removed_space_tag = page.tag | split: "-" %}
+{% capture tagname %}
+{% for word in removed_space_tag %}
+{% if word.size <= 3 %}
+  {{ word | upcase }}
+{% else %}
+{{ word | capitalize }}
+{% endif %}
+{% endfor %}
+{% endcapture %}
+
+<h1>Tag: {{ tagname | replace: "-", " "}}</h1>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <div class="post_title">
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a> ({{ post.date | date_to_long_string }})</li>
+  </div>
+{% endfor %}
+</ul>
+</div>
+<hr>
+{% include tag_cloud.html %}
+<hr>
