@@ -21,8 +21,6 @@ word_count: "[]"
 inadequacies: "[]"
 reading_time: "[]"
 views: "[]"
-contention: "[]"
-enjoyment: "[]"
 ---
 
 __Summary__:
@@ -78,7 +76,8 @@ __Glossary__:
 
 ### [Cover Image](#cover-image)
 
-The [cover image][cover_image]{:target="_blank"} for this page was likely taken by [Phoebe K][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}: "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
+The [cover image][cover_image]{:target="_blank"} for this page was likely taken by [Phoebe K][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}:
+> Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 
 [cover_image]: https://unsplash.com/photos/5EfHF-iN0m4 "https://unsplash.com/photos/5EfHF-iN0m4"
 

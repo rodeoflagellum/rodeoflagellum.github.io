@@ -7,10 +7,10 @@ permalink: /site/
 status: "Notes"
 tags: [epistemics, site, personal]
 image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want what I write to be accurate, measured, honest, and clear (there are more, but these stand out to me). This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine my writing ideas; this page is a TODO list in some ways."
+desc: "I want what I write to mainly be accurate and clear. This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine my site-design ideas; in some ways, this page is a TODO list."
 ---
 
-__Disclaimer__: I am in the process of creating the content for this page. More broadly, I am still sorting out how I would like to communicate in writing on this site, what I want to do with it, and what I expect's it place in the greater ecosystem of the Internet to be.
+__Disclaimer__: I am in the process of editing the content of this page. More broadly, I am still sorting out how I would like to communicate in writing on this site, what I want to do with it, and what I expect's it place in the greater ecosystem of the Internet to be.
 
 ---
 
@@ -21,7 +21,7 @@ __Disclaimer__: I am in the process of creating the content for this page. More 
 
 ---
 
-## Top of Page
+## [Top of Page](#top-of-page)
 
 For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Many blogs on the Internet do something like this (e.g., Nintil has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and Gwern has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck, which makes sense because it is probably useful to most people (it is useful to me). The line between too many meta-labels and too few is what I am trying to figure out.
 
@@ -31,17 +31,17 @@ For most of my content, I expect the top of the page to have perhaps 2 to 10 lab
 
 &emsp; Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
 
-### The Art
+### [The Art](#art)
 
 I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about.
 
 &emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them.
 
-### Informal Tags
+### [Informal Tags](#informal-tags)
 
 I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.   
 
-### Formal Tags
+### [Formal Tags](#formal-tags)
 
 Find here the formal tags currently in use on the site.
 
@@ -133,9 +133,7 @@ Another way
 
 ### [Reading Time](#reading-time)
 
-### [Contentions](#contentions)
-
-### [Enjoyment](#enjoyment)
+Looking at the reading time on this EAF [post](https://forum.effectivealtruism.org/posts/ei4pYFJKcbGAdGnNb/calling-for-student-submissions-ai-safety-distillation), 998 words took 4 minutes, so ~249.5 words per minute. I had it at 315.
 
 ---
 
@@ -258,6 +256,12 @@ bayesian updates of beliefs
 ---
 
 ## [Bottom of Page](#bottom)
+
+### [Contentions](#contentions)
+
+### [Enjoyment](#enjoyment)
+
+### [Usefulness](#enjoyment)
 
 ### [Appendix](#appendix)
 
