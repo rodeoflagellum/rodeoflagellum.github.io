@@ -53,7 +53,11 @@ layout: default
       {%- endif -%}
 
       {%- if page.status -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/site/"><em>{{ page.status }}</em></a> &nbsp;
+        {%- if page.type -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site/"><em>{{ page.type }}-{{ page.status }}</em></a> &nbsp;
+        {%- else -%}
+          • &nbsp;<a href="https://rodeoflagellum.github.io/site/"><em>{{ page.status }}</em></a> &nbsp;
+        {%- endif -%}
       {%- endif -%}
 
       {%- if page.impact -%}

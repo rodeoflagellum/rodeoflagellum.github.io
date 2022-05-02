@@ -48,6 +48,7 @@ layout: default
 
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.category!="misc" -%}
       <br>
       <li>
 
@@ -63,6 +64,7 @@ layout: default
         {%- endif -%}
       </li>
       <hr>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
 

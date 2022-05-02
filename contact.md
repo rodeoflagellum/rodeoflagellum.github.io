@@ -3,7 +3,7 @@ layout: post
 title: Contact
 date: 2022-04-24 12:16:00 -0400
 permalink: /contact/
-image: /assets/images/contact/blade-lustre-SodsKdttXaw-unsplash.jpg
+image: /assets/2022/contact/blade-lustre-SodsKdttXaw-unsplash.jpg
 ---
 
 Where do I spend my time on the Internet?
