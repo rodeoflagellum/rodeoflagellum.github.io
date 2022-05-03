@@ -63,8 +63,6 @@ desc: "A look at Erik Hoel's 2050 Project, along with my predictions on the some
 
 <iframe src="https://www.metaculus.com/questions/embed/8554/" width="100%" height="300"></iframe>
 
-
-
 ---
 
 ## [Notes](#notes)

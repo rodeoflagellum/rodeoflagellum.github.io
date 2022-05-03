@@ -45,6 +45,11 @@ __Glossary__:
 
 ---
 
+## [Example](#example)
+_Summary_
+
+---
+
 ## [Appendix](#appendix)
 
 [Back to top](#top)

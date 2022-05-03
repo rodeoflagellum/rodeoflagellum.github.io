@@ -10,9 +10,14 @@ layout: default
       <br><br>
     {%- endif -%}
 
+    {%- if page.header_image -%}
+      <img src="{{ page.header_image | relative_url }}" alt="" class="featured-image-post">
+      <br><br>
+    {%- endif -%}
+
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 
-    {%- if page.desc -%}
+    {%- if page.desc or page.description -%}
     <p> <em> {{ page.desc }} </em> </p>
     {%- endif -%}
 
@@ -45,7 +50,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.last_edit -%}
+      {%- if page.last_edit or page.modified -%}
       <time class="dt-published" datetime="{{ page.last_edit | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         - {{ page.last_edit | date: date_format }}
@@ -64,8 +69,8 @@ layout: default
          • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Impact</a>: {{ page.impact }} &nbsp;
       {%- endif -%}
 
-      {%- if page.confidence -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Confidence</a>: {{ page.certainty }} &nbsp;
+      {%- if page.confidence or page.certainty -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Confidence</a>: {{ page.confidence }} &nbsp;
       {%- endif -%}
 
       {%- if page.importance -%}
@@ -92,7 +97,7 @@ layout: default
          • &nbsp;Bibliography &nbsp;
       {%- endif -%}
 
-      {%- if page.wc -%}
+      {%- if page.wc or page.word_count -%}
          • &nbsp;Word Count: {{ page.content | number_of_words }} &nbsp;
       {%- endif -%}
 
