@@ -4,13 +4,14 @@ title:  "Reading List"
 date:  2022-04-19 11:15:00 -0400
 last_edit: 2022-04-24 13:33:00 -0400
 permalink: "/per_reading_list/"
-status: "Notes"
+type: "List"
+status: "Ongoing"
 tags: [personal, site]
 image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
-desc: "One unordered list of articles, books, and other things that I've read and found important enough to include here (that I took notes on), and another unordered list containing what I would like to read carefully."
+desc: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
 ---
 
-__Disclaimer__: The present status of this page is "Notes", which means that I am still figuring out how I want to present and organize the information, and am still heavily editing the content.
+__Disclaimer__: I am still figuring out how to structure this page and what to put on it.
 
 ---
 
@@ -44,7 +45,6 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Are we living at the 'hinge of history'? <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>
 - Are we living at the most influential time in history? <https://forum.effectivealtruism.org/posts/XXLf6FmWujkxna3E6/are-we-living-at-the-most-influential-time-in-history-1>
 - The Big Here and Long Now <https://longnow.org/essays/big-here-long-now/>
-- The Vulnerable World Hypothesis
 - Report likelihood ratios <https://www.lesswrong.com/posts/yWCszqSCzoWTZCacN/report-likelihood-ratios>
 - Reasoning Transparency <https://www.openphilanthropy.org/reasoning-transparency#Example_of_GiveWell_charity_reviews>
 - Evidence on good forecasting practices from the Good Judgment Project <https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/#:~:text=should%20be%20overridden.-,1.7.%20Recipe%20for%20Making%20Predictions,an%20aggregation%20of%20various%20models%2C%20reference%20classes%2C%20other%20experts%2C%20etc.,-1.8.%20Bayesian%20reasoning>
@@ -66,15 +66,58 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Alignment for Advanced Machine Learning Systems
 - Additive Growth
 - Information Hazards in Biotechnology
-- Replicating and extending the grabby aliens model <https://forum.effectivealtruism.org/posts/7bc54mWtc7BrpZY9e/replicating-and-extending-the-grabby-aliens-model#High_likelihood_vignette>
+- Replicating and extending the grabby aliens model
+- Identifying and Assessing the Drivers of Global Catastrophic Risk: A Review and Proposal for the Global Challenges Foundation
+- Embryo selection with artificial intelligence: how to evaluate and compare methods?
+- Global Catastrophic Risks Survey
+- Future Proof
+- The AI Alignment Problem: Why It’s Hard, and Where to Start
+- Artificial intelligence, systemic risks, and sustainability
+- Value of GCR Information: Cost Effectiveness-Based Approach for Global Catastrophic Risk (GCR) Reduction
+- Apocalypse Now? Reviving the Doomsday Argument
+- The weight of suffering
+- No evidence for general intelligence in a fish
+- Forecasting tournaments, epistemic humility and attitude depolarization
+- An Analysis and Evaluation of Methods Currently Used to Quantify the Likelihood of Existential Hazards
+- Improving Judgments of Existential Risk: Better Forecasts, Questions, Explanations, Policies
+- The Definition of Effective Altruism
+- Technological Progress, Artificial Intelligence, and Inclusive Growth
+- The transformative potential of artificial intelligence
+- When Is a Crowd Wise?
+- AI Safety Gridworlds
+- Compute Trends Across Three Eras of Machine Learning
+- Prediction: The long and short of it
+- Global Solutions vs. Local Solutions for the AI Safety Problem
+- Existential Risk Prevention as Global Priority
+- Cheating Death in Damascus
+- Existential risk and growth
+- Economic growth under transformative AI
+- The scope of longtermism
+- Do We Really Need Deep Learning Models for Time Series Forecasting?
+- Superintelligence Cannot be Contained: Lessons from Computability Theory
+- AI Alignment Research Overview
+- Who Should We Fear More: Biohackers, Disgruntled Postdocs, or Bad Governments? A Simple Risk Chain Model of Biorisk
+- Information Hazards: A Typology of Potential Harms from Knowledge
+- Likelihood functions, p-values, and the replication crisis
+- Rescuing the utility function
+- Report likelihoods, not p-values
+- Eliciting latent knowledge: How to tell if your eyes deceive you
+- Progress, Stagnation, & Collapse
 
 ### [Books/Chapters](#unread-books)
 
 - Global Catastrophic Risks
 - Superintelligence
 - Machine Learning Refined ed. 2
+- Statistical Rethinking
+- Bayes Rules!
+- Elements of Mathematics
+- X-Risk
+- The Sequences
 - Deep Learning Architectures
 - All of Statistics
+- Algorithms for Decision Making
+- Probabilistic Machine Learning
 
 ### [Wikipedia](#unread-wikis)
 

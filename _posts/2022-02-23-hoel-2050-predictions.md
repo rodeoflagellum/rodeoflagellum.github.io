@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Erik Hoel 2050 Project"
-date:  2022-02-23 15:20:00 -0500
+date:  2022-02-23 15:20:00 -0400
 permalink: "/erik_hoel_2050_project/"
 status: "Draft"
-certainty: "N/A"
-impact: "1/10"
-importance: "3/10"
 tags: [forecasting, prediction]
 image: /assets/images/marek-piwnicki-JnXebVlsVrg-unsplash.jpg
 desc: "Exposure to Erik Hoel's 2050 Project, along with my predictions on the Metaculus question series on this project."
