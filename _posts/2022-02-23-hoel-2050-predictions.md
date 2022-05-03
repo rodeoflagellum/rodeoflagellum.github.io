@@ -25,43 +25,43 @@ desc: "A look at Erik Hoel's 2050 Project, along with my predictions on the some
 
 ### [World War III](#ww3)
 
-<iframe src=""https://www.metaculus.com/questions/embed/2534/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/2534/" width="100%" height="300"></iframe>
 
 ### [IQ and Genetic Engineering](#iq-gene)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8515/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8515/" width="100%" height="300"></iframe>
 
 ### [US Colleges](#us-colleges)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8495/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8495/" width="100%" height="300"></iframe>
 
 ### [Embryo Screening](#embryo-screening)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8505/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8505/" width="100%" height="300"></iframe>
 
 ### [Augmented Reality](#augmented-reality)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8516/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8516/" width="100%" height="300"></iframe>
 
 ### [All Electric Vehicles](#electric-vehicles)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8538/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8538/" width="100%" height="300"></iframe>
 
 ### [Martian Population](#martian-population)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8388/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8388/" width="100%" height="300"></iframe>
 
 ### [Legality of Polygamy](#)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8558/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8558/" width="100%" height="300"></iframe>
 
 ### [Aerial Drones](#aerial-drones)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8409/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8409/" width="100%" height="300"></iframe>
 
 ### [Women and Bachelor's Degrees](#women-college)
 
-<iframe src=""https://www.metaculus.com/questions/embed/8554/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8554/" width="100%" height="300"></iframe>
 
 
 
