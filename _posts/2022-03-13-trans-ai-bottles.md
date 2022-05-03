@@ -2,16 +2,20 @@
 layout: post
 title:  "AI Safety ∩ AI/DL Research "
 date:  2022-04-09 12:00:00 -0400
-last_edit: 2022-04-12 12:10:00 -0400
+modified: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
-status: "Working Draft"
-certainty: "7.0"
+header_image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
+description: "The full version of an essay I wrote on some trends in the AI Safety and general AI/DL communities for Metaculus's AI Progress Contest."
+tags: [forecasting, prediction, ai, ai-safety, governance]
+type: "Draft"
+status: "Incomplete"
+confidence: "7.0"
 importance: "8.5"
 impact: "5.5"
-tags: [forecasting, prediction, ai, ai-safety, governance]
-image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
-desc: "The full version of an essay I wrote on some trends in the AI Safety and general AI/DL communities for Metaculus's AI Progress Contest."
+word_count: "yes"
+reading_time: "yes"
 ---
+
 
 <!-- ⊂ -->
 
@@ -1075,6 +1079,6 @@ The [cover photo](https://unsplash.com/photos/ChlQ7O0bVsY){:target="_blank"} for
 
 [^14]: I am not fantastic with time series modeling, but I thought it would be nice to see what an automatically generated ARIMA model had to say about changes in the research terms. If you believe or have evidence of a correct or better parameterization, I would love to hear it! The current ARIMA I use comes from Python's [pmdarima][pmd] (see General Code section).
 
-[^15]: $x(9) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(9) = 586848$ for AI by the end of 2030. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(9) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(9) = 269393$ for DL by the end of 2030. The 14000 and 8000 are rough eye-ball estimates for the counts of AI and DL ArXiV e-prints. This should be made exact. 
+[^15]: $x(9) = 14000 \cdot (1 + \frac{51.44901}{100})^9$, so $x(9) = 586848$ for AI by the end of 2030. Also, there are 9 years because I am looking at roughly the interval [2021-12-31, 2030-12-31]. $x(9) = 8000 \cdot (1 + \frac{47.80855}{100})^9$, so $x(9) = 269393$ for DL by the end of 2030. The 14000 and 8000 are rough eye-ball estimates for the counts of AI and DL ArXiV e-prints. This should be made exact.
 
 [^16]: [The following only applies to ArXiV queries] The Metaculus question on AI Safety, Interpretability, or Explainability I am referencing here examines the total number of e-prints published in [2021-02-14, 2031-02-14], which I take to mean "total e-prints published roughly during 2021 up to roughly the end of 2030". Since the number of e-prints on AI Safety, Interpretability, or Explainability for 2021 are known (there were 558), I subtract them from the Metaculus community's prediction of 12k (IQR: 6.6k - 19k), giving us approximately 11.5k (IQR: 6k - 18.5k) additional "e-prints published during 2022 up to roughly the end of 2030". Looking at the previous footnote, we know that there might be around 586848 new e-prints on AI and 269393 new e-prints on DL after 2021 up to the end of 2030. Between the years 2000 and 2021, inclusive, 1715-158=1557 e-prints were published on AI Safety, Interpretability, or Explainability. If we use the previous ratios for AI Safety:AI and AI Safety:DL (note that these are do not include "interpretability" or "explainability", and include some 2022 values)

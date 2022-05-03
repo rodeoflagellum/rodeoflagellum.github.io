@@ -2,14 +2,16 @@
 layout: post
 title:  "Major Problems for Humanity"
 date:  2022-04-19 12:30:00 -0400
-last_edit: 2022-04-19 12:31:00 -0400
+modified: 2022-04-19 12:31:00 -0400
 permalink: "/problems_for_humanity/"
-status: "Notes"
-importance: "9.0"
-impact: "3.0"
+header_image: /assets/2022/problems_for_humanity/fallen_tree_1997.73.1.jpg
+description: "An aggregation post for the problems I believe are important, and that I will hopefully help assess during my lifetime."
 tags: [site, global-priorities, x-risk, longtermism]
-image: /assets/2022/problems_for_humanity/fallen_tree_1997.73.1.jpg
-desc: "An aggregation post for the problems I believe are important, and that I will hopefully help assess during my lifetime."
+Specifics: [war, civilizational-stability, human-coordination]
+type: "Collection"
+status: "Ongoing"
+confidence: "?"
+importance: "?"
 ---
 
 __Epistemic Status__:

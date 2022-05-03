@@ -2,20 +2,20 @@
 layout: post
 title:  "My Reading List"
 date:  2022-04-19 11:15:00 -0400
-last_edit: 2022-04-24 13:33:00 -0400
+modified: 2022-04-24 13:33:00 -0400
 permalink: "/per_reading_list/"
+header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
+description: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
+tags: [personal, site]
 type: "List"
 status: "Ongoing"
-tags: [personal, site]
-image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
-desc: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
 ---
 
 __Disclaimer__: I am still figuring out how to structure this page and what to put on it.
 
 ---
 
-## Table of Contents
+## [Table of Contents](#top)
 {:.no_toc}
 * TOC
 {:toc}

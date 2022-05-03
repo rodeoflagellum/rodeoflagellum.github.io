@@ -2,18 +2,16 @@
 layout: post
 title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
-last_edit: 2022-03-23 17:38:18 -0500
+modified: 2022-03-23 17:38:18 -0500
 permalink: "/acx_contest_2022/"
-status: "Draft"
-certainty: "N/A"
-importance: "3.5/10"
-impact: "1/10"
-image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
+description: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 tags: [forecasting, prediction]
-desc: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
+header_image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
+type: "Draft"
+status: "Passing"
 ---
 
-## Table of Contents
+## [Table of Contents](#top)
 {:.no_toc}
 * TOC
 {:toc}

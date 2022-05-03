@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "Global Catastrophic and Extreme Risks"
-date:  2022-03-27 12:14:00 -0500
+date:  2022-03-27 12:14:00 -0400
+modified: 2022-05-03 19:00:00 -0400
 permalink: "/gcrs_and_extreme_risks/"
-status: "Notes"
+header_image: /assets/2022/gcrs_and_extreme_risks/daniel_in_the_lions'_den_1965.13.1.jpg
+description: "My ongoing notes on global catastrophic risk (GCR) that I hope will one day metamorphose into a review. This post is primarily for my own learning."
 tags: [gcr, global-priorities]
-image: /assets/2022/gcrs_and_extreme_risks/daniel_in_the_lions'_den_1965.13.1.jpg
-desc: "My ongoing notes on global catastrophic risk (GCR) that I hope will one day metamorphose into a review. This post is primarily for my own learning."
+type: "Collection"
+status: "Ongoing"
 ---
 
-## [Table of Contents](#toc)
+## [Table of Contents](#top)
 {:.no_toc}
 * TOC
 {:toc}
