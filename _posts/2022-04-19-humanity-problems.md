@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Problems for Humanity"
+title:  "Major Problems for Humanity"
 date:  2022-04-19 12:30:00 -0400
 last_edit: 2022-04-19 12:31:00 -0400
 permalink: "/problems_for_humanity/"

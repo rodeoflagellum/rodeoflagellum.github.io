@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading List"
+title:  "My Reading List"
 date:  2022-04-19 11:15:00 -0400
 last_edit: 2022-04-24 13:33:00 -0400
 permalink: "/per_reading_list/"

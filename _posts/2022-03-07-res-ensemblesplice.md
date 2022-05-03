@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "EnsembleSplice"
-date:  2022-03-07 12:21:00 -0500
-last_edit: 2022-03-25 12:48:00 -0500
+date:  2022-03-07 12:21:00 -0400
+last_edit: 2022-05-03 12:48:00 -0400
 permalink: "/res_ensemblesplice/"
-status: "Notes"
-certainty: "Likely"
-importance: "3"
-impact: "5"
+type: "Draft"
+status: "Incomplete"
 tags: [machine-learning, biology, research]
 image: /assets/images/MQOhQhF8WN0.jpg
 desc: "My reflections and thoughts on a research paper that I am trying to write. This is mostly for me to unleash some steam after spending a lot of time working on something that I do not believe is too important."
@@ -77,6 +75,8 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 __Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
+---
+
 ## [A Work in Progress](#a-work-in-progress)
 _My current progress on EnsembleSplice._
 
@@ -139,6 +139,8 @@ _How did EnsembleSplice do? and is it useful?_
 ### [Acknowledgements](#acknowledgments)
 _Extending my thanks to some people (note this section is different from the that of the original paper)_
 
+---
+
 ## [Paper Breakdown (Issues)](#issues)
 _Criticisms of myself and the scientific community with regard to poor code implementations, researcher incentives, and minimum thresholds for scientific contributions._
 
@@ -162,6 +164,8 @@ _Some commentary on where EnsembleSplice falls within science; what is its contr
 
 <!-- (where this falls within science) -->
 
+---
+
 ## [Reflections](#reflections)
 
 ### [Was it worth it?](#worth-it-question)
@@ -170,34 +174,46 @@ _Some commentary on where EnsembleSplice falls within science; what is its contr
 
 ### [Would I do it again?](#again-question)
 
+---
+
 ## [Further Reading](#further-reading)
 _Research papers and Wikipedia pages that may be interesting if you found this topic interesting_
 
 ## [External Links](#external-links)
+
+---
+
+
 ## [Appendices](#appendices)
+
+
 ### [Code Review](#code-review)
+
+
 ### [Sub-Model Figures](#sub-model-figures)
+
 ### [References](#references)
+
+---
+
 ## [Link Bibliography](#link-bibliography)
 
 
 
 
-### Datasets
-
 >Each dataset used in this paper consists of both confirmed true (positive) DoSS/AcSS and confirmed false (negative) AcSS/DoSS. Evaluation of classification performance is separated by splice site type, which means that one model is trained to distinguish between false/true DoSS regions and another is trained to distinguish between false/true AcSS regions. It is important to note that EnsembleSplice is tested on both imbalanced datasets (HS$^3$D) and balanced ones (*Homo sapiens* and *Arabidopsis thaliana*). See Table .
 
-#### HS$^3$D.
+
 
 >The Homo Sapiens Splice Sites Dataset (HS$^3$D) consists of human genomic DNA introns and exons extracted from the Primate Division of GenBank Rel.123. There are 2,796 confirmed positive DoSS regions, 2,880 confirmed positive AcSS regions, 271,937 confirmed negative DoSS regions, and 329,374 confirmed negative AcSS regions. This paper randomly selects 10000 false DoSS regions and 10000 false AcSS regions from the 271,937 and 329,374 available in the dataset, respectively; the Python code ```random.seed(123454)``` is used to shuffle the entire HS$^3$D dataset before the false DoSS and false AcSS subsets are selected. The nucleotide consensus AG for AcSS regions occurs at positions 69 and 70, and the nucleotide consensus GT for DoSS regions occurs at positions 71 and 72. The HS$^3$D dataset can be accessed at <http://www.sci.unisannio.it/docenti/rampone/>.
 
-#### *Homo sapiens* and *Arabidopsis thaliana*.
+
 
 >The *Homo sapiens* and *Arabidopsis thaliana* datasets consist of splice site regions selected from annotated genomic DNA sequences for *Homo sapiens* and *Arabidopsis thaliana* in Ensembl . The peripheral nucleotide sequences padding each AcSS or DoSS were determined via Bedtools . Each splice  site region in the datasets is $602$ nucleotides long; each DoSS region has consensus GT at positions $301$ and $302$, and each AcSS has consensus AG also at positions $301$ and $302$. In the  *Homo sapiens* dataset, there are $250,400$ confirmed positive and negative DoSS regions, and $248,150$ confirmed positive and negative AcSS regions. The *Arabidopsis thaliana* dataset includes $110,314$ confirmed positive and negative DoSS regions, and $112,336$ confirmed positive and negative AcSS regions. The confirmed negative AcSS and DoSS regions were selected from chromosomes $21$, $2$, $2L$, $1$, and $I$. Again, this paper randomly selects $8000$ true/false DoSS regions and $8000$ true/false AcSS regions from both datasets. As with the HS$^3$D dataset, the Python code ```random.seed(123454)``` is used for shuffling the *Homo sapiens* and *Arabidopsis thaliana* datasets before the DoSS and AcSS subsets are selected. The *Homo sapiens* and *Arabidopsis thaliana* datasets can be accessed at <https://github.com/SomayahAlbaradei/Splice_Deep>.
 >
 ![](/assets/images/ensemblesplice/t1.png){: width=40% }
 
-### EnsembleSplice Pipeline
+
 
 >We now propose EnsembleSplice, a DL architecture that consists of an ensemble of three CNN and three DNN sub-models, for the task of splice site detection. See Figure 2 for the full architecture.
 >
@@ -214,19 +230,17 @@ For all $0 \leq i \leq n$, $S_i$ is encoded as a $\|S_i\| \times \|X\|$ binary m
 >
 ![](/assets/images/ensemblesplice/t2.png){: width=40% }
 
-### One-hot Encoding
+
 
 > Genomic DNA splice site regions are composed of four nucleotides - A (Adenine), C (Cytosine), G (Guanine), or T (Thymine). Given the input constraints of DL architectures, these nucleotides are encoded numerically, as opposed to categorically. Each nucleotide corresponds to a row in a $4 \times 4$ identity matrix. The encoding scheme utilized in this paper is that A corresponds to ```[1, 0, 0, 0]```, C corresponds to ```[0, 1, 0, 0]```, G corresponds to ```[0, 0, 1, 0]```, and T corresponds to ```[0, 0, 0, 1]```. Since each splice site region consists of some $N$ nucleotides, the final numerical representation for each splice site region is a $N \times 4$ matrix, where each row is a one-hot encoded nucleotide that occurs at the same index as it did in the splice site region's original representation.
 
-### Cross Validation, Training, and Testing
+
 
 >
 The HS$^3$D, *Homo sapiens*, *Arabidopsis thaliana* dataset subsets were each split into a training ($80\%$ of the data) and a testing ($20\%$ of the data) subset. Cross-validation has been demonstrated to be an effective tool for model selection, and as such,
 10-fold cross validation was used for evaluating alternative EnsembleSplice sub-model architectures . For each dataset, the training subset of that dataset was partitioned into $10$ approximately equal sized subsets. Every subset was used at some point to evaluate the performance of EnsembleSplice; for each of the $10$ runs,  training occurred on $9$ subsets, and testing occurred on the last subset. The cross-validation performance for a particular dataset was the average performance over the $10$ folds. Once the sub-model architectures for EnsembleSplice were chosen, EnsembleSplice was trained on the full training subset of each dataset, and then tested **once** on the testing subset of the respective dataset. No additional training or validation occurred following the final test run; the results reported for EnsembleSplice in this paper are the performances from this final test run.
 
-## Experiments and Results
 
-### Evaluation Metrics
 
 >To measure the performance of EnsembleSplice, and to compare EnsembleSplice with with other splice site detection models, the counts of correctly identified true AcSS or DoSS (true positive, ``TP''), correctly identified false AcSS or DoSS (true negative, ``TN''), incorrectly identified true AcSS or DoSS (false positive, ``FP''), and incorrectly identified false AcSS or DoSS (false negative, ``FN'') are used. See Table 3.
 >
@@ -234,30 +248,25 @@ The HS$^3$D, *Homo sapiens*, *Arabidopsis thaliana* dataset subsets were each sp
 >
 From these metrics, additional metrics common to classification tasks can be used for evaluation: Accuracy (Acc) - the fraction of AcSS or DoSS correctly identified, Precision (Pre) - the fraction of positive classifications for AcSS or DoSS that were positive, Sensitivity (Sn) - the fraction of positive AcSS or DoSS with a positive classification (true positive rate), Specificity (Sp) - the fraction of negative AcSS or DoSS with a negative classification (true negative rate), Matthew's correlation coefficient (Mcc) - the correlation between true/false AcSS and DoSS and the classifications for them generated by the mode, and F$_1$ score - the harmonic means of the fraction of positive classifications for AcSS or DoSS that were positive and the fraction of positive AcSS or DoSS that were correctly identified. Lastly, the error rate measures how often the classifier misclassified the data. The equations for these metrics are in Table .
 
+---
 
-## References
+## [Notes](#notes)
 
-## [Reflections](#reflections)
+### [Cover Image](#cover-image)
 
-## Appendix
+The [cover image][cover_image]{:target="_blank"} for this page was likely taken by [Jonas Denil][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}:
+> Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 
-### Code and Schematics
+[cover_image]: https://unsplash.com/photos/7ALIbwRkwig "https://unsplash.com/photos/7ALIbwRkwig"
 
-### Sub-Model Figures
+[author]: https://unsplash.com/@jonasdenil "https://unsplash.com/@jonasdenil"
 
-### References
+[lic]: https://unsplash.com/license "https://unsplash.com/license"
 
-###
+[unsplash]: https://unsplash.com/ "https://unsplash.com/"
 
-## Link Bibliography
 
-## Notes
-
-#### *Cover Photo*
-
-The [cover photo](https://unsplash.com/photos/7ALIbwRkwig) for this page was likely taken by [Jonas Denil](https://unsplash.com/@jonasdenil). I found the photo on [Unsplash](https://unsplash.com/). To my knowledge, my use of this photo is permissible under Unsplash's [license](https://unsplash.com/license): "_Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service._"
-
-#### *Footnotes*
+### [Footnotes](#footnotes)
 
 [^1]: One advisor specialized in NLP; the other in computational neuroscience (BCI's in particular); and the last in bioinformatics. One other student and I worked with the bioinformatics advisor, while the other six REU students were distributed evenly across the
 other advisors.
