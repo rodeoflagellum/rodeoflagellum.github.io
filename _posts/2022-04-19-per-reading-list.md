@@ -109,6 +109,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Report likelihoods, not p-values
 - Eliciting latent knowledge: How to tell if your eyes deceive you
 - Progress, Stagnation, & Collapse
+- We need a Butlerian Jihad against AI
+- How to prevent the coming inhuman future
 
 [Back to top](#top)
 

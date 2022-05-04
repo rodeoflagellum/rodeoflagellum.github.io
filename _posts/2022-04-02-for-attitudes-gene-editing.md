@@ -31,7 +31,48 @@ __Disclaimer__:
 
 ## [Human Gene-Editing](#human-gene-editing)
 
+[Back to top](#top)
 
+
+---
+
+[wiki_genome_editing]: https://en.wikipedia.org/wiki/Genome_editing "https://en.wikipedia.org/wiki/Genome_editing"
+
+[wiki_cas12]: https://en.wikipedia.org/wiki/Cas12a "https://en.wikipedia.org/wiki/Cas12a"
+
+[wiki_assisted_reproductive_technology]: https://en.wikipedia.org/wiki/Assisted_reproductive_technology "https://en.wikipedia.org/wiki/Assisted_reproductive_technology"
+
+[genome_project_complete]: https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete "https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete"
+
+<!--
+Pipeline
+Search Wiki, Google, Google Scholar, OpenAlex for resources / terms
+
+-->
+
+## [Appendix](#appendices)
+
+### [The Landscape](#landscape)
+
+__OpenAlex Queries__
+
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>
+  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research
+  - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public?
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
+  - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era
+  - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection?
+
+
+__Google Queries__
+
+- What are the Ethical Concerns of Genome Editing? (https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)
+- Making sense of heritable human genome editing: Scientific and ethical considerations (https://pubmed.ncbi.nlm.nih.gov/34175039/)
+- Public Views of Gene Editing for Babies Depend on How It Would Be Used (https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/)
+  - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
+  - Chapter 5: Public Views About Biomedical Issues (https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/)
+
+[Back to top](#top)
 
 ---
 
