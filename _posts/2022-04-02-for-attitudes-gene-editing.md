@@ -54,15 +54,22 @@ Search Wiki, Google, Google Scholar, OpenAlex for resources / terms
 
 ### [The Landscape](#landscape)
 
+### [References](#references)
+
 __OpenAlex Queries__
 
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>
-  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research
-  - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public?
+  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (here)
+  - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (here)
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
-  - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era
-  - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection?
-
+  - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (here)
+  - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (here)
+  - Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (here)
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>
+  - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (here)
+  - Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (here)
+  - Attitudes towards genome aditing among university students in Costa Rica (?)
+  - Liberal arts student impressions of opportunities in gene editing (here)
 
 __Google Queries__
 
@@ -71,6 +78,17 @@ __Google Queries__
 - Public Views of Gene Editing for Babies Depend on How It Would Be Used (https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/)
   - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
   - Chapter 5: Public Views About Biomedical Issues (https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/)
+- "attitudes toward human gene-editing" (first 3 pages)
+  - U.S. attitudes on human genome editing (https://www.science.org/doi/10.1126/science.aan3708)
+- "survey on human gene-editing"
+- "human gene-editing survey"
+- "opinions on human gene-editing"
+- "human gene-editing opinions"
+- "survey on human genetic-engineering"
+- "human genetic-engineering survey"
+- "opinions on human genetic-engineering"
+- "human gene-editing opinions"
+
 
 [Back to top](#top)
 
