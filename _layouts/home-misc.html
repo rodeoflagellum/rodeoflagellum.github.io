@@ -31,9 +31,9 @@ layout: default
 
       <li>
 
-        {%- if post.image -%}
+        <!-- {%- if post.image -%}
           <img src="{{ post.image | relative_url }}" alt="" class="blog-roll-image">
-        {%- endif -%}
+        {%- endif -%} -->
 
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta"><a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
