@@ -87,6 +87,8 @@ So, some questions to address AI Safety's place within the AI/DL community might
 
 In this essay, I attempt to address the italicized questions.
 
+[Back to top](#top)
+
 ---
 
 ## [Trends in Growth](#trends)
@@ -524,6 +526,8 @@ __Preliminary, Full Term Search__ (Group 2)
 | Detecting and Managing Low Competence | 0 | 0 |
 | Norm Denial of Service | 0 | 0 |
 
+[Back to top](#top)
+
 ---
 
 ## [Forecasting](#forecasting)
@@ -546,6 +550,8 @@ $$ x(t) = x_0 \cdot \bigg(1 + \frac{r}{100}\bigg)^t$$
 and solving for $r$, I get $r = 51.44901$ for the AI results, and $r = 47.80855$ for the DL results[^15].
 
 Another interesting observation is that NLP is more abundant on ArXiV than DL is, despite NLP often being considered a component subject of DL at large. I was personally surprised that RL wasn't represented more; I thought, perhaps naively, that NLP and RL would have been much closer.
+
+[Back to top](#top)
 
 ### [AI Safety E-Prints](#safe-e-prints)
 
@@ -573,6 +579,8 @@ The community is currently forecasting the quantity of AI Safety, Interpretabili
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6586/" width="100%" height="300"></iframe>
 
+[Back to top](#top)
+
 ### [Natural Language Processing E-Prints](#nlp-e-prints)
 
 Thus far, 1 question on ArXiV NLP results has resolved (the interval [2021-01-14, 2022-01-14]).
@@ -590,6 +598,8 @@ Currently, the community forecasts a median of 110k (IQR: 85k - 142k) ArXiV e-pr
 &emsp; Should the community's predictions come to pass, Natural Language Processings's representation on ArXiV will grow around 110k/23183=4.74 (IQR: 3.67 - >6.13) times between 2020-12-31 and 2030-01-14, inclusive (23183 NLP papers were published between 2000 and 2020, inclusive).
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6299/" width="100%" height="300"></iframe>
+
+[Back to top](#top)
 
 ### [Reinforcement Learning E-Prints](#rl-e-prints)
 
@@ -617,6 +627,8 @@ On the two open ArXiV RL e-print questions, the communtity median prediction is 
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5961/" width="100%" height="300"></iframe>
 
+[Back to top](#top)
+
 ### [Few Shot Learning E-Prints](#fsl-e-prints)
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5900/" width="100%" height="300"></iframe>
@@ -638,6 +650,8 @@ Presently, the community predicts 13k (IQR: 7.6k - >20k) FEW e-prints for [2020-
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/5962/" width="100%" height="300"></iframe>
 
+[Back to top](#top)
+
 ### [Multimodal Learning E-Prints](#mmodal-e-prints)
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6185/" width="100%" height="300"></iframe>
@@ -654,6 +668,8 @@ Should the community's predictions come to pass, Multimodal Learning's represent
 
 <iframe src="//d3s0w6fek99l5b.cloudfront.net/s/1/questions/embed/6576/" width="100%" height="300"></iframe>
 
+[Back to top](#top)
+
 ---
 
 ## [Final Thoughts](#final-thoughts)
@@ -661,12 +677,16 @@ _Some notes on the big picture of what might come to pass for AI Safety and for 
 
 (coming soon)
 
+[Back to top](#top)
+
 ---
 
 ## [Issues and Questions](#issues-questions)
 _Some issues and questions concerning my work that I would like, at some point, to address, but which for the sake of time, I haven't yet addressed_
 
 (coming soon)
+
+[Back to top](#top)
 
 ---
 

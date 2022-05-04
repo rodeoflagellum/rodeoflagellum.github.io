@@ -79,6 +79,8 @@ __Overview of my research project__: My work seeks to use a technique from machi
 
 __Overview of this post__: In the remaining sections, I look at the state of my paper as of 25 March 2022. Much of the writing from this version remained unchanged since the end of the 2021 summer. After going through the paper, I comment on and analyze the content of each section in depth. I then include the version of the paper that I submitted for review. Finally, I include the accepted version of the paper, should it be accepted at some point.
 
+[Back to top](#top)
+
 ---
 
 ## [A Work in Progress](#a-work-in-progress)
@@ -92,6 +94,8 @@ _The abstract of the paper; an overview of the topic and my contribution._
 **Results:** We contribute EnsembleSplice for the problem of splice site prediction. EnsembleSplice's ensemble learning framework consists of dense and convolutional neural networks, that, when ensembled, outperform existing state-of-the-art SS detection architectures. When evaluated on genomic DNA datasets for *Homo sapiens* and *Arabidopsis thaliana*, EnsembleSplice attained average accuracies of 96.02% for donor SS and 94.59% for acceptor SS.\\
 **Availability:** Code is made available for reproducibility purposes at [GitHub repository].\\
 **Contact:** [advisor's email address]
+
+[Back to top](#top)
 
 ### [Introduction](#introduction)
 _The introduction - an overview of the biology of splice sites._
@@ -108,11 +112,15 @@ We contribute the following to research on splice site prediction:
 % , comparing model accuracies across species and examining the transfer learning capabilities between genomes.
 - We create a usage tutorial, detail all architectural design choices, and, for reproducibility, make the code available at [GitHub repository].
 
+[Back to top](#top)
+
 ### [Related Work](#related-work)
 _The related works - an overview of the history of splice site detection and classification._
 
 The earliest research on genomic DNA splice site prediction primarily leveraged methods in machine learning and probabilistic modeling. GeneSplicer first achieved record accuracies with its Markov-model-enhanced maximal dependence decomposition decision trees, and this contributed to the popularity of Markov models for splice site prediction. . Markov models were also sometimes used as a preprocessing step for other methods, such as shallow neural networks, or were hybridized to enhance performance. Also integral to early progress on the problem of splice site prediction, support vectors machines (SVMs) were lauded for their simplicity and speed. While the intricacy of these machine learning models grew, their accuracy plateaued. This was due to both compute-power and the bottleneck of having to manually select the model's features.\\
 &emsp; Deep learning (DL), along with better computing architectures, has largely solved these issues. In recent years, splice site prediction has been done using deep neural networks (NNs), including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). CNNs are the most frequently adopted architecture, and deviate widely in their depth (number of layers) and parameters across studies. SpliceRover, SpliceFinder, DeepSplicer, DeepSS, Spliceator, and iss-CNN, among others, employ CNNs. In some instances, such as that of Splice2Deep, multiple CNN models are created and the results are aggregated to produce a best final estimate. Typically, human true and false donor and acceptor sites are one-hot-encoded and batch feed into these architectures, which perform automatic feature extraction, and exceed the earlier ML techniques in terms of their classification accuracy. Other DL methods such as the long-short term memory (LSTM) neural network or recurrent neural network (RNN), which both are sequence learning networks and often employed in time series analyses, have been used on genomic DNA. A notable example is SpliceViNCI, which consists of a bidirectional LSTM augmented with integrated gradients.
+
+[Back to top](#top)
 
 
 ### [Methodology](#methodology)
@@ -130,6 +138,8 @@ _The methodology - datasets, architectures, design features, and procedures._
 
 #### [Cross Validation, Training, and Testing](#val-train-test)
 
+[Back to top](#top)
+
 ### [Experiments and Results](#experiments-results)
 _EnsembleSplice's performance relative to 3 other state-of-the-art DL methods for splice site detection._
 
@@ -137,8 +147,11 @@ _EnsembleSplice's performance relative to 3 other state-of-the-art DL methods fo
 
 #### [Performance Benchmarking](#performance-benchmarking)
 
+[Back to top](#top)
+
 ### [Conclusion](#conclusion)
 _How did EnsembleSplice do? and is it useful?_
+
 
 ### [Acknowledgements](#acknowledgments)
 _Extending my thanks to some people (note this section is different from the that of the original paper)_

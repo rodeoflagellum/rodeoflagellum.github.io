@@ -16,11 +16,21 @@ status: "Ongoing"
 * TOC
 {:toc}
 
+---
+
 Here are questions that I am accumulating in the subject[^1].
 
 ## [Nature](#nature)
 
+[Back to top](#top)
+
+---
+
 ## [Forecasts](#forecasting-gcr)
+
+[Back to top](#top)
+
+---
 
 ## [Resources](#resources)
 
@@ -57,37 +67,43 @@ Here are questions that I am accumulating in the subject[^1].
 
 - __Seth Baum__; <https://sethbaum.com/>
 
+[Back to top](#top)
 
 ### [Literature Search](#academic-litearture)
 
-|Platform|Title|Date|Author/s|Contribution|
-|:---|:---|:---|:---|:---|
-|Future of Humanity Institute|QNRs: Toward Language for Intelligent Machine|2021-08-21|K. Eric Drexler|"_Incremental development of QNR- based models can build on current methods in neural machine learning, and as systems mature, could potentially complement or replace today’s opaque, error-prone “foundation models” with systems that are more capable, interpretable, and epistemically reliable_"|
-|Global Priorities Institute|Effective altruism, risk, and human extinction|2022-01-26|Richard Pettigrew|"_Any effort to ensure a long happy future will have to strive both to ensure a long future, by reducing extinction risks, and to ensure it is a happy one, by improving the quality of life. Such an effort might succeed at the former goal without succeeding at the latter._"|
-
-<!-- ||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-|||||| -->
+[Back to top](#top)
+---
 
 ## [Open Questions](#questions)
 
+[Back to top](#top)
+
+---
+
 ## [Glossary](#glossary)
+
+[Back to top](#top)
+
+---
 
 ## [Index](#index)
 
+---
+
 ## [Notes](#notes)
 
-#### *[Cover Photo](#cover-photo)*
 
-The [cover photo](https://www.nga.gov/collection/art-object-page.50298.html). I found the photo on [National Gallery of Art](https://www.nga.gov/).
+### [Cover Image](#cover-image)
 
-<!--
-https://www.nga.gov/collection/art-object-page.66765.html -->
+This [cover image][cover_image]{:target="_blank"} is an oil on canvas artwork by Flemish artist Sir Peter Paul Rubens entitled _Daniel in the Lions' Den_, c. 1614/1616. The image can be found on the [National Gallery of Art][gallery]{:target="_blank"}'s website, and is in the public domain:
+> __Open Access Policy for Images of Works of Art Presumed in the Public Domain__
+>
+With the launch of NGA Images, the National Gallery of Art implemented an open access policy for digital images of works of art that the Gallery believes to be in the public domain. Images of these works are available free of charge for any use, commercial or non-commercial, under Creative Commons Zero (CC0). Users do not need to contact the National Gallery for authorization to use these images. They are available for download on nga.gov object pages. See Policy Details below for specific instructions and notes for users.
 
-#### *[Footnotes](#footnotes)*
+[cover_image]: https://www.nga.gov/collection/art-object-page.50298.html "https://www.nga.gov/collection/art-object-page.50298.html"
+
+[gallery]: https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable "https://www.nga.gov/collection-search-result.html?sortOrder=DEFAULT&artobj_downloadable=Image_download_available&pageNumber=1&lastFacet=artobj_downloadable"
+
+### [Footnotes](#footnotes)
 
 [^1]: What is a global catastrophic risk?; Which situations in humanity

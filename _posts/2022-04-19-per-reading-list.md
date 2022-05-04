@@ -36,6 +36,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - 5?/5: Amazing. Will reread.
 - 5/5: Have reread and expect to do so indefinitely. A companion.
 
+[Back to top](#top)
+
 ---
 
 ## [Read Entities](#read-entities)
@@ -49,11 +51,15 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Reasoning Transparency <https://www.openphilanthropy.org/reasoning-transparency#Example_of_GiveWell_charity_reviews>
 - Evidence on good forecasting practices from the Good Judgment Project <https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/#:~:text=should%20be%20overridden.-,1.7.%20Recipe%20for%20Making%20Predictions,an%20aggregation%20of%20various%20models%2C%20reference%20classes%2C%20other%20experts%2C%20etc.,-1.8.%20Bayesian%20reasoning>
 
+[Back to top](#top)
+
 ### [Books/Chapters](#read-books)
 
 - Metamorphosis of Prime Intellect
 - Map and Territory
 - How to Actually Change Your Mind
+
+[Back to top](#top)
 
 ---
 
@@ -104,6 +110,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Eliciting latent knowledge: How to tell if your eyes deceive you
 - Progress, Stagnation, & Collapse
 
+[Back to top](#top)
+
 ### [Books/Chapters](#unread-books)
 
 - Global Catastrophic Risks
@@ -118,6 +126,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - All of Statistics
 - Algorithms for Decision Making
 - Probabilistic Machine Learning
+
+[Back to top](#top)
 
 ### [Wikipedia](#unread-wikis)
 
@@ -267,6 +277,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Bayesian epistemology: <https://en.wikipedia.org/wiki/Bayesian_epistemology>
 - Punctuated equilibrium: <https://en.wikipedia.org/wiki/Punctuated_equilibrium>
 - Timeline of natural history: <https://en.wikipedia.org/wiki/Timeline_of_natural_history>
+
+[Back to top](#top)
 
 ---
 
