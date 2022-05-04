@@ -111,6 +111,7 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - Progress, Stagnation, & Collapse
 - We need a Butlerian Jihad against AI
 - How to prevent the coming inhuman future
+- A longtermist critique of “The expected value of extinction risk reduction is positive”
 
 [Back to top](#top)
 

@@ -125,6 +125,8 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 
 ### [Word Count](#word-count)
 
+
+
 ### [Views](#views)
 
 ### [Inadequacies](#inadequacies)
@@ -190,7 +192,7 @@ Robin Hanson broke down contributions into 3 levels
 
 ### [Disclaimer](#disclaimer)
 
-General transparency on how what I've written is inadequate. 
+General transparency on how what I've written is inadequate.
 
 >
 - Has the author presented a fair or biased presentation of evidence and arguments on this topic?
