@@ -19,7 +19,7 @@ image: /assets/2022/archive/urja-bhatt-TuvollqROb8-unsplash.jpg
 <ul>
   {% for post in month.items %}
     <li>
-      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br> <em>{{ post.desc }}</em><br>
+      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br> <em>{{ post.description }}</em><br>
     </li>
   {% endfor %}
 </ul>

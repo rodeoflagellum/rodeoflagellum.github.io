@@ -31,12 +31,9 @@ Also, pretend:
 | TRUE | 10 | 30 |
 | Total | 25 | 135 |
 
-If we want to
-
 > __Probability vs likelihood__
 >
-When B
-is known, the conditional probability function P(⋅|B) allows us to compare the probabilities of an unknown event, A or Ac, occurring with B
+When B is known, the conditional probability function $P(\cdot \|B)$ allows us to compare the probabilities of an unknown event, $A$ or $A^c$, occurring with $B$: \\[P(A\|B) \text{ vs } P(A^c \| B)\\]
 
 :
 
