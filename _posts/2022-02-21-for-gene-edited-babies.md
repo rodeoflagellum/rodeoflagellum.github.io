@@ -2,7 +2,7 @@
 layout: post
 title:  "Forecasting Designer Babies"
 date:  2022-02-21 21:40:00 -0400
-last_edit: 2022-03-11 16:50:00 -0400
+modified: 2022-03-11 16:50:00 -0400
 permalink: "/for_gene_edit_babies/"
 status: "Working Draft"
 certainty: "Somewhat Likely"

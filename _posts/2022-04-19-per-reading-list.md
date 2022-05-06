@@ -11,7 +11,6 @@ type: "List"
 status: "Ongoing"
 ---
 
-__Disclaimer__: I am still figuring out how to structure this page and what to put on it.
 
 ---
 
@@ -23,9 +22,9 @@ __Disclaimer__: I am still figuring out how to structure this page and what to p
 ---
 
 ## [Ratings](#rating)
-_This section exists as a place to accumulate and refine scoring metrics for content that I have read_
+_This section exists as a place to accumulate and refine scoring metrics for content that I have read or want to read_
 
-I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend it to all written work I read.
+I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend it to all written work I read. This scale measures how much I value different written works.
 
 >  I approximate a book's value by guessing how often I'll reread it. This rewards dense books, sure, but also ones with broad and complex messages, durability, appeal to people of different ages, and also just the pleasure and beauty of them. I think most books are not worth the time and a small number (< 8% in a highly selected sample) are worth more than one reading.
 - 1/5: Not worth one reading.
@@ -36,6 +35,8 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 - 5?/5: Amazing. Will reread.
 - 5/5: Have reread and expect to do so indefinitely. A companion.
 
+Additionally, I rank each unread entity with 1 to 5 stars, depending on how interested I am in reading it.
+
 [Back to top](#top)
 
 ---
@@ -44,12 +45,17 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 
 ### [Articles](#read-articles)
 
-- Are we living at the 'hinge of history'? <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>
-- Are we living at the most influential time in history? <https://forum.effectivealtruism.org/posts/XXLf6FmWujkxna3E6/are-we-living-at-the-most-influential-time-in-history-1>
-- The Big Here and Long Now <https://longnow.org/essays/big-here-long-now/>
-- Report likelihood ratios <https://www.lesswrong.com/posts/yWCszqSCzoWTZCacN/report-likelihood-ratios>
-- Reasoning Transparency <https://www.openphilanthropy.org/reasoning-transparency#Example_of_GiveWell_charity_reviews>
-- Evidence on good forecasting practices from the Good Judgment Project <https://aiimpacts.org/evidence-on-good-forecasting-practices-from-the-good-judgment-project/#:~:text=should%20be%20overridden.-,1.7.%20Recipe%20for%20Making%20Predictions,an%20aggregation%20of%20various%20models%2C%20reference%20classes%2C%20other%20experts%2C%20etc.,-1.8.%20Bayesian%20reasoning>
+- Are we living at the 'hinge of history'?
+  - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
+  - My notes on this
+- Are we living at the most influential time in history?
+  - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
+- The Big Here and Long Now
+  - <https://longnow.org/essays/big-here-long-now/>{:target="_blank"}
+- Report likelihood ratios
+  - <https://www.lesswrong.com/posts/yWCszqSCzoWTZCacN/report-likelihood-ratios>{:target="_blank"}
+- Reasoning Transparency
+  - <https://www.openphilanthropy.org/reasoning-transparency?>
 
 [Back to top](#top)
 
@@ -134,152 +140,310 @@ I make use of Leech's informal _[Book Durability][book_durc]_ scale, but extend 
 
 ### [Wikipedia](#unread-wikis)
 
-- Tragedy of the anticommons: <https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons>
-- List of emerging technologies: <https://en.wikipedia.org/wiki/List_of_emerging_technologies>
-- Signalling %28economics%29: <https://en.wikipedia.org/wiki/Signalling_%28economics%29>
-- Raven's Progressive Matrices: <https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices>
-- Revised NEO Personality Inventory: <https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory>
-- Big Five personality traits: <https://en.wikipedia.org/wiki/Big_Five_personality_traits>
-- Schizoid personality disorder: <https://en.wikipedia.org/wiki/Schizoid_personality_disorder>
-- Surprisingly populars: <https://en.wikipedia.org/wiki/Surprisingly_populars>
-- Multi-armed bandit: <https://en.wikipedia.org/wiki/Multi-armed_bandit>
-- Bayesian network: <https://en.wikipedia.org/wiki/Bayesian_network>
-- Thurstonian model: <https://en.wikipedia.org/wiki/Thurstonian_model>
-- Decision-making: <https://en.wikipedia.org/wiki/Decision-making>
-- Delphi method: <https://en.wikipedia.org/wiki/Delphi_method>
-- Wisdom of the crowd: <https://en.wikipedia.org/wiki/Wisdom_of_the_crowd>
-- Condorcet's jury theorem: <https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem>
-- Epistemology: <https://en.wikipedia.org/wiki/Epistemology>
-- Minsk agreements: <https://en.wikipedia.org/wiki/Minsk_agreements>
-- Madman theory: <https://en.wikipedia.org/wiki/Madman_theory>
-- Devil's advocate: <https://en.wikipedia.org/wiki/Devil%27s_advocate>
-- Straw man#Steelmanning: <https://en.wikipedia.org/wiki/Straw_man#Steelmanning>
-- Procatalepsis: <https://en.wikipedia.org/wiki/Procatalepsis>
-- Cataphora: <https://en.wikipedia.org/wiki/Cataphora>
-- Dialectic: <https://en.wikipedia.org/wiki/Dialectic>
-- Deterrence theory: <https://en.wikipedia.org/wiki/Deterrence_theory>
-- Brinkmanship: <https://en.wikipedia.org/wiki/Brinkmanship>
-- Russo-Ukrainian War: <https://en.wikipedia.org/wiki/Russo-Ukrainian_War>
-- Statistics: <https://en.wikipedia.org/wiki/Statistics>
-- Survival analysis: <https://en.wikipedia.org/wiki/Survival_analysis>
-- Artificial intelligence: <https://en.wikipedia.org/wiki/Artificial_intelligence>
-- Cognitive bias: <https://en.wikipedia.org/wiki/Cognitive_bias>
-- Cherry picking: <https://en.wikipedia.org/wiki/Cherry_picking>
-- Quasi-experiment: <https://en.wikipedia.org/wiki/Quasi-experiment>
-- Ad hominem: <https://en.wikipedia.org/wiki/Ad_hominem>
-- List of fallacies: <https://en.wikipedia.org/wiki/List_of_fallacies>
-- Trivial objections: <https://en.wikipedia.org/wiki/Trivial_objections>
-- Red herring: <https://en.wikipedia.org/wiki/Red_herring>
-- Pooh-pooh: <https://en.wikipedia.org/wiki/Pooh-pooh>
-- Quoting out of context: <https://en.wikipedia.org/wiki/Quoting_out_of_context>
-- Hawthorne effect: <https://en.wikipedia.org/wiki/Hawthorne_effect>
-- Othello error: <https://en.wikipedia.org/wiki/Othello_error>
-- Ad hoc: <https://en.wikipedia.org/wiki/Ad_hoc>
-- Survivorship bias: <https://en.wikipedia.org/wiki/Survivorship_bias>
-- Meta-analysis: <https://en.wikipedia.org/wiki/Meta-analysis>
-- Multiple comparisons problem: <https://en.wikipedia.org/wiki/Multiple_comparisons_problem>
-- Texas sharpshooter fallacy: <https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy>
-- Lindy effect: <https://en.wikipedia.org/wiki/Lindy_effect>
-- Malmquist bias: <https://en.wikipedia.org/wiki/Malmquist_bias>
-- Anthropic principle: <https://en.wikipedia.org/wiki/Anthropic_principle>
-- Simpson's paradox: <https://en.wikipedia.org/wiki/Simpson%27s_paradox>
-- Ecological fallacy: <https://en.wikipedia.org/wiki/Ecological_fallacy>
-- Correlation does not imply causation: <https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation>
-- Modifiable areal unit problem: <https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem>
-- Aliasing: <https://en.wikipedia.org/wiki/Aliasing>
-- Prosecutor's fallacy: <https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy>
-- Berkson's paradox: <https://en.wikipedia.org/wiki/Berkson%27s_paradox>
-- Bounded rationality: <https://en.wikipedia.org/wiki/Bounded_rationality>
-- Priority heuristic: <https://en.wikipedia.org/wiki/Priority_heuristic>
-- Expected utility hypothesis: <https://en.wikipedia.org/wiki/Expected_utility_hypothesis>
-- Lottery (probability): <https://en.wikipedia.org/wiki/Lottery_(probability)>
-- Willingness to accept: <https://en.wikipedia.org/wiki/Willingness_to_accept>
-- Cost%E2%80%93benefit analysis: <https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis>
-- Cost-effectiveness analysis: <https://en.wikipedia.org/wiki/Cost-effectiveness_analysis>
-- Risk-neutral measure: <https://en.wikipedia.org/wiki/Risk-neutral_measure>
-- Mathematical finance: <https://en.wikipedia.org/wiki/Mathematical_finance>
-- Student's t-distribution: <https://en.wikipedia.org/wiki/Student%27s_t-distribution>
-- Statistical significance: <https://en.wikipedia.org/wiki/Statistical_significance>
-- Confidence interval: <https://en.wikipedia.org/wiki/Confidence_interval>
-- Sample (statistics): <https://en.wikipedia.org/wiki/Sample_(statistics)>
-- Probability distribution: <https://en.wikipedia.org/wiki/Probability_distribution>
-- Survey response effects: <https://en.wikipedia.org/wiki/Survey_response_effects>
-- Survey methodology: <https://en.wikipedia.org/wiki/Survey_methodology>
-- Demography: <https://en.wikipedia.org/wiki/Demography>
-- Eugenics: <https://en.wikipedia.org/wiki/Eugenics>
-- Appeal to ridicule: <https://en.wikipedia.org/wiki/Appeal_to_ridicule>
-- Optimism bias: <https://en.wikipedia.org/wiki/Optimism_bias>
-- NATO: <https://en.wikipedia.org/wiki/NATO>
-- Cliodynamics: <https://en.wikipedia.org/wiki/Cliodynamics>
-- Ceteris paribus: <https://en.wikipedia.org/wiki/Ceteris_paribus>
-- Winner: <https://en.wikipedia.org/wiki/Winner>
-- Regression toward the mean: <https://en.wikipedia.org/wiki/Regression_toward_the_mean>
-- Global catastrophic risk: <https://en.wikipedia.org/wiki/Global_catastrophic_risk>
-- Flesch%E2%80%93Kincaid readability tests: <https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests>
-- Common knowledge: <https://en.wikipedia.org/wiki/Common_knowledge>
-- Common sense: <https://en.wikipedia.org/wiki/Common_sense>
-- General knowledge: <https://en.wikipedia.org/wiki/General_knowledge>
-- Cyc: <https://en.wikipedia.org/wiki/Cyc>
-- Consensus reality: <https://en.wikipedia.org/wiki/Consensus_reality>
-- Conventional wisdom: <https://en.wikipedia.org/wiki/Conventional_wisdom>
-- Social constructionism: <https://en.wikipedia.org/wiki/Social_constructionism>
-- Common knowledge (logic): <https://en.wikipedia.org/wiki/Common_knowledge_(logic)>
-- Rule of thumb: <https://en.wikipedia.org/wiki/Rule_of_thumb>
-- List of common misconceptions: <https://en.wikipedia.org/wiki/List_of_common_misconceptions>
-- Factoid: <https://en.wikipedia.org/wiki/Factoid>
-- Obliteration by incorporation: <https://en.wikipedia.org/wiki/Obliteration_by_incorporation>
-- Obliteration by incorporation: <https://en.wikipedia.org/wiki/Obliteration_by_incorporation>
-- Scientific evidence: <https://en.wikipedia.org/wiki/Scientific_evidence>
-- Anecdotal evidence: <https://en.wikipedia.org/wiki/Anecdotal_evidence>
-- Ring %28mathematics%29s: <https://en.wikipedia.org/wiki/Ring_%28mathematics%29s>
-- Power law: <https://en.wikipedia.org/wiki/Power_law>
-- Coilgun: <https://en.wikipedia.org/wiki/Coilgun>
-- Replication crisis: <https://en.wikipedia.org/wiki/Replication_crisis>
-- Falsifiability: <https://en.wikipedia.org/wiki/Falsifiability>
-- Myers%E2%80%93Briggs Type Indicator: <https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator>
-- Internal Family Systems Model: <https://en.wikipedia.org/wiki/Internal_Family_Systems_Model>
-- Odds: <https://en.wikipedia.org/wiki/Odds>
-- Existential risk from artificial general intelligence: <https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence>
-- Human extinction: <https://en.wikipedia.org/wiki/Human_extinction>
-- Category:Existential risk: <https://en.wikipedia.org/wiki/Category:Existential_risk>
-- Ecocide: <https://en.wikipedia.org/wiki/Ecocide>
-- David Spiegelhalter: <https://en.wikipedia.org/wiki/David_Spiegelhalter>
-- Expected value: <https://en.wikipedia.org/wiki/Expected_value>
-- Category:Technology by type: <https://en.wikipedia.org/wiki/Category:Technology_by_type>
-- Brier score: <https://en.wikipedia.org/wiki/Brier_score>
-- List of global issues: <https://en.wikipedia.org/wiki/List_of_global_issues>
-- Pepe the Frog: <https://en.wikipedia.org/wiki/Pepe_the_Frog>
-- Internet meme: <https://en.wikipedia.org/wiki/Internet_meme>
-- Wojak: <https://en.wikipedia.org/wiki/Wojak>
-- Opte Project: <https://en.wikipedia.org/wiki/Opte_Project>
-- NPC (meme): <https://en.wikipedia.org/wiki/NPC_(meme)>
-- Probability axioms: <https://en.wikipedia.org/wiki/Probability_axioms>
-- Martingale (probability theory): <https://en.wikipedia.org/wiki/Martingale_(probability_theory)>
-- Postdiction: <https://en.wikipedia.org/wiki/Postdiction>
-- Scoring rule#Logarithmic scoring rule: <https://en.wikipedia.org/wiki/Scoring_rule#Logarithmic_scoring_rule>
-- Goodhart's law: <https://en.wikipedia.org/wiki/Goodhart%27s_law>
-- Correlated equilibrium: <https://en.wikipedia.org/wiki/Correlated_equilibrium>
-- Nash equilibrium: <https://en.wikipedia.org/wiki/Nash_equilibrium>
-- Hotelling's law: <https://en.wikipedia.org/wiki/Hotelling%27s_law>
-- Tree (graph theory): <https://en.wikipedia.org/wiki/Tree_(graph_theory)>
-- The Limits to Growth: <https://en.wikipedia.org/wiki/The_Limits_to_Growth>
-- List of artificial intelligence projects: <https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects>
-- Epistemology: <https://en.wikipedia.org/wiki/Epistemology>
-- Disclaimer: <https://en.wikipedia.org/wiki/Disclaimer>
-- Question: <https://en.wikipedia.org/wiki/Question>
-- Truth: <https://en.wikipedia.org/wiki/Truth>
-- Knowledge: <https://en.wikipedia.org/wiki/Knowledge>
-- Criteria of truth: <https://en.wikipedia.org/wiki/Criteria_of_truth>
-- Judgement: <https://en.wikipedia.org/wiki/Judgement>
-- Utterance: <https://en.wikipedia.org/wiki/Utterance>
-- Thought: <https://en.wikipedia.org/wiki/Thought>
-- Sentence (mathematical logic): <https://en.wikipedia.org/wiki/Sentence_(mathematical_logic)>
-- Proposition: <https://en.wikipedia.org/wiki/Proposition>
-- Truth-bearer: <https://en.wikipedia.org/wiki/Truth-bearer>
-- Logic: <https://en.wikipedia.org/wiki/Logic>
-- Bayesian epistemology: <https://en.wikipedia.org/wiki/Bayesian_epistemology>
-- Punctuated equilibrium: <https://en.wikipedia.org/wiki/Punctuated_equilibrium>
-- Timeline of natural history: <https://en.wikipedia.org/wiki/Timeline_of_natural_history>
+- Tragedy of the anticommons
+  - <https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons>{:target="_blank"}
+- List of emerging technologies
+  - <https://en.wikipedia.org/wiki/List_of_emerging_technologies>{:target="_blank"}
+- Signalling %28economics%29
+  - <https://en.wikipedia.org/wiki/Signalling_%28economics%29>{:target="_blank"}
+- Raven's Progressive Matrices
+  - <https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices>{:target="_blank"}
+- Revised NEO Personality Inventory
+  - <https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory>{:target="_blank"}
+- Big Five personality traits
+  - <https://en.wikipedia.org/wiki/Big_Five_personality_traits>{:target="_blank"}
+- Schizoid personality disorder
+  - <https://en.wikipedia.org/wiki/Schizoid_personality_disorder>{:target="_blank"}
+- Surprisingly populars
+  - <https://en.wikipedia.org/wiki/Surprisingly_populars>{:target="_blank"}
+- Multi-armed bandit
+  - <https://en.wikipedia.org/wiki/Multi-armed_bandit>{:target="_blank"}
+- Bayesian network
+  - <https://en.wikipedia.org/wiki/Bayesian_network>{:target="_blank"}
+- Thurstonian model
+  - <https://en.wikipedia.org/wiki/Thurstonian_model>{:target="_blank"}
+- Decision-making
+  - <https://en.wikipedia.org/wiki/Decision-making>{:target="_blank"}
+- Delphi method
+  - <https://en.wikipedia.org/wiki/Delphi_method>{:target="_blank"}
+- Wisdom of the crowd
+  - <https://en.wikipedia.org/wiki/Wisdom_of_the_crowd>{:target="_blank"}
+- Condorcet's jury theorem
+  - <https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem>{:target="_blank"}
+- Epistemology
+  - <https://en.wikipedia.org/wiki/Epistemology>{:target="_blank"}
+- Minsk agreements
+  - <https://en.wikipedia.org/wiki/Minsk_agreements>{:target="_blank"}
+- Madman theory
+  - <https://en.wikipedia.org/wiki/Madman_theory>{:target="_blank"}
+- Devil's advocate
+  - <https://en.wikipedia.org/wiki/Devil%27s_advocate>{:target="_blank"}
+- Straw man#Steelmanning
+  - <https://en.wikipedia.org/wiki/Straw_man#Steelmanning>{:target="_blank"}
+- Procatalepsis
+  - <https://en.wikipedia.org/wiki/Procatalepsis>{:target="_blank"}
+- Cataphora
+  - <https://en.wikipedia.org/wiki/Cataphora>{:target="_blank"}
+- Dialectic
+  - <https://en.wikipedia.org/wiki/Dialectic>{:target="_blank"}
+- Deterrence theory
+  - <https://en.wikipedia.org/wiki/Deterrence_theory>{:target="_blank"}
+- Brinkmanship
+  - <https://en.wikipedia.org/wiki/Brinkmanship>{:target="_blank"}
+- Russo-Ukrainian War
+  - <https://en.wikipedia.org/wiki/Russo-Ukrainian_War>{:target="_blank"}
+- Statistics
+  - <https://en.wikipedia.org/wiki/Statistics>{:target="_blank"}
+- Survival analysis
+  - <https://en.wikipedia.org/wiki/Survival_analysis>{:target="_blank"}
+- Artificial intelligence
+  - <https://en.wikipedia.org/wiki/Artificial_intelligence>{:target="_blank"}
+- Cognitive bias
+  - <https://en.wikipedia.org/wiki/Cognitive_bias>{:target="_blank"}
+- Cherry picking
+  - <https://en.wikipedia.org/wiki/Cherry_picking>{:target="_blank"}
+- Quasi-experiment
+  - <https://en.wikipedia.org/wiki/Quasi-experiment>{:target="_blank"}
+- Ad hominem
+  - <https://en.wikipedia.org/wiki/Ad_hominem>{:target="_blank"}
+- List of fallacies
+  - <https://en.wikipedia.org/wiki/List_of_fallacies>{:target="_blank"}
+- Trivial objections
+  - <https://en.wikipedia.org/wiki/Trivial_objections>{:target="_blank"}
+- Red herring
+  - <https://en.wikipedia.org/wiki/Red_herring>{:target="_blank"}
+- Pooh-pooh
+  - <https://en.wikipedia.org/wiki/Pooh-pooh>{:target="_blank"}
+- Quoting out of context
+  - <https://en.wikipedia.org/wiki/Quoting_out_of_context>{:target="_blank"}
+- Hawthorne effect
+  - <https://en.wikipedia.org/wiki/Hawthorne_effect>{:target="_blank"}
+- Othello error
+  - <https://en.wikipedia.org/wiki/Othello_error>{:target="_blank"}
+- Ad hoc
+  - <https://en.wikipedia.org/wiki/Ad_hoc>{:target="_blank"}
+- Survivorship bias
+  - <https://en.wikipedia.org/wiki/Survivorship_bias>{:target="_blank"}
+- Meta-analysis
+  - <https://en.wikipedia.org/wiki/Meta-analysis>{:target="_blank"}
+- Multiple comparisons problem
+  - <https://en.wikipedia.org/wiki/Multiple_comparisons_problem>{:target="_blank"}
+- Texas sharpshooter fallacy
+  - <https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy>{:target="_blank"}
+- Lindy effect
+  - <https://en.wikipedia.org/wiki/Lindy_effect>{:target="_blank"}
+- Malmquist bias
+  - <https://en.wikipedia.org/wiki/Malmquist_bias>{:target="_blank"}
+- Anthropic principle
+  - <https://en.wikipedia.org/wiki/Anthropic_principle>{:target="_blank"}
+- Simpson's paradox
+  - <https://en.wikipedia.org/wiki/Simpson%27s_paradox>{:target="_blank"}
+- Ecological fallacy
+  - <https://en.wikipedia.org/wiki/Ecological_fallacy>{:target="_blank"}
+- Correlation does not imply causation
+  - <https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation>{:target="_blank"}
+- Modifiable areal unit problem
+  - <https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem>{:target="_blank"}
+- Aliasing
+  - <https://en.wikipedia.org/wiki/Aliasing>{:target="_blank"}
+- Prosecutor's fallacy
+  - <https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy>{:target="_blank"}
+- Berkson's paradox
+  - <https://en.wikipedia.org/wiki/Berkson%27s_paradox>{:target="_blank"}
+- Bounded rationality
+  - <https://en.wikipedia.org/wiki/Bounded_rationality>{:target="_blank"}
+- Priority heuristic
+  - <https://en.wikipedia.org/wiki/Priority_heuristic>{:target="_blank"}
+- Expected utility hypothesis
+  - <https://en.wikipedia.org/wiki/Expected_utility_hypothesis>{:target="_blank"}
+- Lottery (probability)
+  - <https://en.wikipedia.org/wiki/Lottery_(probability)>{:target="_blank"}
+- Willingness to accept
+  - <https://en.wikipedia.org/wiki/Willingness_to_accept>{:target="_blank"}
+- Cost%E2%80%93benefit analysis
+  - <https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis>{:target="_blank"}
+- Cost-effectiveness analysis
+  - <https://en.wikipedia.org/wiki/Cost-effectiveness_analysis>{:target="_blank"}
+- Risk-neutral measure
+  - <https://en.wikipedia.org/wiki/Risk-neutral_measure>{:target="_blank"}
+- Mathematical finance
+  - <https://en.wikipedia.org/wiki/Mathematical_finance>{:target="_blank"}
+- Student's t-distribution
+  - <https://en.wikipedia.org/wiki/Student%27s_t-distribution>{:target="_blank"}
+- Statistical significance
+  - <https://en.wikipedia.org/wiki/Statistical_significance>{:target="_blank"}
+- Confidence interval
+  - <https://en.wikipedia.org/wiki/Confidence_interval>{:target="_blank"}
+- Sample (statistics)
+  - <https://en.wikipedia.org/wiki/Sample_(statistics)>{:target="_blank"}
+- Probability distribution
+  - <https://en.wikipedia.org/wiki/Probability_distribution>{:target="_blank"}
+- Survey response effects
+  - <https://en.wikipedia.org/wiki/Survey_response_effects>{:target="_blank"}
+- Survey methodology
+  - <https://en.wikipedia.org/wiki/Survey_methodology>{:target="_blank"}
+- Demography
+  - <https://en.wikipedia.org/wiki/Demography>{:target="_blank"}
+- Eugenics
+  - <https://en.wikipedia.org/wiki/Eugenics>{:target="_blank"}
+- Appeal to ridicule
+  - <https://en.wikipedia.org/wiki/Appeal_to_ridicule>{:target="_blank"}
+- Optimism bias
+  - <https://en.wikipedia.org/wiki/Optimism_bias>{:target="_blank"}
+- NATO
+  - <https://en.wikipedia.org/wiki/NATO>{:target="_blank"}
+- Cliodynamics
+  - <https://en.wikipedia.org/wiki/Cliodynamics>{:target="_blank"}
+- Ceteris paribus
+  - <https://en.wikipedia.org/wiki/Ceteris_paribus>{:target="_blank"}
+- Winner
+  - <https://en.wikipedia.org/wiki/Winner>{:target="_blank"}
+- Regression toward the mean
+  - <https://en.wikipedia.org/wiki/Regression_toward_the_mean>{:target="_blank"}
+- Global catastrophic risk
+  - <https://en.wikipedia.org/wiki/Global_catastrophic_risk>{:target="_blank"}
+- Flesch%E2%80%93Kincaid readability tests
+  - <https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests>{:target="_blank"}
+- Common knowledge
+  - <https://en.wikipedia.org/wiki/Common_knowledge>{:target="_blank"}
+- Common sense
+  - <https://en.wikipedia.org/wiki/Common_sense>{:target="_blank"}
+- General knowledge
+  - <https://en.wikipedia.org/wiki/General_knowledge>{:target="_blank"}
+- Cyc
+  - <https://en.wikipedia.org/wiki/Cyc>{:target="_blank"}
+- Consensus reality
+  - <https://en.wikipedia.org/wiki/Consensus_reality>{:target="_blank"}
+- Conventional wisdom
+  - <https://en.wikipedia.org/wiki/Conventional_wisdom>{:target="_blank"}
+- Social constructionism
+  - <https://en.wikipedia.org/wiki/Social_constructionism>{:target="_blank"}
+- Common knowledge (logic)
+  - <https://en.wikipedia.org/wiki/Common_knowledge_(logic)>{:target="_blank"}
+- Rule of thumb
+  - <https://en.wikipedia.org/wiki/Rule_of_thumb>{:target="_blank"}
+- List of common misconceptions
+  - <https://en.wikipedia.org/wiki/List_of_common_misconceptions>{:target="_blank"}
+- Factoid
+  - <https://en.wikipedia.org/wiki/Factoid>{:target="_blank"}
+- Obliteration by incorporation
+  - <https://en.wikipedia.org/wiki/Obliteration_by_incorporation>{:target="_blank"}
+- Obliteration by incorporation
+  - <https://en.wikipedia.org/wiki/Obliteration_by_incorporation>{:target="_blank"}
+- Scientific evidence
+  - <https://en.wikipedia.org/wiki/Scientific_evidence>{:target="_blank"}
+- Anecdotal evidence
+  - <https://en.wikipedia.org/wiki/Anecdotal_evidence>{:target="_blank"}
+- Ring %28mathematics%29s
+  - <https://en.wikipedia.org/wiki/Ring_%28mathematics%29s>{:target="_blank"}
+- Power law
+  - <https://en.wikipedia.org/wiki/Power_law>{:target="_blank"}
+- Coilgun
+  - <https://en.wikipedia.org/wiki/Coilgun>{:target="_blank"}
+- Replication crisis
+  - <https://en.wikipedia.org/wiki/Replication_crisis>{:target="_blank"}
+- Falsifiability
+  - <https://en.wikipedia.org/wiki/Falsifiability>{:target="_blank"}
+- Myers%E2%80%93Briggs Type Indicator
+  - <https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator>{:target="_blank"}
+- Internal Family Systems Model
+  - <https://en.wikipedia.org/wiki/Internal_Family_Systems_Model>{:target="_blank"}
+- Odds
+  - <https://en.wikipedia.org/wiki/Odds>{:target="_blank"}
+- Existential risk from artificial general intelligence
+  - <https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence>{:target="_blank"}
+- Human extinction
+  - <https://en.wikipedia.org/wiki/Human_extinction>{:target="_blank"}
+- Category:Existential risk
+  - <https://en.wikipedia.org/wiki/Category:Existential_risk>{:target="_blank"}
+- Ecocide
+  - <https://en.wikipedia.org/wiki/Ecocide>{:target="_blank"}
+- David Spiegelhalter
+  - <https://en.wikipedia.org/wiki/David_Spiegelhalter>{:target="_blank"}
+- Expected value
+  - <https://en.wikipedia.org/wiki/Expected_value>{:target="_blank"}
+- Category:Technology by type
+  - <https://en.wikipedia.org/wiki/Category:Technology_by_type>{:target="_blank"}
+- Brier score
+  - <https://en.wikipedia.org/wiki/Brier_score>{:target="_blank"}
+- List of global issues
+  - <https://en.wikipedia.org/wiki/List_of_global_issues>{:target="_blank"}
+- Pepe the Frog
+  - <https://en.wikipedia.org/wiki/Pepe_the_Frog>{:target="_blank"}
+- Internet meme
+  - <https://en.wikipedia.org/wiki/Internet_meme>{:target="_blank"}
+- Wojak
+  - <https://en.wikipedia.org/wiki/Wojak>{:target="_blank"}
+- Opte Project
+  - <https://en.wikipedia.org/wiki/Opte_Project>{:target="_blank"}
+- NPC (meme)
+  - <https://en.wikipedia.org/wiki/NPC_(meme)>{:target="_blank"}
+- Probability axioms
+  - <https://en.wikipedia.org/wiki/Probability_axioms>{:target="_blank"}
+- Martingale (probability theory)
+  - <https://en.wikipedia.org/wiki/Martingale_(probability_theory)>{:target="_blank"}
+- Postdiction
+  - <https://en.wikipedia.org/wiki/Postdiction>{:target="_blank"}
+- Scoring rule#Logarithmic scoring rule
+  - <https://en.wikipedia.org/wiki/Scoring_rule#Logarithmic_scoring_rule>{:target="_blank"}
+- Goodhart's law
+  - <https://en.wikipedia.org/wiki/Goodhart%27s_law>{:target="_blank"}
+- Correlated equilibrium
+  - <https://en.wikipedia.org/wiki/Correlated_equilibrium>{:target="_blank"}
+- Nash equilibrium
+  - <https://en.wikipedia.org/wiki/Nash_equilibrium>{:target="_blank"}
+- Hotelling's law
+  - <https://en.wikipedia.org/wiki/Hotelling%27s_law>{:target="_blank"}
+- Tree (graph theory)
+  - <https://en.wikipedia.org/wiki/Tree_(graph_theory)>{:target="_blank"}
+- The Limits to Growth
+  - <https://en.wikipedia.org/wiki/The_Limits_to_Growth>{:target="_blank"}
+- List of artificial intelligence projects
+  - <https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects>{:target="_blank"}
+- Epistemology
+  - <https://en.wikipedia.org/wiki/Epistemology>{:target="_blank"}
+- Disclaimer
+  - <https://en.wikipedia.org/wiki/Disclaimer>{:target="_blank"}
+- Question
+  - <https://en.wikipedia.org/wiki/Question>{:target="_blank"}
+- Truth
+  - <https://en.wikipedia.org/wiki/Truth>{:target="_blank"}
+- Knowledge
+  - <https://en.wikipedia.org/wiki/Knowledge>{:target="_blank"}
+- Criteria of truth
+  - <https://en.wikipedia.org/wiki/Criteria_of_truth>{:target="_blank"}
+- Judgement
+  - <https://en.wikipedia.org/wiki/Judgement>{:target="_blank"}
+- Utterance
+  - <https://en.wikipedia.org/wiki/Utterance>{:target="_blank"}
+- Thought
+  - <https://en.wikipedia.org/wiki/Thought>{:target="_blank"}
+- Sentence (mathematical logic)
+  - <https://en.wikipedia.org/wiki/Sentence_(mathematical_logic)>{:target="_blank"}
+- Proposition
+  - <https://en.wikipedia.org/wiki/Proposition>{:target="_blank"}
+- Truth-bearer
+  - <https://en.wikipedia.org/wiki/Truth-bearer>{:target="_blank"}
+- Logic
+  - <https://en.wikipedia.org/wiki/Logic>{:target="_blank"}
+- Bayesian epistemology
+  - <https://en.wikipedia.org/wiki/Bayesian_epistemology>{:target="_blank"}
+- Punctuated equilibrium
+  - <https://en.wikipedia.org/wiki/Punctuated_equilibrium>{:target="_blank"}
+- Timeline of natural history
+  - <https://en.wikipedia.org/wiki/Timeline_of_natural_history>{:target="_blank"}
+- Ship of Theseus
+  - <https://en.wikipedia.org/wiki/Ship_of_Theseus>{:target="_blank"}
+- Human extinction
+  - <https://en.wikipedia.org/wiki/Human_extinction>{:target="_blank"}
+- Survival function
+  - <https://en.wikipedia.org/wiki/Survival_function>{:target="_blank"}
+- Beta-binomial distribution
+  - <https://en.wikipedia.org/wiki/Beta-binomial_distribution>{:target="_blank"}
+- Value of life
+  - <https://en.wikipedia.org/wiki/Value_of_life>{:target="_blank"}
+- %C3%9Cbermensch
+  - <https://en.wikipedia.org/wiki/%C3%9Cbermensch>{:target="_blank"}
 
 [Back to top](#top)
 

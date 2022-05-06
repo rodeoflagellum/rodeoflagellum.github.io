@@ -1,10 +1,10 @@
 ---
 layout: post
 category: misc
-title:  "Preliminary X-Risk Estimates"
-date:  2022-04-28 23:00:00 -0400
-modified: 2022-04-28 23:15:00 -0400
-permalink: "/preliminary_x_risk_estimates/"
-description: ""
-tags: [prediction, x-risk, gcr]
+title:  "Butlerian Jihad on AI"
+date:  2022-05-05 18:01:00 -0400
+modified: 2022-05-05 18:55:00 -0400
+permalink: "/notes_on_butlerian_jihad_on_ai/"
+description: "Some notes on Erik Hoel's post \"We need a Butlerian Jihad against AI\""
+tags: [x-risk, gcr, ai-safety, governance, ai]
 ---
