@@ -65,6 +65,10 @@ layout: default
         {%- endif -%}
       {%- endif -%}
 
+      {%- if page.extent -%}
+         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Extent</a>: {{ page.extent }} &nbsp;
+      {%- endif -%}
+
       {%- if page.impact -%}
          • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Impact</a>: {{ page.impact }} &nbsp;
       {%- endif -%}
@@ -83,10 +87,6 @@ layout: default
 
       {%- if page.durability -%}
          • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Durability</a>: {{ page.durability }} &nbsp;
-      {%- endif -%}
-
-      {%- if page.extent -%}
-         • &nbsp;<a href="https://rodeoflagellum.github.io/site/">Extent</a>: {{ page.extent }} &nbsp;
       {%- endif -%}
 
       {%- if page.notes -%}

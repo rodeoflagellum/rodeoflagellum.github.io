@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My Reading List"
+title:  "A Reading List"
 date:  2022-04-19 11:15:00 -0400
-modified: 2022-04-24 13:33:00 -0400
+modified: 2022-05-05 9:20:00 -0400
 permalink: "/per_reading_list/"
 header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
 description: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
@@ -48,6 +48,7 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 - Are we living at the 'hinge of history'?
   - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
   - My notes on this
+  - See here
 - Are we living at the most influential time in history?
   - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
 - The Big Here and Long Now
@@ -64,6 +65,9 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 - Metamorphosis of Prime Intellect
 - Map and Territory
 - How to Actually Change Your Mind
+- The Elephant in the Brain
+- X-Risk
+- The Precipice
 
 [Back to top](#top)
 
@@ -129,9 +133,14 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 - Statistical Rethinking
 - Bayes Rules!
 - Elements of Mathematics
-- X-Risk
 - The Sequences
 - Deep Learning Architectures
+- Age of Em
+- Statistical Consequences of Fat Tails
+- LessWrong: Engines of Cognition
+- LessWrong: A Map That Reflects the Territory
+- Inadequate Equilibria
+- Human Compatible
 - All of Statistics
 - Algorithms for Decision Making
 - Probabilistic Machine Learning
