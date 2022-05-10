@@ -41,6 +41,8 @@ desc: "An unordered list of websites I like, along with the two pieces I most en
 - __Luke Muehlhauser__ <https://lukemuehlhauser.com/>
 - __Nintil__ <https://nintil.com/>
   - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging)
+- __Pablo Stafforini__ <https://www.stafforini.com/blog/>
+  - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/)
 
 ---
 
