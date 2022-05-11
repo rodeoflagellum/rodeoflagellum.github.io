@@ -38,7 +38,7 @@ __Takeaways__:
 
 __Disclaimer__:
 
-__Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. 
+__Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject.
 
 This essay somewhat decently aggregates the ideas and survey responses concerning people's notions of human gene-editing from 35 papers.
 
@@ -319,6 +319,8 @@ I recently came across your work [paper I read] in my review, and really found [
 
 
 ### [Other Question Ideas](#question-ideas)
+
+### [Blindspots](#blindspots)
 
 
 [Back to top](#top)
