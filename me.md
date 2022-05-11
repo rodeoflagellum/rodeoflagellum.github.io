@@ -53,12 +53,12 @@ While many of my interests can be gleaned from the tags I've listed earlier, the
 In the list below, each topic of interest is preceded by some statement of preference that illuminates why I am interested in that topic. These justifications for my interests are not fleshed out, and there is are some interests that have multiple justifications. Consider the list below a first pass and an incomplete selection of what things I am interested in and of why I am interested in those things. 
 
 - I don't like when people suffer or die &rarr; _longevity research, measurement and enhancment of well-being, global health and development_
-- I would like to know what might occur in my life, and how aspects of human civilization, progress, etc... might change &rarr; _judgemental forecasting, quantitative/statistical modeling, research progress and growth__
-- I want to live long and be healthy &rarr; _nutrition, health, psychology, sleep, exercise__
+- I would like to know what might occur in my life, and how aspects of human civilization, progress, etc... might change &rarr; _judgemental forecasting, quantitative/statistical modeling, research progress and growth_
+- I want to live long and be healthy &rarr; _nutrition, health, psychology, sleep, exercise_
 - I want to make good decisions and be less wrong &rarr; _rationality, decision theory, bayesian inference, game theory_
-- I want humanity to continue existing, to realize new modes of being, and to have a great future &rarr; _global catastrophic risk reduction, global priorities research, civilizational stability, human enhancement, longtermism, transhumanism__
+- I want humanity to continue existing, to realize new modes of being, and to have a great future &rarr; _global catastrophic risk reduction, global priorities research, civilizational stability, human enhancement, longtermism, transhumanism_
 - I want to hasten scientific and technological progress &rarr; _AI safety/alignment, AI/DL, meta-science_
-- I want to better understand how minds, life, and biology works &rarr; _neuroscience, origins of life research, biotechnology__
+- I want to better understand how minds, life, and biology works &rarr; _neuroscience, origins of life research, biotechnology_
 - I want my children to intelligent, kind, and well-off generally &rarr; _embryo selection, polygenic screening, genetic-engineering, parenting_
 
 ---
