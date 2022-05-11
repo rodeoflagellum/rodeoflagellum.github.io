@@ -3,7 +3,6 @@ layout: post
 title: Archive
 date: 2022-04-21 10:00:00 -0400
 permalink: /archive/
-tags: [list, site]
 image: /assets/2022/archive/urja-bhatt-TuvollqROb8-unsplash.jpg
 ---
 
