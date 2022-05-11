@@ -16,6 +16,18 @@ word_count: "yes"
 reading_time: "yes"
 ---
 
+<!-- AI Essay:
+	Redo the Metaculus question looking + get pictures (and link them)
+	Redo the code to make it reusable + colab notebooks
+	Remake the graphs with corrections
+	Explore the ARIMA model conditions more
+	Do a close analyses of the FLI terms (all terms) be more transparent about removal process
+	Search LessWrong and EAF
+	Add a final thoughts section that explores the implications of growth
+	Look closely at the dates of your graphs
+	Prune and refine the outlook section
+	Create a "future work" section -->
+
 
 <!-- ⊂ -->
 
