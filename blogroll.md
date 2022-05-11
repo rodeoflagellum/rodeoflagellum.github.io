@@ -5,7 +5,7 @@ date: 2022-04-23 18:00:00 -0400
 modified: 2022-05-10 20:02:18 -0400
 permalink: /blogroll/
 image: /assets/2022/blogroll/right_hand_1942.5.28.jpg
-desc: "An unordered list of websites I like, along with the two pieces I most enjoyed reading from these sites. For some sites on this page, I am still deciding which posts to include."
+description: "An unordered list of websites I like, along with the two pieces I most enjoyed reading from these sites. For some sites on this page, I am still deciding which posts to include."
 ---
 
 - __Argmin gravitas__
@@ -13,73 +13,130 @@ desc: "An unordered list of websites I like, along with the two pieces I most en
   - [Metrics](https://www.gleech.org/metrics/){:target="_blank"}
   - [Math tools](https://www.gleech.org/tools){:target="_blank"}
 - __Slate Star Codex__
-  - <https://slatestarcodex.com/>
+  - [https://slatestarcodex.com/][ssc]
   - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/)
 - __The Long Now Foundation__
-  - <https://longnow.org/>
+  - [https://longnow.org/][long_now]
   - [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/)
 - __Overcoming Bias__
-  - <https://www.overcomingbias.com/>
+  - [https://www.overcomingbias.com/][ob]
 - __Gwern__
-  - <https://www.gwern.net/>
+  - [https://www.gwern.net/][gwern]
 - __Alexey Guzey__
-   - <https://guzey.com/>
-- __Knowingless__ <https://knowingless.com/>
-- __New Things Under the Sun__ <https://www.newthingsunderthesun.com/claims>
-- __Distill__ <https://distill.pub/>
-- __Daily Papers__ <https://papers.labml.ai/papers/daily>
-- __DeepMind Blog__ <https://www.deepmind.com/blog>
-- __OpenAI Blog__ <https://openai.com/blog/>
-- __Paul Graham__ <http://paulgraham.com/articles.html>
-- __Papers With Code__ <https://paperswithcode.com/>
-- __Open Philanthropy__ <https://www.openphilanthropy.org/blog>
-- __80000 Hours__ <https://80000hours.org/>
-- __Sarah Constantin__ <https://srconstantin.github.io/about/>
-- __Chris Olah__ <https://colah.github.io/>
-- __Terence Tao__ <https://terrytao.wordpress.com/>
-- __Reducing Suffering__ <https://reducing-suffering.org/>
-- __Future of Life Institute__ <https://futureoflife.org/>
-- __Neel Nanda__ <https://www.neelnanda.io/>
-- __Cold Takes__ <https://www.cold-takes.com/>
-- __Katja Grace__ <https://katjagrace.com/>
-- __Luke Muehlhauser__ <https://lukemuehlhauser.com/>
-- __Nintil__ <https://nintil.com/>
+   - [https://guzey.com/][guzey]
+- __Knowingless__
+  - [https://knowingless.com/][aella]
+- __New Things Under the Sun__
+  - [https://www.newthingsunderthesun.com/][new_things]
+- __Distill__
+  - [https://distill.pub/][dist]
+- __Daily Papers__
+  - [https://papers.labml.ai/papers/daily][daily_papers]
+- __DeepMind Blog__
+  - [https://www.deepmind.com/blog][deep]
+- __OpenAI Blog__
+  - [https://openai.com/blog/][open]
+- __Paul Graham__
+  - [http://paulgraham.com/articles.html][graham]
+- __Papers With Code__
+  - [https://paperswithcode.com/][code]
+- __Open Philanthropy__
+  - [https://www.openphilanthropy.org/blog][opne_phil]
+- __80000 Hours__
+  - [https://80000hours.org/][hours]
+- __Sarah Constantin__
+  - [https://srconstantin.github.io/about/][constantin]
+- __Chris Olah__
+  - [https://colah.github.io/][olah]
+- __Terence Tao__
+  - [https://terrytao.wordpress.com/][tao]
+- __Reducing Suffering__
+  - [https://reducing-suffering.org/][reducing]
+- __Future of Life Institute__
+  - [https://futureoflife.org/][fli]
+- __Neel Nanda__
+  - [https://www.neelnanda.io/][neel]
+- __Cold Takes__
+  - [https://www.cold-takes.com/][cold]
+- __Katja Grace__
+  - [https://katjagrace.com/][katjag]
+- __Luke Muehlhauser__
+  - [https://lukemuehlhauser.com/][luke_m]
+- __Nintil__
+  - [https://nintil.com/][nin]
   - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging)
-- __Pablo Stafforini__ <https://www.stafforini.com/blog/>
+- __Pablo Stafforini__
+  - [https://www.stafforini.com/blog/][pablo]
   - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/)
+- __Longtermism__
+  - [https://longtermism.com/][longterm]
+- __Yannic Kilcher__
+  - [https://www.youtube.com/c/YannicKilcher/videos][yannic]
+- __Milan Cvitkovic__
+  - [https://milan.cvitkovic.net/about/][milan]
+  - [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- __Will MacAskill__
+  - [https://www.williammacaskill.com/][will_ea]
+- __Toby Ord__
+  - [https://www.tobyord.com/][toby_ord]
+- __Paul Christiano__
+  - [https://paulfchristiano.com/][pchrist]
+- __Nick Bostrom__
+  - [https://nickbostrom.com/][bostrom]
+- __Ryan Beck__
+  - [https://www.ryanbeckauthor.com/][ryanbeck]
+- __Steve Hsu__
+  - [https://infoproc.blogspot.com/][hsu]
 
-Yannic
-Bostrom
-Ord
-McAskill
-Longtermism
-Information Processing
 
-
+[hsu]: https://infoproc.blogspot.com/ "https://infoproc.blogspot.com/"
+[ryanbeck]: https://www.ryanbeckauthor.com/ "https://www.ryanbeckauthor.com/"
+[bostrom]: https://nickbostrom.com/ "https://nickbostrom.com/"
+[pchrist]: https://paulfchristiano.com/ "https://paulfchristiano.com/"
+[toby_ord]: https://www.tobyord.com/ "https://www.tobyord.com/"
+[will_ea]: https://www.williammacaskill.com/ "https://www.williammacaskill.com/"
+[milan]: https://milan.cvitkovic.net/about/ "https://milan.cvitkovic.net/about/"
+[yannic]: https://www.youtube.com/c/YannicKilcher/videos "https://www.youtube.com/c/YannicKilcher/videos"
+[luke_m]: https://lukemuehlhauser.com/ "https://lukemuehlhauser.com/"
+[open_phil]: https://www.openphilanthropy.org/blog "https://www.openphilanthropy.org/blog"
+[ssc]: https://slatestarcodex.com/ "https://slatestarcodex.com/"
+[acx]: https://astralcodexten.substack.com/ "https://astralcodexten.substack.com/"
+[nin]: https://nintil.com/ "https://nintil.com/"
 [katjag]: https://katjagrace.com/ "https://katjagrace.com/"
 [cold]: https://www.cold-takes.com/ "https://www.cold-takes.com/"
+[hours]: https://80000hours.org/ "https://80000hours.org/"
 [fli]: https://futureoflife.org/ "https://futureoflife.org/"
-[nan]: https://www.neelnanda.io/ "https://www.neelnanda.io/"
 [gpi]: https://globalprioritiesinstitute.org/ "https://globalprioritiesinstitute.org/"
 [reducing]: https://reducing-suffering.org/ "https://reducing-suffering.org/"
 [tao]: https://terrytao.wordpress.com/ "https://terrytao.wordpress.com/"
 [constantin]: https://srconstantin.github.io/ "https://srconstantin.github.io/"
 [olah]: https://colah.github.io/ "https://colah.github.io/"
+[neel]: https://www.neelnanda.io/ "https://www.neelnanda.io/"
+[graham]: http://paulgraham.com/articles.html "http://paulgraham.com/articles.html"
 [arg_min]: https://www.gleech.org/ "https://www.gleech.org/"
 [slate]: https://slatestarcodex.com/ "https://slatestarcodex.com/"
-[long_now]: https://longnow.org/> "https://longnow.org/>"
+[long_now]: https://longnow.org/ "https://longnow.org/"
 [longterm]: https://longtermism.com/ "https://longtermism.com/"
 [ob]: https://www.overcomingbias.com/ "https://www.overcomingbias.com/"
 [gwern]: https://www.gwern.net/ "https://www.gwern.net/"
 [guzey]: https://guzey.com/ "https://guzey.com/"
+[pablo]: https://www.stafforini.com/ "https://www.stafforini.com/"
 [aella]: https://knowingless.com/ "https://knowingless.com/"
 [new_things]: https://www.newthingsunderthesun.com/ "https://www.newthingsunderthesun.com/"
 [dist]: https://distill.pub/ "https://distill.pub/"
 [daily_papers]: https://papers.labml.ai/papers/daily "https://papers.labml.ai/papers/daily"
+[deep]: https://www.deepmind.com/blog "https://www.deepmind.com/blog"
+[open]: https://openai.com/blog/ "https://openai.com/blog/"
+[code]: https://paperswithcode.com/ "https://paperswithcode.com/"
+
 
 {:target="_blank"}
 
+<br>
+
 ---
+
+<br>
 
 This [cover image][cover_photo]{:target="_blank"} is a ~1880 plaster artwork entitled _Right Hand_, by the French sculptor Auguste Rodin, 1840 - 1917. The image can be found on the [National Gallery of Art][gallery]{:target="_blank"}'s website, and is in the public domain:
 > __Open Access Policy for Images of Works of Art Presumed in the Public Domain__

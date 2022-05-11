@@ -5,7 +5,7 @@ date: 2022-04-24 12:16:00 -0400
 modified: 2022-05-10 19:57:00 -0400
 permalink: /contact/
 image: /assets/2022/contact/blade-lustre-SodsKdttXaw-unsplash.jpg
-desc: Please contact me!
+description: Please contact me!
 ---
 
 Where I am when I am on the Internet?
@@ -19,7 +19,11 @@ Where I am when I am on the Internet?
 
 Please temper any social hesitance when it comes to deciding whether to contact me - I am interested in learning about and talking to whoever comes to this site!
 
+<br>
+
 ---
+
+<br>
 
 The [cover photo][cover_photo]{:target="_blank"} for this page was likely taken by [Blade Lustre][author]{:target="_blank"}. I found the photo on [Unsplash][unsplash]{:target="_blank"}. To my knowledge, my use of this photo is permissible under Unsplash's [license][lic]{:target="_blank"}:
 >Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
