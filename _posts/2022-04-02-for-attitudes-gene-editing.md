@@ -244,6 +244,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
 |What are the Ethical Concerns of Genome Editing? (2017?)|National Human Genome Research Institute|[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns][ethical_concerns_gen_2017?]{:target="_blank"} and [here][ethical_concerns_gen_2017?_DL]{:target="_blank"}|1/9|
 |A Global Social Media Survey of Attitudes to Human Genome Editing (2016)||[https://www.sciencedirect.com/science/article/pii/S1934590916300546][globe_soce_2016]{:target="_blank"} and [here][globe_soce_2016_DL]{:target="_blank"}|1/9|
+|Chapter 5: Public Views About Biomedical Issues (2015)|Lee Rainie, Cary Funk, Brian Kennedy, Monica Anderson, Maeve Duggan, Kenneth Olmstead, Andrew Perrin, Shannon Greenwood, Michael Suh, Margaret Porteus, and Dana Page|[https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/][chapter_5_2015]{:target="_blank"} and [here][chapter_5_2015_DL]{:target="_blank"}|1/9|
 
 <!-- |Heritable Human Genome Editing: The Public Engagement Imperative (2020)||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
@@ -279,9 +280,9 @@ https://pubmed.ncbi.nlm.nih.gov/34050014/
 [ethic_gen_cog_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethic_gen_cog_2020_DL.pdf
 
 
-|Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+<!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 [heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
-[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
 
 
 [what_we_crispr_2021]: https://pubmed.ncbi.nlm.nih.gov/34050014/ "https://pubmed.ncbi.nlm.nih.gov/34050014/"
@@ -292,9 +293,9 @@ https://pubmed.ncbi.nlm.nih.gov/34050014/
 [reex_ethics_wake_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/reex_ethics_wake_2019_DL.pdf
 
 
-|Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships ()||[https://pubmed.ncbi.nlm.nih.gov/29529985/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[why_gen_edit_more_]: https://pubmed.ncbi.nlm.nih.gov/29529985/ "https://pubmed.ncbi.nlm.nih.gov/29529985/"
-[why_gen_edit_more__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+|Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (2018)|Christoph Rehmann-Sutter|[https://pubmed.ncbi.nlm.nih.gov/29529985/][why_gen_edit_more_2018]{:target="_blank"} and [here][why_gen_edit_more_2018_DL]{:target="_blank"}|1/9|
+[why_gen_edit_more_2018]: https://pubmed.ncbi.nlm.nih.gov/29529985/ "https://pubmed.ncbi.nlm.nih.gov/29529985/"
+[why_gen_edit_more_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/why_gen_edit_more_2018_DL.pdf
 
 |The ethics of creating genetically modified children using genome editing  ()||[https://pubmed.ncbi.nlm.nih.gov/28885275/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 [ethic_gen_child_]: https://pubmed.ncbi.nlm.nih.gov/28885275/ "https://pubmed.ncbi.nlm.nih.gov/28885275/"
@@ -364,9 +365,9 @@ get the PDF metadata for authors -->
 [us_wary_]: https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/ "https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/"
 [us_wary__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
 
-|Chapter 5: Public Views About Biomedical Issues ()||[https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[chapter_5_]: https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/ "https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/"
-[chapter_5__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+
+[chapter_5_2015]: https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/ "https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/"
+[chapter_5_2015_DL]: /assets/2022/for_attitudes_gene_editing/docs/chapter_5_2015_DL.pdf
 
 |U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
 [us_attitudes_2017]: https://www.science.org/doi/10.1126/science.aan3708 "https://www.science.org/doi/10.1126/science.aan3708"
