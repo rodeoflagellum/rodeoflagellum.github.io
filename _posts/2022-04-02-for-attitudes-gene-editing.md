@@ -394,16 +394,30 @@ Asking people for help or information is a relatively low-cost enterprise. As su
 
 #### Template
 
+Thank you to Ryan Beck and Ege Erdil for providing some feedback on this template.
+
+> Title: Human Gene-Editing Inquiry - [my actual name]
+>
+> (summary): request for your forecasts on people attitudes towards human gene-editing
+>
 > Dear [Author],
 >
 > I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. My essay will be hosted on Metaculus.com (a crowd forecasting platform that focuses on scientific and technological change). I am not affiliated with Metaculus, but do forecast there.
 >
 I recently came across your work [paper I read] in my review, and really [found this part helpful]/[it useful]. Given your experience with research directly involved with or adjacent to gene-editing, I am interested in hearing your thoughts on the questions:
 >
-__What do you think the general attitude people will have towards human gene-editing in 2030, 2050, and 2075?__ and
-__How many genetically edited babies will be born in 2030, 2050, and 2075?__
+__What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?__
 >
-> Any thoughts, even brief ones, would be welcome. If you do share thoughts, I think it would be helpful for forecasters if I included them in my review - I could anonymously quote you if you want - and if you specified, on a scale of 0-100, what you belief is your current level of familiarity with human gene-editing or adjacent areas.
+> and
+>
+>
+__What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?__
+>
+> An example answer might be:
+>
+> My familiarity: 23/100; Q1: Same trend, people are much less supportive of enhancement than treatment, until ~2050. Q2: 95% confidence intervals for 2030, 2050, and 2075, respectively: 1-25000, 100-1.5m, 10k-25m
+>
+> Any thoughts, even brief ones, would be welcome. If you do share thoughts, I think it would be helpful for forecasters if I included them in my review - I could anonymously quote you if you want - and if you specified, on a scale of 0-100, what you believe is your current level of familiarity with human gene-editing or adjacent areas.
 >
 >  Once I am finished with the review, I will have a set of 5-10 forecasting questions that operationalize this area of study (e.g., "On the next PEW Research Center survey on human gene-editing, what percentage of Indian respondents will find scientific research on gene-editing appropriate?). If you are interested in these types of inquiries about the future, I can share them with you, and would love to hear your thoughts on them as well.
 >
