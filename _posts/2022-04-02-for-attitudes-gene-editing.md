@@ -384,35 +384,35 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 [gene_baby_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/gene_baby_2022_DL.pdf
 
 
-### [Trends in Gene-Editing](#gene-editing-trends)
+### [Trends in Human Gene-Editing](#gene-editing-trends)
+
+How has discussion, research, and intellectual thinking on human gene-editing changed? One way to look at this is to see how search results for "human gene-editing" have changed over the years. The following graph displays the number of search results during the intervals of years [2000, 2021] on Google Scholar.
 
 ### [Expert Questioning](#expert-questioning)
 
-For each paper that I skimmed or read, I emailed the authors something similar to the following:
+Asking people for help or information is a relatively low-cost enterprise. As such, I took the time to email most of the authors whose research I included in the "Table of Covered Research". In total, I sent x emails and, as of y, have received z responses. I've included the template I used, along with the responses I received.
+
+#### Template
 
 > Dear [Author],
 >
-> I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. This essay will be hosted on Metaculus.com (a crowd forecasting platform that focuses on scientific and technological change). I do not work for Metaculus but forecast there.
+> I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. My essay will be hosted on Metaculus.com (a crowd forecasting platform that focuses on scientific and technological change). I am not affiliated with Metaculus, but do forecast there.
 >
-I recently came across your work [paper I read] in my review, and really found [this part] helpful. Given your experience with research directly involved with or adjacent to [gene-editing topic], I am interested in hearing your thoughts on the question:
+I recently came across your work [paper I read] in my review, and really [found this part helpful]/[it useful]. Given your experience with research directly involved with or adjacent to gene-editing, I am interested in hearing your thoughts on the questions:
 >
-__How might people's attitudes on human gene-editing be different 10, 25, or 50 years from now, say in 2030, 2050, and 2075?__
+__What do you think the general attitude people will have towards human gene-editing in 2030, 2050, and 2075?__ and
+__How many genetically edited babies will be born in 2030, 2050, and 2075?__
 >
-> Any thoughts, even brief ones, would be welcome. If you share thoughts, I think it would be helpful for forecasters if I included them in my review - I could anonymously quote you if you want - and if you specify, on a scale of 0-100, what you perceive your familiarity with human gene-editing or adjacent areas.
+> Any thoughts, even brief ones, would be welcome. If you do share thoughts, I think it would be helpful for forecasters if I included them in my review - I could anonymously quote you if you want - and if you specified, on a scale of 0-100, what you belief is your current level of familiarity with human gene-editing or adjacent areas.
 >
->  Also, once I am finished with the review, I will have a set of 5-10 forecasting questions that operationalize this area of study (e.g., "On the next PEW Research Center survey on human gene-editing, what percentage of Indian respondents will find scientific research on gene-editing appropriate?). If this question seems difficult, don't worry, the review will present enough background information to make a proper judgement. If you are interested in these types of inquiries about the future, I can share them with you, and would love to hear your thoughts on them as well.
+>  Once I am finished with the review, I will have a set of 5-10 forecasting questions that operationalize this area of study (e.g., "On the next PEW Research Center survey on human gene-editing, what percentage of Indian respondents will find scientific research on gene-editing appropriate?). If you are interested in these types of inquiries about the future, I can share them with you, and would love to hear your thoughts on them as well.
 >
 > Thank you for taking the time to read this! I really appreciate it.
 >
 > Kind Regards,<br>
 > [My actual name]
 
-
-### [Expert Responses](#expert-responses)
-
-
-### [Twitter Polling](#twitter-polls)
-
+#### Responses
 
 ### [Other Question Ideas](#question-ideas)
 
