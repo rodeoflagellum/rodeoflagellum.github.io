@@ -251,62 +251,16 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (2019)|Alix Leniav v. Hammerstein, Matthias Eggel, and Nikola Biller-Andorno|[https://pubmed.ncbi.nlm.nih.gov/31752935/][select_modify_better_2019]{:target="_blank"} and [here][select_modify_better_2019_DL]{:target="_blank"}|1/9|
 |A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (2018)|Tristan McCaughey, David M Budden, Paul G Sanfilippo, George EC Gooden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Alice Pébay, Timothy Baldwin, and Alex W Hewitt|[https://pubmed.ncbi.nlm.nih.gov/29926763/][need_determine_2018]{:target="_blank"} and [here][need_determine_2018_DL]{:target="_blank"}|1/9|
 |Chinese Public Attitudes on Gene Editing (2018)|Liang Chen and Zhi’an Zhang|[https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf][china_gene_2018]{:target="_blank"} and [here][china_gene_2018_DL]{:target="_blank"}|1/9|
-|Public Views of Gene Editing for Babies Depend on How It Would Be Used (2018)||[https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/][public_view_gen_2018]{:target="_blank"} and [here][public_view_gen_2018_DL]{:target="_blank"}|1/9|
+|Public Views of Gene Editing for Babies Depend on How It Would Be Used (2018)|Cary Funk and Meg Hefferon|[https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/][public_view_gen_2018]{:target="_blank"} and [here][public_view_gen_2018_DL]{:target="_blank"}|1/9|
 |Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (2018)|Christoph Rehmann-Sutter|[https://pubmed.ncbi.nlm.nih.gov/29529985/][why_gen_edit_more_2018]{:target="_blank"} and [here][why_gen_edit_more_2018_DL]{:target="_blank"}|1/9|
 |Genome editing and assisted reproduction: curing embryos, society or prospective parents? (2018)|Giulia Cavaliere|[https://pubmed.ncbi.nlm.nih.gov/28725950/][gen_assist_cure_2018]{:target="_blank"} and [here][gen_assist_cure_2018_DL]{:target="_blank"}|1/9|
 |What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
 |Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (2017)|Stephan Guttinger|[https://link.springer.com/article/10.1007/s11948-017-9931-1][trust_sci_2017]{:target="_blank"} and [here][trust_sci_2017_DL]{:target="_blank"}|1/9|
-|What are the Ethical Concerns of Genome Editing? (2017?)|National Human Genome Research Institute|[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns][ethical_concerns_gen_2017?]{:target="_blank"} and [here][ethical_concerns_gen_2017?_DL]{:target="_blank"}|1/9|
 |U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
 |The ethics of creating genetically modified children using genome editing (2017)|Tetsuya Ishii|[https://pubmed.ncbi.nlm.nih.gov/28885275/][ethic_gen_child_2017]{:target="_blank"} and [here][ethic_gen_child_2017_DL]{:target="_blank"}|1/9|
 |A Global Social Media Survey of Attitudes to Human Genome Editing (2016)|Tristan McCaughey, Paul G. Sanfilippo, George E. C. Gooden, David M. Budden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Timothy Baldwin, Alice Pébay, and Alex W. Hewitt|[https://www.sciencedirect.com/science/article/pii/S1934590916300546][globe_soce_2016]{:target="_blank"} and [here][globe_soce_2016_DL]{:target="_blank"}|1/9|
 |U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (2016)|Cary Funk, Brian Kennedy and Elizabeth Sciupac|[https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/][us_wary_2016]{:target="_blank"} and [here][us_wary_2016_DL]{:target="_blank"}|1/9|
 |Chapter 5: Public Views About Biomedical Issues (2015)|Lee Rainie, Cary Funk, Brian Kennedy, Monica Anderson, Maeve Duggan, Kenneth Olmstead, Andrew Perrin, Shannon Greenwood, Michael Suh, Margaret Porteus, and Dana Page|[https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/][chapter_5_2015]{:target="_blank"} and [here][chapter_5_2015_DL]{:target="_blank"}|1/9|
-
-<!-- |Heritable Human Genome Editing: The Public Engagement Imperative (2020)||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9| -->
-
-<!-- The quickest way
-Rename the PDFs with the year
-use this as the tag source
-get the PDF metadata for authors -->
-
-
-<!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
-[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
-<!-- |Attitudes towards genome editing among university students in Costa Rica ()||[https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea][]{:target="_blank"}|0/9|
-[costa_rica_]: https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea "https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea" -->
-
-
-<!-- |Liberal arts student impressions of opportunities in gene editing ()||[https://www.jstor.org/stable/26849521][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[liberal_]: https://www.jstor.org/stable/26849521 "https://www.jstor.org/stable/26849521"
-[liberal__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
-
-<!-- |Making sense of heritable human genome editing: Scientific and ethical considerations (2021)||[https://pubmed.ncbi.nlm.nih.gov/34175039/][scie_ethic_gen_2021]{:target="_blank"} and [here][scie_ethic_gen_2021_DL]{:target="_blank"}|1/9|
-[scie_ethic_gen_2021]: https://pubmed.ncbi.nlm.nih.gov/34175039/ "https://pubmed.ncbi.nlm.nih.gov/34175039/"
-[scie_ethic_gen_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
- -->
-
- <!-- |What do People Think About Genome Editing? (2017)||[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
- [thoughts_gen_]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion"
- [thoughts_gen__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
 
 
 [set_limits_2021]: https://pubmed.ncbi.nlm.nih.gov/34050016/ "https://pubmed.ncbi.nlm.nih.gov/34050016/"

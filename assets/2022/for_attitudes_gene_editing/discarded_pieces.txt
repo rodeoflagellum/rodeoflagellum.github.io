@@ -1,0 +1,46 @@
+<!-- |Heritable Human Genome Editing: The Public Engagement Imperative (2020)||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9| -->
+
+<!-- The quickest way
+Rename the PDFs with the year
+use this as the tag source
+get the PDF metadata for authors -->
+
+
+<!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
+[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+<!-- |Attitudes towards genome editing among university students in Costa Rica ()||[https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea][]{:target="_blank"}|0/9|
+[costa_rica_]: https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea "https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea" -->
+
+
+<!-- |Liberal arts student impressions of opportunities in gene editing ()||[https://www.jstor.org/stable/26849521][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[liberal_]: https://www.jstor.org/stable/26849521 "https://www.jstor.org/stable/26849521"
+[liberal__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+
+<!-- |Making sense of heritable human genome editing: Scientific and ethical considerations (2021)||[https://pubmed.ncbi.nlm.nih.gov/34175039/][scie_ethic_gen_2021]{:target="_blank"} and [here][scie_ethic_gen_2021_DL]{:target="_blank"}|1/9|
+[scie_ethic_gen_2021]: https://pubmed.ncbi.nlm.nih.gov/34175039/ "https://pubmed.ncbi.nlm.nih.gov/34175039/"
+[scie_ethic_gen_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+ -->
+
+ <!-- |What do People Think About Genome Editing? (2017)||[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+ [thoughts_gen_]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion"
+ [thoughts_gen__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+
+<!-- |What are the Ethical Concerns of Genome Editing? (2017?)|National Human Genome Research Institute|[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns][ethical_concerns_gen_2017?]{:target="_blank"} and [here][ethical_concerns_gen_2017?_DL]{:target="_blank"}|1/9| -->
