@@ -133,6 +133,8 @@ There are many search terms listed below, but I only ended up searching for "hum
 
 In the query-lists below (OpenAlex Queries and Google Queries), the list structure is organized in the following manner: the outermost list is what I searched (a query, phrase, or a remark indicating that I forgot what I originally searched); the next sub-list are the relevant results returned from that query or phrase; and all subsequent nested lists are the works I found from looking at the references or links of a specific result. I did not include the quotes when I searched for a phrase (). The "here" links will open a PDF of the research or an HTML page; if there is a "?" that means I couldn't find the paper. If I come across a research work that appeared in an earlier search, I do not include it more than once.
 
+Research that I found later on as a result of looking up references or links of works from the search results are included under "Other Research". The "Other Resources Used" category includes some books and other resources that I found were useful. Lastly, the "Table of Covered Research" refers to the primary research works I base much of my analyses and forecasting off of; entities in this table that appeared in the initial search results are given an asterisk.  
+
 #### Search Phrases
 
 - _"survey on human gene-editing"_
@@ -213,17 +215,16 @@ In the query-lists below (OpenAlex Queries and Google Queries), the list structu
   - Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (https://www.nature.com/articles/s10038-022-01042-z) (?)
     - The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/)
 
-#### Other Resources
+#### Other Research
+
+#### Other Resources Used
 
 -
-
-#### Trends in Gene-Editing Overall
 
 #### Table of Covered Research
 
 My desire is for an explanation of "Extent" to be placed elsewhere on this site, but since I don't presently have the explanation up, I will include it here. Note that "Extent" applies to searching for something, or to reading and thinking about something.
 
-- (0) I decided against skimming or reading this entity
 - (1) My brain (writing it to get it written)
 - (2) Internet querying and/or reading/thinking < 5 minutes
 - (3) Internet querying and/or reading/thinking < 30 minutes
@@ -376,6 +377,8 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 [gene_baby_2022]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/"
 [gene_baby_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/gene_baby_2022_DL.pdf
 
+
+### [Trends in Gene-Editing](#gene-editing-trends)
 
 ### [Expert Questioning](#expert-questioning)
 
