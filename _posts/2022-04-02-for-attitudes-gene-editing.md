@@ -149,7 +149,6 @@ These are the search terms I originally intended to look through. I did not get 
       - Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (https://pubmed.ncbi.nlm.nih.gov/29529985/)
         - The ethics of creating genetically modified children using genome editing (https://pubmed.ncbi.nlm.nih.gov/28885275/)
         - Genome editing and assisted reproduction: curing embryos, society or prospective parents? (https://pubmed.ncbi.nlm.nih.gov/28725950/)
-        - The ethics of creating genetically modified children using genome editing (https://pubmed.ncbi.nlm.nih.gov/28885275/)
         - Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (https://pubmed.ncbi.nlm.nih.gov/31752935/)
   - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? ([https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"})
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
@@ -203,6 +202,7 @@ Note that I am using FireFox, so this means "Page 3" corresponds to me clicking 
 
 My desire is for an explanation of "Extent" to be placed elsewhere on this site, but since I don't presently have the explanation up, I will include it here. Note that "Extent" applies to searching for something, or to reading and thinking about something.
 
+- (0) I did look at this entity
 - (1) My brain (writing it to get it written)
 - (2) Internet querying and/or reading/thinking < 5 minutes
 - (3) Internet querying and/or reading/thinking < 30 minutes
@@ -232,7 +232,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
@@ -254,43 +254,144 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 [ethic_gen_cog_2020]: https://www.mdpi.com/2409-9287/5/3/20 "https://www.mdpi.com/2409-9287/5/3/20"
 [ethic_gen_cog_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethic_gen_cog_2020_DL.pdf
 
-- Heritable Human Genome Editing: The Public Engagement Imperative (https://pubmed.ncbi.nlm.nih.gov/33346718/)
-- Reexamining the Ethics of Human Germline Editing in the Wake of Scandal (https://pubmed.ncbi.nlm.nih.gov/32029087/)
-- Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (https://pubmed.ncbi.nlm.nih.gov/29529985/)
-- The ethics of creating genetically modified children using genome editing (https://pubmed.ncbi.nlm.nih.gov/28885275/)
-- Genome editing and assisted reproduction: curing embryos, society or prospective parents? (https://pubmed.ncbi.nlm.nih.gov/28725950/)
-- The ethics of creating genetically modified children using genome editing (https://pubmed.ncbi.nlm.nih.gov/28885275/)
-- Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (https://pubmed.ncbi.nlm.nih.gov/31752935/)
-- What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (https://pubmed.ncbi.nlm.nih.gov/33560915/)
-- The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (https://www.mdpi.com/2409-9287/5/3/20)
-- Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (https://pubmed.ncbi.nlm.nih.gov/32718240/)
-- A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (https://pubmed.ncbi.nlm.nih.gov/29926763/)
-- Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (https://pubmed.ncbi.nlm.nih.gov/30687386/)
-- Attitudes towards genome editing among university students in Costa Rica (https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea)
-- Liberal arts student impressions of opportunities in gene editing (https://www.jstor.org/stable/26849521)
-- What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (https://pubmed.ncbi.nlm.nih.gov/28974517/)
+
+|Heritable Human Genome Editing: The Public Engagement Imperative ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[heritable_gen_edit_pub_eng]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
+[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+|Reexamining the Ethics of Human Germline Editing in the Wake of Scandal ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[reex_ethics_wake]: https://pubmed.ncbi.nlm.nih.gov/32029087/ "https://pubmed.ncbi.nlm.nih.gov/32029087/"
+[reex_ethics_wake__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+
+|Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[why_gen_edit_more]: https://pubmed.ncbi.nlm.nih.gov/29529985/ "https://pubmed.ncbi.nlm.nih.gov/29529985/"
+[why_gen_edit_more__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|The ethics of creating genetically modified children using genome editing  ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[ethic_gen_child]: https://pubmed.ncbi.nlm.nih.gov/28885275/ "https://pubmed.ncbi.nlm.nih.gov/28885275/"
+[ethic_gen_child__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|Genome editing and assisted reproduction: curing embryos, society or prospective parents? ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[gen_assist_cure]: https://pubmed.ncbi.nlm.nih.gov/28725950/ "https://pubmed.ncbi.nlm.nih.gov/28725950/"
+[gen_assist_cure__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+
+|Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[select_modify_better]: https://pubmed.ncbi.nlm.nih.gov/31752935/ "https://pubmed.ncbi.nlm.nih.gov/31752935/"
+[select_modify_better__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[not_know_crispr]: https://pubmed.ncbi.nlm.nih.gov/33560915/ "https://pubmed.ncbi.nlm.nih.gov/33560915/"
+[not_know_crispr__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+<!-- The quickest way
+Rename the PDFs with the year
+use this as the tag source
+get the PDF metadata for authors -->
+
+|The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[edit_or_embryo]: https://www.mdpi.com/2409-9287/5/3/20 "https://www.mdpi.com/2409-9287/5/3/20"
+[edit_or_embryo]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[survey_treat_res]: https://pubmed.ncbi.nlm.nih.gov/32718240/ "https://pubmed.ncbi.nlm.nih.gov/32718240/"
+[survey_treat_res__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[need_determine]: https://pubmed.ncbi.nlm.nih.gov/29926763/ "https://pubmed.ncbi.nlm.nih.gov/29926763/"
+[need_determine__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+|Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[pred_moral_attitude]: https://pubmed.ncbi.nlm.nih.gov/30687386/ "https://pubmed.ncbi.nlm.nih.gov/30687386/"
+[pred_moral_attitude__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+|Attitudes towards genome editing among university students in Costa Rica ()||[][]{:target="_blank"}|0/9|
+[costa_rica]: https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea "https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea"
+
+
+|Liberal arts student impressions of opportunities in gene editing ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[liberal]: https://www.jstor.org/stable/26849521 "https://www.jstor.org/stable/26849521"
+[liberal__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+|What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[what_we_want]: https://pubmed.ncbi.nlm.nih.gov/28974517/ "https://pubmed.ncbi.nlm.nih.gov/28974517/"
+[what_we_want__DL]: /assets/2022/for_attitudes_gene_editing/docs/
+
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - What are the Ethical Concerns of Genome Editing? (https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Making sense of heritable human genome editing: Scientific and ethical considerations (https://pubmed.ncbi.nlm.nih.gov/34175039/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Public Views of Gene Editing for Babies Depend on How It Would Be Used (https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Chapter 5: Public Views About Biomedical Issues (https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/)
-- "attitudes toward human gene-editing" (first 2 pages)
+
+
+
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - U.S. attitudes on human genome editing (https://www.science.org/doi/10.1126/science.aan3708)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - A Global Social Media Survey of Attitudes to Human Genome Editing (https://www.sciencedirect.com/science/article/pii/S1934590916300546)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - What do People Think About Genome Editing? (https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Chinese Public Attitudes on Gene Editing (https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (https://www.nature.com/articles/s10038-020-0810-2)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (https://www.dovepress.com/attitudes-of-indonesian-medical-doctors-and-medical-students-toward-ge-peer-reviewed-fulltext-article-JMDH)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (https://link.springer.com/article/10.1007/s11948-017-9931-1)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (https://pubmed.ncbi.nlm.nih.gov/31599688/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - The clinical application of gene editing: ethical and social issues. (https://pubmed.ncbi.nlm.nih.gov/31331245/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Revising, Correcting, and Transferring Genes. (https://pubmed.ncbi.nlm.nih.gov/32757931/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Attitudes of people with inherited retinal conditions toward gene editing technology. (https://pubmed.ncbi.nlm.nih.gov/31190471/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (https://www.nature.com/articles/s10038-022-01042-z) (?)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/)
+
+| ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 - Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (https://pubmed.ncbi.nlm.nih.gov/32737393/)
 
 

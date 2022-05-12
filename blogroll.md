@@ -13,80 +13,80 @@ description: "An unordered list of websites I like, along with the two pieces I 
   - [Metrics](https://www.gleech.org/metrics/){:target="_blank"}
   - [Math tools](https://www.gleech.org/tools){:target="_blank"}
 - __Slate Star Codex__
-  - [https://slatestarcodex.com/][ssc]
-  - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/)
+  - [https://slatestarcodex.com/][ssc]{:target="_blank"}
+  - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/){:target="_blank"}
 - __The Long Now Foundation__
-  - [https://longnow.org/][long_now]
-  - [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/)
+  - [https://longnow.org/][long_now]{:target="_blank"}
+  - [The Big Here and Long Now](https://longnow.org/essays/big-here-long-now/){:target="_blank"}
 - __Overcoming Bias__
-  - [https://www.overcomingbias.com/][ob]
+  - [https://www.overcomingbias.com/][ob]{:target="_blank"}
 - __Gwern__
-  - [https://www.gwern.net/][gwern]
+  - [https://www.gwern.net/][gwern]{:target="_blank"}
 - __Alexey Guzey__
-   - [https://guzey.com/][guzey]
+   - [https://guzey.com/][guzey]{:target="_blank"}
 - __Knowingless__
-  - [https://knowingless.com/][aella]
+  - [https://knowingless.com/][aella]{:target="_blank"}
 - __New Things Under the Sun__
-  - [https://www.newthingsunderthesun.com/][new_things]
+  - [https://www.newthingsunderthesun.com/][new_things]{:target="_blank"}
 - __Distill__
-  - [https://distill.pub/][dist]
+  - [https://distill.pub/][dist]{:target="_blank"}
 - __Daily Papers__
-  - [https://papers.labml.ai/papers/daily][daily_papers]
+  - [https://papers.labml.ai/papers/daily][daily_papers]{:target="_blank"}
 - __DeepMind Blog__
-  - [https://www.deepmind.com/blog][deep]
+  - [https://www.deepmind.com/blog][deep]{:target="_blank"}
 - __OpenAI Blog__
-  - [https://openai.com/blog/][open]
+  - [https://openai.com/blog/][open]{:target="_blank"}
 - __Paul Graham__
-  - [http://paulgraham.com/articles.html][graham]
+  - [http://paulgraham.com/articles.html][graham]{:target="_blank"}
 - __Papers With Code__
-  - [https://paperswithcode.com/][code]
+  - [https://paperswithcode.com/][code]{:target="_blank"}
 - __Open Philanthropy__
-  - [https://www.openphilanthropy.org/blog][opne_phil]
+  - [https://www.openphilanthropy.org/blog][open_phil]{:target="_blank"}
 - __80000 Hours__
-  - [https://80000hours.org/][hours]
+  - [https://80000hours.org/][hours]{:target="_blank"}
 - __Sarah Constantin__
-  - [https://srconstantin.github.io/about/][constantin]
+  - [https://srconstantin.github.io/about/][constantin]{:target="_blank"}
 - __Chris Olah__
-  - [https://colah.github.io/][olah]
+  - [https://colah.github.io/][olah]{:target="_blank"}
 - __Terence Tao__
-  - [https://terrytao.wordpress.com/][tao]
+  - [https://terrytao.wordpress.com/][tao]{:target="_blank"}
 - __Reducing Suffering__
-  - [https://reducing-suffering.org/][reducing]
+  - [https://reducing-suffering.org/][reducing]{:target="_blank"}
 - __Future of Life Institute__
-  - [https://futureoflife.org/][fli]
+  - [https://futureoflife.org/][fli]{:target="_blank"}
 - __Neel Nanda__
-  - [https://www.neelnanda.io/][neel]
+  - [https://www.neelnanda.io/][neel]{:target="_blank"}
 - __Cold Takes__
-  - [https://www.cold-takes.com/][cold]
+  - [https://www.cold-takes.com/][cold]{:target="_blank"}
 - __Katja Grace__
-  - [https://katjagrace.com/][katjag]
+  - [https://katjagrace.com/][katjag]{:target="_blank"}
 - __Luke Muehlhauser__
-  - [https://lukemuehlhauser.com/][luke_m]
+  - [https://lukemuehlhauser.com/][luke_m]{:target="_blank"}
 - __Nintil__
-  - [https://nintil.com/][nin]
-  - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging)
+  - [https://nintil.com/][nin]{:target="_blank"}
+  - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging){:target="_blank"}
 - __Pablo Stafforini__
-  - [https://www.stafforini.com/blog/][pablo]
-  - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/)
+  - [https://www.stafforini.com/blog/][pablo]{:target="_blank"}
+  - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/){:target="_blank"}
 - __Longtermism__
-  - [https://longtermism.com/][longterm]
+  - [https://longtermism.com/][longterm]{:target="_blank"}
 - __Yannic Kilcher__
-  - [https://www.youtube.com/c/YannicKilcher/videos][yannic]
+  - [https://www.youtube.com/c/YannicKilcher/videos][yannic]{:target="_blank"}
 - __Milan Cvitkovic__
-  - [https://milan.cvitkovic.net/about/][milan]
-  - [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+  - [https://milan.cvitkovic.net/about/][milan]{:target="_blank"}
+  - [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/){:target="_blank"}
 - __Will MacAskill__
-  - [https://www.williammacaskill.com/][will_ea]
+  - [https://www.williammacaskill.com/][will_ea]{:target="_blank"}
 - __Toby Ord__
-  - [https://www.tobyord.com/][toby_ord]
+  - [https://www.tobyord.com/][toby_ord]{:target="_blank"}
 - __Paul Christiano__
-  - [https://paulfchristiano.com/][pchrist]
+  - [https://paulfchristiano.com/][pchrist]{:target="_blank"}
 - __Nick Bostrom__
-  - [https://nickbostrom.com/][bostrom]
+  - [https://nickbostrom.com/][bostrom]{:target="_blank"}
 - __Ryan Beck__
-  - [https://www.ryanbeckauthor.com/][ryanbeck]
+  - [https://www.ryanbeckauthor.com/][ryanbeck]{:target="_blank"}
 - __Steve Hsu__
-  - [https://infoproc.blogspot.com/][hsu]
+  - [https://infoproc.blogspot.com/][hsu]{:target="_blank"}
 
 
 [hsu]: https://infoproc.blogspot.com/ "https://infoproc.blogspot.com/"
@@ -128,9 +128,6 @@ description: "An unordered list of websites I like, along with the two pieces I 
 [deep]: https://www.deepmind.com/blog "https://www.deepmind.com/blog"
 [open]: https://openai.com/blog/ "https://openai.com/blog/"
 [code]: https://paperswithcode.com/ "https://paperswithcode.com/"
-
-
-{:target="_blank"}
 
 <br>
 
