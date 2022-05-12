@@ -205,7 +205,6 @@ Note that I am using FireFox, so this means "Page 3" corresponds to me clicking 
     - Attitudes of people with inherited retinal conditions toward gene editing technology. (https://pubmed.ncbi.nlm.nih.gov/31190471/)
   - Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (https://www.nature.com/articles/s10038-022-01042-z) (?)
     - The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/)
-    - Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (https://pubmed.ncbi.nlm.nih.gov/32737393/)
 
 #### Other Resources
 
@@ -231,7 +230,10 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |Title (Year)|Authors|Link|Extent|
 |:---|:---|:---|:---|
 |AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|1/9|
+|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|1/9|
+|Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (2022)|Shinobu Kobayashi, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama1, Masato Uchiyama, Kaori Muto, Yasuto Takeuchi, Masaki Taira, Haruhiko Sago, and Kenji Takehara|[https://www.nature.com/articles/s10038-022-01042-z][jap_gene_2022]{:target="_blank"} and [here][jap_gene_2022_DL]{:target="_blank"}|1/9|
 |The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (2021)|Margaret Waltz, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan|[https://pubmed.ncbi.nlm.nih.gov/34406038/][view_from_benches_2021]{:target="_blank"} and [here][view_from_benches_2021_DL]{:target="_blank"}|1/9|
+|Revising, Correcting, and Transferring Genes. (2021)|Bryan Cwik|[https://pubmed.ncbi.nlm.nih.gov/32757931/][rev_corr_gene_2021]{:target="_blank"} and [here][rev_corr_gene_2021_DL]{:target="_blank"}|1/9|
 |Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (2021)|Maria Cristina Yunes, Zimbábwe Osório-Santos, Marina A. G. von Keyserlingk, and Maria José Hötzel|[https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"}|1/9|
 |What we know about effective public engagement on CRISPR and beyond (2021)|Dietram A Scheufele, Nicole M Krause, Isabelle Freiling, Dominique Brossard|[https://pubmed.ncbi.nlm.nih.gov/34050014/][what_we_crispr_2021]{:target="_blank"} and [here][what_we_crispr_2021_DL]{:target="_blank"}|1/9|
 |Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (2021)|Safira Nur Izzah, Dimas Setyanto, Nurina Hasanatuludhhiyah, Danti Nur Indiastuti, Zamal Nasution, and Annette d’Arqom|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106925/][indo_gene_2021]{:target="_blank"} and [here][indo_gene_2021_DL]{:target="_blank"}|1/9|
@@ -253,6 +255,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (2018)|Christoph Rehmann-Sutter|[https://pubmed.ncbi.nlm.nih.gov/29529985/][why_gen_edit_more_2018]{:target="_blank"} and [here][why_gen_edit_more_2018_DL]{:target="_blank"}|1/9|
 |Genome editing and assisted reproduction: curing embryos, society or prospective parents? (2018)|Giulia Cavaliere|[https://pubmed.ncbi.nlm.nih.gov/28725950/][gen_assist_cure_2018]{:target="_blank"} and [here][gen_assist_cure_2018_DL]{:target="_blank"}|1/9|
 |What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
+|Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (2017)|Stephan Guttinger|[https://link.springer.com/article/10.1007/s11948-017-9931-1][trust_sci_2017]{:target="_blank"} and [here][trust_sci_2017_DL]{:target="_blank"}|1/9|
 |What are the Ethical Concerns of Genome Editing? (2017?)|National Human Genome Research Institute|[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns][ethical_concerns_gen_2017?]{:target="_blank"} and [here][ethical_concerns_gen_2017?_DL]{:target="_blank"}|1/9|
 |U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
 |The ethics of creating genetically modified children using genome editing (2017)|Tetsuya Ishii|[https://pubmed.ncbi.nlm.nih.gov/28885275/][ethic_gen_child_2017]{:target="_blank"} and [here][ethic_gen_child_2017_DL]{:target="_blank"}|1/9|
@@ -285,6 +288,26 @@ get the PDF metadata for authors -->
 <!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 [heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
 [heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+<!-- |Attitudes towards genome editing among university students in Costa Rica ()||[https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea][]{:target="_blank"}|0/9|
+[costa_rica_]: https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea "https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea" -->
+
+
+<!-- |Liberal arts student impressions of opportunities in gene editing ()||[https://www.jstor.org/stable/26849521][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[liberal_]: https://www.jstor.org/stable/26849521 "https://www.jstor.org/stable/26849521"
+[liberal__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+
+<!-- |Making sense of heritable human genome editing: Scientific and ethical considerations (2021)||[https://pubmed.ncbi.nlm.nih.gov/34175039/][scie_ethic_gen_2021]{:target="_blank"} and [here][scie_ethic_gen_2021_DL]{:target="_blank"}|1/9|
+[scie_ethic_gen_2021]: https://pubmed.ncbi.nlm.nih.gov/34175039/ "https://pubmed.ncbi.nlm.nih.gov/34175039/"
+[scie_ethic_gen_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+ -->
+
+ <!-- |What do People Think About Genome Editing? (2017)||[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+ [thoughts_gen_]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion"
+ [thoughts_gen__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
+
 
 [set_limits_2021]: https://pubmed.ncbi.nlm.nih.gov/34050016/ "https://pubmed.ncbi.nlm.nih.gov/34050016/"
 [set_limits_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/set_limits_2021_DL.pdf
@@ -332,26 +355,11 @@ get the PDF metadata for authors -->
 [pred_moral_attitude_2019]: https://pubmed.ncbi.nlm.nih.gov/30687386/ "https://pubmed.ncbi.nlm.nih.gov/30687386/"
 [pred_moral_attitude_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/pred_moral_attitude_2019_DL.pdf
 
-
-<!-- |Attitudes towards genome editing among university students in Costa Rica ()||[https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea][]{:target="_blank"}|0/9|
-[costa_rica_]: https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea "https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea" -->
-
-
-<!-- |Liberal arts student impressions of opportunities in gene editing ()||[https://www.jstor.org/stable/26849521][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[liberal_]: https://www.jstor.org/stable/26849521 "https://www.jstor.org/stable/26849521"
-[liberal__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
-
 [what_we_want_2017]: https://pubmed.ncbi.nlm.nih.gov/28974517/ "https://pubmed.ncbi.nlm.nih.gov/28974517/"
 [what_we_want_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/what_we_want_2017_DL.pdf
 
 [ethical_concerns_gen_2017?]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
 [ethical_concerns_gen_2017?_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethical_concerns_gen_2017?_DL.html
-
-<!-- |Making sense of heritable human genome editing: Scientific and ethical considerations (2021)||[https://pubmed.ncbi.nlm.nih.gov/34175039/][scie_ethic_gen_2021]{:target="_blank"} and [here][scie_ethic_gen_2021_DL]{:target="_blank"}|1/9|
-[scie_ethic_gen_2021]: https://pubmed.ncbi.nlm.nih.gov/34175039/ "https://pubmed.ncbi.nlm.nih.gov/34175039/"
-[scie_ethic_gen_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
- -->
 
 [public_view_gen_2018]: https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/ "https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/"
 [public_view_gen_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/public_view_gen_2018_DL.pdf
@@ -374,36 +382,25 @@ get the PDF metadata for authors -->
 [ai_enhance_2022]: https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/ "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/"
 [ai_enhance_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/ai_enhance_2022_DL.pdf
 
-<!-- |What do People Think About Genome Editing? (2017)||[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[thoughts_gen_]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion"
-[thoughts_gen__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
-
 [china_gene_2018]: https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf
 [china_gene_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/china_gene_2018_DL.pdf
-
 
 [germ_1500_2020]: https://www.nature.com/articles/s10038-020-0810-2 "https://www.nature.com/articles/s10038-020-0810-2"
 [germ_1500_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/germ_1500_2020_DL.pdf
 
-
 [indo_gene_2021]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106925/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106925/"
 [indo_gene_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/indo_gene_2021_DL.pdf
 
-|Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing ()||[https://link.springer.com/article/10.1007/s11948-017-9931-1][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[trust_sci_]: https://link.springer.com/article/10.1007/s11948-017-9931-1 "https://link.springer.com/article/10.1007/s11948-017-9931-1"
-[trust_sci__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
-
+[trust_sci_2017]: https://link.springer.com/article/10.1007/s11948-017-9931-1 "https://link.springer.com/article/10.1007/s11948-017-9931-1"
+[trust_sci_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/trust_sci_2017_DL.pdf
 
 [prof_gene_2019]: https://pubmed.ncbi.nlm.nih.gov/31599688/ "https://pubmed.ncbi.nlm.nih.gov/31599688/"
 [prof_gene_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/prof_gene_2019_DL.pdf
 
-
-
 [clin_gene_2019]: https://pubmed.ncbi.nlm.nih.gov/31331245/ "https://pubmed.ncbi.nlm.nih.gov/31331245/"
 [clin_gene_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/clin_gene_2019_DL.pdf
 
-|Revising, Correcting, and Transferring Genes. (2021)||[https://pubmed.ncbi.nlm.nih.gov/32757931/][rev_corr_gene_2021]{:target="_blank"} and [here][rev_corr_gene_2021_DL]{:target="_blank"}|1/9|
+
 [rev_corr_gene_2021]: https://pubmed.ncbi.nlm.nih.gov/32757931/ "https://pubmed.ncbi.nlm.nih.gov/32757931/"
 [rev_corr_gene_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/rev_corr_gene_2021_DL.pdf
 
@@ -411,18 +408,12 @@ get the PDF metadata for authors -->
 [ret_gene_2019]: https://pubmed.ncbi.nlm.nih.gov/31190471/ "https://pubmed.ncbi.nlm.nih.gov/31190471/"
 [ret_gene_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/ret_gene_2019_DL.pdf
 
-|Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders ()||[https://www.nature.com/articles/s10038-022-01042-z][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[jap_gene_]: https://www.nature.com/articles/s10038-022-01042-z "https://www.nature.com/articles/s10038-022-01042-z"
-[jap_gene__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+[jap_gene_2022]: https://www.nature.com/articles/s10038-022-01042-z "https://www.nature.com/articles/s10038-022-01042-z"
+[jap_gene_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/jap_gene_2022_DL.pdf
 
 
-|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study ()||[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[gene_baby_]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/"
-[gene_baby__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
-
-|Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public ()||[https://pubmed.ncbi.nlm.nih.gov/32737393/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[gene_exp_]: https://pubmed.ncbi.nlm.nih.gov/32737393/ "https://pubmed.ncbi.nlm.nih.gov/32737393/"
-[gene_exp__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+[gene_baby_2022]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/"
+[gene_baby_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/gene_baby_2022_DL.pdf
 
 
 ### [Expert Questioning](#expert-questioning)
