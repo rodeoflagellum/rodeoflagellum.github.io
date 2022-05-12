@@ -119,12 +119,21 @@ __Main Axes of Attitude__
 ## [Appendix](#appendices)
 
 ### [The Landscape](#landscape)
+_The process of finding research on what people think of human gene-editing_
 
-For some of the sections below (e.g., OpenAlex Queries), the list structure is organized in the following manner: the outermost list is what I searched (a query, phrase, or explanation); the next indented list are the results I found directly from that query or phrase; and all subsequent nested lists are results I found from looking at the references or links in those results. I did not include the quotes when I searched for a phrase (e.g., "attitudes toward human gene-editing" means I searched [attitudes toward human gene-editing] not ["attitudes toward human gene-editing"]). The "here" links will open a PDF of the research or an HTML page; if there is a "?" that means I couldn't find the paper. If I come across a research work that appeared in an earlier search, I do not include it more than once.
+Before writing this report, I had to start somewhere - I had to get a map of the landscape of research on people's attitudes towards human gene-editing. To do this, I came up with a list of search terms that I thought might be useful.
+
+I began by searching for "human gene editing survey" on OpenAlex, looking at years in the interval [2016,2021]. I did not include results from the search that I thought weren't especially relevant to people's attitudes towards human gene-editing (e.g., the OpenAlex query <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021> produces the result "_Consumer valuation of and attitudes towards novel foods produced with new plant engineering techniques: A review_", which I did not include). Next, I searched for "attitudes towards human gene-editing" on Google, looking at the first 3 pages of results (this means clicking "More Results" 2 times) on FireFox.
+
+It's worth noting that each search did not include quotation marks; this means that my searches were not for the exact phrases _human gene editing survey_ or _attitudes towards human gene-editing_ (e.g., "attitudes toward human gene-editing" means I searched [attitudes toward human gene-editing] not ["attitudes toward human gene-editing"]).
+
+I conducted my searches during the first 15 days of May 2022. Ideally, I would search for all of the terms in the Search Terms list on all of the following: Google Scholar, CrossRef, OpenAlex, and Google.
+
+There are many search terms listed below, but I only ended up searching for "human gene editing survey" on OpenAlex and "attitudes towards human gene-editing" on Google. I noticed that there were many articles repeated in my second search (I did not include duplicates between searches), and decided that searching the remaining terms would not be worth my time, given the diminishing returns. Also, I anticipated that, if I found myself still requiring more evidence or surveys, I could always look at the references of the works I did find or begin the searching over again.
+
+In the query-lists below (OpenAlex Queries and Google Queries), the list structure is organized in the following manner: the outermost list is what I searched (a query, phrase, or a remark indicating that I forgot what I originally searched); the next sub-list are the relevant results returned from that query or phrase; and all subsequent nested lists are the works I found from looking at the references or links of a specific result. I did not include the quotes when I searched for a phrase (). The "here" links will open a PDF of the research or an HTML page; if there is a "?" that means I couldn't find the paper. If I come across a research work that appeared in an earlier search, I do not include it more than once.
 
 #### Search Phrases
-
-These are the search terms I originally intended to look through. I did not get through all of them - the ones I did not look into are italicized. As you can see, most are italicized. After searching for "human gene editing survey", I already began experiencing diminishing returns with the search "attitudes towards human gene-editing". I expect that for many of these queries below, I would get many of the same results. I believe that the 35 search hits I got from simply searching "human gene editing survey" and "attitudes towards human gene-editing" are sufficient for this essay. I expect to find many more results when I comb through the references and links in these articles more extensively. I conduct the searching below during the first 15 days of May 2022. Ideally, I would search for all of these phrases on Google Scholar, CrossRef, OpenAlex, and Google.
 
 - _"survey on human gene-editing"_
 - _"survey on human gene editing"_
@@ -180,15 +189,13 @@ These are the search terms I originally intended to look through. I did not get 
 
 #### Google Queries
 
-Note that I am using FireFox, so this means "Page 3" corresponds to me clicking "More Results" twice.
-
 - Cannot recall what I searched / Previous knowledge of this work
   - What are the Ethical Concerns of Genome Editing? (https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns)
   - Making sense of heritable human genome editing: Scientific and ethical considerations (https://pubmed.ncbi.nlm.nih.gov/34175039/)
   - Public Views of Gene Editing for Babies Depend on How It Would Be Used (https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/)
     - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/)
     - Chapter 5: Public Views About Biomedical Issues (https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/)
-- "attitudes toward human gene-editing" (first 2 pages)
+- "attitudes toward human gene-editing" (first 3 pages)
   - U.S. attitudes on human genome editing (https://www.science.org/doi/10.1126/science.aan3708)
   - A Global Social Media Survey of Attitudes to Human Genome Editing (https://www.sciencedirect.com/science/article/pii/S1934590916300546)
   - Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies
