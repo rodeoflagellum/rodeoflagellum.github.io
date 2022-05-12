@@ -74,6 +74,8 @@ glossary section  -->
 
 ## [Gene-Editing](#gene-editing)
 
+At the outset of writing this, my
+
 [Back to top](#top)
 
 ### [Editing Human Genes](#human-gene-editing)
@@ -233,7 +235,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (2021)|Maria Cristina Yunes, Zimbábwe Osório-Santos, Marina A. G. von Keyserlingk, and Maria José Hötzel|[https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"}|1/9|
 |What we know about effective public engagement on CRISPR and beyond (2021)|Dietram A Scheufele, Nicole M Krause, Isabelle Freiling, Dominique Brossard|[https://pubmed.ncbi.nlm.nih.gov/34050014/][what_we_crispr_2021]{:target="_blank"} and [here][what_we_crispr_2021_DL]{:target="_blank"}|1/9|
 |Setting ethical limits on human gene editing after the fall of the somatic/germline barrier (2021)|John H Evans|[https://pubmed.ncbi.nlm.nih.gov/34050016/][set_limits_2021]{:target="_blank"} and [here][set_limits_2021_DL]{:target="_blank"}|1/9|
-|The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (2020)|Marcelo de Araujo|[https://www.mdpi.com/2409-9287/5/3/20][ethic_gen_cog_2020]{:target="_blank"} and [here][ethic_gen_cog_2020_DL]{:target="_blank"}|1/9|
+|The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (2020)|Marcelo de Araujo|[https://www.mdpi.com/2409-9287/5/3/20][edit_or_embryo_2020_DL]{:target="_blank"} and [here][edit_or_embryo_2020_DL]{:target="_blank"}|1/9|
 |What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (2020)|Emily L Howell, Shiyu Yang, Becca Beets, Dominique Brossard, Dietram A Scheufele, Michael A Xenos|[https://pubmed.ncbi.nlm.nih.gov/34050016/][what_we_know_crispr_2020]{:target="_blank"} and [here][what_we_know_crispr_2020_DL]{:target="_blank"}|1/9|
 |Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (2020)|Leonardo Fernandes Moutinho Rocha, Luiza Amara Maciel Braga, and Fabio Batista Mota|[https://pubmed.ncbi.nlm.nih.gov/32718240/][survey_treat_res_2020]{:target="_blank"} and [here][survey_treat_res_2020_DL]{:target="_blank"}|1/9|
 |Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
@@ -245,6 +247,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (2018)|Tristan McCaughey, David M Budden, Paul G Sanfilippo, George EC Gooden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Alice Pébay, Timothy Baldwin, and Alex W Hewitt|[https://pubmed.ncbi.nlm.nih.gov/29926763/][need_determine_2018]{:target="_blank"} and [here][need_determine_2018_DL]{:target="_blank"}|1/9|
 |Public Views of Gene Editing for Babies Depend on How It Would Be Used (2018)||[https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/][public_view_gen_2018]{:target="_blank"} and [here][public_view_gen_2018_DL]{:target="_blank"}|1/9|
 |Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (2018)|Christoph Rehmann-Sutter|[https://pubmed.ncbi.nlm.nih.gov/29529985/][why_gen_edit_more_2018]{:target="_blank"} and [here][why_gen_edit_more_2018_DL]{:target="_blank"}|1/9|
+|Genome editing and assisted reproduction: curing embryos, society or prospective parents? (2018)|Giulia Cavaliere|[https://pubmed.ncbi.nlm.nih.gov/28725950/][gen_assist_cure_2018]{:target="_blank"} and [here][gen_assist_cure_2018_DL]{:target="_blank"}|1/9|
 |What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
 |What are the Ethical Concerns of Genome Editing? (2017?)|National Human Genome Research Institute|[https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns][ethical_concerns_gen_2017?]{:target="_blank"} and [here][ethical_concerns_gen_2017?_DL]{:target="_blank"}|1/9|
 |U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
@@ -268,13 +271,22 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
 | ()||[][]{:target="_blank"} and [here][]{:target="_blank"}|1/9| -->
 
+<!-- The quickest way
+Rename the PDFs with the year
+use this as the tag source
+get the PDF metadata for authors -->
+
+
+<!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
+[heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
+[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
+
 [set_limits_2021]: https://pubmed.ncbi.nlm.nih.gov/34050016/ "https://pubmed.ncbi.nlm.nih.gov/34050016/"
 [set_limits_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/set_limits_2021_DL.pdf
 
 [what_we_know_crispr_2020]: https://pubmed.ncbi.nlm.nih.gov/33560915/ "https://pubmed.ncbi.nlm.nih.gov/33560915/"
 [what_we_know_crispr_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/what_we_know_crispr_2020_DL.pdf
 
-https://pubmed.ncbi.nlm.nih.gov/34050014/
 
 [view_from_benches_2021]: https://pubmed.ncbi.nlm.nih.gov/34406038/ "https://pubmed.ncbi.nlm.nih.gov/34406038/"
 [view_from_benches_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/view_from_benches_2021_DL.pdf
@@ -285,30 +297,21 @@ https://pubmed.ncbi.nlm.nih.gov/34050014/
 [ethic_gen_cog_2020]: https://www.mdpi.com/2409-9287/5/3/20 "https://www.mdpi.com/2409-9287/5/3/20"
 [ethic_gen_cog_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethic_gen_cog_2020_DL.pdf
 
-
-<!-- |Heritable Human Genome Editing: The Public Engagement Imperative ()||[https://pubmed.ncbi.nlm.nih.gov/33346718/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[heritable_gen_edit_pub_eng_]: https://pubmed.ncbi.nlm.nih.gov/33346718/ "https://pubmed.ncbi.nlm.nih.gov/33346718/"
-[heritable_gen_edit_pub_eng__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf -->
-
-
 [what_we_crispr_2021]: https://pubmed.ncbi.nlm.nih.gov/34050014/ "https://pubmed.ncbi.nlm.nih.gov/34050014/"
 [what_we_crispr_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/what_we_crispr_2021_DL.pdf
-
 
 [reex_ethics_wake_2019]: https://pubmed.ncbi.nlm.nih.gov/32029087/ "https://pubmed.ncbi.nlm.nih.gov/32029087/"
 [reex_ethics_wake_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/reex_ethics_wake_2019_DL.pdf
 
-
 [why_gen_edit_more_2018]: https://pubmed.ncbi.nlm.nih.gov/29529985/ "https://pubmed.ncbi.nlm.nih.gov/29529985/"
 [why_gen_edit_more_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/why_gen_edit_more_2018_DL.pdf
-
 
 [ethic_gen_child_2017]: https://pubmed.ncbi.nlm.nih.gov/28885275/ "https://pubmed.ncbi.nlm.nih.gov/28885275/"
 [ethic_gen_child_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethic_gen_child_2017_DL.pdf
 
-|Genome editing and assisted reproduction: curing embryos, society or prospective parents? ()||[https://pubmed.ncbi.nlm.nih.gov/28725950/][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[gen_assist_cure_]: https://pubmed.ncbi.nlm.nih.gov/28725950/ "https://pubmed.ncbi.nlm.nih.gov/28725950/"
-[gen_assist_cure__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+
+[gen_assist_cure_2018]: https://pubmed.ncbi.nlm.nih.gov/28725950/ "https://pubmed.ncbi.nlm.nih.gov/28725950/"
+[gen_assist_cure_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
 
 
 
@@ -317,14 +320,8 @@ https://pubmed.ncbi.nlm.nih.gov/34050014/
 [select_modify_better__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
 
 
-<!-- The quickest way
-Rename the PDFs with the year
-use this as the tag source
-get the PDF metadata for authors -->
-
-|The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? ()||[https://www.mdpi.com/2409-9287/5/3/20][]{:target="_blank"} and [here][]{:target="_blank"}|1/9|
-[edit_or_embryo_]: https://www.mdpi.com/2409-9287/5/3/20 "https://www.mdpi.com/2409-9287/5/3/20"
-[edit_or_embryo__DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+[edit_or_embryo_2020]: https://www.mdpi.com/2409-9287/5/3/20 "https://www.mdpi.com/2409-9287/5/3/20"
+[edit_or_embryo_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/edit_or_embryo_2020_DL.pdf
 
 
 [survey_treat_res_2020]: https://pubmed.ncbi.nlm.nih.gov/32718240/ "https://pubmed.ncbi.nlm.nih.gov/32718240/"

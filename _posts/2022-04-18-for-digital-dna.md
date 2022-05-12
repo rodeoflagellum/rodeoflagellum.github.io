@@ -18,6 +18,15 @@ __Disclaimer__:
 
 __Glossary__:
 
+
+<!-- Search DNA Digital Data Storage on
+google scholar
+first 16 pages,
+dont keep all
+
+search web of science
+google scholar  -->
+
 ---
 
 ## [Table of Contents](#toc)
