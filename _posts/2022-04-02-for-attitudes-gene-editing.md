@@ -398,7 +398,7 @@ Thank you to Ryan Beck and Ege Erdil for providing some feedback on this templat
 
 > Title: Human Gene-Editing Inquiry - [my actual name]
 >
-> (summary): request for your forecasts on people attitudes towards human gene-editing
+> __(summary)__: request for your forecasts on people's attitudes towards human gene-editing
 >
 > Dear [Author],
 >
