@@ -219,7 +219,13 @@ Research that I found later on as a result of looking up references or links of 
 
 #### Other Resources Used
 
--
+- CRISPR People: The Science and Ethics of Editing Humans (2021)
+- Genome Engineering via CRISPR-Cas9 System (2020)
+- Human Flourishing in an Age of Gene Editing (2019)
+- Altered Inheritance: CRISPR and the Ethics of Human Genome Editing (2019)
+- Gene Editing, Law, and the Environment: Life Beyond the Human (2019)
+- Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing (2018)
+- Human Genome Editing: Science, Ethics, and Governance (2017)
 
 #### Table of Covered Research
 
