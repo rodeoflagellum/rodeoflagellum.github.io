@@ -87,8 +87,11 @@ description: "An unordered list of websites I like, along with the two pieces I 
   - [https://www.ryanbeckauthor.com/][ryanbeck]{:target="_blank"}
 - __Steve Hsu__
   - [https://infoproc.blogspot.com/][hsu]{:target="_blank"}
+- __Robin Shah__
+  - [https://rohinshah.com/][robin]{:target="_blank"}
 
 
+[robin]: https://rohinshah.com/ "https://rohinshah.com/"
 [hsu]: https://infoproc.blogspot.com/ "https://infoproc.blogspot.com/"
 [ryanbeck]: https://www.ryanbeckauthor.com/ "https://www.ryanbeckauthor.com/"
 [bostrom]: https://nickbostrom.com/ "https://nickbostrom.com/"
