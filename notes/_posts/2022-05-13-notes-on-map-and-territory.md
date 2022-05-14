@@ -5,7 +5,7 @@ title:  "Notes on \"Map and Territory\""
 date:  2022-05-13 14:08:00 -0400
 modified: 2022-05-13 08:30:00 -0400
 permalink: "/notes_on_map_and_territory/"
-description: "Some notes on Map and Territory, the first book of The Sequences"
+description: "Some notes on Map and Territory, the first book in The Sequences"
 tags: [rationality, psychology]
 type: Notes
 extent: (2/6)
@@ -43,7 +43,7 @@ From Wikipedia, Weber–Fechner's Law
 
 ## Burdensome Details
 
-Remember, $P(A \cap B) \leq P(A)$ and $P(A \cap B) \leq P(B)$. 
+Remember, $P(A \cap B) \leq P(A)$ and $P(A \cap B) \leq P(B)$.
 
 > By adding extra details, you can make an outcome seem _more_ characteristic of the process that generates it.
 > ...

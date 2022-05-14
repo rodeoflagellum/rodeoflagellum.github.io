@@ -30,6 +30,20 @@ status: "Notes"
 
 [Back to top](#top)
 
+
+### [The Landscape](#landscape)
+
+
+#### Google Queries
+
+- "human enhancement" (05/13/2022)
+  - Human enhancement (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788211/>)
+
+- "iterated embryo selection" (05/13/2022)
+  - Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer? (https://nickbostrom.com/papers/embryo.pdf)
+  - Embryo Selection For Intelligence (https://www.gwern.net/Embryo-selection)
+  - Ethics Issues Raised by Human Enhancement (https://www.bbvaopenmind.com/en/articles/ethics-issues-raised-by-human-enhancement/)
+
 ---
 
 ## [Further Reading](#further-reading)
