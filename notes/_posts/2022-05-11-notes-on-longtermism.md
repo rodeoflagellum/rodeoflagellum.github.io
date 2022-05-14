@@ -5,7 +5,6 @@ title:  "Notes on Longtermism and Global Priorities"
 date:  2022-05-12 8:08:00 -0400
 modified: 2022-05-12 9:10:00 -0400
 permalink: "/notes_on_longtermism/"
-description: "An evolving collection of my notes on some works of longtermism and global priorities."
 tags: [longtermism, global-priorities]
 type: Notes
 status: Ongoing
@@ -36,9 +35,17 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 
 ---
 
-## Questions Concerning Humanity  
+## [Glossary](#glossary)
 
-### Before or During Reading
+This is an ongoing glossary of terms, theorems, and definitions.
+
+---
+
+## [Beliefs and Questions Before Reading](#before-reading)
+_Questions to Expose my Naivity I come up with not having read much or that aren't grounded in a particular reading_
+
+
+__General__
 
 - How should a contemporaneous human life be valued monetarily or morally?
 - How do things like age, sex, disability affect the value of a human life?
@@ -50,8 +57,13 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 - What major problems does humanity face?
 - What are the bottlenecks preventing humanity from solving these problems?
 
-### After Reading
 
+## [Beliefs and Questions After Reading](#after-reading)
+_An accumulation of the questions I've asked across the rest of this document_
+
+__The Case for Longtermism__
+
+-
 
 ## [Topics in Global Priorities Research][topics_in_gpr]
 
@@ -59,7 +71,16 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 
 ### The Case for Longtermism
 
-### Astronomical Waste
+- Author:
+- Written:
+- Extent:
+- Durability:
+
+___Notes, Quotes, Questions, Critiques, and Comments___
+
+___Review___
+
+<!-- ### Astronomical Waste
 
 ### On the Overwhelming Importance of Shaping the Far Future
 
@@ -193,4 +214,4 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 
 ### Were the Great Tragedies of History “Mere Ripples”?: The Case Against Longtermism
 
-### Utopian Neuroscience?
+### Utopian Neuroscience? -->
