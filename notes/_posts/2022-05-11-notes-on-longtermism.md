@@ -3,7 +3,7 @@ layout: post
 category: misc
 title:  "Notes on Longtermism and Global Priorities"
 date:  2022-05-12 8:08:00 -0400
-modified: 2022-05-12 9:10:00 -0400
+modified: 2022-05-14 9:10:00 -0400
 permalink: "/notes_on_longtermism/"
 tags: [longtermism, global-priorities]
 type: Notes
