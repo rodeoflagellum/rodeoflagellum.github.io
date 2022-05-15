@@ -313,7 +313,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 [ethic_gen_child_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethic_gen_child_2017_DL.pdf
 
 [gen_assist_cure_2018]: https://pubmed.ncbi.nlm.nih.gov/28725950/ "https://pubmed.ncbi.nlm.nih.gov/28725950/"
-[gen_assist_cure_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/.pdf
+[gen_assist_cure_2018_DL]: /assets/2022/for_attitudes_gene_editing/docs/gen_assist_cure_2018_DL.pdf
 
 [select_modify_better_2019]: https://pubmed.ncbi.nlm.nih.gov/31752935/ "https://pubmed.ncbi.nlm.nih.gov/31752935/"
 [select_modify_better_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/select_modify_better_2019_DL.pdf
@@ -402,7 +402,9 @@ Asking people for help or information is a relatively low-cost enterprise. As su
 
 #### *Templates*
 
-Thank you to Ryan Beck and Ege Erdil for providing some feedback on these templates. The first template was sent to 1 research before I revised it. The revised template was only sent to the corresponding authors of all the articles I have listed in "Table of Covered Research"
+Thank you Ryan Beck and Ege Erdil for providing some feedback on the first of these templates. This template was sent to 1 researcher. I revised the template (the second one) to address only the corresponding authors of the articles I listed in "Table of Covered Research". If the another author's email was present in the research document, I emailed them as well.
+
+__Template 1__
 
 > Title: Human Gene-Editing Inquiry - [my actual name]
 >
@@ -410,7 +412,7 @@ Thank you to Ryan Beck and Ege Erdil for providing some feedback on these templa
 >
 > Dear [Author],
 >
-> I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. My essay will be hosted on Metaculus.com (a crowd forecasting platform that focuses on scientific and technological change). I am not affiliated with Metaculus, but do forecast there.
+> I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. My essay will be hosted on [Metaculus.com](https://www.metaculus.com/questions/) (a crowd forecasting platform that focuses on scientific and technological change). I am not affiliated with Metaculus, but do forecast there.
 >
 I recently came across your work [paper I read] in my review, and really [found this part helpful]/[it useful]. Given your experience with research directly involved with or adjacent to gene-editing, I am interested in hearing your thoughts on the questions:
 >
@@ -433,6 +435,34 @@ __What will be the cumulative number of genetically edited babies born by 2030, 
 >
 > Kind Regards,<br>
 > [My actual name]
+
+__Template 2__
+
+> Title: Forecasting Gene-Editing - [my actual name]
+>
+> Dear [Author],
+>
+> I am writing a short literature review (informal) on attitudes people have towards human gene-editing, for both enhancement and treatment purposes, with the goal of forecasting how people's attitudes might change in the coming years. My essay will be hosted on [Metaculus.com ](https://www.metaculus.com/questions/) (a crowd forecasting platform that focuses on scientific and technological change). I am not affiliated with Metaculus, but do forecast there.
+>
+I recently came across your work [paper I read] in my review, and really find it useful. Given your experience with research directly involved with or adjacent to gene-editing, I am interested in hearing your thoughts on the following questions (*):
+>
+Q1: __What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?__
+>
+> and
+>
+>
+Q2: __What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?__
+>
+> Any thoughts on these questions from you (and your research colleagues), even brief ones, would be helpful. It would also be helpful if you specified, on a scale of 0-100, what you believe is your current level of familiarity with human gene-editing.
+>
+>  Once I am finished with the review, I will have a set of 5-10 forecasting questions that operationalize this area of study. If you are interested in these more formal questions on people's attitudes towards gene-editing (I would love to hear your thoughts on these as well) or in the review, I can reach out to you again when they're ready.
+>
+> Thank you for taking the time to read this! I really appreciate it.
+>
+> Kind Regards,<br>
+> [My actual name]
+>
+> (*) An example response my look like: My familiarity: 23/100; Q1: Same trend, people are much less supportive of enhancement than treatment, until ~2050. Q2: 95% confidence intervals for 2030, 2050, and 2075, respectively: 1-25000, 100-1.5m, 10k-25m
 
 #### *Responses*
 
