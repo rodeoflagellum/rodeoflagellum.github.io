@@ -16,7 +16,8 @@ reading_time: "yes"
 
 
 <!-- MetaConsiderations
-Disclaimer for the EA and LW communities (impact / epistemic rigor)
+Disclaimer for the EA and LW communities (impact / epistemic rigor) (search EA for
+  gene-editing posts to get consensus, comment on your personal conversations)
 Considerations for evaluating what people think about human gene-editing
   What about non-human gene-editing?
   What about gene-editing for enhancement?
@@ -25,6 +26,8 @@ Considerations for evaluating what people think about human gene-editing
 Quote Erik Hoel on fears for the human future
 Answering all points in reasoning transparency in a disclaimer
 What to include in a takeaway
+What to include in the disclaimer
+What to include in the
 For each article
   Read each section
     Do I agree or disagree?
@@ -34,7 +37,8 @@ For each article
     How confident is the author in this claim?
     What support does the author have for their claims?
     What are the main takeaways?
-    What would it take to change the author's claims?  
+    What would it take to change the author's claims?
+    Red-team, questions, quotes, notes, etc...
 Considerations for what questions to asking about attitudes towards gene-editing
   Individual nations
   Gender breakdown
@@ -45,17 +49,17 @@ Get google scholar and openalex results for "human gene-editing" last 20 years
 Emailing the author's asap -->
 
 
-__Takeaways__:
+<!-- __Takeaways__:
 
-__Disclaimer__:
+__Disclaimer__: -->
 
-__Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject.
+<!-- __Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. -->
 
-This essay somewhat decently aggregates the ideas and survey responses concerning people's notions of human gene-editing from 35 papers.
+<!-- This essay somewhat decently aggregates the ideas and survey responses concerning people's notions of human gene-editing from 35 papers.
 
- presents offers a brief introduction to gene-editing..  
+ presents offers a brief introduction to gene-editing..   -->
 
-__Acknowledgements__:
+<!-- __Acknowledgements__: Thank you to Ryan Beck and Ege Erdil for reviewing the email template I created. Thank you to Nuño Sempere for proof-reading this essay. Thank you f -->
 
 <!-- Thank you for NunoSempere and Misha for motivating me to do this through the forecasting micro-grants program. Thank you to Metaculus for existing and hosting this essay; thank you to user alwaysrinse, RyanBeck,
 Ege Erdil, Juan Camberiero for reading this. Thank you to Ryan Beck for allowing me to meme his
@@ -72,11 +76,13 @@ glossary section  -->
 
 ---
 
+## [Glossary](#glossary)
+
 ## [Gene-Editing](#gene-editing)
 
 At the outset of writing this, my
 
-[Back to top](#top)
+
 
 ### [Editing Human Genes](#human-gene-editing)
 
@@ -98,13 +104,13 @@ __Main Axes of Attitude__
 - Age
 - Political Leaning
 
-[Back to top](#top)
+
 
 ---
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
-[Back to top](#top)
+
 
 ---
 
@@ -135,7 +141,7 @@ In the query-lists below (OpenAlex Queries and Google Queries), the list structu
 
 Research that I found later on as a result of looking up references or links of works from the search results are included under "Other Research". The "Other Resources Used" category includes some books and other resources that I found were useful. Lastly, the "Table of Covered Research" refers to the primary research works I base much of my analyses and forecasting off of; entities in this table that appeared in the initial search results are given an asterisk.  
 
-#### Search Phrases
+#### *Search Phrases*
 
 - _"survey on human gene-editing"_
 - _"survey on human gene editing"_
@@ -162,7 +168,7 @@ Research that I found later on as a result of looking up references or links of 
 - _"attitudes towards human genetic-engineering"_
 - _"attitudes towards human genetic engineering"_
 
-#### OpenAlex Queries
+#### *OpenAlex Queries*
 
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>
   - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (<https://pubmed.ncbi.nlm.nih.gov/34406038/>)
@@ -189,7 +195,7 @@ Research that I found later on as a result of looking up references or links of 
   - What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>)
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2016>
 
-#### Google Queries
+#### *Google Queries*
 
 - Cannot recall what I searched / Previous knowledge of this work
   - What are the Ethical Concerns of Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns>)
@@ -215,9 +221,11 @@ Research that I found later on as a result of looking up references or links of 
   - Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (<https://www.nature.com/articles/s10038-022-01042-z>)
     - The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/>)
 
-#### Other Research
+#### *Other Research*
 
-#### Other Resources Used
+-
+
+#### *Other Resources Used*
 
 - CRISPR People: The Science and Ethics of Editing Humans (2021)
 - Genome Engineering via CRISPR-Cas9 System (2020)
@@ -227,7 +235,7 @@ Research that I found later on as a result of looking up references or links of 
 - Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing (2018)
 - Human Genome Editing: Science, Ethics, and Governance (2017)
 
-#### Table of Covered Research
+#### *Table of Covered Research*
 
 My desire is for an explanation of "Extent" to be placed elsewhere on this site, but since I don't presently have the explanation up, I will include it here. Note that "Extent" applies to searching for something, or to reading and thinking about something.
 
@@ -392,9 +400,9 @@ How has discussion, research, and intellectual thinking on human gene-editing ch
 
 Asking people for help or information is a relatively low-cost enterprise. As such, I took the time to email most of the authors whose research I included in the "Table of Covered Research". In total, I sent x emails and, as of y, have received z responses. I've included the template I used, along with the responses I received.
 
-#### Template
+#### *Templates*
 
-Thank you to Ryan Beck and Ege Erdil for providing some feedback on this template.
+Thank you to Ryan Beck and Ege Erdil for providing some feedback on these templates. The first template was sent to 1 research before I revised it. The revised template was only sent to the corresponding authors of all the articles I have listed in "Table of Covered Research"
 
 > Title: Human Gene-Editing Inquiry - [my actual name]
 >
@@ -426,22 +434,32 @@ __What will be the cumulative number of genetically edited babies born by 2030, 
 > Kind Regards,<br>
 > [My actual name]
 
-#### Responses
+#### *Responses*
 
-### [Other Question Ideas](#question-ideas)
+
+
+### [Other Question Avenues](#question-ideas)
+
+[incomplete]
+
+
 
 ### [Blindspots](#blindspots)
 
-### [Figures](#figures)
+[incomplete]
 
 
-[Back to top](#top)
+
+### [Article Figures](#figures)
+
+#### ?
+
 
 ---
 
 ## [Further Reading](#further-reading)
 
-[Back to top](#top)
+
 
 ---
 
@@ -460,6 +478,6 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [unsplash]: https://unsplash.com/ "https://unsplash.com/"
 
-[Back to top](#top)
+
 
 ### [Footnotes](#footnotes)

@@ -113,10 +113,10 @@ Remember, (Desire / Effort / % Probability of Change)
 - Create a piece of thread art in real life using AI (70 / 70 / 60) 
 
 
----
 
-## [Notes](#notes)
 
-### [Cover Photo](#cover-photo)
+
+
+
 
 

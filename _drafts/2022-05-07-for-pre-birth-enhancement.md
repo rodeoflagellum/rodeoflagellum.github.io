@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pre-Birth Human Enhancement"
-date:  2022-05-07 11:30:00 -0400
+date:  2022-05-14 11:30:00 -0400
 modified: 2022-05-07 11:32:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
@@ -70,7 +70,6 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 [Back to top](#top)
 
 ### [Footnotes](#footnotes)
-
 
 [wiki_human_genome_editing]: https://en.wikipedia.org/wiki/Genome_editing "https://en.wikipedia.org/wiki/Genome_editing"
 
