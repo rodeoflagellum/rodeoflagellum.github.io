@@ -64,3 +64,17 @@ Thank you for taking the time to read this! I really appreciate it.
 
 Kind Regards,
 Trevor Martin
+
+
+<!-- References are aggregated citations  -->
+
+
+<!-- __Takeaways__:
+
+Look over the finished version, and come up with the 10 most important ideas
+
+__Disclaimer__:
+
+How much expertise does the author have in this area?{ Who are you, why did you write this, how much of an expert are you in this area }, has the author presented a fair or biased presentation of evidence and arguments on this topic? {what are your biases towards gene-editing?, how did you attone for these?}, what shortcuts did you take?, , how confident are you of what you've written, what type of support do I have for my claims?, what could change my mind about what I've written?, -->
+
+<!-- __Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. -->

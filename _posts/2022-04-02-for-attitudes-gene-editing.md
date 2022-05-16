@@ -48,42 +48,35 @@ Sending this to people to review on EAF, LW, asking Ege, Juan, Tamay
 Get google scholar and openalex results for "human gene-editing" last 20 years
 Emailing the author's asap -->
 
+
 __Takeaways__:
 
 - People without training in genetics generally don't support research on human gene-editing
-- Of the people without training in genetics, those who support research on human gene-editing favor gene-editing for treatment over gene-editing for enhancement
+- Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
 
 
-__Disclaimer__: _How much expertise do you have?_ - For research expertise, I have no formal training in genetics. I have a B.A. in Neuroscience and Mathematics. I have recently submitted one research paper on an application of ML for review; besides this, I haven't published any research. For forecasting expertise, I am currently rank 65 on Metaculus with an average Brier score of 0.062. Subjectively speaking, I believe I am a slightly above average forecaster, especially in terms of updating my forecasts. _What are my biases?_ - My current belief is that human gene-editing for treatment and enhancement will be GOOD. With some caution, I am optimistic about a human future involved human gene-editing. _How have you atoned for these biases?_ - I have not discussed what humanity "should do" with gene-editing, and have attempted to temper my forecasts on people's attitudes towards gene-editing with the knowledge that I presently believe that voluntarily accessible human gene-editing for enhancement would be a desirable future (i.e., I've tried to control for optimism bias). _Shortcuts?_ - I did not search as many terms relating to human gene-editing as I could have, which means I voluntarily opted to limit the scope of my review. I also did not read all 32 papers in full, but did indicate how much time I spent on them. _Epistemic confidence?_ - I would be very surprised if someone else wrote a similar essay, and found that people's attitudes on human gene-editing were very different from what I've indicated. I would be less surprised if someone's forecasts on the questions I have written differed greatly from mine. _Type of support for my claims?_ Most of the claims in my reviews are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating about causal drivers of these research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently have the social science tools to understand well. _Major Inadequacies?_ - If I had to choose some [inadequacies][gleech_metrics], I would accuse my report of Inadequate data, "Appalling prose", "Could be", and "Stating the Obvious".
+__Disclaimer__: _How much expertise do you have?_ - As for research expertise, I have no formal training in genetics. I have a B.A. in Neuroscience and Mathematics. I recently submitted one research paper on an application of ML for review; besides this, I haven't published any research. As for forecasting expertise, I am currently rank 65 on Metaculus with an average Brier score of 0.062. Subjectively speaking, I believe I am slightly above average in terms of making and updating forecasts, but still fall short of being a superforecaster. More about me can be found [here][about_me]. _What are my biases?_ - My current belief is that human gene-editing for treatment and enhancement will be GOOD. With some caution, I am optimistic about a human future involved human gene-editing. _How have you atoned for these biases?_ - I have not discussed what humanity "should do" with gene-editing, and have attempted to temper my forecasts on people's attitudes towards gene-editing with the knowledge that I presently believe that voluntarily accessible human gene-editing for enhancement would be a desirable future (i.e., I've tried to control for optimism bias). _Shortcuts?_ - I did not search as many terms relating to human gene-editing as I could have, which means I voluntarily opted to limit the scope of my review. I also did not read all 32 papers in full, but did indicate how much time I spent on them. _Epistemic confidence?_ - I would be very surprised if someone else wrote a similar essay, and found that people's attitudes on human gene-editing were very different from what I've indicated. I would be less surprised if someone's forecasts on the questions I have written differed greatly from mine. _Type of support for my claims?_ Most of the claims in my review are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating, such as when I am investigating causal drivers for these research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently have the social science tools to understand well. _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose", "Could be", and "Stating the Obvious".
 
 [gleech_metrics]: https://www.gleech.org/metrics/ "https://www.gleech.org/metrics/"
 
+[about_me]: https://rodeoflagellum.github.io/me/ "https://rodeoflagellum.github.io/me/"
+
 __Contribution__: In this essay, I have surveyed, at different levels, 32 published articles on either the ethics of gene-editing (~11) or people's attitudes towards human gene-editing (~21). I have aggregated and distilled the survey data from these articles, and have used this to generate 12 forecasting questions on people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed 24 corresponding authors and 1 other author of the 32 published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below.
 
-<!-- References are aggregated citations  -->
+__Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay. Thank you Ryan Beck (Metaculus, LW, EAF), alwaysrinse (Metaculus), Nuño Sempere (Metaculus, LW, EAF), Pablo Stafforini (Metaculus, LW, EAF), and Ege Erdil (Metaculus, LW, EAF) for reading this and providing feedback.
 
+[metaculus]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
 
-<!-- __Takeaways__:
+[ryan_beck_m]: https://www.metaculus.com/accounts/profile/117502/ "https://www.metaculus.com/accounts/profile/117502/"
 
-Look over the finished version, and come up with the 10 most important ideas
+[pablo_stafforini_m]: https://www.metaculus.com/accounts/profile/101341/ "https://www.metaculus.com/accounts/profile/101341/"
 
-__Disclaimer__:
+[alwaysrinse_m]: https://www.metaculus.com/accounts/profile/118874/ "https://www.metaculus.com/accounts/profile/118874/"
 
-How much expertise does the author have in this area?{ Who are you, why did you write this, how much of an expert are you in this area }, has the author presented a fair or biased presentation of evidence and arguments on this topic? {what are your biases towards gene-editing?, how did you attone for these?}, what shortcuts did you take?, , how confident are you of what you've written, what type of support do I have for my claims?, what could change my mind about what I've written?, -->
+[ege_erdil_m]: https://www.metaculus.com/accounts/profile/116023/ "https://www.metaculus.com/accounts/profile/116023/"
 
-<!-- __Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. -->
-
-<!-- This essay somewhat decently aggregates the ideas and survey responses concerning people's notions of human gene-editing from 35 papers.
-
- presents offers a brief introduction to gene-editing..   -->
-
-<!-- __Acknowledgements__: Thank you to Ryan Beck and Ege Erdil for reviewing the email template I created. Thank you to Nuño Sempere for proof-reading this essay. Thank you f -->
-
-<!-- Thank you for NunoSempere and Misha for motivating me to do this through the forecasting micro-grants program. Thank you to Metaculus for existing and hosting this essay; thank you to user alwaysrinse, RyanBeck,
-Ege Erdil, Juan Camberiero for reading this. Thank you to Ryan Beck for allowing me to meme his
-glossary section  -->
-
-
+<!-- For the summary sentence under each section, should it
+be a question or just an announcement? -->
 
 ---
 
@@ -94,26 +87,25 @@ glossary section  -->
 
 ---
 
-## [Glossary](#glossary)
-
 ## [Gene-Editing](#gene-editing)
+_What is some of the biology and technology involved with gene-editing?_
 
 At the outset of writing this, my
 
-
-
 ### [Editing Human Genes](#human-gene-editing)
-
+_What has been done with
 
 ---
 
 ## [Attitudes on Human Gene-Editing](#peoples-thoughts)
+_What do people think about tampering with human genes?_
 
 __Questions Relevant for This__
 
 -
 
-### [Rationale](#rationale)
+### [Drivers of These Attitudes](#rationale)
+_What factors are tied to people's attitudes on gene-editing?_
 
 __Main Axes of Attitude__
 
@@ -127,6 +119,7 @@ __Main Axes of Attitude__
 ---
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
+_What does the future landscape of opinions look like for human gene-editing?_
 
 
 
@@ -143,7 +136,6 @@ __Main Axes of Attitude__
 ## [Appendix](#appendices)
 
 ### [The Landscape](#landscape)
-_The process of finding research on what people think of human gene-editing_
 
 Before writing this report, I had to start somewhere - I had to get a map of the landscape of research on people's attitudes towards human gene-editing. To do this, I came up with a list of search terms that I thought might be useful.
 
@@ -241,7 +233,7 @@ Research that I found later on as a result of looking up references or links of 
 
 #### *Other Research*
 
--
+[not complete]
 
 #### *Other Resources Used*
 
@@ -416,11 +408,11 @@ How has discussion, research, and intellectual thinking on human gene-editing ch
 
 ### [Expert Questioning](#expert-questioning)
 
-Asking people for help or information is a relatively low-cost enterprise. As such, I took the time to email most of the authors whose research I included in the "Table of Covered Research". In total, I sent x emails and, as of y, have received z responses. I've included the template I used, along with the responses I received.
+Asking people for help or information is a relatively low-cost enterprise. As such, I took the time to email most of the authors whose research I included in the "Table of Covered Research". In total, I sent 24 emails on 05/15/2022 and, as of 05/16/2022, have received 0 responses. I've included the template I used, along with the responses I received.
 
 #### *Templates*
 
-Thank you Ryan Beck and Ege Erdil for providing some feedback on the first of these templates. This template was sent to 1 researcher. I revised the template (the second one) to address only the corresponding authors of the articles I listed in "Table of Covered Research". If the another author's email was present in the research document, I emailed them as well.
+Thank you Ryan Beck and Ege Erdil for providing some feedback on the first of these two templates. The first template was sent to 1 researcher. I revised the first template to only address the corresponding authors of the articles I listed in "Table of Covered Research". If the another author's email was present in the research document, I emailed them as well.
 
 __Template 1__
 
@@ -484,30 +476,20 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 #### *Responses*
 
+[empty as of 05/16/2022]
 
-
-### [Other Question Avenues](#question-ideas)
+<!-- ### [Other Question Avenues](#question-ideas)
 
 [incomplete]
-
-
 
 ### [Blindspots](#blindspots)
 
-[incomplete]
-
+[incomplete] -->
 
 
 ### [Article Figures](#figures)
 
 #### ?
-
-
----
-
-## [Further Reading](#further-reading)
-
-
 
 ---
 
