@@ -48,10 +48,26 @@ Sending this to people to review on EAF, LW, asking Ege, Juan, Tamay
 Get google scholar and openalex results for "human gene-editing" last 20 years
 Emailing the author's asap -->
 
+__Takeaways__:
+
+- People without training in genetics generally don't support research on human gene-editing
+- Of the people without training in genetics, those who support research on human gene-editing favor gene-editing for treatment over gene-editing for enhancement
+
+
+__Disclaimer__: _How much expertise do you have?_ - I have no formal training in genetics. I have a B.A. in Neuroscience and Mathematics. I have recently submitted one research for review. _What are my biases?_ - My current belief is that human gene-editing for treatment and enhancement will be <mark>good.</mark> With some caution, I am optimistic about a human future involved human gene-editing. _How have you atoned for these biases?_ - I have not discussed what humanity "should do" with gene-editing, and have attempted to temper my forecasts on people's attitudes towards gene-editing with the knowledge that I presently believe that voluntarily accessible human gene-editing for enhancement would be a desirable future. _Shortcuts?_ - I did not search as many terms relating to human gene-editing as I could have. I did not read all 32 in full, but did indicate how much time I spent on them. _Epistemic confidence?_ - I would be very surprised if someone else wrote a similar essay, and found that people's attitudes on human gene-editing were very different from what I've indicated. I would be less surprised if someone's forecasts on the questions I have written differed greatly from mine. _Type of support for my claims?_ All of my claims  
+
+__Contribution__: In this essay, I have surveyed, to varying degrees, 32 published articles on the ethics of gene-editing (~11) or on people's attitudes towards human gene-editing (~21). I have aggregated and distilled the survey data from these articles, and used this to generate 12 forecasting questions on people's future attitudes towards human gene-editing. My predictions and forecasting processes for these questions is detailed below. In addition, I emailed 24 corresponding authors and 1 other author of the 32 published articles with the questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I received at least 5, I will include them below.
+
+<!-- References are aggregated citations  -->
+
 
 <!-- __Takeaways__:
 
-__Disclaimer__: -->
+Look over the finished version, and come up with the 10 most important ideas
+
+__Disclaimer__:
+
+How much expertise does the author have in this area?{ Who are you, why did you write this, how much of an expert are you in this area }, has the author presented a fair or biased presentation of evidence and arguments on this topic? {what are your biases towards gene-editing?, how did you attone for these?}, what shortcuts did you take?, , how confident are you of what you've written, what type of support do I have for my claims?, what could change my mind about what I've written?, -->
 
 <!-- __Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. -->
 
@@ -507,6 +523,9 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 [lic]: https://unsplash.com/license "https://unsplash.com/license"
 
 [unsplash]: https://unsplash.com/ "https://unsplash.com/"
+
+
+### [References](#references)
 
 
 
