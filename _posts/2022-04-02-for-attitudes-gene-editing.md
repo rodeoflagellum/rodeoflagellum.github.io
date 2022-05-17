@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Forecasting Attitudes Towards Human Gene-Editing"
-date:  2022-04-02 12:00:00 -0400
-modified: 2022-05-10 8:50:00 -0400
+date:  2022-05-10 12:00:00 -0400
+modified: 2022-05-17 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "This post includes a fractional introduction to gene-editing, a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change."
@@ -61,7 +61,7 @@ __Disclaimer__: _How much expertise do you have?_ - As for research expertise, I
 
 [about_me]: https://rodeoflagellum.github.io/me/ "https://rodeoflagellum.github.io/me/"
 
-__Contribution__: In this essay, I have surveyed, at different levels, 32 published articles on either the ethics of gene-editing (~11) or people's attitudes towards human gene-editing (~21). I have aggregated and distilled the survey data from these articles, and have used this to generate 12 forecasting questions on people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed 24 corresponding authors and 1 other author of the 32 published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below.
+__Contribution__: In this essay, I have surveyed, at different levels, 33 published articles on either the ethics of gene-editing (~12) or people's attitudes towards human gene-editing (~21). I have aggregated and distilled the survey data from these articles, and have used this to generate 12 forecasting questions on people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed 25 corresponding authors and 1 other author of the 33 published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below.
 
 __Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay. Thank you Ryan Beck (Metaculus, LW, EAF), alwaysrinse (Metaculus), Nuño Sempere (Metaculus, LW, EAF), Pablo Stafforini (Metaculus, LW, EAF), and Ege Erdil (Metaculus, LW, EAF) for reading this and providing feedback.
 
@@ -233,7 +233,7 @@ Research that I found later on as a result of looking up references or links of 
 
 #### *Other Research*
 
-[not complete]
+- Where Will We Draw the Line? Public Opinions of Human Gene Editing (<https://journals.sagepub.com/doi/abs/10.1177/1049732319846867>)
 
 #### *Other Resources Used*
 
@@ -277,6 +277,7 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 |Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of people with inherited retinal conditions toward gene editing technology. (2019)|Lily Hoffman‐Andrews, Ronit Mazzoni, Michelle Pacione, Rosemarie Garland‐Thomson, and Kelly E. Ormond|[https://pubmed.ncbi.nlm.nih.gov/31190471/][ret_gene_2019]{:target="_blank"} and [here][ret_gene_2019_DL]{:target="_blank"}|1/9|
+|Where Will We Draw the Line? Public Opinions of Human Gene Editing (2019)|Kirsten A. Riggan, Richard R. Sharp, and Megan Allyse|[https://journals.sagepub.com/doi/abs/10.1177/1049732319846867][draw_the_line_2019]{:target="_blank"} and [here][draw_the_line_2019_DL]{:target="_blank"}|1/9|
 |The clinical application of gene editing: ethical and social issues. (2019)|Kelly E Ormond, Yvonne Bombard, Vence L Bonham, Lily Hoffman-Andrews, Heidi C Howard, Rosario Isasi, Kiran Musunuru, Kirsten A Riggan, Marsha Michie, and Megan Allyse|[https://pubmed.ncbi.nlm.nih.gov/31331245/][clin_gene_2019]{:target="_blank"} and [here][clin_gene_2019_DL]{:target="_blank"}|1/9|
 |Reexamining the Ethics of Human Germline Editing in the Wake of Scandal (2019)|Karen M. Meagher, Megan A. Allyse, Zubin Master, and Richard R. Sharp|[https://pubmed.ncbi.nlm.nih.gov/32029087/][reex_ethics_wake_2019]{:target="_blank"} and [here][reex_ethics_wake_2019_DL]{:target="_blank"}|1/9|
 |Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (2019)|Christine Critchley, Dianne Nicol, Gordana Bruce, Jarrod Walshe, Tamara Treleaven, and Bernard Tuch|[https://pubmed.ncbi.nlm.nih.gov/30687386/][pred_moral_attitude_2019]{:target="_blank"} and [here][pred_moral_attitude_2019_DL]{:target="_blank"}|1/9|
@@ -343,6 +344,9 @@ My desire is for an explanation of "Extent" to be placed elsewhere on this site,
 
 [what_we_want_2017]: https://pubmed.ncbi.nlm.nih.gov/28974517/ "https://pubmed.ncbi.nlm.nih.gov/28974517/"
 [what_we_want_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/what_we_want_2017_DL.pdf
+
+[draw_the_line_2019]: https://journals.sagepub.com/doi/abs/10.1177/1049732319846867 "https://journals.sagepub.com/doi/abs/10.1177/1049732319846867"
+[draw_the_line_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/draw_the_line_2019_DL.pdf
 
 [ethical_concerns_gen_2017?]: https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns "https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns"
 [ethical_concerns_gen_2017?_DL]: /assets/2022/for_attitudes_gene_editing/docs/ethical_concerns_gen_2017?_DL.html
@@ -486,6 +490,8 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 [incomplete] -->
 
+### [Question Notes](#question-ideas)
+
 
 ### [Article Figures](#figures)
 
@@ -514,3 +520,88 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 
 ### [Footnotes](#footnotes)
+
+[^]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Notes: <br><br> Quotes:
+
+[^]: Ni, Congning, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton, Bradley Malin, and Zhijun Yin. "The Public Perception of the# GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study." Journal of medical Internet research 24, no. 3 (2022): e31687. <br><br> Notes: <br><br> Quotes:
+
+[^]: Kobayashi, Shinobu, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama, Masato Uchiyama, Kaori Muto et al. "Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders." Journal of Human Genetics (2022): 1-6. <br><br> Notes: <br><br> Quotes:
+
+[^]: Waltz, Margaret, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan. "The View from the Benches: Scientists' Perspectives on the Uses and Governance of Human Gene-Editing Research." The CRISPR journal 4, no. 4 (2021): 609-615. <br><br> Notes: <br><br> Quotes:
+
+[^]: Cwik, Bryan. "Revising, correcting, and transferring genes." The American Journal of Bioethics 20, no. 8 (2020): 7-18. <br><br> Notes: <br><br> Quotes:
+
+[^]: Yunes, Maria Cristina, Zimbábwe Osório-Santos, Marina AG von Keyserlingk, and Maria José Hötzel. "Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public?." Sustainability 13, no. 9 (2021): 4966. <br><br> Notes: <br><br> Quotes:
+
+[^]: Scheufele, Dietram A., Nicole M. Krause, Isabelle Freiling, and Dominique Brossard. "What we know about effective public engagement on CRISPR and beyond." Proceedings of the National Academy of Sciences 118, no. 22 (2021). <br><br> Notes: <br><br> Quotes:
+
+[^]: Izzah, Safira Nur, Dimas Setyanto, Nurina Hasanatuludhhiyah, Danti Nur Indiastuti, Zamal Nasution, and Annette d’Arqom. "Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing." Journal of Multidisciplinary Healthcare 14 (2021): 1017. <br><br> Notes: <br><br> Quotes:
+
+[^]: Evans, John H. "Setting ethical limits on human gene editing after the fall of the somatic/germline barrier." Proceedings of the National Academy of Sciences 118, no. 22 (2021): e2004837117. <br><br> Notes: <br><br> Quotes:
+
+
+[^]: de Araujo, Marcelo. "The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection?." Philosophies 5, no. 3 (2020): 20. <br><br> Notes: <br><br> Quotes:
+
+
+[^]: Howell, Emily L., Shiyu Yang, Becca Beets, Dominique Brossard, Dietram A. Scheufele, and Michael A. Xenos. "What do we (not) know about global views of human gene editing? Insights and blind spots in the CRISPR era." The CRISPR Journal 3, no. 3 (2020): 148-155. <br><br> Notes: <br><br> Quotes:
+
+[^]: Jedwab, Abbie, Danya F. Vears, Cheryl Tse, and Christopher Gyngell. "Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public." Journal of Human Genetics 65, no. 12 (2020): 1055-1065. <br><br> Notes: <br><br> Quotes:
+
+[^]: Rocha, Leonardo Fernandes Moutinho, Luiza Amara Maciel Braga, and Fabio Batista Mota. "Gene Editing for Treatment and Prevention of Human Diseases: A Global Survey of Gene Editing-Related Researchers." Human Gene Therapy 31, no. 15-16 (2020): 852-862. <br><br> Notes: <br><br> Quotes:
+
+[^]: Snure Beckman, Erika, Natalie Deuitch, Marsha Michie, Megan A. Allyse, Kirsten A. Riggan, and Kelly E. Ormond. "Attitudes toward hypothetical uses of gene-editing technologies in parents of people with autosomal aneuploidies." The CRISPR Journal 2, no. 5 (2019): 324-330. <br><br> Notes: <br><br> Quotes:
+
+[^]: Armsby, Alyssa J., Yvonne Bombard, Nanibaa’A. Garrison, Bonnie L. Halpern-Felsher, and Kelly E. Ormond. "Attitudes of members of genetics professional societies toward human gene editing." The CRISPR journal 2, no. 5 (2019): 331-339. <br><br> Notes: <br><br> Quotes:
+
+[^]: Hoffman‐Andrews, Lily, Ronit Mazzoni, Michelle Pacione, Rosemarie Garland‐Thomson, and Kelly E. Ormond. "Attitudes of people with inherited retinal conditions toward gene editing technology." Molecular genetics & genomic medicine 7, no. 7 (2019): e00803.
+ <br><br> Notes: <br><br> Quotes:
+
+[^]: Ormond, Kelly E., Yvonne Bombard, Vence L. Bonham, Lily Hoffman-Andrews, Heidi Howard, Rosario Isasi, Kiran Musunuru, Kirsten A. Riggan, Marsha Michie, and Megan Allyse. "The clinical application of gene editing: ethical and social issues." Personalized medicine 16, no. 4 (2019): 337-350. <br><br> Notes: <br><br> Quotes:
+
+[^]: Meagher, Karen M., Megan A. Allyse, Zubin Master, and Richard R. Sharp. "Reexamining the ethics of human germline editing in the wake of scandal." In Mayo Clinic Proceedings, vol. 95, no. 2, pp. 330-338. Elsevier, 2020.<br><br> Notes: <br><br> Quotes:
+
+[^]: Critchley, Christine, Dianne Nicol, Gordana Bruce, Jarrod Walshe, Tamara Treleaven, and Bernard Tuch. "Predicting public attitudes toward gene editing of germlines: the impact of moral and hereditary concern in human and animal applications." Frontiers in genetics 9 (2019): 704. <br><br> Notes: <br><br> Quotes:
+
+[^]: Eggel, Matthias, and Nikola Biller-Andorno. "Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis." BMC Medical Ethics 20, no. 1 (2019): 1-13. <br><br> Notes: <br><br> Quotes:
+
+[^]: McCaughey, Tristan, David M. Budden, Paul G. Sanfilippo, George EC Gooden, Li Fan, Eva Fenwick, Gwyneth Rees et al. "A need for better understanding is the major determinant for public perceptions of human gene editing." Human gene therapy 30, no. 1 (2019): 36-43. <br><br> Notes: <br><br> Quotes:
+
+[^]: Chen, Liang, and Z. Zhang. "Chinese public attitudes on gene editing." Global Times (2018).<br><br> Notes: <br><br> Quotes:
+
+[^]: Riggan, Kirsten A., Richard R. Sharp, and Megan Allyse. "Where will we draw the line? Public opinions of human gene editing." Qualitative Health Research 29, no. 12 (2019): 1823-1835. <br><br> Notes: <br><br> Quotes:
+
+[^]: Rehmann-Sutter, Christoph. "Why human germline editing is more problematic than selecting between embryos: Ethically considering intergenerational relationships." The new bioethics 24, no. 1 (2018): 9-25. <br><br> Notes: <br><br> Quotes:
+
+[^]: Cavaliere, Giulia. "Genome editing and assisted reproduction: curing embryos, society or prospective parents?." Medicine, Health Care and Philosophy 21, no. 2 (2018): 215-225. <br><br> Notes: <br><br> Quotes:
+
+[^]: Musunuru, Kiran, William R. Lagor, and Joseph M. Miano. "What do we really think about human germline genome editing, and what does it mean for medicine?." Circulation: Cardiovascular Genetics 10, no. 5 (2017): e001910. <br><br> Notes: <br><br> Quotes:
+
+[^]: Guttinger, Stephan. "Trust in science: CRISPR–Cas9 and the ban on human germline editing." Science and Engineering Ethics 24, no. 4 (2018): 1077-1096. <br><br> Notes: <br><br> Quotes:
+
+[^]: Scheufele, Dietram A., Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy. "US attitudes on human genome editing." Science 357, no. 6351 (2017): 553-554. <br><br> Notes: <br><br> Quotes:
+
+[^]: Ishii, Tetsuya. "The ethics of creating genetically modified children using genome editing." Current Opinion in Endocrinology, Diabetes and Obesity 24, no. 6 (2017): 418-423. <br><br> Notes: <br><br> Quotes:
+
+[^]: McCaughey, Tristan, Paul G. Sanfilippo, George EC Gooden, David M. Budden, Li Fan, Eva Fenwick, Gwyneth Rees et al. "A global social media survey of attitudes to human genome editing." Cell stem cell 18, no. 5 (2016): 569-572. <br><br> Notes: <br><br> Quotes:
+
+[^]: Funk, Cary, Brian Kennedy, and Elizabeth Podrebarac Sciupac. "US public wary of biomedical technologies to ‘enhance’human abilities." (2016).
+<br><br> Notes: <br><br> Quotes:
+
+<!-- BOOKS  -->
+
+[^]: Greely, Henry T. CRISPR people: The science and ethics of editing humans. MIT Press, 2022. <br><br> Notes: <br><br> Quotes:
+
+[^]: Singh, Vijai, and Pawan K. Dhar, eds. Genome engineering via CRISPR-Cas9 system. Academic Press, 2020.<br><br> Notes: <br><br> Quotes:
+
+[^]: Parens, Erik, and Josephine Johnston, eds. Human flourishing in an age of gene editing. Oxford University Press, 2019. <br><br> Notes: <br><br> Quotes:
+
+[^]: Braverman, Irus. Gene editing, law, and the environment. New York, NY: Routledge, 2018. <br><br> Notes: <br><br> Quotes:
+
+[^]: Braun, Matthias, Hannah Schickl, and Peter Dabrock, eds. Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing. Springer, 2018. <br><br> Notes: <br><br> Quotes:
+
+[^]: National Academies of Sciences, Engineering, and Medicine. Human genome editing: science, ethics, and governance. National Academies Press, 2017. <br><br> Notes: <br><br> Quotes:
+
+<!-- Hello, I am a recently graduated student of Neuroscience and Mathematics from [college], and I am writing a forecasting review of people's attitudes towards human gene-editing. Part of this review is creating forecasting questions. For example, on a PEW Research Center report from 2020, 56% of Indian respondents found gene-editing an appropriate use of science, so we may ask, what % of Indian respondents will find gene-editing an appropriate use of science in 2025? My problem here is that the PEW Research Center and other organizations involved with surveying people's takes on gene-editing are not guaranteed to consistently conduct these surveys. My "ask" to NHGRI is an answer to whether the NHGRI will conduct a survey on people's attitudes towards human gene-editing in the next 10 years, and whether I can talk to a genetics-researcher about this topic (I am interested in aggregating expert opinions on these forecasting questions). Thank you for reading all of this, and I wish you the best!
+
+Kind regards,
+name -->
