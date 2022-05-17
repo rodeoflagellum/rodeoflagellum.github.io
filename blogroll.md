@@ -89,8 +89,10 @@ description: "An unordered list of websites I like, along with the two pieces I 
   - [https://infoproc.blogspot.com/][hsu]{:target="_blank"}
 - __Robin Shah__
   - [https://rohinshah.com/][robin]{:target="_blank"}
+- __Putanumonit__
+  - [https://putanumonit.com/][put]{:target="_blank"}
 
-
+[put]: https://putanumonit.com/ "https://putanumonit.com/"
 [robin]: https://rohinshah.com/ "https://rohinshah.com/"
 [hsu]: https://infoproc.blogspot.com/ "https://infoproc.blogspot.com/"
 [ryanbeck]: https://www.ryanbeckauthor.com/ "https://www.ryanbeckauthor.com/"
