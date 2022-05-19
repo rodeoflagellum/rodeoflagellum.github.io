@@ -78,3 +78,80 @@ __Disclaimer__:
 How much expertise does the author have in this area?{ Who are you, why did you write this, how much of an expert are you in this area }, has the author presented a fair or biased presentation of evidence and arguments on this topic? {what are your biases towards gene-editing?, how did you attone for these?}, what shortcuts did you take?, , how confident are you of what you've written, what type of support do I have for my claims?, what could change my mind about what I've written?, -->
 
 <!-- __Contribution__: I have read or skimmed 35 papers relating to human gene-editing. Of these papers, 14 include a survey, 5 consist of ethical considerations, and 5 relate to general gene-editing. I contribute 12 new forecasting questions on the subject. -->
+
+
+Notes on Gene-Editing
+
+
+## [Gene-Editing](#gene-editing)
+
+Let's look at the history of gene-editing[^timeline]:
+
+- 1953: Discovery of the Double Helix
+- 1958: DNA is Made in a Test Tube for the First Time
+- 1962: Jellyfish Protein Turns Into a Tool to Observe Invisible Cellular Processes
+- 1967: DNA Ligation Links DNA Fragments Together
+- 1968: Discovery of Restriction Enzymes
+- 1970: Purification of Type II Restriction Enzymes
+- 1971: Gene Splicing Experiment Paves the Way for Recombinant DNA (rDNA)
+- 1971: Type II Restriction Enzymes Used for Mapping DNA
+- 1972: Recombinant DNA (rDNA) is Created
+- 1974: National Academy Moratorium on Genetic Engineering Experiments
+- 1975: Hybridoma Technology Revolutionizes Diagnostics
+- 1981: The First Transgenic Animal
+- 1982: First Genetically Engineered Human Drug - Synthetic Insulin
+- 1983: The Development of the Polymerase Chain Reaction (PCR)
+- 1985: Discovery of Zinc Finger Nuclease (ZFN)
+- 1986: First Recombinant Vaccine for Humans is Approved
+- 1988: The First Bt Corn Appears in Fields
+- 1993: Discovery of the Principles of CRISPR
+- 1994: A Tomato Engineered to Stay Ripe is Brought to Market (and bombs)
+- 1996: The Cloning of Dolly the Sheep
+- 1999: History of Genetic Engineering in Humans is Made when the First Human Chromosome is Sequenced
+- 2001: The First Gene-Targeted Drug Therapy is Approved
+- 2003: Sale of the Glo-Fish as a Pet for the Home
+- 2006: FDA Approval of the First Preventative Cancer Vaccine
+- 2006: First Induced Pluripotent Stem Cells (iPSCs)
+- 2010: The World's First Synthetic Life Form
+- 2011: Discovery of TALENs
+- 2012: Discovery of CRISPR Genome Engineering Tool
+- 2013: Showed CRISPR Utility in Eukaryotic Cells
+- 2014: Identifying the Possibility of a Gene Drive
+- 2015: First GMO Salmon Sold in Canadian Markets
+- 2015: A Human Embryo is Edited with CRISPR
+- 2017: First CAR T Therapy for Cancer is Approved
+- 2018: First Human Trials for CRISPR are Approved
+- 2019: Prime Editing Makes Single Stranded Cuts a Possibility
+- 2020: Success of Clinical Trials and More
+
+In the following two sections, I provide a short introduction[^intro-thoughts] to gene-editing biology, technology, ethics, and governance.
+
+### [Biology and Technology](#bio-tech-gene-editing)
+
+<!-- Distill the introduction of ch.3, ch.4, and appendics of HGE-BOOK; add pictures, wiki links, and terms in glossay; expand commentary on these things where applied; link notes and quotes in footnotes  -->
+
+Questions on gene-editing biology and technology that are probably important to consider[^questions-gene-editing]:
+- What is gene-editing, and how is it performed?
+- What can gene-editing currently produce?
+- How has gene-editing failed?
+- What can gene-editing theoretically produce?
+- What bottlenecks are stalling or halting what gene-editing can produce?
+
+The following terms are useful for understanding what gene-editing involves; to see a selection of images and visuals of these entities, please refer to the glossary.
+
+> __Foundational Terms__[^HGE-Book]
+>
+> __DNA__ is a long polymer of similar repeating units of four types (A,T,C,G), where the letters denote distinct units called __nucleotide bases__. The bases pair specifically with each other (A with T and C with G) to form the well-known double helix of DNA with its two complementary strands. Segments of DNA sequence encode __genes__ that can be copied (__transcribed__) from the DNA into a second type of nucleotide polymer called __RNA__. Some of these RNAs act by pairing with other RNAs to affect their functions, while others contribute to structures neces- sary for cellular activities, including the copying of some of the RNA molecules to encode proteins. __Proteins__ are polymers of a different type of unit, called amino acids, of 20 different types; hence the copying of RNA to form proteins is known as __translation__ since the copying is into a different “language”—“written” in amino acids rather than nucleotides. These protein polymers fold into complex three- dimensional shapes that form the building blocks of the cells that make up the human body and perform the myriad functions of living organisms. The combi- nation of transcription from DNA to RNA and translation of RNA to protein is known as gene expression, and is tightly regulated so that genes are expressed at the appropriate times and places and in the correct amounts. Thus, the func- tions of individual cells are dependent on the genes they express. The complete set of genes in an organism is called its genome. Most human cells contain two complete copies of the human genome, each comprising 3 billion base pairs and encoding approximately 20,000 genes encoding proteins, plus the regulatory ele- ments that control their expression. One can think of the genome as the “code” or “software” and RNA and proteins and the structures they form as the “hardware” of cells and living organisms.
+
+
+### [Ethics and Governance](#ethics-gov-gene-editing)
+
+Questions on gene-editing ethics and governance that are probably important to consider:
+- What might go wrong in all scenarios where gene-editing is used on humans?
+- What might go right in all scenarios where gene-editing is used on humans?
+- How should gene-editing be regulated and why?
+- If gene-editing related governance is subverted, what would be the consequences?
+
+
+
+How has discussion, research, and intellectual thinking on human gene-editing changed? One way to look at this is to see how search results for "human gene-editing" have changed over the years. The following graph displays the number of search results during the intervals of years [2000, 2021] on Google Scholar.

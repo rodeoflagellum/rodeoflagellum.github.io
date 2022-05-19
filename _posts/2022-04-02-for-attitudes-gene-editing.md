@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-05-17 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "This post includes a fractional introduction to gene-editing, a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change."
+description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
@@ -62,7 +62,7 @@ __Contribution__: In this essay, I have surveyed, at different levels, 33 publis
 
 __Priors__: Before working on this essay, I want to outline my current thoughts on gene-editing, including human gene-editing. Outlining these thoughts seems important for determining how people might update their beliefs after reading this essay. Most of my understanding for the regulations, technology, and biology of gene-editing comes from working on my _Forecasting Designer Babies_ essay. I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproduction technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail. This essay is not one on gene-editing, but I hope the brief portion on gene-editing in this essay clarifies in people's minds _what_ gene-editing entails, as someone's notion of gene-editing influences how much or how little they support it. As a consumer, if gene-editing "works as intended" in humans, my partner and I would somewhat likely (~60%) use it. Conditional on it working as intended, if some of the risks and drawbacks associated with in-vitro fertilization and egg-extraction have been reduced, then my partner and I would likely use it (~70%). If I learned more about the current and future risk landscape of gene-editing, and found that there were some major risks (for humanity or my partner) I hadn't properly understood or risks I hadn't known about, then my partner and I would be much less likely to use gene-editing.
 
-__Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback.
+__Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback. For anyone else who reads this, thank you, and if you believe that something I've said is incorrect, poorly disseminated, or otherwise inadequate, please reached out - I will likely edit the essay to include some form of update.
 
 [metaculus]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
 
@@ -102,79 +102,6 @@ be a question or just an announcement? -->
 
 ---
 
-## [Gene-Editing](#gene-editing)
-
-Let's look at the history of gene-editing[^timeline]:
-
-- 1953: Discovery of the Double Helix
-- 1958: DNA is Made in a Test Tube for the First Time
-- 1962: Jellyfish Protein Turns Into a Tool to Observe Invisible Cellular Processes
-- 1967: DNA Ligation Links DNA Fragments Together
-- 1968: Discovery of Restriction Enzymes
-- 1970: Purification of Type II Restriction Enzymes
-- 1971: Gene Splicing Experiment Paves the Way for Recombinant DNA (rDNA)
-- 1971: Type II Restriction Enzymes Used for Mapping DNA
-- 1972: Recombinant DNA (rDNA) is Created
-- 1974: National Academy Moratorium on Genetic Engineering Experiments
-- 1975: Hybridoma Technology Revolutionizes Diagnostics
-- 1981: The First Transgenic Animal
-- 1982: First Genetically Engineered Human Drug - Synthetic Insulin
-- 1983: The Development of the Polymerase Chain Reaction (PCR)
-- 1985: Discovery of Zinc Finger Nuclease (ZFN)
-- 1986: First Recombinant Vaccine for Humans is Approved
-- 1988: The First Bt Corn Appears in Fields
-- 1993: Discovery of the Principles of CRISPR
-- 1994: A Tomato Engineered to Stay Ripe is Brought to Market (and bombs)
-- 1996: The Cloning of Dolly the Sheep
-- 1999: History of Genetic Engineering in Humans is Made when the First Human Chromosome is Sequenced
-- 2001: The First Gene-Targeted Drug Therapy is Approved
-- 2003: Sale of the Glo-Fish as a Pet for the Home
-- 2006: FDA Approval of the First Preventative Cancer Vaccine
-- 2006: First Induced Pluripotent Stem Cells (iPSCs)
-- 2010: The World's First Synthetic Life Form
-- 2011: Discovery of TALENs
-- 2012: Discovery of CRISPR Genome Engineering Tool
-- 2013: Showed CRISPR Utility in Eukaryotic Cells
-- 2014: Identifying the Possibility of a Gene Drive
-- 2015: First GMO Salmon Sold in Canadian Markets
-- 2015: A Human Embryo is Edited with CRISPR
-- 2017: First CAR T Therapy for Cancer is Approved
-- 2018: First Human Trials for CRISPR are Approved
-- 2019: Prime Editing Makes Single Stranded Cuts a Possibility
-- 2020: Success of Clinical Trials and More
-
-In the following two sections, I provide a short introduction[^intro-thoughts] to gene-editing biology, technology, ethics, and governance.
-
-### [Biology and Technology](#bio-tech-gene-editing)
-
-<!-- Distill the introduction of ch.3, ch.4, and appendics of HGE-BOOK; add pictures, wiki links, and terms in glossay; expand commentary on these things where applied; link notes and quotes in footnotes  -->
-
-Questions on gene-editing biology and technology that are probably important to consider[^questions-gene-editing]:
-- What is gene-editing, and how is it performed?
-- What can gene-editing currently produce?
-- How has gene-editing failed?
-- What can gene-editing theoretically produce?
-- What bottlenecks are stalling or halting what gene-editing can produce?
-
-> __Foundational Terms__[^HGE-Book]
->
-> __DNA__ is a long polymer of similar repeating units of four types (A,T,C,G), where the letters denote distinct units called __nucleotide bases__. The bases pair specifically with each other (A with T and C with G) to form the well-known double helix of DNA with its two complementary strands. Segments of DNA sequence encode __genes__ that can be copied (__transcribed__) from the DNA into a second type of nucleotide polymer called __RNA__. Some of these RNAs act by pairing with other RNAs to affect their functions, while others contribute to structures neces- sary for cellular activities, including the copying of some of the RNA molecules to encode proteins. __Proteins__ are polymers of a different type of unit, called amino acids, of 20 different types; hence the copying of RNA to form proteins is known as __translation__ since the copying is into a different “language”—“written” in amino acids rather than nucleotides. These protein polymers fold into complex three- dimensional shapes that form the building blocks of the cells that make up the human body and perform the myriad functions of living organisms. The combi- nation of transcription from DNA to RNA and translation of RNA to protein is known as gene expression, and is tightly regulated so that genes are expressed at the appropriate times and places and in the correct amounts. Thus, the func- tions of individual cells are dependent on the genes they express. The complete set of genes in an organism is called its genome. Most human cells contain two complete copies of the human genome, each comprising 3 billion base pairs and encoding approximately 20,000 genes encoding proteins, plus the regulatory ele- ments that control their expression. One can think of the genome as the “code” or “software” and RNA and proteins and the structures they form as the “hardware” of cells and living organisms.
-
-
-### [Ethics and Governance](#ethics-gov-gene-editing)
-
-Questions on gene-editing ethics and governance that are probably important to consider:
-- What might go wrong in all scenarios where gene-editing is used on humans?
-- What might go right in all scenarios where gene-editing is used on humans?
-- How should gene-editing be regulated and why?
-- If gene-editing related governance is subverted, what would be the consequences?
-
-
-
-How has discussion, research, and intellectual thinking on human gene-editing changed? One way to look at this is to see how search results for "human gene-editing" have changed over the years. The following graph displays the number of search results during the intervals of years [2000, 2021] on Google Scholar.
-
----
-
 ## [Attitudes on Human Gene-Editing](#peoples-thoughts)
 
 Here is a general summary for each of the years I looked at:
@@ -202,12 +129,12 @@ Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent 
 
 ### [Drivers of These Attitudes](#rationale)
 
-In the attitudes section, write down the results and major quotes for each section, including an overarching description. Have a footnote with the citation as well as contentions and notes.
+<!-- In the attitudes section, write down the results and major quotes for each section, including an overarching description. Have a footnote with the citation as well as contentions and notes.
 
 Then aggregate all of these responses.
 
 Make a table of the results with surveys:
-include partipants counts, year, demographic properties. 
+include partipants counts, year, demographic properties.  -->
 
 ---
 
