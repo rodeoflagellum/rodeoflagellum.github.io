@@ -155,3 +155,27 @@ Questions on gene-editing ethics and governance that are probably important to c
 
 
 How has discussion, research, and intellectual thinking on human gene-editing changed? One way to look at this is to see how search results for "human gene-editing" have changed over the years. The following graph displays the number of search results during the intervals of years [2000, 2021] on Google Scholar.
+
+[^timeline]: I searched "timeline of human gene-editing" in FireFox on 05/17/2022, looked at the first page of results, and found the timeline that looked the most useful (where usefulness  = some mental function of credibility and comprehensiveness). I chose the [timeline][genetic_editing_timeline] on <https://www.synthego.com/learn/genome-engineering-history> and added links to Wikipedia pages; Synthego claims of itself: <br>"_Synthego is a genome engineering company that enables the acceleration of life science research and development in the pursuit of improved human health. <br><br> The company leverages machine learning, automation, and gene editing to build platforms for science at scale. With its foundations in engineering disciplines, the company’s platform technologies vertically integrate proprietary hardware, software, bioinformatics, chemistries, and molecular biology to advance basic research, target validation, and clinical trials. <br><br> With its technologies cited in hundreds of peer-reviewed publications and utilized by thousands of commercial and academic researchers and therapeutic drug developers, Synthego is at the forefront of innovation enabling the next generation of medicines by delivering genome editing at an unprecedented scale._"
+
+[genetic_editing_timeline]: /assets/2022/for_attitudes_gene_editing/docs/genetic_editing_timeline.html
+
+This glossary covers terms used in this essay that relate to genome editing. These terms and references are directly quoted from the book _Human Genome Editing_[^HGE-Book]. In some instances, I have linked photos to the terms. In most instances, I have linked Wikipedia pages to the following terms.
+
+References from
+
+<!-- ### [Other Question Avenues](#question-ideas)
+
+[incomplete]
+
+### [Blindspots](#blindspots)
+
+Asking experts in genetic engineering their thoughts on what the future will be like
+Social experts on how the drivers of the opinions on gene-editing will change
+How much variance is explained by Liberalism vs. Conservatism, Women vs. Men, Religiousity vs. Nonreligiousity today? How will these drivers change? How will the effects of these drivers change? How will gene-editing change?
+[incomplete] -->
+
+>
+> ...
+>
+> Although much of the current discussion around genome editing fo­cuses on how these technologies can be used to treat or prevent disease and disability, some aspects of the public debate concern other purposes, such as the possibility of [enhancing traits][wiki_enhancement] and capacities beyond levels considered typical of adequate health. In theory, genome editing for such enhancement purposes could involve both somatic and germline cells. Such uses of the technologies raise questions of fairness, social norms, personal autonomy, and the role of government.
