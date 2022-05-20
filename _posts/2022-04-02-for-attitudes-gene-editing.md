@@ -252,11 +252,11 @@ While I might still be misperceiving the magnitude of the expected affordances o
 - In what ways might gene-editing be regulated, if available and/or widely used?
 - What are the failure modes for human gene-editing, and how should their severity and likelihood be evaluated?
 
-We can also ask what the factors involved with these things are. In my mind, one major factors are people's attitudes towards gene-editing. While I don't have relative p
+There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
 
-- How much does public opinion affect these things?
-- What are the public misperceptions of gene-editing?
-- How much does the opinions of those with genetics training affect these things?
+- What influence does the [public, bioethicists, genetics researchers] have on gene-editing research?
+- What are the public's misperceptions of gene-editing?
+- What biases are present in recording the public's attitudes towards gene-editing?[^opinions]
 
 
 In my mind, the main objective in investigating and forecasting people's attitudes towards human gene-editing is an attempt to understand how humanity is currently reacting to the potential of altering humans using the transformative technology of gene-editing. Should contemporaneous gene-editing practices come to be performed on humans en-masse, it seems likely that much suffering could be averted in the
@@ -269,16 +269,6 @@ what forms of gene-editing are eventually implemented
 
 practices come to pass, when these
 
-Ideas on Opinions and Responses That I Haven't Explored:
-
-- how do people's views change
-- opinion drift
-- how attitudes change
-- how opinions change
-- how often do opinions change
-- response bias
-- measuring response bias
-- self-reported data issues
 
 
 ### [Today and the Last 7 Years](#last-seven-years)
@@ -780,11 +770,14 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [^]: Braun, Matthias, Hannah Schickl, and Peter Dabrock, eds. Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing. Springer, 2018. <br><br> Notes: <br><br> Quotes:
 
-[^hoel-contention]: I disagree somewhat with this sentiment.
+[^hoel-contention]: I am inclined to be somewhat skeptical of this being a plausible future. I imagine that aggression and other emotions important to coordination and relationships could also be modified in the enhancement future Hoel outlines. Across many socio-economic and demographic strata, most people I've seen want their children to be kind. I don't think it's likely that parents wouldn't select [kindness, compassion, morality, etc...] if they were available alongside things like IQ, creativity, and competitiveness.  
 
 [^intro-thoughts]: The extent of this introduction was guided how much I felt I needed to understand gene-editing to write this essay, and by my desire to limit the content on gene-editing relative to people's attitudes on it - bringing back up the thought "this is an essay on attitudes towards gene-editing, not gene-editing" helped with this.
 
 [^HGE-Book]: National Academies of Sciences, Engineering, and Medicine. Human genome editing: science, ethics, and governance. National Academies Press, 2017. <br><br> Notes: I used this book (Chapters 3 and 4, and the Appendices) to learn about gene-editing science and regulation, and most of the content in this essay's gene-editing section and glossary section come from my reading of this text.
+
+[^opinions]: I believe I should be thinking more about how opinions change over time, and about how people's self-reported opinions are biased. Here are some considerations (maybe a simple Google search would suffice): (1) how do people's views change, (2) opinion drift, (3) how attitudes change, (4) how opinions change, (5) how often do opinions change, (6) response bias, (7) measuring response bias, and (8) self-reported data issues.
+
 
 <!-- Hello, I am a recently graduated student of Neuroscience and Mathematics from [college], and I am writing a forecasting review of people's attitudes towards human gene-editing. Part of this review is creating forecasting questions. For example, on a PEW Research Center report from 2020, 56% of Indian respondents found gene-editing an appropriate use of science, so we may ask, what % of Indian respondents will find gene-editing an appropriate use of science in 2025? My problem here is that the PEW Research Center and other organizations involved with surveying people's takes on gene-editing are not guaranteed to consistently conduct these surveys. My "ask" to NHGRI is an answer to whether the NHGRI will conduct a survey on people's attitudes towards human gene-editing in the next 10 years, and whether I can talk to a genetics-researcher about this topic (I am interested in aggregating expert opinions on these forecasting questions). Thank you for reading all of this, and I wish you the best!
 
