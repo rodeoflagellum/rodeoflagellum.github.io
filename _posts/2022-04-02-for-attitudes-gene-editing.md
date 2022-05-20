@@ -642,7 +642,33 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 ### [Article Figures](#figures)
 
+<!-- ![](/assets/2022/for_attitudes_gene_editing/images/) -->
+
 #### *PEW Research Center, 2022*
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_1.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_2.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_3.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_4.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_5.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_6.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_7.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_8.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_9.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_10.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_11.png)
+
+![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_12.png)
 
 #### *Ni et al., 2022*
 
