@@ -254,7 +254,7 @@ While I might still be misperceiving the magnitude of the expected affordances o
 
 There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
 
-- What influence does the [public, bioethicists, genetics researchers] have on gene-editing research?
+- What influence does the [public, bioethicists, genetics researchers] have on gene-editing research and outcomes?
 - What are the public's misperceptions of gene-editing?
 - What biases are present in recording the public's attitudes towards gene-editing?[^opinions]
 
@@ -646,29 +646,29 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 #### *PEW Research Center, 2022*
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_1.png)
+![](/assets/2022for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_1.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_2.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_2.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_3.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_3.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_4.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_4.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_5.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_5.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_6.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_6.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_7.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_7.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_8.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_8.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_9.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_9.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_10.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_10.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_11.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_11.png)
 
-![](/assets/2022/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_12.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_12.png)
 
 #### *Ni et al., 2022*
 
