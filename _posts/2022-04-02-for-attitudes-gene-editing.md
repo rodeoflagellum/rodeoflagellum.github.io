@@ -165,7 +165,7 @@ Nonetheless, it is very easy to imagine negative events of varying magnitude inv
 
 [com]: https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion "https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion"
 
-Something that seems less likely to occur in the near-term future but is still worth discussing due to the severe consequences associated with it is a post-human-gene-editing-for-enhancement social ecosystem  similar to Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent the coming inhuman future][erik_hoels_inhuman_future]_:
+Something that seems less likely to occur in the near-term future, but is still worth discussing due to the severe consequences associated with it, is a post-human-gene-editing-for-enhancement social ecosystem  similar to Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent the coming inhuman future][erik_hoels_inhuman_future]_:
 
 [erik_hoels_inhuman_future]: https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r "https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r"
 
@@ -176,9 +176,9 @@ Something that seems less likely to occur in the near-term future but is still w
 >
 > For imagine being told you’ve been chosen, forged to be objectively better than other people. In the tiniest mechanisms of your cells. Now, look out at the world of normies. What is your level of respect for them? And if your answer isn’t a sneer, that you’re looking at a bunch of Neanderthals who should be replaced, that they are pitiable at best, you don’t understand the darker aspects of psychology. Shakespeare? Why should they care what he wrote? He’s just another Neanderthal.
 
-Without having yet scanned the research on people's attitude towards human gene-editing, I imagine that many other people might initially agree with Hoel's description.
+I imagine that many other people, without having thought extensively about the social and economic forces guiding humanity's reaction to human gene-editin or about the different ways in which gene-editing can be used on humans, might agree with a future in line with Hoel's.
 
-Gene-editing and the risks associated with it do not appear to be going away anytime soon. Let's take a step back and look at the history of gene-editing[^timeline]:
+Research interest in gene-editing does not seem to be waning, and seems instead to be intensifying; I wouldn't expect progress in gene-editing to cease at least within the next 15 years. Let's take a step back and look at the history of gene-editing[^timeline]:
 
 - 1953: Discovery of the Double Helix
 - 1958: DNA is Made in a Test Tube for the First Time
@@ -223,9 +223,9 @@ I am unfamiliar with many of the terms in this timeline, but even without unders
 
 ![](/assets/2022/for_attitudes_gene_editing/images/gene_editing_2000-2021.png)
 
-Note that the line indexed with (1) for year _i_ refers to the cumulative number of results in year _i_, and the line indexed (2) corresponds to the number of results for just year _i_.
+Note that the line indexed with (1) the cumulative number of search results, the line indexed with (2) corresponds to the number of results for each year.
 
-&emsp; If it is true that search term frequency is closely correlated with research activity, then this above graph implies interest and research in gene-editing is growing tremendously. This is not too surprising given the theoretical benefits gene-editing could have both indirectly (e.g., improved crop robustness or yields) and directly (e.g., treatment of disease). I was more surprised to learn that there were so few results for "human gene-editing" in the early 2000's, and that major changes in the search term frequency, and hence in research activity, are only very recent phenomena.
+&emsp; If it is true that search term frequency is closely correlated with research activity, then this above graph implies interest and research in gene-editing is growing tremendously. This is not too surprising given the theoretical benefits gene-editing could have both indirectly (e.g., improved crop robustness or yields) and directly (e.g., treatment of disease). I was more surprised to learn that there were so few results for "human gene-editing" in the early 2000's, and that major changes in the search term frequency, and hence also in research activity, are only very recent phenomena.
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_gene_editing_2000-2021.png)
 
@@ -241,11 +241,9 @@ What's missing from this graph is how many of these research results using "huma
 
 Genome editing—The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification. -->
 
-While I might still be mischaracterizing the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that gene-editing is not risky enough a technology to warrant a full-scale shut down of research into it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research interest.
+While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity.
 
-&emsp; There is no resource I have found on human gene-editing that outlines many treatment and enhancement scenarios, or that attaches probabilities to any scenario involving human gene-editing. As such, I believe that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity has been somewhat neglected.
-
-Answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement) seem important:
+&emsp; I have found few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economics pathways to different treatment and enhancement scenarios, or that actually attach probabilities to any future scenario, example, or consideration involving human gene-editing. It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
 
 - When will the first clinical trials involving human genome editing occur?
 - How successful will the first clinical trials involving human genome editing be?
