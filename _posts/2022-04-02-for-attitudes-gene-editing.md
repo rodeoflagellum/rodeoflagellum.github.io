@@ -17,16 +17,16 @@ reading_time: "yes"
 <!-- MetaConsiderations
 Disclaimer for the EA and LW communities (impact / epistemic rigor) (search EA for
   gene-editing posts to get consensus, comment on your personal conversations)
+Improve the transparency
+Reach out to AllAmericanBreakfast, LW proof reader to proof read
 Considerations for evaluating what people think about human gene-editing
   What about non-human gene-editing?
   What about gene-editing for enhancement?
   What about gene-editing for treatment?
   What if gene-editing was fully legal, accessible, worked, etc...?
-Quote Erik Hoel on fears for the human future
 Answering all points in reasoning transparency in a disclaimer
 What to include in a takeaway
 What to include in the disclaimer
-Put [^HGE-Book] next to all resources
 For each article
   Read each section
     Do I agree or disagree?
@@ -304,8 +304,9 @@ Extrapolate how the drivers might change.
 
 <!-- Analyze all of Ryan's questions.  -->
 
+<!-- How will religiosity change in the coming decade? -->
 
-
+<!-- How well do aggregated opinions general?  -->
 
 ### [General Questions Notes](#general-questions-notes)
 
@@ -672,7 +673,27 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 #### *Ni et al., 2022*
 
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_6.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_7.png)
+
 #### *Kobayashi et al., 2022*
+
+![](/assets/2022/for_attitudes_gene_editing/images/kobayashi_et_al_2022/kobayashi_et_al_2022_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/kobayashi_et_al_2022/kobayashi_et_al_2022_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/kobayashi_et_al_2022/kobayashi_et_al_2022_3.png)
 
 #### *Waltz et al., 2021*
 
