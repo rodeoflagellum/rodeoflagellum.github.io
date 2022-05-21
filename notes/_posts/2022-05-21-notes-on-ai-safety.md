@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title:  "Notes on Longtermism and Global Priorities"
+title:  "Notes on AI Alignment"
 date:  2022-05-12 8:08:00 -0400
 modified: 2022-05-14 9:10:00 -0400
 permalink: "/notes_on_longtermism/"

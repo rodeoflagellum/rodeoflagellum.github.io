@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title:  "Notes on \"The Big Here and Long Now\""
+title:  "\"The Big Here and Long Now\""
 date:  2022-05-05 14:08:00 -0400
 modified: 2022-05-06 10:30:00 -0400
 permalink: "/notes_on_the_big_here_and_long_now/"
