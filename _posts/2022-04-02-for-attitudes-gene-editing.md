@@ -392,6 +392,8 @@ Research that I found later on as a result of looking up references or links of 
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
   - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (<https://pubmed.ncbi.nlm.nih.gov/33560915/>)
   - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (<https://www.mdpi.com/2409-9287/5/3/20>)
+    - D3.5: Public views of human enhancement technologies in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d3.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>)
+    - D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf)
   - Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>)
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>
   - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>)
@@ -705,6 +707,43 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 ![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_3.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_4.png)
+
+#### *Cristina et al., 2021*
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_4.png)
+
+#### *Scheufele et al., 2021*
+
+
+<!-- Progress
+Timeline
+Quotes / For
+Against -->
+
+![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2022/scheufele_et_al_2022_1.png)
+
+#### *Izzah et al., 2021*
+
+
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_5.png)
+
+
+#### *
+
 
 ### [Glossary and Visuals](#glossary)
 
