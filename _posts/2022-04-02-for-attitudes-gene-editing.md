@@ -742,8 +742,38 @@ Against -->
 ![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_5.png)
 
 
-#### *
+#### *Howell et al., 2020*
 
+![](/assets/2022/for_attitudes_gene_editing/images/howell_et_al_2020/howell_et_al_2020_1.png)
+
+#### *Jedwab et al., 2020*
+
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/jedwab_et_al_2020/jedwab_et_al_2020_6.png)
+
+#### *Rocha et al., 2020*
+
+rocha_et_al_2020
+
+#### *Bombard et al., 2019 (1)*
+
+bombard_et_al_2019
+
+#### *Riggan et al., 2019*
+
+riggan_et_al_2019
+
+#### 
 
 ### [Glossary and Visuals](#glossary)
 
