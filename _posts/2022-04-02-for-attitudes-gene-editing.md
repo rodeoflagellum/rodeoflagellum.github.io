@@ -115,6 +115,12 @@ be a question or just an announcement? -->
 
 While this essay is not one on gene-editing, I hope that this brief section on the prospects and perils of human gene-editing primes you adequately for a discussion on people's attitudes towards human gene-editing, or more accurately on their perception of what gene-editing humans would entail.
 
+This short section should offer a fractional look at:
+
+- What's the general idea behind gene-editing?
+- What benefits might human gene-editing offer?
+- What concerns are there with human gene-editing? 
+
 I expect most people reading this to be somewhat familiar with the terms genetic engineering, gene-editing, genetic modification, or genome editing. They all sound somewhat similar, but  For me, the idea of gene-editing typically comes up when media, strangers, and food labels reference [genetically modified organisms][wiki_GMO] (GMO). Given my interest in various emerging biotechnologies, I also come across research on gene-editing, and across articles covering the prospects and perils of human gene-editing.
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
@@ -816,6 +822,24 @@ pew_research_2018
 #### *Musunuru et al., 2017*
 
 musunuru_et_al_2017
+
+#### *Scheufele et al., 2017*
+
+scheufele_et_al_2017
+
+#### *McCaughey et al., 2017*
+
+mccaughey_et_al_2017
+
+supp: https://linkinghub.elsevier.com/retrieve/pii/S1934590916300546
+
+#### *PEW Research Center, 2016*
+
+pew_research_2016
+
+#### *PEW Research Center, 2015*
+
+pew_research_2015
 
 ### [Glossary and Visuals](#glossary)
 
