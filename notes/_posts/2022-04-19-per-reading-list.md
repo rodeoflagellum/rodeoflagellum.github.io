@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Reading List"
+category: misc
 date:  2022-04-19 11:15:00 -0400
 modified: 2022-05-05 9:20:00 -0400
 permalink: "/per_reading_list/"
