@@ -763,17 +763,40 @@ Against -->
 
 #### *Rocha et al., 2020*
 
-rocha_et_al_2020
+rocha_et_al_2020 (look at)
 
 #### *Bombard et al., 2019 (1)*
 
-bombard_et_al_2019
+bombard_et_al_2019 (look at)
 
 #### *Riggan et al., 2019*
 
-riggan_et_al_2019
+![](/assets/2022/for_attitudes_gene_editing/images/riggan_et_al_2019/riggan_et_al_2019_1.png)
 
-#### 
+#### *Critchley et al., 2019*
+
+
+![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_5.png)
+
+#### *McCaughey et al., 2018*
+
+mccaughey_et_al_2018 (look at)
+
+### *Chen and Zhang, 2018*
+
+![](/assets/2022/for_attitudes_gene_editing/images/chen_zhang_2018/chen_zhang_2018_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/chen_zhang_2018/chen_zhang_2018_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/chen_zhang_2018/chen_zhang_2018_3.png)
 
 ### [Glossary and Visuals](#glossary)
 
