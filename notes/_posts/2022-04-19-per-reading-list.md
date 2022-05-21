@@ -3,7 +3,7 @@ layout: post
 title:  "A Reading List"
 category: misc
 date:  2022-04-19 11:15:00 -0400
-modified: 2022-05-05 9:20:00 -0400
+modified: 2022-05-21 17:50:00 -0400
 permalink: "/per_reading_list/"
 header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
 description: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
