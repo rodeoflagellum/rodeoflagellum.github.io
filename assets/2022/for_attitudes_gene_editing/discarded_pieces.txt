@@ -179,3 +179,6 @@ How much variance is explained by Liberalism vs. Conservatism, Women vs. Men, Re
 > ...
 >
 > Although much of the current discussion around genome editing fo­cuses on how these technologies can be used to treat or prevent disease and disability, some aspects of the public debate concern other purposes, such as the possibility of [enhancing traits][wiki_enhancement] and capacities beyond levels considered typical of adequate health. In theory, genome editing for such enhancement purposes could involve both somatic and germline cells. Such uses of the technologies raise questions of fairness, social norms, personal autonomy, and the role of government.
+
+
+As a consumer, if gene-editing "works as intended" in humans, my partner and I would somewhat likely (~60%) use it. Conditional on it working as intended, if some of the risks and drawbacks associated with in-vitro fertilization and egg-extraction have been reduced, then my partner and I would likely use it (~70%). If I learned more about the current and future risk landscape of gene-editing, and found that there were some major risks (for humanity or my partner) I hadn't properly understood or risks I hadn't known about, then my partner and I would be much less likely to use gene-editing.
