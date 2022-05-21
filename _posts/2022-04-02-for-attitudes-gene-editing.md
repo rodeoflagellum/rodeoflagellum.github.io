@@ -447,6 +447,8 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 - (8) 36 - 75, 60 minute Internet querying and/or reading/thinking sessions
 - (9) > 75, 60 minute Internet querying and/or reading/thinking sessions
 
+<!-- |Revising, Correcting, and Transferring Genes. (2021)|Bryan Cwik|[https://pubmed.ncbi.nlm.nih.gov/32757931/][rev_corr_gene_2021]{:target="_blank"} and [here][rev_corr_gene_2021_DL]{:target="_blank"}|1/9| -->
+
 #### *Table of Covered Research*
 
 |Title (Year)|Authors|Link|Extent|
@@ -455,7 +457,6 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 |The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|1/9|
 |Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (2022)|Shinobu Kobayashi, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama1, Masato Uchiyama, Kaori Muto, Yasuto Takeuchi, Masaki Taira, Haruhiko Sago, and Kenji Takehara|[https://www.nature.com/articles/s10038-022-01042-z][jap_gene_2022]{:target="_blank"} and [here][jap_gene_2022_DL]{:target="_blank"}|1/9|
 |The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (2021)|Margaret Waltz, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan|[https://pubmed.ncbi.nlm.nih.gov/34406038/][view_from_benches_2021]{:target="_blank"} and [here][view_from_benches_2021_DL]{:target="_blank"}|1/9|
-|Revising, Correcting, and Transferring Genes. (2021)|Bryan Cwik|[https://pubmed.ncbi.nlm.nih.gov/32757931/][rev_corr_gene_2021]{:target="_blank"} and [here][rev_corr_gene_2021_DL]{:target="_blank"}|1/9|
 |Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (2021)|Maria Cristina Yunes, Zimbábwe Osório-Santos, Marina A. G. von Keyserlingk, and Maria José Hötzel|[https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"}|1/9|
 |What we know about effective public engagement on CRISPR and beyond (2021)|Dietram A Scheufele, Nicole M Krause, Isabelle Freiling, Dominique Brossard|[https://pubmed.ncbi.nlm.nih.gov/34050014/][what_we_crispr_2021]{:target="_blank"} and [here][what_we_crispr_2021_DL]{:target="_blank"}|1/9|
 |Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (2021)|Safira Nur Izzah, Dimas Setyanto, Nurina Hasanatuludhhiyah, Danti Nur Indiastuti, Zamal Nasution, and Annette d’Arqom|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106925/][indo_gene_2021]{:target="_blank"} and [here][indo_gene_2021_DL]{:target="_blank"}|1/9|
@@ -647,7 +648,7 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 #### *PEW Research Center, 2022*
 
-![](/assets/2022for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_1.png)
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_1.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2022/pew_research_2022_2.png)
 
@@ -696,6 +697,14 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 ![](/assets/2022/for_attitudes_gene_editing/images/kobayashi_et_al_2022/kobayashi_et_al_2022_3.png)
 
 #### *Waltz et al., 2021*
+
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_4.png)
 
 ### [Glossary and Visuals](#glossary)
 
