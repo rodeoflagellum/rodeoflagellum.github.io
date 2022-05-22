@@ -494,6 +494,9 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 |Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (2020)|Leonardo Fernandes Moutinho Rocha, Luiza Amara Maciel Braga, and Fabio Batista Mota|[https://pubmed.ncbi.nlm.nih.gov/32718240/][survey_treat_res_2020]{:target="_blank"} and [here][survey_treat_res_2020_DL]{:target="_blank"}|1/9|
 |Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
+
+|Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
+
 |Attitudes of people with inherited retinal conditions toward gene editing technology. (2019)|Lily Hoffman‐Andrews, Ronit Mazzoni, Michelle Pacione, Rosemarie Garland‐Thomson, and Kelly E. Ormond|[https://pubmed.ncbi.nlm.nih.gov/31190471/][ret_gene_2019]{:target="_blank"} and [here][ret_gene_2019_DL]{:target="_blank"}|1/9|
 |Where Will We Draw the Line? Public Opinions of Human Gene Editing (2019)|Kirsten A. Riggan, Richard R. Sharp, and Megan Allyse|[https://journals.sagepub.com/doi/abs/10.1177/1049732319846867][draw_the_line_2019]{:target="_blank"} and [here][draw_the_line_2019_DL]{:target="_blank"}|1/9|
 |The clinical application of gene editing: ethical and social issues. (2019)|Kelly E Ormond, Yvonne Bombard, Vence L Bonham, Lily Hoffman-Andrews, Heidi C Howard, Rosario Isasi, Kiran Musunuru, Kirsten A Riggan, Marsha Michie, and Megan Allyse|[https://pubmed.ncbi.nlm.nih.gov/31331245/][clin_gene_2019]{:target="_blank"} and [here][clin_gene_2019_DL]{:target="_blank"}|1/9|
@@ -622,6 +625,11 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 [gene_baby_2022]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/"
 [gene_baby_2022_DL]: /assets/2022/for_attitudes_gene_editing/docs/gene_baby_2022_DL.pdf
+
+[d25_2019]: https://explore.openaire.eu/search/publication?pid=10.5281%2Fzenodo.4081154 "https://explore.openaire.eu/search/publication?pid=10.5281%2Fzenodo.4081154"
+[d25_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/d25_2019_DL.pdf
+
+
 
 ### [Expert Questioning](#expert-questioning)
 
@@ -800,7 +808,6 @@ bombard_et_al_2019 (look at)
 
 #### *Critchley et al., 2019*
 
-
 ![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_1.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/critchley_et_al_2019/critchley_et_al_2019_2.png)
@@ -825,29 +832,131 @@ mccaughey_et_al_2018 (look at)
 
 #### *PEW Research Center, 2018*
 
-pew_research_2018
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_6.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_7.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_8.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_9.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_10.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_11.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_12.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_13.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_14.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_15.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_16.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_17.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_18.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_19.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2018/pew_research_2018_20.png)
 
 #### *Musunuru et al., 2017*
 
-musunuru_et_al_2017
+![](/assets/2022/for_attitudes_gene_editing/images/musunuru_et_al_2017/musunuru_et_al_2017_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/musunuru_et_al_2017/musunuru_et_al_2017_2.png)
 
 #### *Scheufele et al., 2017*
 
-scheufele_et_al_2017
+
+![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2017/scheufele_et_al_2017_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2017/scheufele_et_al_2017_2.png)
 
 #### *McCaughey et al., 2017*
 
-mccaughey_et_al_2017
+See supplimentary data: <https://linkinghub.elsevier.com/retrieve/pii/S1934590916300546> and [here][mccaughey_supp]
 
-supp: https://linkinghub.elsevier.com/retrieve/pii/S1934590916300546
+[mccaughey_supp]: /assets/2022/for_attitudes_gene_editing/docs/mccaughey_supp_2017.pdf
+
+![](/assets/2022/for_attitudes_gene_editing/images/mccaughey_et_al_2017/mccaughey_et_al_2017_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/mccaughey_et_al_2017/mccaughey_et_al_2017_2.png)
 
 #### *PEW Research Center, 2016*
 
-pew_research_2016
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_6.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_7.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_8.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_9.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_10.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_11.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_12.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_13.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_14.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_15.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_16.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_17.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_18.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_19.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_20.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_21.png)
+
 
 #### *PEW Research Center, 2015*
 
-pew_research_2015
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_6.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_7.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_8.png)
 
 ### [Glossary and Visuals](#glossary)
 
