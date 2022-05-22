@@ -113,19 +113,27 @@ be a question or just an announcement? -->
 
 ## [Prospects and Perils](#prospects-perils-gene-editing)
 
-While this essay is not one on gene-editing, I hope that this brief section on the prospects and perils of human gene-editing primes you adequately for a discussion on people's attitudes towards human gene-editing, or more accurately on their perception of what gene-editing humans would entail.
+While this essay is not one on gene-editing, I hope that this brief section on the prospects and perils of using gene-editing on humans primes you adequately for a discussion on people's attitudes towards it, or more accurately, on people's _impressions_ of human gene-editing. This section should offer a fractional look at the questions:
 
-This short section should offer a fractional look at:
-
-- What's the general idea behind gene-editing?
+- What's gene-editing, broadly speaking?
 - What benefits might human gene-editing offer?
-- What concerns are there with human gene-editing? 
+- What concerns are there with human gene-editing?
 
-I expect most people reading this to be somewhat familiar with the terms genetic engineering, gene-editing, genetic modification, or genome editing. They all sound somewhat similar, but  For me, the idea of gene-editing typically comes up when media, strangers, and food labels reference [genetically modified organisms][wiki_GMO] (GMO). Given my interest in various emerging biotechnologies, I also come across research on gene-editing, and across articles covering the prospects and perils of human gene-editing.
+The next section seeks to answer _What do people think about human gene-editing?_; later on, I will motivate why answering this question might be useful.
+
+In my life, I discuss gene-editing with friends in the EA, Rationality, and Forecasting communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally don't monitor news of progress. I expect most people reading this recognize the terms: genetic engineering, gene-editing, genetic modification, or genome editing. They all sound somewhat similar, but are fairly different.
+
+> Gene—A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
+>
+> Gene editing—A technique that allows researchers to alter the DNA of cells or organisms to insert, delete, or modify a gene or gene sequences to silence, enhance, or otherwise change the gene’s characteristics (NASEM, 2016a, p. 182).
+>
+> Genome—The complete set of DNA that makes up an organism (NASEM, 2016a, p. 182). In humans, the genome is organized into 23 pairs of ho­mologous chromosomes.
+>
+> Genome editing—The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification.
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
 
-&emsp; Altering the human genome could afford extensive benefits to humanity, in terms of health and biological capability, but doing so might also produce poor outcomes. The expected values of different plausible futures involving human gene-editing seem difficult to access, and there are strong arguments for and against humanity employing gene-editing on itself.
+Altering the human genome could afford extensive benefits to humanity, in terms of health and biological capability, but doing so might also produce poor outcomes. The expected values of different plausible futures involving human gene-editing seem difficult to access, and there are strong arguments for and against humanity employing gene-editing on itself.
 
 One can easily imagine the prospects of altering a human's genes.
 
