@@ -113,15 +113,16 @@ be a question or just an announcement? -->
 
 ## [Prospects and Perils](#prospects-perils-gene-editing)
 
-While this essay is not one on gene-editing, I hope that this brief section on the prospects and perils of using gene-editing on humans primes you adequately for a discussion on people's attitudes towards it, or more accurately, on people's _impressions_ of human gene-editing. This section should offer a fractional look at the questions:
+While this essay is not one on gene-editing, I hope that this brief section on the prospects and perils of using gene-editing on humans primes you adequately for a discussion on people's attitudes towards human gene-editing, or more accurately, on people's _impressions_ of human gene-editing. This section should offer a fractional look at the questions:
 
-- What's gene-editing, broadly speaking?
+- What is gene-editing, broadly speaking?
+- What is the state of human gene-editing?
 - What benefits might human gene-editing offer?
 - What concerns are there with human gene-editing?
 
-The next section seeks to answer _What do people think about human gene-editing?_; later on, I will motivate why answering this question might be useful.
+The next section, which forms the brunt of this essay, seeks to answer: _What do people currently think about human gene-editing?; What will people think about human gene-editing?; Why do people think what they think about human gene-editing?; Why is what people think about human gene-editing important to humanity's future?_
 
-In my life, I discuss gene-editing with friends in the EA, Rationality, and Forecasting communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally don't monitor news of progress. I expect most people reading this recognize the terms: genetic engineering, gene-editing, genetic modification, or genome editing. They all sound somewhat similar, but are fairly different.
+In my life, I discuss gene-editing with friends in the EA, Rationality, and Forecasting communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally am not involved enough to monitor news of progress in the field. I expect most people reading this recognize the terms: genetic engineering, gene-editing, genetic modification, or genome editing. They all sound somewhat similar, but are fairly different.
 
 > Gene—A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
 >
@@ -294,16 +295,11 @@ what forms of gene-editing are eventually implemented
 
 practices come to pass, when these
 
-
-
 ### [Today and the Last 7 Years](#last-seven-years)
 
 #### *Summary and Review*
 
 #### *Wavering Views on Treatment*
-
-#### *Enhancement Concerns*
-
 
 ### [Drivers of These Attitudes](#rationale)
 
@@ -318,6 +314,18 @@ include partipants counts, year, demographic properties.  -->
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
+The entities I believe most want to know are:
+
+- Where will the 4th gene-edited baby be born?
+- In what country will germline genome editing in humans be legalized?
+- In what country will gene-editing for enhancement be legalized?
+- Where will
+- What will people think about human gene-editing in the future?
+- When will the first clinical trials of gene-editing be made accessible.
+
+The entities I believe are most important to consider forecasting are:
+
+The questions that are likely related to people's attitudes on gene-editing?
 
 ### [Evidence](#evidence)
 
@@ -482,6 +490,12 @@ A note should be made that
   - Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>)
   - The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>)
   - Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>)
+- U.S. attitudes on human genome editing (<https://www.semanticscholar.org/paper/U.S.-attitudes-on-human-genome-editing-Scheufele-Xenos/a995485317434f5a09542f3dd9c3731a624a2cac>)[repeat; included because there are novel results that come up when this is inputted into CrossRef]
+  - Survey on the perception of germline genome editing among the general public in Japan (<https://www.semanticscholar.org/paper/Survey-on-the-perception-of-germline-genome-editing-Uchiyama-Nagai/d7610f56bbab4fb04b08f3426fcca5feddcb8933>)
+  - Changes in opinions about human germline gene editing as a result of the Dutch DNA-dialogue project (<https://www.semanticscholar.org/paper/Changes-in-opinions-about-human-germline-gene-as-a-Houtman-Vijlbrief/ee1376ba853dd1b7f1e954e5b3d10c0761838ba8>)
+  - Social Agents of Technological Change: Dynamics and Divergence of Meanings, Expectations and Sentiments of Emerging Technologies : the case of Genome Editing (<https://www.semanticscholar.org/paper/Social-Agents-of-Technological-Change%3A-Dynamics-and-Nguyen/05d5f5b14b6d8ae3df21227f7b0f0e56998abb09>)
+
+  <!-- What's missing from this analyses? -->
 
 <!-- Survey Metaculites on Gene-Editing (reach out) -->
 
