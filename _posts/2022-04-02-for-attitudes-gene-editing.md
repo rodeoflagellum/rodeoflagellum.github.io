@@ -59,7 +59,7 @@ __Transparency__:
   - _Shortcuts?_ - I voluntarily opted to limit the scope of my review by mostly operating within the results produced by my initial searches. I could have looked for more research. I did not spend much time learning about gene-editing before writing this and did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations.
   - _Epistemic confidence?_ - I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%), both at the time of me submitting this and in the future.
   - _Type of support for my claims?_ Most of the claims in my review are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating, such as when I am investigating causal drivers for some of the  research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently know how to use the tools to understand well.
-  - _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose", "Could be", and "Stating the Obvious".
+  - _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose" (wrt my writing style), "Could be" (wrt my explanations for how people's attitudes on human gene-editing will change and for how these attitudes affect human gene-editing futures), and "Stating the Obvious".
 
 [wiki_biases]: https://en.wikipedia.org/wiki/List_of_cognitive_biases "https://en.wikipedia.org/wiki/List_of_cognitive_biases"
 
@@ -733,23 +733,23 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 #### *Waltz et al., 2021*
 
-![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_1.png)
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2021/waltz_et_al_2021_1.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_2.png)
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2021/waltz_et_al_2021_2.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_3.png)
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2021/waltz_et_al_2021_3.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2022/waltz_et_al_2022_4.png)
+![](/assets/2022/for_attitudes_gene_editing/images/waltz_et_al_2021/waltz_et_al_2021_4.png)
 
 #### *Cristina et al., 2021*
 
-![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_1.png)
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_1.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_2.png)
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_2.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_3.png)
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_3.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2022/cristina_et_al_2022_4.png)
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_4.png)
 
 #### *Scheufele et al., 2021*
 
@@ -759,20 +759,20 @@ Timeline
 Quotes / For
 Against -->
 
-![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2022/scheufele_et_al_2022_1.png)
+![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2021/scheufele_et_al_2021_1.png)
 
 #### *Izzah et al., 2021*
 
 
-![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_1.png)
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2021/izzah_et_al_2021_1.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_2.png)
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2021/izzah_et_al_2021_2.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_3.png)
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2021/izzah_et_al_2021_3.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_4.png)
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2021/izzah_et_al_2021_4.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2022/izzah_et_al_2022_5.png)
+![](/assets/2022/for_attitudes_gene_editing/images/izzah_et_al_2021/izzah_et_al_2021_5.png)
 
 
 #### *Howell et al., 2020*
@@ -822,7 +822,7 @@ bombard_et_al_2019 (look at)
 
 mccaughey_et_al_2018 (look at)
 
-### *Chen and Zhang, 2018*
+#### *Chen and Zhang, 2018*
 
 ![](/assets/2022/for_attitudes_gene_editing/images/chen_zhang_2018/chen_zhang_2018_1.png)
 
