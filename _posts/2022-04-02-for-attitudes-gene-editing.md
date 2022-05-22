@@ -438,6 +438,7 @@ Research that I found later on as a result of looking up references or links of 
   - Public Views of Gene Editing for Babies Depend on How It Would Be Used (<https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/>)
     - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (<https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/>)
     - Chapter 5: Public Views About Biomedical Issues (<https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/>)
+  - Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>)
 - "attitudes toward human gene-editing" (first 3 pages)
   - U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>)
   - A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>)
@@ -491,6 +492,7 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 |The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (2020)|Marcelo de Araujo|[https://www.mdpi.com/2409-9287/5/3/20][edit_or_embryo_2020_DL]{:target="_blank"} and [here][edit_or_embryo_2020_DL]{:target="_blank"}|1/9|
 |What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (2020)|Emily L Howell, Shiyu Yang, Becca Beets, Dominique Brossard, Dietram A Scheufele, Michael A Xenos|[https://pubmed.ncbi.nlm.nih.gov/34050016/][what_we_know_crispr_2020]{:target="_blank"} and [here][what_we_know_crispr_2020_DL]{:target="_blank"}|1/9|
 |Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (2020)|Abbie Jedwab, Danya F. Vears, Cheryl Tse, and Christopher Gynge|[https://www.nature.com/articles/s10038-020-0810-2][germ_1500_2020]{:target="_blank"} and [here][germ_1500_2020_DL]{:target="_blank"}|1/9|
+|Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (2020)|PEW Research Center|[https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/][pew_res_2020]{:target="_blank"} and [here][pew_res_2020_DL]{:target="_blank"}|1/9|
 |Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (2020)|Leonardo Fernandes Moutinho Rocha, Luiza Amara Maciel Braga, and Fabio Batista Mota|[https://pubmed.ncbi.nlm.nih.gov/32718240/][survey_treat_res_2020]{:target="_blank"} and [here][survey_treat_res_2020_DL]{:target="_blank"}|1/9|
 |Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
@@ -534,6 +536,9 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 [what_we_crispr_2021]: https://pubmed.ncbi.nlm.nih.gov/34050014/ "https://pubmed.ncbi.nlm.nih.gov/34050014/"
 [what_we_crispr_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/what_we_crispr_2021_DL.pdf
+
+[pew_res_2020]: https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/ "https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/"
+[pew_res_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/pew_res_2020_DL.pdf
 
 [reex_ethics_wake_2019]: https://pubmed.ncbi.nlm.nih.gov/32029087/ "https://pubmed.ncbi.nlm.nih.gov/32029087/"
 [reex_ethics_wake_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/reex_ethics_wake_2019_DL.pdf
@@ -797,6 +802,20 @@ Against -->
 #### *Rocha et al., 2020*
 
 rocha_et_al_2020 (look at)
+
+#### *PEW Research Center, 2020*
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_6.png)
 
 #### *Bombard et al., 2019 (1)*
 
