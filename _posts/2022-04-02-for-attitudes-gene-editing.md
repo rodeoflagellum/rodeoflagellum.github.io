@@ -374,6 +374,9 @@ In the query-lists below (OpenAlex Queries and Google Queries), the list structu
 
 Research that I found later on as a result of looking up references or links of works from the search results are included under "Other Research". The "Table of Covered Research" refers to the primary research works I base much of my analysis and forecasting off of. Any work that I referenced in this post but that is not included in the "Table of Covered Research" has a citation in the footnotes.  
 
+<!-- Made the mistake in this first search pass in including results on the ethics of gene-editing, and not removing those.
+This does not apply to other research.  -->
+
 #### *Search Phrases*
 
 - _"survey on human gene-editing"_
@@ -459,7 +462,28 @@ Research that I found later on as a result of looking up references or links of 
 
 #### *Other Research*
 
+A note should be made that
+
 - Where Will We Draw the Line? Public Opinions of Human Gene Editing (<https://journals.sagepub.com/doi/abs/10.1177/1049732319846867>)
+- Public views on gene editing and its uses (<https://www.semanticscholar.org/paper/Public-views-on-gene-editing-and-its-uses-Gaskell-B%C3%A1rd/0b702fe853d7cfe0fcc9ba1ca321f6f62d6e2747#citing-papers>) [Note: the below were found exclusively using CrossRef]
+  - CRISPR Images: Media Use and Public Opinion About Gene Editing (<https://www.semanticscholar.org/paper/CRISPR-Images%3A-Media-Use-and-Public-Opinion-About-Dawson-Paintsil/506d8d279d2c517d763d3f5c7ca593ceb70bc7f2>)
+  - Public acceptability of gene therapy and gene editing for human use: A systematic review. (<https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>)
+  - Understanding opposition to human gene editing A role for pathogen disgust sensitivity? (<https://www.semanticscholar.org/paper/Understanding-opposition-to-human-gene-editing-A-Halstead-Lewis/6d4a1b6da361f47ade3d841b6e48b067851f7426>)
+  - Increased awareness and decreased acceptance of genome-editing technology: The impact of the Chinese twin babies (<https://www.semanticscholar.org/paper/Increased-awareness-and-decreased-acceptance-of-The-Watanabe-Saito/6ccba038e919e6b49468b0fde6084356eb892dd4>)
+  - Students’ attitudes towards somatic genome editing versus genome editing of the germline using an example of familial leukemia (<https://www.semanticscholar.org/paper/Students%E2%80%99-attitudes-towards-somatic-genome-editing-Vajen-Ronez/604118d9d625f3852f4b87c65a05337118fe03f2>)
+  - Assessing public opinions on the likelihood and permissibility of gene editing through construal level theory (<https://www.semanticscholar.org/paper/Assessing-public-opinions-on-the-likelihood-and-of-So-Sladek/e5a36f8aa08f95287947584a4a749daa82df6d9d>)
+  - Citizen views on genome editing: effects of species and purpose (<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>)
+  - Enhanced threat or therapeutic benefit? Risk and benefit perceptions of human gene editing by purpose and heritability of edits (<https://www.semanticscholar.org/paper/Enhanced-threat-or-therapeutic-benefit-Risk-and-of-Howell-Kohl/47aa3f2bfc10485523fce14076030f3b8c4d11b0>)
+  - Meaning of Ambiguity: A Japanese Survey on Synthetic Biology and Genome Editing (<https://www.semanticscholar.org/paper/Meaning-of-Ambiguity%3A-A-Japanese-Survey-on-Biology-Hibino-Yoshizawa/5a529c7c5ca3dcd637537e5dd04f277bb701b0f9>)
+  - Attitudes of clinical geneticists and certified genetic counselors to genome editing and its clinical applications: A nation-wide questionnaire survey in Japan (<https://www.semanticscholar.org/paper/Attitudes-of-clinical-geneticists-and-certified-to-Taguchi-Yamada/0fcdf483080eb098ff674a954fbd2603098c188a>)
+  - Should germline genome editing be allowed? The effect of treatment characteristics on public acceptability. (<https://www.semanticscholar.org/paper/Should-germline-genome-editing-be-allowed-The-of-on-Dijke-Wely/cbc7ebae1fb3e4e34a3ee8cad0aa77345c5149a8>)
+  - Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21>)
+  - Comparison of public discussions of gene editing on social media between the United States and China (<https://www.semanticscholar.org/paper/Comparison-of-public-discussions-of-gene-editing-on-Ji-Robbins/b51fde8e8a6ba2065b554a0db73ee7500241d314>)
+  - Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>)
+  - The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>)
+  - Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>)
+
+<!-- Survey Metaculites on Gene-Editing (reach out) -->
 
 #### *Coverage Extent*
 
@@ -496,9 +520,7 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 |Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (2020)|Leonardo Fernandes Moutinho Rocha, Luiza Amara Maciel Braga, and Fabio Batista Mota|[https://pubmed.ncbi.nlm.nih.gov/32718240/][survey_treat_res_2020]{:target="_blank"} and [here][survey_treat_res_2020_DL]{:target="_blank"}|1/9|
 |Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
-
-|Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
-
+|D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (2019)|Tim Hanson, Heidi Carmen Howard, Emilia Niemiec, Javier Prieto, Marie Prudhomme, Oliver Greene, and George Spedding|[https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf](https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf){:target="_blank"} and [here][d25_2019_DL]{:target="_blank"}|1/9|
 |Attitudes of people with inherited retinal conditions toward gene editing technology. (2019)|Lily Hoffman‐Andrews, Ronit Mazzoni, Michelle Pacione, Rosemarie Garland‐Thomson, and Kelly E. Ormond|[https://pubmed.ncbi.nlm.nih.gov/31190471/][ret_gene_2019]{:target="_blank"} and [here][ret_gene_2019_DL]{:target="_blank"}|1/9|
 |Where Will We Draw the Line? Public Opinions of Human Gene Editing (2019)|Kirsten A. Riggan, Richard R. Sharp, and Megan Allyse|[https://journals.sagepub.com/doi/abs/10.1177/1049732319846867][draw_the_line_2019]{:target="_blank"} and [here][draw_the_line_2019_DL]{:target="_blank"}|1/9|
 |The clinical application of gene editing: ethical and social issues. (2019)|Kelly E Ormond, Yvonne Bombard, Vence L Bonham, Lily Hoffman-Andrews, Heidi C Howard, Rosario Isasi, Kiran Musunuru, Kirsten A Riggan, Marsha Michie, and Megan Allyse|[https://pubmed.ncbi.nlm.nih.gov/31331245/][clin_gene_2019]{:target="_blank"} and [here][clin_gene_2019_DL]{:target="_blank"}|1/9|
@@ -619,7 +641,6 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 [rev_corr_gene_2021]: https://pubmed.ncbi.nlm.nih.gov/32757931/ "https://pubmed.ncbi.nlm.nih.gov/32757931/"
 [rev_corr_gene_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/rev_corr_gene_2021_DL.pdf
-
 
 [ret_gene_2019]: https://pubmed.ncbi.nlm.nih.gov/31190471/ "https://pubmed.ncbi.nlm.nih.gov/31190471/"
 [ret_gene_2019_DL]: /assets/2022/for_attitudes_gene_editing/docs/ret_gene_2019_DL.pdf
@@ -821,6 +842,10 @@ rocha_et_al_2020 (look at)
 
 bombard_et_al_2019 (look at)
 
+#### D2.5 SIENNA
+
+get table, references, and pics
+
 #### *Riggan et al., 2019*
 
 ![](/assets/2022/for_attitudes_gene_editing/images/riggan_et_al_2019/riggan_et_al_2019_1.png)
@@ -899,7 +924,6 @@ mccaughey_et_al_2018 (look at)
 
 #### *Scheufele et al., 2017*
 
-
 ![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2017/scheufele_et_al_2017_1.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/scheufele_et_al_2017/scheufele_et_al_2017_2.png)
@@ -958,7 +982,6 @@ See supplimentary data: <https://linkinghub.elsevier.com/retrieve/pii/S193459091
 
 ![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2016/pew_research_2016_21.png)
 
-
 #### *PEW Research Center, 2015*
 
 ![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_1.png)
@@ -1010,8 +1033,6 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 
 ### [Footnotes](#footnotes)
-
-
 
 [^vera-point]: Raposo, Vera Lucia. "The first Chinese edited babies: a leap of faith in science." JBRA assisted reproduction 23, no. 3 (2019): 197. <br><br> Note that I recycled the list and blockquote relating to Vera's paper from my other essay _Forecasting Designer Babies_.
 

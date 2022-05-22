@@ -45,6 +45,7 @@ status: "Early Stages"
   - Embryo Selection For Intelligence (https://www.gwern.net/Embryo-selection)
   - Ethics Issues Raised by Human Enhancement (https://www.bbvaopenmind.com/en/articles/ethics-issues-raised-by-human-enhancement/)
 
+The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (https://www.semanticscholar.org/paper/The-Ethics-of-Genetic-Cognitive-Enhancement%3A-Gene-Araujo/1217a3bbc9addaa4beacbde7523a2039fa699d4f)
 ---
 
 ## [Further Reading](#further-reading)
