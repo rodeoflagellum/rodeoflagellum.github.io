@@ -206,3 +206,6 @@ As a consumer, if gene-editing "works as intended" in humans, my partner and I w
 |Genome editing and assisted reproduction: curing embryos, society or prospective parents? (2018)|Giulia Cavaliere|[https://pubmed.ncbi.nlm.nih.gov/28725950/][gen_assist_cure_2018]{:target="_blank"} and [here][gen_assist_cure_2018_DL]{:target="_blank"}|1/9|
 |Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (2017)|Stephan Guttinger|[https://link.springer.com/article/10.1007/s11948-017-9931-1][trust_sci_2017]{:target="_blank"} and [here][trust_sci_2017_DL]{:target="_blank"}|1/9|
 |The ethics of creating genetically modified children using genome editing (2017)|Tetsuya Ishii|[https://pubmed.ncbi.nlm.nih.gov/28885275/][ethic_gen_child_2017]{:target="_blank"} and [here][ethic_gen_child_2017_DL]{:target="_blank"}|1/9|
+
+
+|Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (2021)|Maria Cristina Yunes, Zimbábwe Osório-Santos, Marina A. G. von Keyserlingk, and Maria José Hötzel|[https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"}|1/9|
