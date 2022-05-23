@@ -55,13 +55,13 @@ __Takeaways__:
 - Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
 
 __Transparency__:
-  - _How much expertise do you have?_ - I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 64 on Metaculus, with an average Brier score of 0.061 (155 questions). My underconfidence is 28%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me and my biases can be found [here][about_me].
-  - _What are my biases?_ - I am human ([cognitive biases][wiki_biases] apply); With regard to human gene-editing, my current belief is that it will be GOOD. I am optimistic about the average human future involving human gene-editing for both treatment and enhancement.
+  - _How much expertise do you have?_ - I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 62 on Metaculus, with an average Brier score of 0.061 (155 questions). My underconfidence is 26%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me can be found [here][about_me].
+  - _What are my biases?_ - I am human - [cognitive biases][wiki_biases] apply accordingly; With regard to human gene-editing, my current belief is that it will be GOOD. I am optimistic about the average human future involving human gene-editing for both treatment and enhancement.
   - _How have you atoned for these biases?_ - In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
-  - _Shortcuts?_ - I voluntarily opted to limit the scope of my review by mostly operating within the results produced by my initial searches. I could have looked for more research. I did not spend much time learning about gene-editing before writing this and did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations.
-  - _Epistemic confidence?_ - I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%), both at the time of me submitting this and in the future.
+  - _Shortcuts?_ - I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations.
+  - _Epistemic confidence?_ - I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%[^forecast]), both at the time of me submitting this and in the future.
   - _Type of support for my claims?_ Most of the claims in my review are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating, such as when I am investigating causal drivers for some of the  research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently know how to use the tools to understand well.
-  - _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose" (wrt my writing style), "Could be" (wrt my explanations for how people's attitudes on human gene-editing will change and for how these attitudes affect human gene-editing futures), and "Stating the Obvious".
+  - _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose", "Could be", and "Stating the Obvious".
 
 [wiki_biases]: https://en.wikipedia.org/wiki/List_of_cognitive_biases "https://en.wikipedia.org/wiki/List_of_cognitive_biases"
 
@@ -69,11 +69,13 @@ __Transparency__:
 
 [about_me]: https://rodeoflagellum.github.io/me/ "https://rodeoflagellum.github.io/me/"
 
-__Contribution__: In this essay, I have surveyed, at different levels, 18 published articles on people's attitudes towards human gene-editing. I have aggregated and distilled the survey data from these articles, and have used this to generate 12 forecasting questions on people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed 25 corresponding authors and 1 other author of 33 published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below.
+__Contribution__: In this essay, I have surveyed, at different levels, X published articles on people's attitudes towards human gene-editing. I have aggregated and distilled the survey data from these articles. I've generated 12 forecasting questions related to people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed X corresponding authors and 1 other author of X published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below[^referral].
 
-__Priors__: Before working on this essay, I want to outline my current thoughts on human gene-editing. Outlining these thoughts seems important for determining how people might update their beliefs after reading this essay. Most of my understanding for the regulations, technology, and biology of gene-editing comes from working on my _Forecasting Designer Babies_ essay. I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproduction technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail.  
+__Priors__[^updates]: Before working on this essay, I want to outline my current thoughts on human gene-editing; doing this might help me better determine how people might update their beliefs after reading this essay. Most of my understanding for the regulations, technology, and biology of gene-editing comes from working on my _[Forecasting Designer Babies][designer-babes]_ essay. I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproduction technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail. Generally speaking, I believe that most Western liberal-leaning people are cautiously optimistic about human gene-editing, that religious and/or older and/or conservative people are less likely to support gene-editing research, that most people are not familiar with what gene-editing entails, and that most people who support gene-editing favor treatment over enhancement.
 
-__Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback. For anyone else who reads this, thank you, and if you believe that something I've said is incorrect, poorly disseminated, or otherwise inadequate, please reach out - I will likely edit the essay to include some form of update.
+__Acknowledgements__:
+
+<!-- Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback. For anyone else who reads this, thank you, and if you believe that something I've said is incorrect, poorly disseminated, or otherwise inadequate, please reach out - I will likely edit the essay to include some form of update. -->
 
 [metaculus]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
 
@@ -881,13 +883,43 @@ rocha_et_al_2020 (look at)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2020/jedwab_et_al_2020_6.png)
 
-#### *Bombard et al., 2019 (1)*
+#### *Bombard et al., 2019*
 
 bombard_et_al_2019 (look at)
 
-#### D2.5 SIENNA
+#### *D2.5 Hanson et al., 2019*
 
-get table, references, and pics
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_4.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_5.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_6.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_7.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_8.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_9.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_10.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_11.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_12.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_13.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_14.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_15.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/d25_2019/d25_2019_16.png)
 
 #### *Riggan et al., 2019*
 
@@ -1077,14 +1109,23 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 ### [Footnotes](#footnotes)
 
-[^vera-point]: Raposo, Vera Lucia. "The first Chinese edited babies: a leap of faith in science." JBRA assisted reproduction 23, no. 3 (2019): 197. <br><br> Note that I recycled the list and blockquote relating to Vera's paper from my other essay _Forecasting Designer Babies_.
+[^forecast]: This is a tentative estimate, and is more in line with how much I think people's opinions will differ from might. I would consider a small difference in forecasts to be around 10%, and a large one to be around 35%. What constitutes a "small" and "large" difference in forecasts probably differs somewhat between people. I would appreciate if you share your forecasts for the questions in this essay in the comments and outline your reasoning. I would also appreciate critiques of my forecasts, as I am typically underconfident.
+
+[^vera-point]: Raposo, Vera Lucia. "The first Chinese edited babies: a leap of faith in science." JBRA assisted reproduction 23, no. 3 (2019): 197. <br><br> Note that I recycled the list and blockquote relating to Vera's paper from my other essay _[Forecasting Designer Babies][designer-babes]_.
+
+[designer-babes]: https://rodeoflagellum.github.io/for_gene_edit_babies/ "https://rodeoflagellum.github.io/for_gene_edit_babies/"
 
 [^]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Notes:  <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
 
 [^timeline]: I searched "timeline of human gene-editing" in FireFox on 05/17/2022, looked at the first page of results, and found the timeline that looked the most useful (where usefulness  = some mental function of credibility and comprehensiveness). I chose the [timeline][genetic_editing_timeline] on <https://www.synthego.com/learn/genome-engineering-history> and added links to Wikipedia pages; Synthego claims of itself: <br>"_Synthego is a genome engineering company that enables the acceleration of life science research and development in the pursuit of improved human health. <br><br> The company leverages machine learning, automation, and gene editing to build platforms for science at scale. With its foundations in engineering disciplines, the company’s platform technologies vertically integrate proprietary hardware, software, bioinformatics, chemistries, and molecular biology to advance basic research, target validation, and clinical trials. <br><br> With its technologies cited in hundreds of peer-reviewed publications and utilized by thousands of commercial and academic researchers and therapeutic drug developers, Synthego is at the forefront of innovation enabling the next generation of medicines by delivering genome editing at an unprecedented scale._"
 
+[^updates]: Once the essay is written and submitted, I will post a brief update of my beliefs in the comments.
+
+[^referral]: If you know anyone with genetics training, I would appreciate if you asked them these questions and referred them to me.
+
 [^questions-gene-editing]: I asked these questions, as well as the one in the section on gene-editing ethics and governance, without having read much on gene-editing. Given this, the questions I ask may not be the most important considerations for the biology, technology, ethics, and governance of gene-editing. I did not go back and revise these questions after learning more about gene-editing. Any considerations for revisions would be appreciated.
 
+<!--
 [^]: Ni, Congning, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton, Bradley Malin, and Zhijun Yin. "The Public Perception of the# GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study." Journal of medical Internet research 24, no. 3 (2022): e31687. <br><br> Notes: <br><br> Quotes:
 
 [^]: Kobayashi, Shinobu, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama, Masato Uchiyama, Kaori Muto et al. "Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders." Journal of Human Genetics (2022): 1-6. <br><br> Notes: <br><br> Quotes:
@@ -1147,11 +1188,11 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 [^]: McCaughey, Tristan, Paul G. Sanfilippo, George EC Gooden, David M. Budden, Li Fan, Eva Fenwick, Gwyneth Rees et al. "A global social media survey of attitudes to human genome editing." Cell stem cell 18, no. 5 (2016): 569-572. <br><br> Notes: <br><br> Quotes:
 
 [^]: Funk, Cary, Brian Kennedy, and Elizabeth Podrebarac Sciupac. "US public wary of biomedical technologies to ‘enhance’human abilities." (2016).
-<br><br> Notes: <br><br> Quotes:
+<br><br> Notes: <br><br> Quotes: -->
 
 <!-- BOOKS  -->
 
-[^]: Greely, Henry T. CRISPR people: The science and ethics of editing humans. MIT Press, 2022. <br><br> Notes: <br><br> Quotes:
+<!-- [^]: Greely, Henry T. CRISPR people: The science and ethics of editing humans. MIT Press, 2022. <br><br> Notes: <br><br> Quotes:
 
 [^]: Singh, Vijai, and Pawan K. Dhar, eds. Genome engineering via CRISPR-Cas9 system. Academic Press, 2020.<br><br> Notes: <br><br> Quotes:
 
@@ -1159,7 +1200,7 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 []: Braverman, Irus. Gene editing, law, and the environment. New York, NY: Routledge, 2018. <br><br> Notes: <br><br> Quotes:
 
-[^]: Braun, Matthias, Hannah Schickl, and Peter Dabrock, eds. Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing. Springer, 2018. <br><br> Notes: <br><br> Quotes:
+[^]: Braun, Matthias, Hannah Schickl, and Peter Dabrock, eds. Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing. Springer, 2018. <br><br> Notes: <br><br> Quotes: -->
 
 [^hoel-contention]: I am inclined to be somewhat skeptical of this being a plausible future. I imagine that aggression and other emotions important to coordination and relationships could also be modified in the enhancement future Hoel outlines. Across many socio-economic and demographic strata, most people I've seen want their children to be kind. I don't think it's likely that parents wouldn't select [kindness, compassion, morality, etc...] if they were available alongside things like IQ, creativity, and competitiveness.  
 
