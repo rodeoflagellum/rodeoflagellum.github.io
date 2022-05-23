@@ -182,3 +182,27 @@ How much variance is explained by Liberalism vs. Conservatism, Women vs. Men, Re
 
 
 As a consumer, if gene-editing "works as intended" in humans, my partner and I would somewhat likely (~60%) use it. Conditional on it working as intended, if some of the risks and drawbacks associated with in-vitro fertilization and egg-extraction have been reduced, then my partner and I would likely use it (~70%). If I learned more about the current and future risk landscape of gene-editing, and found that there were some major risks (for humanity or my partner) I hadn't properly understood or risks I hadn't known about, then my partner and I would be much less likely to use gene-editing.
+
+
+#### *Cristina et al., 2021*
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_1.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_2.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_3.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/cristina_et_al_2021/cristina_et_al_2021_4.png)
+
+
+|Setting ethical limits on human gene editing after the fall of the somatic/germline barrier (2021)|John H Evans|[https://pubmed.ncbi.nlm.nih.gov/34050016/][set_limits_2021]{:target="_blank"} and [here][set_limits_2021_DL]{:target="_blank"}|1/9|
+|The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (2020)|Marcelo de Araujo|[https://www.mdpi.com/2409-9287/5/3/20][edit_or_embryo_2020_DL]{:target="_blank"} and [here][edit_or_embryo_2020_DL]{:target="_blank"}|1/9|
+|Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (2019)|Erika Snure Beckman, Natalie Deuitch, Marsha Michie, Megan A Allyse, Kirsten A Riggan, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599684/][autosomal_att_2019]{:target="_blank"} and [here][autosomal_att_2019_DL]{:target="_blank"}|1/9|
+|Attitudes of people with inherited retinal conditions toward gene editing technology. (2019)|Lily Hoffman‐Andrews, Ronit Mazzoni, Michelle Pacione, Rosemarie Garland‐Thomson, and Kelly E. Ormond|[https://pubmed.ncbi.nlm.nih.gov/31190471/][ret_gene_2019]{:target="_blank"} and [here][ret_gene_2019_DL]{:target="_blank"}|1/9|
+|The clinical application of gene editing: ethical and social issues. (2019)|Kelly E Ormond, Yvonne Bombard, Vence L Bonham, Lily Hoffman-Andrews, Heidi C Howard, Rosario Isasi, Kiran Musunuru, Kirsten A Riggan, Marsha Michie, and Megan Allyse|[https://pubmed.ncbi.nlm.nih.gov/31331245/][clin_gene_2019]{:target="_blank"} and [here][clin_gene_2019_DL]{:target="_blank"}|1/9|
+|Reexamining the Ethics of Human Germline Editing in the Wake of Scandal (2019)|Karen M. Meagher, Megan A. Allyse, Zubin Master, and Richard R. Sharp|[https://pubmed.ncbi.nlm.nih.gov/32029087/][reex_ethics_wake_2019]{:target="_blank"} and [here][reex_ethics_wake_2019_DL]{:target="_blank"}|1/9|
+|Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (2019)|Alix Leniav v. Hammerstein, Matthias Eggel, and Nikola Biller-Andorno|[https://pubmed.ncbi.nlm.nih.gov/31752935/][select_modify_better_2019]{:target="_blank"} and [here][select_modify_better_2019_DL]{:target="_blank"}|1/9|
+|Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (2018)|Christoph Rehmann-Sutter|[https://pubmed.ncbi.nlm.nih.gov/29529985/][why_gen_edit_more_2018]{:target="_blank"} and [here][why_gen_edit_more_2018_DL]{:target="_blank"}|1/9|
+|Genome editing and assisted reproduction: curing embryos, society or prospective parents? (2018)|Giulia Cavaliere|[https://pubmed.ncbi.nlm.nih.gov/28725950/][gen_assist_cure_2018]{:target="_blank"} and [here][gen_assist_cure_2018_DL]{:target="_blank"}|1/9|
+|Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (2017)|Stephan Guttinger|[https://link.springer.com/article/10.1007/s11948-017-9931-1][trust_sci_2017]{:target="_blank"} and [here][trust_sci_2017_DL]{:target="_blank"}|1/9|
+|The ethics of creating genetically modified children using genome editing (2017)|Tetsuya Ishii|[https://pubmed.ncbi.nlm.nih.gov/28885275/][ethic_gen_child_2017]{:target="_blank"} and [here][ethic_gen_child_2017_DL]{:target="_blank"}|1/9|
