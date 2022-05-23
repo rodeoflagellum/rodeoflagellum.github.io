@@ -47,6 +47,8 @@ Sending this to people to review on EAF, LW, asking Ege, Juan, Tamay
 Get google scholar and openalex results for "human gene-editing" last 20 years
 Emailing the author's asap -->
 
+<!-- https://www.metaculus.com/questions/10630/?invite=g2UBTF -->
+
 __Takeaways__:
 
 - People without training in genetics generally don't support research on human gene-editing
@@ -327,6 +329,31 @@ The entities I believe are most important to consider forecasting are:
 
 The questions that are likely related to people's attitudes on gene-editing?
 
+<!-- https://otexts.com/fpp3/judgmental.html -->
+
+gassian process;
+time series;
+binomial distribution;
+beta-binomial distribution;
+poisson process;
+https://www.researchgate.net/profile/Javier-Enrique-Medina-Vasquez/publication/41733449_Scenario_planning/links/559b2f0408ae21086d2784ab/Scenario-planning.pdf
+https://www.researchgate.net/profile/Ignacio-Rios/publication/273900727_Multi-period_forecasting_and_scenario_generation_with_limited_data/links/55c8995108aeb97567475590/Multi-period-forecasting-and-scenario-generation-with-limited-data.pdf
+bayesian model of attitudes; update by year to say "current views"
+https://dro.dur.ac.uk/6748/1/6748.pdf
+bayes network: https://web.stanford.edu/class/archive/cs/cs221/cs221.1196/lectures/bayes1.pdf
+SPIES method for q1, q2, q3; done several times  
+bayesian model averaging: https://www.jstor.org/stable/2676803
+  https://www.bayesianspectacles.org/preprint-a-conceptual-introduction-to-bayesian-model-averaging/
+stacking over bayesian model averaging: https://statmodeling.stat.columbia.edu/2021/12/18/use-stacking-rather-than-bayesian-model-averaging/
+likelihoods, not p-values https://stats.stackexchange.com/questions/445348/why-are-p-values-probabilities-rather-than-likelihoods
+https://alexanderetz.com/2015/07/25/understanding-bayes-updating-priors-via-the-likelihood/
+resources:
+  https://www.sciencedirect.com/topics/computer-science/nuisance-parameter
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067488/
+
+<!-- Level 0: claims at face value
+Level 1: Claims at face value + read entire thing  -->
+
 ### [Evidence](#evidence)
 
 Look at how things have changed.
@@ -498,6 +525,8 @@ A note should be made that
   <!-- What's missing from this analyses? -->
 
 <!-- Survey Metaculites on Gene-Editing (reach out) -->
+
+<!-- prune table  -->
 
 #### *Coverage Extent*
 
