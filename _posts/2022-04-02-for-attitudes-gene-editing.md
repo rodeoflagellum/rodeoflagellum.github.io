@@ -64,6 +64,7 @@ Current TODO:
 
 __Takeaways__:
 
+- With regard to human genome editing, the major distinctions are between treating heritable genetic disorders and enhancing traits (treatment vs. enhancement), between somatic cell genome editing (not heritable) and germline genome editing (heritable) (somatic vs. germline), and between editing the genomes of fetuses (more risky, but larger treatment potential) and those already born (less risky, but smaller treatment effects) (prenatal vs. postnatal).
 - People without training in genetics generally don't support research on human gene-editing
 - Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
 
@@ -298,7 +299,18 @@ One can easily imagine the prospects of altering a human's genes; the following 
 
 [who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
 
+Current clinical trials using human genome editing are postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
+
 So, gene-editing had the potential to free humanity from genetic diseases.
+
+Let's look at an example a genetic disorder that might be treated with genome editing. 
+
+
+[wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
+
+[wiki_disorder]: https://en.wikipedia.org/wiki/Genetic_disorder "https://en.wikipedia.org/wiki/Genetic_disorder"
+
+[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list
 
 The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
 
@@ -308,7 +320,7 @@ The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome E
 
 [ictrp]: https://www.who.int/clinical-trials-registry-platform "https://www.who.int/clinical-trials-registry-platform"
 
-As of the time of writing this (around May 23 2022), the most recently registered clinical trial has the title _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_ (see [here][trial])
+As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_ (see [here][trial])
 
 > This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
 
