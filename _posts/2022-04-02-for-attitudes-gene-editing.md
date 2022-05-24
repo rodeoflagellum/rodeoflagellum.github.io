@@ -134,6 +134,10 @@ In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][r
 
 [rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
 
+There are extensive benefits for humanity that could come from altering human genomes, in terms of health and biological capability, but there are simultaneously many risks and deleterious outcomes that this technology could engender. As is the case with most emerging technologies, the possible future scenarios involving human genome editing are diverse in nature.
+
+From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
+
 While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and instead have opinions on their individual _notion_ of what human genome editing entails.
 
 That being said, this section tries to offer a fractional look at the questions:
@@ -248,23 +252,21 @@ From[^hirakawa]:
 
 > The U.S. clinical trials database (clinicaltrials.gov) contains all studies which meet the definition of an ‘applicable clinical trial’ initiated on or after 27 September 2007 or continuing beyond 26 December 2007. In addition to trials required to register, voluntary registration is also accepted; studies conducted outside U.S.A., and those which may meet one of the conditions in the future, often register voluntarily. We searched the U.S. clinical trials database (01/01/2020) for any trial containing at least one of the following terms: CRISPR, Cas9, Cas12, Cas13, ZFN, zinc finger, gene edit, gene modification, and genome edit. Trials that did not use the genome editor as part of the therapeutic intervention were excluded from the analysis; these included trials to create cell lines from patients using Cas9; use of patient cells to develop therapeutic strategies, but where the cells were not used as a therapeutic themselves; CRISPR use for genome sequencing; and surveys of opinions regarding human gene editing. This search identified 41 trials utilizing genome editing agents including ZFNs, TALENs, and CRISPR/Cas9 for therapeutic interventions, no studies utilizing Cas12 or Cas13 have been registered (Table 1).
 
-The number of results in _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved this):
+The number of results in _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved why this is the case, but don't think it matters too much) is in line with the Google Scholar query results on gene-editing and human gene-editing.
 
 ![](/assets/2022/for_attitudes_gene_editing/images/trials.png)
 
-Going on <https://clinicaltrials.gov/>, and searching in one case "genome editing", and in the other, "human gene editing", I get:
+Going on <https://clinicaltrials.gov/>, and searching separately "genome editing" and "human gene editing", I get:
 
 ![](/assets/2022/for_attitudes_gene_editing/images/genome_editing.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)                                                                                                                                                                                                                                                                                                                                             Altering the human genome could afford extensive benefits to humanity, in terms of health and biological capability, but there are simultaneously deleterious outcomes that this technology can engender. As with most emerging technologies, the possible future scenarios involving human gene-editing are diverse.
+![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)  
 
-From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
+### [Affordances](#affordances)
 
+Given we've now looked at what gene-editing entails, and where the state of research on it stands broadly, let's look at the potential affordances and risks of human gene-editing.
 
-
-Given we've now looked at what gene-editing is, and where the state of research on it stands broadly, let's look at the potential affordances and risks of human gene-editing.
-
-One can easily imagine the prospects of altering a human's genes. The following quotes illustrate this to some degree.
+One can easily imagine the prospects of altering a human's genes; the following quotes illustrate this to some degree.
 
 > [Genome editing][wiki_genome_editing] is a powerful new tool for making precise additions, deletions, and alterations to the genome an organism’s complete set of genetic material. The development of new approaches—involving the use of [meganucleases][wiki_meganuclease]; [zinc finger nucleases][wiki_zinc_fingers] (ZFNs); [transcription activator-like effector nucleases][wiki_TALENS] (TALENs); and, most recently, the [CRISPR][wiki_CRISPR]/[Cas9][wiki_cas9] system—has made editing of the genome much more precise, efficient, flexible, and less expensive relative to previous strategies. With these advances has come an explosion of interest in the possible applications of genome editing, both in conducting fundamental research and potentially in promoting human health through the treatment or prevention of disease and disability. The latter possibilities range from restoring normal function in diseased organs by editing [somatic cells][wiki_somatic_cell] to preventing genetic diseases in future children and their descendants by [editing the human germline][wiki_germ_edit]. [Ref.[^HGE-Book]]
 
