@@ -301,17 +301,13 @@ One can easily imagine the prospects of altering a human's genes; the following 
 
 Current clinical trials involving human genome editing consist of postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
 
- So, one affordance of human gene-editing is the potential to free humanity from certain genetic disorders. Let's look at an example a genetic disorder that might be treated with genome editing. 
+So, one affordance of human gene-editing is the potential to free humanity from certain genetic disorders. Let's look at an example a genetic disorder that might be treated with genome editing. 
 
 From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
 
 >  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight.
 
 [wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
-
-[wiki_disorder]: https://en.wikipedia.org/wiki/Genetic_disorder "https://en.wikipedia.org/wiki/Genetic_disorder"
-
-[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list
 
 The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: 
 
@@ -331,9 +327,54 @@ As of the time of writing this (around May 23 2022), the most recently registere
 
 [trial]: https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178 "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178"
 
-A future void of PKU ([^wiki_PKU]) would probably reduce some amount of suffering, which most people would likely consider to be a GOOD thing. PKU is just one of example of a genetic disorders that gene-editing can help; there are currently
+A future void of PKU would probably reduce some amount of suffering, which most people would likely consider to be a GOOD thing. 
 
-These quotes leave out enhancement
+PKU is just one of example of a genetic disorders that gene-editing can help; Wikipedia's [list of genetic disorders][wiki_list_of_disorders] claims that there are more than 6000 [genetic disorders][wiki_disorder] humans suffer from.
+
+[wiki_disorder]: https://en.wikipedia.org/wiki/Genetic_disorder "https://en.wikipedia.org/wiki/Genetic_disorder"
+
+[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list"
+
+[^OMIM]: Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._
+
+The [OMIM][OMIM][^OMIM] Gene Map Statistics verifies this:
+
+![](/assets/2022/for_attitudes_gene_editing/images/omim.png)
+
+[OMIM]: https://www.omim.org/about "https://www.omim.org/about"
+
+Though fairly outdated (2017) source[^HGE-Book] provides a window into the landscape human genome editing's potential for treatment. 
+
+![](/assets/2022/for_attitudes_gene_editing/images/hge_treat.png)
+
+Outside of treating genetic disorders, genome editing in humans can be used to enhance traits. It's plausible that traits such as creativity, morality, kindness, intellect, physical capability, physical attractiveness, aggression, and susceptibility to addiction, among others, can be modified. 
+
+The prospect of enhancement is intuitive: there are just so many things that humans want to improve in themselves, and genome editing for enhancement is one pathway towards this. 
+
+I am not going to discuss human genome editing for enhancement much more, but there are numerous ethical considerations that should be taken into account when considering human genome editing for this end. 
+
+### [Risks and Concerns](#risks-and-concerns)
+
+Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent the coming inhuman future][erik_hoels_inhuman_future]_ provides a vivid picture of a future involving some undesirable social consequences of human genome editing for enhancement:
+
+[erik_hoels_inhuman_future]: https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r "https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r"
+
+> The future consists of what the name implies: Übermensch. If we imagine significant genetic editing becoming widespread, we may first simply imagine designer babies, little beings who seem quite unthreatening, just robust and happy creatures with perfect teeth and beautiful eyes. So let’s grow them up and imagine them as designer people, their rich parents having selected their genes specifically for athleticism, competitiveness, IQ, and leadership, with whatever polygenetic profiles those require. They’ll look a lot like the Greek gods. They’ll get into whatever college they want, they’ll never get sick, they’ll run faster, think deeper, and they’ll fuck harder. They will be gorgeous and whip-smart. But, just like the Greek gods, they will be a bunch of petulant, racist, sociopathic superpredators, great in bed but terrible in a relationship. For the sought-after designer traits will likely be things that only give direct selfish benefits, and knowledge of their genetic superiority will likely breed arrogance and contempt.
+>
+>
+...
+>
+> For imagine being told you’ve been chosen, forged to be objectively better than other people. In the tiniest mechanisms of your cells. Now, look out at the world of normies. What is your level of respect for them? And if your answer isn’t a sneer, that you’re looking at a bunch of Neanderthals who should be replaced, that they are pitiable at best, you don’t understand the darker aspects of psychology. Shakespeare? Why should they care what he wrote? He’s just another Neanderthal.
+
+I imagine that most people, even without having thought extensively about the social and economic forces guiding humanity's reactions to human gene-editing or about the different ways in which gene-editing can be used on humans, would agree that the future in Hoel's vignette is undesirable.
+
+Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] provides an excellent breakdown of some of the major ethical concerns with human genome editing, across the three distinctions I outlined earlier. Summarized: 
+
+- __Off-target effects__: 
+- __Downstream modification consequences__: 
+- __Not all sequence variations__ 
+
+[^rothchild]: Rothschild, Jodie. "Ethical considerations of gene editing and genetic selection." Journal of General and Family Medicine 21, no. 3 (2020): 37-47.
 
 <!-- He Jiankui Fear -->
 
@@ -343,7 +384,7 @@ More sober concerns (biodicts)
 
 From another [paper][another_paper][^another-paper],
 
-Nonetheless, it is very easy to imagine negative events of varying magnitude involving human gene-editing. For example, imagine a scenario where a couple illegally has their child's germline modified, with the good intention of eliminating a heritable disease, and the modifications get carried through to future generations without many people knowing. Such as with mutations in DNA, it might be the case that some of the edits result in unintentional and unnoticeable side effects that are only harmful in select instances. This might not appear too bad on the face of it, but the problem is that the germline edits end up being propagated through the wider human gene pool.
+<!-- Nonetheless, it is very easy to imagine negative events of varying magnitude involving human gene-editing. For example, imagine a scenario where a couple illegally has their child's germline modified, with the good intention of eliminating a heritable disease, and the modifications get carried through to future generations without many people knowing. Such as with mutations in DNA, it might be the case that some of the edits result in unintentional and unnoticeable side effects that are only harmful in select instances. This might not appear too bad on the face of it, but the problem is that the germline edits end up being propagated through the wider human gene pool. -->
 
 > At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing [See [https://www.who.int/publications/i/item/9789240030381][who_recommendations]].
 
@@ -372,20 +413,7 @@ Here are some more concrete counters and counter-counters against gene-editing
 
 [com]: https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion "https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion"
 
-A nice thing that portrays vividly the idea of a negative future...
 
-Something that seems less likely to occur in the near-term future, but is still worth discussing due to the severe consequences associated with it, is a post-human-gene-editing-for-enhancement social ecosystem  similar to Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent the coming inhuman future][erik_hoels_inhuman_future]_:
-
-[erik_hoels_inhuman_future]: https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r "https://erikhoel.substack.com/p/how-to-prevent-the-coming-inhuman?s=r"
-
-> The future consists of what the name implies: Übermensch. If we imagine significant genetic editing becoming widespread, we may first simply imagine designer babies, little beings who seem quite unthreatening, just robust and happy creatures with perfect teeth and beautiful eyes. So let’s grow them up and imagine them as designer people, their rich parents having selected their genes specifically for athleticism, competitiveness, IQ, and leadership, with whatever polygenetic profiles those require. They’ll look a lot like the Greek gods. They’ll get into whatever college they want, they’ll never get sick, they’ll run faster, think deeper, and they’ll fuck harder. They will be gorgeous and whip-smart. But, just like the Greek gods, they will be a bunch of petulant, racist, sociopathic superpredators, great in bed but terrible in a relationship. For the sought-after designer traits will likely be things that only give direct selfish benefits, and knowledge of their genetic superiority will likely breed arrogance and contempt.
->
->
-...
->
-> For imagine being told you’ve been chosen, forged to be objectively better than other people. In the tiniest mechanisms of your cells. Now, look out at the world of normies. What is your level of respect for them? And if your answer isn’t a sneer, that you’re looking at a bunch of Neanderthals who should be replaced, that they are pitiable at best, you don’t understand the darker aspects of psychology. Shakespeare? Why should they care what he wrote? He’s just another Neanderthal.
-
-I imagine that many other people, without having thought extensively about the social and economic forces guiding humanity's reaction to human gene-editing or about the different ways in which gene-editing can be used on humans, might agree with a future in line with Hoel's.
 
 <!-- &emsp; This essay is not an introduction to gene-editing, nor does it seek to comprehensively outline the landscape of debate for or against human gene-editing, but I hope that by adding some exposure to these things, absorbing the current state of people's attitudes towards gene-editing in the following sections will be easier or more enjoyable. -->
 
