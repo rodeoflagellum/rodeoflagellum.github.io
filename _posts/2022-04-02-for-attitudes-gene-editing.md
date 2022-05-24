@@ -299,12 +299,13 @@ One can easily imagine the prospects of altering a human's genes; the following 
 
 [who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
 
-Current clinical trials using human genome editing are postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
+Current clinical trials involving human genome editing consist of postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
 
-So, gene-editing had the potential to free humanity from genetic diseases.
+ So, one affordance of human gene-editing is the potential to free humanity from certain genetic disorders. Let's look at an example a genetic disorder that might be treated with genome editing. 
 
-Let's look at an example a genetic disorder that might be treated with genome editing. 
+From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
 
+>  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight.
 
 [wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
 
@@ -312,7 +313,11 @@ Let's look at an example a genetic disorder that might be treated with genome ed
 
 [wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list
 
-The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
+The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: 
+
+- <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
+
+![](/assets/2022/for_attitudes_gene_editing/images/hge_pic.png)
 
 [who]: https://www.who.int/ "https://www.who.int/"
 
@@ -320,13 +325,13 @@ The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome E
 
 [ictrp]: https://www.who.int/clinical-trials-registry-platform "https://www.who.int/clinical-trials-registry-platform"
 
-As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_ (see [here][trial])
+As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_  (see [here][trial]) is aimed at aiding those with PKU.
 
 > This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
 
 [trial]: https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178 "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178"
 
-A future void of PKU ([^wiki_PKU]) would probably reduce suffering, which most people would consider good. PKU is just one of example of a genetic disorders that gene-editing can help; there are currently
+A future void of PKU ([^wiki_PKU]) would probably reduce some amount of suffering, which most people would likely consider to be a GOOD thing. PKU is just one of example of a genetic disorders that gene-editing can help; there are currently
 
 These quotes leave out enhancement
 
@@ -335,8 +340,6 @@ These quotes leave out enhancement
 Fear (Hoel)
 Vera (counters)
 More sober concerns (biodicts)
-
-[^wiki_PKU]: "Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight."
 
 From another [paper][another_paper][^another-paper],
 
