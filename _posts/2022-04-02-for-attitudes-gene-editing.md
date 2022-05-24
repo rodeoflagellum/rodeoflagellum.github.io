@@ -45,7 +45,20 @@ Considerations for what questions to asking about attitudes towards gene-editing
   Those afflicted (treatment)
 Sending this to people to review on EAF, LW, asking Ege, Juan, Tamay
 Get google scholar and openalex results for "human gene-editing" last 20 years
-Emailing the author's asap -->
+Emailing the author's asap
+
+Current TODO:
+[]: Check table
+[]: Put (★) for valuable, put (★★) for used and valuable
+[]: Finish the Gene-Editing section by quoting the database, and speculating futures
+[]: Wait to create a bad germline gene-editing scenario
+[]: Clarify and break down intro attitudes section
+[]: Read papers, take notes, group items and figures, citations
+[]: Aggregate commentary on attitudes, and make some of your own graphs on change; make some 3d pie charts
+[]: Discuss the drivers and ask questions about them (make supper list)
+[]: Forecasting questions
+[]: Have section for agree / disagree with some examples of contentions
+[]: -->
 
 <!-- https://www.metaculus.com/questions/10630/?invite=g2UBTF -->
 
@@ -71,7 +84,7 @@ __Transparency__:
 
 __Contribution__: In this essay, I have surveyed, at different levels, X published articles on people's attitudes towards human gene-editing. I have aggregated and distilled the survey data from these articles. I've generated 12 forecasting questions related to people's future attitudes towards human gene-editing. My predictions on these questions, along with the forecasting processes I employed, are detailed below. Beyond these things, I emailed X corresponding authors and 1 other author of X published articles the following questions: _What general attitude do you think people will have towards human gene-editing in 2030, 2050, and 2075?_ and _What will be the cumulative number of genetically edited babies born by 2030, 2050, and 2075?_. I have yet to receive any responses, but when I receive at least 5, I will include them below[^referral].
 
-__Priors__[^updates]: Before working on this essay, I want to outline my current thoughts on human gene-editing; doing this might help me better determine how people might update their beliefs after reading this essay. Most of my understanding for the regulations, technology, and biology of gene-editing comes from working on my _[Forecasting Designer Babies][designer-babes]_ essay. I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproduction technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail. Generally speaking, I believe that most Western liberal-leaning people are cautiously optimistic about human gene-editing, that religious and/or older and/or conservative people are less likely to support gene-editing research, that most people are not familiar with what gene-editing entails, and that most people who support gene-editing favor treatment over enhancement.
+__Priors__[^updates]: Before working on this essay, I want to outline my current thoughts on human gene-editing; doing this might help me better determine how people might update their beliefs after reading this essay. My current understanding of the regulations, technology, and biology of gene-editing comes predominantly from working on my _[Forecasting Designer Babies][designer-babes]_ essay. However, I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproductive technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail. Generally speaking, I believe that most Western liberal-leaning people are cautiously optimistic about human gene-editing, that religious and/or older and/or conservative people are less likely to support gene-editing research, that most people are not familiar with what gene-editing entails, and that most people who support gene-editing favor treatment over enhancement.
 
 __Acknowledgements__:
 
@@ -117,39 +130,59 @@ be a question or just an announcement? -->
 
 ## [Prospects and Perils](#prospects-perils-gene-editing)
 
-While this essay is not one that explains, in depth, human gene-editing, but I hope that this brief section its prospects and perils primes you adequately for a discussion on what people think about human it, or more accurately, what people think about _their perceptions_ of human gene-editing. This section tries to offer a fractional look at the questions:
+In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][rationality], and [Forecasting][metaculus] communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally am not involved enough to monitor news of progress in the field.
+
+[EA]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
+
+[rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+
+While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and have opinions on their individual _notion_ of what human genome editing entails. This section tries to offer a fractional look at the questions:
 
 - What is gene-editing, broadly speaking?
 - What is the state of research on human gene-editing?
 - What benefits might human gene-editing offer to humanity?
 - What concerns for humanity are there with human gene-editing?
 
-The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing in humans.
+That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth, scope, and order) would likely be very different if I had more experience in the field[^sense_of_the_field].
 
-In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][rationality], and [Forecasting][metaculus] communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally am not involved enough to monitor news of progress in the field.
+The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing being performed on humans.
 
-I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. They all are closely related, but their differences are worth noting. You can also find these terms and related concepts in the Glossary (the terms I've listed right here are, I believe, the minimum technical background needed to discuss people's attitudes on gene-editing; again, this essay is not focused on distilling the science of gene-editing, so I've refrained from describing this).
-
-[EA]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
-
-[rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. They all are closely related and sometimes used interchangeably (e.g., genome editing vs. gene-editing), but their differences and some distinctions between them are worth noting. You can also find these terms and related concepts in the Glossary.
 
 > __Gene__ [Def.[^HGE-Book]] — A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
 >
 > __Gene editing__ [Def.[^HGE-Book]] — A technique that allows researchers to alter the DNA of cells or organisms to insert, delete, or modify a gene or gene sequences to silence, enhance, or otherwise change the gene’s characteristics (NASEM, 2016a, p. 182).
->
+
 > __Genome__ [Def.[^HGE-Book]] — The complete set of DNA that makes up an organism (NASEM, 2016a, p. 182). In humans, the genome is organized into 23 pairs of ho­mologous chromosomes.
 >
 > __Genome editing__ [Def.[^HGE-Book]] — The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification.
->
->
+
 > __Gene Therapy__ [Def.[^Bioethics-Dict]] — ... a set of technologies aimed at correcting genes that have been injured (mutations) and cause new diseases as a consequence. Gene therapy involves introducing DNA containing a functioning gene (created by genetically modified viruses) into a patient to correct the effects of a disease-causing mutation. There are two basic types of gene therapy depending on the cells targeted or treated: somatic and germline therapy. Most cells of the human body are somatic cells and transferring DNA to such (differentiated, non-reproductive) cells will just produce effects in this patient without being transmitted to the patient’s off- spring. Cells of the germline are gamete cells (undifferentiated, reproductive), eggs, and sperm and any change in them will be transmitted to the patient’s children
->
+
 > __Genetic Modification__ [Def.[^Bioethics-Dict]] — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features.
 >
 > __Genetic Engineering__ [Def.[^DNA_book]] — Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material.
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
+
+My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances is considered specific types of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind.
+
+
+
+These definitions are not tremendously helpful in learning the common distictions in the field
+
+Before Birth
+After Birth
+
+Somatic
+Germline
+
+Treatment:  
+Enhancement:
+
+Some other treatable diseases include:
+  - list from table
+then go into overview
 
 There is a lot of overlap with these definitions, but in this essay I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing.
 
@@ -246,6 +279,8 @@ One can easily imagine the prospects of altering a human's genes. The following 
 
 [who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
 
+So, gene-editing had the potential to free humanity from genetic diseases.
+
 The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
 
 [who]: https://www.who.int/ "https://www.who.int/"
@@ -256,11 +291,21 @@ The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome E
 
 As of the time of writing this (around May 23 2022), the most recently registered clinical trial has the title _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_ (see [here][trial])
 
-> This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [see <https://clinicaltrials.gov/ct2/show/NCT05222178>]
+> This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
 
 [trial]: https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178 "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178"
 
-A future void of PKU might would be great. This resource claims [], and even if this is incorrec
+A future void of PKU ([^wiki_PKU]) would probably reduce suffering, which most people would consider good. PKU is just one of example of a genetic disorders that gene-editing can help; there are currently
+
+These quotes leave out enhancement
+
+<!-- He Jiankui Fear -->
+
+Fear (Hoel)
+Vera (counters)
+More sober concerns (biodicts)
+
+[^wiki_PKU]: "Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight."
 
 From another [paper][another_paper][^another-paper],
 
@@ -350,6 +395,14 @@ practices come to pass, when these
 
 ### [Drivers of These Attitudes](#rationale)
 
+<!-- - Religion
+  - Protestant [country] [race]
+  - Catholic [country] [race]
+  - Buddhist [country] [race]
+- Education
+  -  
+Look at changes in just education, just race, just religion-->
+
 <!-- In the attitudes section, write down the results and major quotes for each section, including an overarching description. Have a footnote with the citation as well as contentions and notes.
 
 Then aggregate all of these responses.
@@ -381,6 +434,7 @@ time series;
 binomial distribution;
 beta-binomial distribution;
 poisson process;
+
 https://www.researchgate.net/profile/Javier-Enrique-Medina-Vasquez/publication/41733449_Scenario_planning/links/559b2f0408ae21086d2784ab/Scenario-planning.pdf
 https://www.researchgate.net/profile/Ignacio-Rios/publication/273900727_Multi-period_forecasting_and_scenario_generation_with_limited_data/links/55c8995108aeb97567475590/Multi-period-forecasting-and-scenario-generation-with-limited-data.pdf
 bayesian model of attitudes; update by year to say "current views"
@@ -1161,6 +1215,8 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [^updates]: Once the essay is written and submitted, I will post a brief update of my beliefs in the comments.
 
+[^sense_of_the_field]: This statement is supported for me by my anecdotal experience that, after reading another research paper or book chapter on human genome editing, the distinctions I make and the scope of what I believe should be discussed in a purview of human genome editing, among others things, alter largely from what I had written before being exposed to the additional content.
+
 [^referral]: If you know anyone with genetics training, I would appreciate if you asked them these questions and referred them to me.
 
 [^DNA_book]: Rosenberg, Eugene. It's in Your DNA: From Discovery to Structure, Function and Role in Evolution, Cancer and Aging. Academic Press, 2017. <br><br> Note that I am citing this definition from Chapter 10: Genetic Engineering of this book.  
@@ -1172,6 +1228,8 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 [^intro-thoughts]: The extent of this introduction was guided how much I felt I needed to understand gene-editing to write this essay, and by my desire to limit the content on gene-editing relative to people's attitudes on it - bringing back up the thought "this is an essay on attitudes towards gene-editing, not gene-editing" helped with this.
 
 [^HGE-Book]: National Academies of Sciences, Engineering, and Medicine. Human genome editing: science, ethics, and governance. National Academies Press, 2017. <br><br> Notes: I used this book (Chapters 3 and 4, and the Appendices) to learn about gene-editing science and regulation, and most of the content in this essay's gene-editing section and glossary section come from my reading of this text.
+
+[^gene_ther_genome_editing]: From[^HGE-Book] pp. 106, <br><br>"_Like traditional gene therapy, somatic genome editing could be used to revert an underlying genetic mutation to a variant not associated with disease, which would result in a fraction of the targeted cells regaining normal function. Somatic genome editing also could be used to engineer a cell so that its phenotype differed from that of a normal cell and was better able to resist or prevent disease._"
 
 [^opinions]: I believe I should be thinking more about how opinions change over time, and about how people's self-reported opinions are biased. Here are some considerations (maybe a simple Google search would suffice): (1) how do people's views change, (2) opinion drift, (3) how attitudes change, (4) how opinions change, (5) how often do opinions change, (6) response bias, (7) measuring response bias, and (8) self-reported data issues.
 
