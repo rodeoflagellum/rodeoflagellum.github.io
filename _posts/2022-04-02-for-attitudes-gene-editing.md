@@ -86,9 +86,7 @@ __Contribution__: In this essay, I have surveyed, at different levels, X publish
 
 __Priors__[^updates]: Before working on this essay, I want to outline my current thoughts on human gene-editing; doing this might help me better determine how people might update their beliefs after reading this essay. My current understanding of the regulations, technology, and biology of gene-editing comes predominantly from working on my _[Forecasting Designer Babies][designer-babes]_ essay. However, I still do not feel that I strongly understand gene-editing. Floating around in my mind, not well grounded, are the concepts "assisted reproductive technology", "IVF", "CRIPSR-Cas9", "germline genome editing", "somatic cell genome editing", and "treatment vs. enhancement distinction", among others. Each of these I could explain broadly, but if pressed to go deeper, I would fail. Generally speaking, I believe that most Western liberal-leaning people are cautiously optimistic about human gene-editing, that religious and/or older and/or conservative people are less likely to support gene-editing research, that most people are not familiar with what gene-editing entails, and that most people who support gene-editing favor treatment over enhancement.
 
-__Acknowledgements__:
-
-<!-- Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback. For anyone else who reads this, thank you, and if you believe that something I've said is incorrect, poorly disseminated, or otherwise inadequate, please reach out - I will likely edit the essay to include some form of update. -->
+__Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term Future Fund for funding this essay. Thank you to Metaculus for existing and hosting this essay (thank you Christian for approving this). Thank you Ryan Beck ([Metaculus][ryan_beck_m], [LW][ryan_beck_lw], [EAF][ryan_beck_eaf]), alwaysrinse ([Metaculus][alwaysrinse_m]), Nuño Sempere ([Metaculus][nuno_sempere_m], [LW][nuno_sempere_lw], [EAF][nuno_sempere_eaf]), Pablo Stafforini ([Metaculus][pablo_stafforini_m], [EAF][pablo_stafforini_eaf]), and Ege Erdil ([Metaculus][ege_erdil_m], [LW][ege_erdil_lw]) for reading this and providing feedback. For anyone else who reads this, thank you, and if you believe that something I've said is incorrect, poorly disseminated, or otherwise inadequate, please reach out - I will likely edit the essay to include some form of update.
 
 [metaculus]: https://www.metaculus.com/questions/ "https://www.metaculus.com/questions/"
 
@@ -136,18 +134,22 @@ In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][r
 
 [rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
 
-While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and have opinions on their individual _notion_ of what human genome editing entails. This section tries to offer a fractional look at the questions:
+While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and instead have opinions on their individual _notion_ of what human genome editing entails.
+
+That being said, this section tries to offer a fractional look at the questions:
 
 - What is gene-editing, broadly speaking?
 - What is the state of research on human gene-editing?
 - What benefits might human gene-editing offer to humanity?
 - What concerns for humanity are there with human gene-editing?
 
-That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth, scope, and order) would likely be very different if I had more experience in the field[^sense_of_the_field].
+That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth and scope, and the order in which I present things) would likely be very different if I had more experience in the field[^sense_of_the_field].
 
 The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing being performed on humans.
 
-I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. They all are closely related and sometimes used interchangeably (e.g., genome editing vs. gene-editing), but their differences and some distinctions between them are worth noting. You can also find these terms and related concepts in the Glossary.
+### [Gene-Editing](#gene-editing)
+
+I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. You can find these terms and related concepts in the Glossary of this essay.
 
 > __Gene__ [Def.[^HGE-Book]] — A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
 >
@@ -160,35 +162,26 @@ I expect that most people reading this recognize the following terms: genetic en
 > __Gene Therapy__ [Def.[^Bioethics-Dict]] — ... a set of technologies aimed at correcting genes that have been injured (mutations) and cause new diseases as a consequence. Gene therapy involves introducing DNA containing a functioning gene (created by genetically modified viruses) into a patient to correct the effects of a disease-causing mutation. There are two basic types of gene therapy depending on the cells targeted or treated: somatic and germline therapy. Most cells of the human body are somatic cells and transferring DNA to such (differentiated, non-reproductive) cells will just produce effects in this patient without being transmitted to the patient’s off- spring. Cells of the germline are gamete cells (undifferentiated, reproductive), eggs, and sperm and any change in them will be transmitted to the patient’s children
 
 > __Genetic Modification__ [Def.[^Bioethics-Dict]] — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features.
->
+
 > __Genetic Engineering__ [Def.[^DNA_book]] — Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material.
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
 
-My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances is considered specific types of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind.
+These terms all are closely related and sometimes used interchangeably (e.g., genome editing and gene-editing are sometimes used interchangeably[^gene_genome]), but some distinctions between them are worth noting.
 
+My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances considered specific forms of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind. In this essay, I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing.
 
+With regard to human genome editing, there are three primary distinctions, two of which are historical in nature; the last is one that I believe is neglected — in my experience, many people primarily associate "designer babies" (prenatal editing) with human genome editing, but there are in fact many postnatal applications of genome editing.
 
-These definitions are not tremendously helpful in learning the common distictions in the field
+- (Treatment vs. Enhancement) Interventions
+- (Somatic vs. Germline) Editing
+- (Prenatal vs. Postnatal) Editing
 
-Before Birth
-After Birth
+The historical distinctions are given in[^HGE-Book]:
 
-Somatic
-Germline
+>In the 1970s, certain central distinctions were drawn (Juengst, 1997; Walters and Palmer, 1997). First, the distinction between somatic and germline genome modifications was established: somatic enhancements affect only a single indi- vidual, but heritable enhancements can be passed down through the generations. Discussions of heritable enhancements included concerns about possible effects on the gene pool and fears of a return to some form of eugenics. Second, a distinction was drawn between treating or preventing disease (therapy) and enhancement. Discussions of enhancement focused on issues such as safety and (especially in competitive environments such as sports) unfair advantage, with the definition of “unfair” highly dependent on context.
 
-Treatment:  
-Enhancement:
-
-Some other treatable diseases include:
-  - list from table
-then go into overview
-
-There is a lot of overlap with these definitions, but in this essay I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing.
-
-Altering the human genome could afford extensive benefits to humanity, in terms of health and biological capability, but there are simultaneously deleterious outcomes that this technology can engender. As with most emerging technologies, the possible future scenarios involving human gene-editing are diverse.
-
-From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
+### [State of Gene-Editing Research](#state-of-gene-editing-research)
 
 Let's take a step back and look at the history of gene-editing[^timeline].
 
@@ -231,9 +224,13 @@ Let's take a step back and look at the history of gene-editing[^timeline].
 
 [genetic_editing_timeline]: /assets/2022/for_attitudes_gene_editing/docs/genetic_editing_timeline.html
 
-Even without understanding the details of these terms, it's apparent in my mind that the science of gene-editing is progressing rapidly.
+Even without understanding the details of these developments, it's apparent, in my mind, that the science of gene-editing is progressing rapidly. A short overview can be found in the abstract of _Hirakawa et al.'s_ 2020 paper _Gene editing and CRISPR in the clinic: current and future perspectives_[^hirakawa]:
 
-One proxy for determining whether this is indeed the case is to observe changes in the frequency of terms such as "gene-editing" or, more interestingly, "human gene-editing" over time. Searching "gene-editing" (with the quotes) and not including citations on Google Scholar, we get the following for the years in the closed interval [2000, 2021].
+> Genome editing technologies, particularly those based on zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), and CRISPR (clustered regularly interspaced short palindromic repeat DNA sequences)/Cas9 are rapidly progressing into clinical trials. [See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146048/pdf/bsr-40-bsr20200127.pdf>]
+
+[^hirakawa]: Hirakawa, Matthew P., Raga Krishnakumar, Jerilyn A. Timlin, James P. Carney, and Kimberly S. Butler. "Gene editing and CRISPR in the clinic: current and future perspectives." Bioscience reports 40, no. 4 (2020).
+
+One proxy for validating this is to observe changes in the frequency of terms such as "gene-editing" or, more interestingly, "human gene-editing" over time. Searching "gene-editing" (with the quotes) on Google Scholar (not including citations), we get the following for the years in the closed interval [2000, 2021].
 
 ![](/assets/2022/for_attitudes_gene_editing/images/gene_editing_2000-2021.png)
 
@@ -243,7 +240,27 @@ If it is true that search term frequency is closely correlated with research act
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_gene_editing_2000-2021.png)
 
-What's missing from this graph is the proportions of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing); I do not investigate this in this essay, but would appreciate if anyone can comment on this; my premonition is that most research is technical in nature, with the next largest group being ethics and governance, which in my experience often coincide with each other.
+What's missing from this search is the proportion of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing); I do not investigate these things in this essay, but would appreciate if anyone can comment on this; my premonition is that most research is technical in nature, with the next largest group being ethics and governance, which in my experience often coincide with each other.
+
+Beyond search term frequency, I believe looking at the number of clinical trials involving gene-editing over time would be useful and interesting.
+
+From[^hirakawa]:
+
+> The U.S. clinical trials database (clinicaltrials.gov) contains all studies which meet the definition of an ‘applicable clinical trial’ initiated on or after 27 September 2007 or continuing beyond 26 December 2007. In addition to trials required to register, voluntary registration is also accepted; studies conducted outside U.S.A., and those which may meet one of the conditions in the future, often register voluntarily. We searched the U.S. clinical trials database (01/01/2020) for any trial containing at least one of the following terms: CRISPR, Cas9, Cas12, Cas13, ZFN, zinc finger, gene edit, gene modification, and genome edit. Trials that did not use the genome editor as part of the therapeutic intervention were excluded from the analysis; these included trials to create cell lines from patients using Cas9; use of patient cells to develop therapeutic strategies, but where the cells were not used as a therapeutic themselves; CRISPR use for genome sequencing; and surveys of opinions regarding human gene editing. This search identified 41 trials utilizing genome editing agents including ZFNs, TALENs, and CRISPR/Cas9 for therapeutic interventions, no studies utilizing Cas12 or Cas13 have been registered (Table 1).
+
+The number of results in _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved this):
+
+![](/assets/2022/for_attitudes_gene_editing/images/trials.png)
+
+Going on <https://clinicaltrials.gov/>, and searching in one case "genome editing", and in the other, "human gene editing", I get:
+
+![](/assets/2022/for_attitudes_gene_editing/images/genome_editing.png)
+
+![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)                                                                                                                                                                                                                                                                                                                                             Altering the human genome could afford extensive benefits to humanity, in terms of health and biological capability, but there are simultaneously deleterious outcomes that this technology can engender. As with most emerging technologies, the possible future scenarios involving human gene-editing are diverse.
+
+From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
+
+
 
 Given we've now looked at what gene-editing is, and where the state of research on it stands broadly, let's look at the potential affordances and risks of human gene-editing.
 
@@ -887,7 +904,6 @@ Q2: __What will be the cumulative number of genetically edited babies born by 20
 
 ![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_6.png)
 
-![](/assets/2022/for_attitudes_gene_editing/images/ni_et_al_2022/ni_et_al_2022_7.png)
 
 #### *Kobayashi et al., 2022*
 
@@ -1218,6 +1234,8 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 [^sense_of_the_field]: This statement is supported for me by my anecdotal experience that, after reading another research paper or book chapter on human genome editing, the distinctions I make and the scope of what I believe should be discussed in a purview of human genome editing, among others things, alter largely from what I had written before being exposed to the additional content.
 
 [^referral]: If you know anyone with genetics training, I would appreciate if you asked them these questions and referred them to me.
+
+[^gene_genome]: I cannot remember where exactly that I saw this, but in a research paper, I observe "genome editing (a.k.a gene-editing)".
 
 [^DNA_book]: Rosenberg, Eugene. It's in Your DNA: From Discovery to Structure, Function and Role in Evolution, Cancer and Aging. Academic Press, 2017. <br><br> Note that I am citing this definition from Chapter 10: Genetic Engineering of this book.  
 
