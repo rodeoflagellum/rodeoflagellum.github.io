@@ -436,9 +436,9 @@ From another [paper][another_paper][^another-paper],
 
 ## [Treatment $>$ Enhancement](#peoples-thoughts)
 
-While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity.
+<!-- While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity. --> 
 
-&emsp; I have found few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economics pathways to different treatment and enhancement scenarios, or that actually attach probabilities to any future scenario, example, or consideration involving human gene-editing. It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
+I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
 
 - When will the first clinical trials involving human genome editing occur?
 - How successful will the first clinical trials involving human genome editing be?
@@ -490,6 +490,12 @@ include partipants counts, year, demographic properties.  -->
 ---
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
+
+Thus far, I come across few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans. 
+
+It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". 
+
+Nonetheless, when considering emerging technologies, I believe generating scenarios and making forecasting on these scenarios is a neglected but useful activity. At a minimum, it elicits people's attitudes towards these phenomena, and offers evidence for how plausible certain futures involving some technology are. 
 
 The entities I believe most want to know are:
 
