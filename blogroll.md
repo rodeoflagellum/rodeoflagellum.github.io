@@ -8,10 +8,22 @@ image: /assets/2022/blogroll/right_hand_1942.5.28.jpg
 description: "An unordered list of websites I like, along with the two pieces I most enjoyed reading from these sites. For some sites on this page, I am still deciding which posts to include."
 ---
 
+### [Digital Friends](#digital-friends)
+
 - __Argmin gravitas__
   - [https://www.gleech.org/][arg_min]{:target="_blank"}
   - [Metrics](https://www.gleech.org/metrics/){:target="_blank"}
   - [Math tools](https://www.gleech.org/tools){:target="_blank"}
+- __Niplav__ 
+  - [https://niplav.github.io/index.html][niplav]{:target="_blank"}
+- __Pablo Stafforini__
+  - [https://www.stafforini.com/blog/][pablo]{:target="_blank"}
+  - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/){:target="_blank"}
+- __Ryan Beck__
+  - [https://www.ryanbeckauthor.com/][ryanbeck]{:target="_blank"}
+
+### [Other Sites](#other-sites)  
+ 
 - __Slate Star Codex__
   - [https://slatestarcodex.com/][ssc]{:target="_blank"}
   - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/){:target="_blank"}
@@ -65,9 +77,6 @@ description: "An unordered list of websites I like, along with the two pieces I 
 - __Nintil__
   - [https://nintil.com/][nin]{:target="_blank"}
   - [Longevity FAQ](https://nintil.com/longevity/#the-hallmarks-of-aging){:target="_blank"}
-- __Pablo Stafforini__
-  - [https://www.stafforini.com/blog/][pablo]{:target="_blank"}
-  - [Courses on longtermism](https://www.stafforini.com/blog/courses-on-longtermism/){:target="_blank"}
 - __Longtermism__
   - [https://longtermism.com/][longterm]{:target="_blank"}
 - __Yannic Kilcher__
@@ -83,8 +92,6 @@ description: "An unordered list of websites I like, along with the two pieces I 
   - [https://paulfchristiano.com/][pchrist]{:target="_blank"}
 - __Nick Bostrom__
   - [https://nickbostrom.com/][bostrom]{:target="_blank"}
-- __Ryan Beck__
-  - [https://www.ryanbeckauthor.com/][ryanbeck]{:target="_blank"}
 - __Steve Hsu__
   - [https://infoproc.blogspot.com/][hsu]{:target="_blank"}
 - __Robin Shah__
