@@ -438,35 +438,13 @@ From another [paper][another_paper][^another-paper],
 
 <!-- While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity. --> 
 
-I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
+Let's now examine the following: 
 
-- When will the first clinical trials involving human genome editing occur?
-- How successful will the first clinical trials involving human genome editing be?
-- When, if ever, will human gene-editing become widely available?
-- When, if ever, will human gene-editing become widely performed?
-- In what ways might gene-editing be regulated, if available and/or widely used?
-- What are the failure modes for human gene-editing, and how should their severity and likelihood be evaluated?
+- What do people currently think about human gene-editing?
+- Why do people think what they think about human gene-editing?
+- What will people think about human gene-editing?
+- Why is what people think / will think about human gene-editing important to humanity's future?
 
-There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
-
-- What influence does the [public, bioethicists, genetics researchers] have on gene-editing research and outcomes?
-- What are the public's misperceptions of gene-editing?
-- What biases are present in recording the public's attitudes towards gene-editing?[^opinions]
-
-- _What do people currently think about human gene-editing?_
-- _Why do people think what they think about human gene-editing?_
-- _What will people think about human gene-editing?_  
-- _Why is what people think / will think about human gene-editing important to humanity's future?_
-
-In my mind, the main objective in investigating and forecasting people's attitudes towards human gene-editing is an attempt to understand how humanity is currently reacting to the potential of altering humans using the transformative technology of gene-editing. Should contemporaneous gene-editing practices come to be performed on humans en-masse, it seems likely that much suffering could be averted in the
-
-many heritable diseases might be able to
-
- A characterization of this reaction could inform us on several major axes.
-
-what forms of gene-editing are eventually implemented
-
-practices come to pass, when these
 
 ### [Today and the Last 7 Years](#last-seven-years)
 
@@ -514,6 +492,31 @@ Since this is an essay on people's attitudes  human gene-editing, I will
 
 
 The questions that are likely related to people's attitudes on gene-editing?
+
+I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
+
+- When will the first clinical trials involving human genome editing occur?
+- How successful will the first clinical trials involving human genome editing be?
+- When, if ever, will human gene-editing become widely available?
+- When, if ever, will human gene-editing become widely performed?
+- In what ways might gene-editing be regulated, if available and/or widely used?
+- What are the failure modes for human gene-editing, and how should their severity and likelihood be evaluated?
+
+There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
+
+- What influence does the [public, bioethicists, genetics researchers] have on gene-editing research and outcomes?
+- What are the public's misperceptions of gene-editing?
+- What biases are present in recording the public's attitudes towards gene-editing?[^opinions]
+
+In my mind, the main objective in investigating and forecasting people's attitudes towards human gene-editing is an attempt to understand how humanity is currently reacting to the potential of altering humans using the transformative technology of gene-editing. Should contemporaneous gene-editing practices come to be performed on humans en-masse, it seems likely that much suffering could be averted in the
+
+many heritable diseases might be able to
+
+ A characterization of this reaction could inform us on several major axes.
+
+what forms of gene-editing are eventually implemented
+
+practices come to pass, when these
 
 
 <!-- gassian process;
