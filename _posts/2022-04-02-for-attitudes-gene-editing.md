@@ -406,7 +406,16 @@ Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and geneti
 - __Downstream modification consequences__: Given that the full function of many genes is not adequately understood, editing certain genes might help treat a person, but also might lead to complications later in life, such as a weakening of the immune system. 
 - __Not all sequence variations are created equally__: The changes engendered by gene alterations should be extensively studied before embryo implantation or use in humans. 
 - __Mosaicism__: "There is no way to sequence a cell's genome without destroying the cell itself; as such, it is currently impossible to rule out mosaicism in a blastocyst", where a mosaicism is "variation among cells, such that the cells are not all the same— for example, in an embryo when not all the cells are edited."[^HGE-Book] that might lead to such things as disease and tumors, and to defects in the organs. 
-- __Which genes/diseases to target?__: Oftentimes, which genes to target for a particular disease are not known. Also, the line between disease and disability is not clear, and what constitutes an "unfair" advantage from gene-editing is nebulous. 
+- __Which genes/diseases to target?__: Oftentimes, which genes to target for a disease are not known. Also, the line between disease and disability is not clear, and what constitutes an "unfair" advantage from conferred by gene-editing is nebulous. 
+- __Clinical Research Ethics__: 
+
+> 
+> - First and foremost, clinical trial participants should be informed of all of the associated risks and benefits.
+- [How participants are selected for a study]
+- Study participants should be able to voluntarily withdraw from
+the research at any point
+- Ethics reviews boards, committees, and training is important
+
 - __Socioeconomic disparities__: 
 - __Stigma__:
 - __Insurance__: 
