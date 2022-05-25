@@ -491,13 +491,15 @@ include partipants counts, year, demographic properties.  -->
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
-Thus far, I come across few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans. 
+Thus far, I have come across few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans. 
 
 It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". 
 
-Nonetheless, when considering emerging technologies, I believe generating scenarios and making forecasting on these scenarios is a neglected but useful activity. At a minimum, it elicits people's attitudes towards these phenomena, and offers evidence for how plausible certain futures involving some technology are. 
+Nonetheless, when considering emerging technologies, I believe generating scenarios and making forecasting on these scenarios is a neglected but useful activity. 
 
-The entities I believe most want to know are:
+At a minimum, this process elicits people's attitudes towards some technological phenomenon. Forecasts also provide evidence for how plausible certain futures involving some technology are. I expect this to generalize to human genome editing. 
+
+With regard to human genome editing, these are the questions concerning the near-term and long-future that I believe most people might want to know:
 
 - Where will the 4th gene-edited baby be born?
 - In what country will germline genome editing in humans be legalized?
@@ -506,18 +508,20 @@ The entities I believe most want to know are:
 - What will people think about human gene-editing in the future?
 - When will the first clinical trials of gene-editing be made accessible.
 
-The entities I believe are most important to consider forecasting are:
+The stars next to each of these represent what I subjectively evaluate the importance of these questions to be. 
+
+Since this is an essay on people's attitudes  human gene-editing, I will
+
 
 The questions that are likely related to people's attitudes on gene-editing?
 
-<!-- https://otexts.com/fpp3/judgmental.html -->
 
 <!-- gassian process;
 time series;
 binomial distribution;
 beta-binomial distribution;
 poisson process;
-
+https://otexts.com/fpp3/judgmental.htm
 https://www.researchgate.net/profile/Javier-Enrique-Medina-Vasquez/publication/41733449_Scenario_planning/links/559b2f0408ae21086d2784ab/Scenario-planning.pdf
 https://www.researchgate.net/profile/Ignacio-Rios/publication/273900727_Multi-period_forecasting_and_scenario_generation_with_limited_data/links/55c8995108aeb97567475590/Multi-period-forecasting-and-scenario-generation-with-limited-data.pdf
 bayesian model of attitudes; update by year to say "current views"
