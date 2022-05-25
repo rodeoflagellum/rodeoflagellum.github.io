@@ -9,7 +9,7 @@ type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
-desc: "An overview of some trends in DNA digital data storage and an offering of some forecasting questions on the subject."
+description: "An overview of some trends in DNA digital data storage and an offering of some forecasting questions on the subject."
 ---
 
 __Epistemic Status__:
