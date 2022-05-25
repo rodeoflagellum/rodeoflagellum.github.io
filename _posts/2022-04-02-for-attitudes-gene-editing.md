@@ -368,12 +368,14 @@ Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent 
 
 I imagine that most people, even without having thought extensively about the social and economic forces guiding humanity's reactions to human gene-editing or about the different ways in which gene-editing can be used on humans, would agree that the future in Hoel's vignette is undesirable.
 
+For those unaware, in blah blah blah. And a distinction is typically made between outlooks on the future of human genome before and after the affair. 
+
 Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] synthesizes some of the major ethical concerns with human genome editing in response to the He Jiankui affair, across the three distinctions I outlined earlier. Summarized: 
 
-- __Off-target effects__: 
-- __Downstream modification consequences__: 
-- __Not all sequence variations__: 
-
+- __Off-target effects__: Using CRISPR and other gene-editing technologies can result in mutations, deletions, or insertions in DNA that were not originally intended to occur, and that might lead to complications. 
+- __Downstream modification consequences__: Given that the full function of many genes is not adequately understood, editing certain genes might help treat a person, but also might lead to complications later in life, such as a weakening of the immune system
+- __Not all sequence variations are created equally__: The changes engendered by gene alterations should be extensively studied before embryo implantation or use in humans. 
+- __Mosaicism__: "There is no way to sequence a cell's genome without destroying the cell itself; as such, it is currently impossible to rule out mosaicism in a blastocyst." where a mosaicism is "variation among cells, such that the cells are not all the same— for example, in an embryo when not all the cells are edited."[^HGE-Book] that lead to such things as disease and tumors, and to defects in the organs. 
 - __Socioeconomic disparities__: 
 - __Stigma__:
 - __Insurance__: 
