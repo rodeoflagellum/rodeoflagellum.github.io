@@ -17,9 +17,11 @@ image: /assets/2022/archive/urja-bhatt-TuvollqROb8-unsplash.jpg
 ### {{ month.name }}
 <ul>
   {% for post in month.items %}
-    <li>
-      <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br> <em>{{ post.description }}</em><br>
-    </li>
+    {% if post.category != "misc"%}
+      <li>
+        <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br> <em>{{ post.description }}</em><br>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 

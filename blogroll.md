@@ -14,7 +14,7 @@ description: "An unordered list of websites I like, along with the two pieces I 
   - [https://www.gleech.org/][arg_min]{:target="_blank"}
   - [Metrics](https://www.gleech.org/metrics/){:target="_blank"}
   - [Math tools](https://www.gleech.org/tools){:target="_blank"}
-- __Niplav__ 
+- __Niplav__
   - [https://niplav.github.io/index.html][niplav]{:target="_blank"}
 - __Pablo Stafforini__
   - [https://www.stafforini.com/blog/][pablo]{:target="_blank"}
@@ -22,8 +22,10 @@ description: "An unordered list of websites I like, along with the two pieces I 
 - __Ryan Beck__
   - [https://www.ryanbeckauthor.com/][ryanbeck]{:target="_blank"}
 
+[niplav]: https://niplav.github.io/index.html "https://niplav.github.io/index.html"
+
 ### [Other Sites](#other-sites)  
- 
+
 - __Slate Star Codex__
   - [https://slatestarcodex.com/][ssc]{:target="_blank"}
   - [Beware The Man Of One Study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/){:target="_blank"}
