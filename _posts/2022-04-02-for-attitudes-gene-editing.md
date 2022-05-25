@@ -368,39 +368,13 @@ Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent 
 
 I imagine that most people, even without having thought extensively about the social and economic forces guiding humanity's reactions to human gene-editing or about the different ways in which gene-editing can be used on humans, would agree that the future in Hoel's vignette is undesirable.
 
-For those unaware, in blah blah blah. And a distinction is typically made between outlooks on the future of human genome before and after the affair. 
-
-Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] synthesizes some of the major ethical concerns with human genome editing in response to the He Jiankui affair, across the three distinctions I outlined earlier. Summarized: 
-
-- __Off-target effects__: Using CRISPR and other gene-editing technologies can result in mutations, deletions, or insertions in DNA that were not originally intended to occur, and that might lead to complications. 
-- __Downstream modification consequences__: Given that the full function of many genes is not adequately understood, editing certain genes might help treat a person, but also might lead to complications later in life, such as a weakening of the immune system
-- __Not all sequence variations are created equally__: The changes engendered by gene alterations should be extensively studied before embryo implantation or use in humans. 
-- __Mosaicism__: "There is no way to sequence a cell's genome without destroying the cell itself; as such, it is currently impossible to rule out mosaicism in a blastocyst." where a mosaicism is "variation among cells, such that the cells are not all the same— for example, in an embryo when not all the cells are edited."[^HGE-Book] that lead to such things as disease and tumors, and to defects in the organs. 
-- __Socioeconomic disparities__: 
-- __Stigma__:
-- __Insurance__: 
-
-[^rothchild]: Rothschild, Jodie. "Ethical considerations of gene editing and genetic selection." Journal of General and Family Medicine 21, no. 3 (2020): 37-47.
-
-<!-- He Jiankui Fear -->
-
-<!-- Make Manifold's Market markets and link them on EAF and the footnotes --> 
-
-Fear (Hoel)
-Vera (counters)
-More sober concerns (biodicts)
-
-From another [paper][another_paper][^another-paper],
-
-<!-- Nonetheless, it is very easy to imagine negative events of varying magnitude involving human gene-editing. For example, imagine a scenario where a couple illegally has their child's germline modified, with the good intention of eliminating a heritable disease, and the modifications get carried through to future generations without many people knowing. Such as with mutations in DNA, it might be the case that some of the edits result in unintentional and unnoticeable side effects that are only harmful in select instances. This might not appear too bad on the face of it, but the problem is that the germline edits end up being propagated through the wider human gene pool. -->
+From a more general lens: 
 
 > At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing [See [https://www.who.int/publications/i/item/9789240030381][who_recommendations]].
 
-A future where...
+[Vera Lucia Raposo][vera]{:target="_blank"}[^vera-point], in her paper 2019 paper _[The First Chinese Edited Babies: A Leap of Faith in Science][fir_gen]{:target="_blank"}_, provides a nice section on these potential issues with human gene-editing and her contentions with them. 
 
-Here are some more concrete counters and counter-counters against gene-editing
-
-[Vera Lucia Raposo][vera]{:target="_blank"}[^vera-point], in her paper 2019 paper _[The First Chinese Edited Babies: A Leap of Faith in Science][fir_gen]{:target="_blank"}_, provides a nice section on stances taken against human gene-editing. In summary, the four main axes of contention are:
+In summary, the four main axes of contention are:
 
 - (1) sanctity of genome
 - (2) genetic discrimination and eugenics
@@ -421,6 +395,30 @@ Here are some more concrete counters and counter-counters against gene-editing
 
 [com]: https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion "https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion"
 
+
+For those unaware, in blah blah blah. And a distinction is typically made between outlooks on the future of human genome before and after the affair. 
+
+Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] synthesizes, in greater detail than we've seen previously, some of the major ethical concerns with human genome editing in response to the He Jiankui affair.
+
+ Summarized: 
+
+- __Off-target effects__: Using CRISPR and other gene-editing technologies can result in mutations, deletions, or insertions in DNA that were not originally intended to occur, and that might lead to complications. 
+- __Downstream modification consequences__: Given that the full function of many genes is not adequately understood, editing certain genes might help treat a person, but also might lead to complications later in life, such as a weakening of the immune system. 
+- __Not all sequence variations are created equally__: The changes engendered by gene alterations should be extensively studied before embryo implantation or use in humans. 
+- __Mosaicism__: "There is no way to sequence a cell's genome without destroying the cell itself; as such, it is currently impossible to rule out mosaicism in a blastocyst", where a mosaicism is "variation among cells, such that the cells are not all the same— for example, in an embryo when not all the cells are edited."[^HGE-Book] that might lead to such things as disease and tumors, and to defects in the organs. 
+- __Which genes/diseases to target?__: Oftentimes, which genes to target for a particular disease are not known. Also, the line between disease and disability is not clear, and what constitutes an "unfair" advantage from gene-editing is nebulous. 
+- __Socioeconomic disparities__: 
+- __Stigma__:
+- __Insurance__: 
+
+[^rothchild]: Rothschild, Jodie. "Ethical considerations of gene editing and genetic selection." Journal of General and Family Medicine 21, no. 3 (2020): 37-47.
+
+<!-- Make Manifold's Market markets and link them on EAF and the footnotes --> 
+
+
+From another [paper][another_paper][^another-paper],
+
+<!-- Nonetheless, it is very easy to imagine negative events of varying magnitude involving human gene-editing. For example, imagine a scenario where a couple illegally has their child's germline modified, with the good intention of eliminating a heritable disease, and the modifications get carried through to future generations without many people knowing. Such as with mutations in DNA, it might be the case that some of the edits result in unintentional and unnoticeable side effects that are only harmful in select instances. This might not appear too bad on the face of it, but the problem is that the germline edits end up being propagated through the wider human gene pool. -->
 
 
 <!-- &emsp; This essay is not an introduction to gene-editing, nor does it seek to comprehensively outline the landscape of debate for or against human gene-editing, but I hope that by adding some exposure to these things, absorbing the current state of people's attitudes towards gene-editing in the following sections will be easier or more enjoyable. -->
