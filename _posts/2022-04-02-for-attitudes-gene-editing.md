@@ -459,6 +459,14 @@ United States:
       - Would use? [N/A, ++no, +no, +yes, ++yes]: [3, 24, 25, 32, 16]
     - Gen
 
+> Among the discussions that expressed a clear stance,
+Twitter exhibited the largest percentage of posts (701/816,
+85.9%) in opposition, followed by Sina Weibo (968/1140,
+84.91%), Reddit (550/898, 61.2%), and YouTube (567/1078,
+52.59%).
+
+pp.11
+
 
 [^]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Notes: (1) 5107/10260 respondants on the section on gene-editing, which was conducted Nov. 1-7 2021 (2) <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
 
@@ -675,28 +683,44 @@ Extrapolate how the drivers might change.
 
 ---
 
-
-
 ## [Appendix](#appendices)
 
 ### [The Landscape](#landscape)
 
-Before writing this report, I had to gauge the landscape of research on people's attitudes towards human gene-editing. To do this, I came up with a list of search terms that I thought might be useful.
+Before writing this report, I had to gauge the landscape of research on people's attitudes towards human gene-editing. To do this, I came up with a list of search terms that I thought might be useful. 
 
-I began by searching for "human gene editing survey" on OpenAlex, looking at years in the interval [2016, 2021]. I did not include results from the search that I thought weren't especially relevant to people's attitudes towards human gene-editing (e.g., the OpenAlex query <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021> produces the result "_Consumer valuation of and attitudes towards novel foods produced with new plant engineering techniques: A review_", but I did not include this). Next, I searched for "attitudes towards human gene-editing" on Google, looking at the first 3 pages of results (this means clicking "More Results" 2 times) on FireFox.
+Despite this list, I only ended up formally searching for "human gene editing survey" on OpenAlex and for "attitudes towards human gene-editing" on Google. 
+
+By "formally searching", I mean that for these searches, I recorded my search process (see OpenAlex Queries and Google Queries). The rest of my searches were conducted on CrossRef or included terms and chains of links that I cannot recall. 
+
+My rationale for "formally" outlining some of my search processes is to allow others to reproduce my search results and to give them a well-defined path to finding research on people's attitudes towards human gene-editing. I imagine there are likely other benefits from me outlining my search processes. 
+
+I began by searching for "human gene editing survey" on OpenAlex for years in the interval [2016, 2021]. 
+
+I did not include results from the search that I thought weren't especially relevant to people's attitudes towards human gene-editing[^not-useful], but made the initial mistake of including many results that just discussed the ethics of human gene-editing, but didn't include much on people's attitudes towards human gene-editing. 
+
+After my OpenAlex search, I searched for "attitudes towards human gene-editing" on Google and looked at the first 3 pages of results (this means clicking "More Results" 2 times) on FireFox.
+
+[^not-useful]: e.g., the OpenAlex query <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021> produces the result "_Consumer valuation of and attitudes towards novel foods produced with new plant engineering techniques: A review_", but I did not include this.
 
 It's worth noting that each search did not include quotation marks; this means that my searches were not for the exact phrases _human gene editing survey_ or _attitudes towards human gene-editing_ (e.g., "attitudes toward human gene-editing" means I searched [attitudes toward human gene-editing] not ["attitudes toward human gene-editing"]).
 
-I conducted my searches during the first 15 days of May 2022. Ideally, I would search for all of the terms in the Search Terms list on all of the following platforms: Google Scholar, CrossRef, OpenAlex, and Google.
+I conducted my searches during the first 15 days of May 2022. Ideally, I would search for all of the terms in the Search Terms list on all of the following platforms - Google Scholar, CrossRef, OpenAlex, and Google - but this, presently, is not something I want to do and is something that I believe is not necessary, given how what reports I've covered thus far.
 
-There are many search terms listed below, but I only ended up searching for "human gene editing survey" on OpenAlex and "attitudes towards human gene-editing" on Google. I noticed that there were many articles repeated in my second search (I did not include duplicates between searches), and decided that searching the remaining terms would not be worth my time, given the diminishing returns. Also, I anticipated that, if I found myself still requiring more evidence or surveys, I could always look in the references of the works I already had.
+There were many duplicates between searches; I tried not to list any search result twice. 
 
-In the query-lists below (OpenAlex Queries and Google Queries), the list structure is organized in the following manner: the outermost list is what I searched (a query, phrase, or a remark indicating that I forgot what I originally searched); the next sub-list contains the relevant results returned from that query or phrase; and all subsequent nested lists are the works I found from looking at the references or links of a specific result.
+Note: In the query-lists below (OpenAlex Queries and Google Queries), the list structure is organized in the following manner: the outermost list is what I searched (a query, phrase, or a remark indicating that I forgot what I originally searched); the next sub-list contains the relevant results returned from that query or phrase; and all subsequent nested lists are the works I found from looking at the references or links of a specific result.
 
-Research that I found later on as a result of looking up references or links of works from the search results are included under "Other Research". The "Table of Covered Research" refers to the primary research works I base much of my analysis and forecasting off of. Any work that I referenced in this post but that is not included in the "Table of Covered Research" has a citation in the footnotes.  
+Research that I found outside of this "formal" search is included under "Other Research". 
 
-<!-- Made the mistake in this first search pass in including results on the ethics of gene-editing, and not removing those.
-This does not apply to other research.  -->
+In all search lists,
+
+- (★) This search result was useful in understanding people's attitudes on human gene-editing
+- (★★) The same as (★) AND I selected this result to examine more closely, found that it very useful for understanding opinions on human gene-editing, but didn't include it due to my limited energies
+- (★★★) The same as (★) AND this result very useful for understanding opinions on human gene-editing in more ways or to a larger degree than a (★★) result, to the point where I decided to include it in my analysis.
+
+
+The "Table of Covered Research" collects the research I ended up using to update my beliefs on people's attitudes towards human gene-editing. Given my limited time, I aimed to look at around 15-20 surveys, and ended up selecting and reading . 
 
 #### *Search Phrases*
 
@@ -725,6 +749,8 @@ This does not apply to other research.  -->
 - _"attitudes towards human genetic-engineering"_
 - _"attitudes towards human genetic engineering"_
 
+This only occurred to me later in my writing of this essay, but "human genome editing" and its variations (e.g., "opinions of human genome editing") should have been included in this list. 
+
 #### *OpenAlex Queries*
 
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>
@@ -741,14 +767,14 @@ This does not apply to other research.  -->
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
   - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (<https://pubmed.ncbi.nlm.nih.gov/33560915/>)
   - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (<https://www.mdpi.com/2409-9287/5/3/20>)
-    - D3.5: Public views of human enhancement technologies in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d3.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>)
-    - D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf)
-  - Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>)
+    - (★) D3.5: Public views of human enhancement technologies in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d3.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>)
+    - (★★★) D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf)
+  - (★★★) Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>)
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>
   - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>)
-  - Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (<https://pubmed.ncbi.nlm.nih.gov/30687386/>)
-  - Attitudes towards genome editing among university students in Costa Rica (<https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea>)
-  - Liberal arts student impressions of opportunities in gene editing (<https://www.jstor.org/stable/26849521>)
+  - (★★★) Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (<https://pubmed.ncbi.nlm.nih.gov/30687386/>)
+  - (★) Attitudes towards genome editing among university students in Costa Rica (<https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea>)
+  - (★) Liberal arts student impressions of opportunities in gene editing (<https://www.jstor.org/stable/26849521>)
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2018>
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2017>
   - What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>)
@@ -759,54 +785,54 @@ This does not apply to other research.  -->
 - Cannot recall what I searched / Previous knowledge of this work
   - What are the Ethical Concerns of Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns>)
   - Making sense of heritable human genome editing: Scientific and ethical considerations (<https://pubmed.ncbi.nlm.nih.gov/34175039/>)
-  - Public Views of Gene Editing for Babies Depend on How It Would Be Used (<https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/>)
-    - U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (<https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/>)
-    - Chapter 5: Public Views About Biomedical Issues (<https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/>)
-  - Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>)
+  - (★★★) Public Views of Gene Editing for Babies Depend on How It Would Be Used (<https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/>)
+    - (★★★) U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (<https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/>)
+    - (★★★) Chapter 5: Public Views About Biomedical Issues (<https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/>)
+  - (★★★) Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>)
 - "attitudes toward human gene-editing" (first 3 pages)
-  - U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>)
+  - (★) U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>)
   - A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>)
-  - Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>)
-  - Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (<https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/>)
-    - AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (<https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/>)
-  - What do People Think About Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion>)
-  - Chinese Public Attitudes on Gene Editing (<https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf>)
-  - Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (<https://www.nature.com/articles/s10038-020-0810-2>)
-  - Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (<https://www.dovepress.com/attitudes-of-indonesian-medical-doctors-and-medical-students-toward-ge-peer-reviewed-fulltext-article-JMDH>)
-  - Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (<https://link.springer.com/article/10.1007/s11948-017-9931-1>)
-  - Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/31599688/>)
-    - The clinical application of gene editing: ethical and social issues. (<https://pubmed.ncbi.nlm.nih.gov/31331245/>)
-    - Revising, Correcting, and Transferring Genes. (<https://pubmed.ncbi.nlm.nih.gov/32757931/>)
-    - Attitudes of people with inherited retinal conditions toward gene editing technology. (<https://pubmed.ncbi.nlm.nih.gov/31190471/>)
-  - Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (<https://www.nature.com/articles/s10038-022-01042-z>)
-    - The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/>)
+  - (★) Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>)
+  - [same as sublink] Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (<https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/>)
+    - (★★★) AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (<https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/>{:target="_blank"})
+  - What do People Think About Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion>{:target="_blank"})
+  - (★★★) Chinese Public Attitudes on Gene Editing (<https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf>{:target="_blank"})
+  - (★★★) Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (<https://www.nature.com/articles/s10038-020-0810-2>{:target="_blank"})
+  - (★★) Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (<https://www.dovepress.com/attitudes-of-indonesian-medical-doctors-and-medical-students-toward-ge-peer-reviewed-fulltext-article-JMDH>{:target="_blank"})
+  - Trust in Science: CRISPR–Cas9 and the Ban on Human Germline Editing (<https://link.springer.com/article/10.1007/s11948-017-9931-1>{:target="_blank"})
+  - (★★★) Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/31599688/>{:target="_blank"})
+    - The clinical application of gene editing: ethical and social issues. (<https://pubmed.ncbi.nlm.nih.gov/31331245/>{:target="_blank"})
+    - Revising, Correcting, and Transferring Genes. (<https://pubmed.ncbi.nlm.nih.gov/32757931/>{:target="_blank"})
+    - (★★) Attitudes of people with inherited retinal conditions toward gene editing technology. (<https://pubmed.ncbi.nlm.nih.gov/31190471/>{:target="_blank"})
+  - (★★) Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (<https://www.nature.com/articles/s10038-022-01042-z>{:target="_blank"})
+    - (★★) The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/>{:target="_blank"})
 
 #### *Other Research*
 
 A note should be made that
 
 - Where Will We Draw the Line? Public Opinions of Human Gene Editing (<https://journals.sagepub.com/doi/abs/10.1177/1049732319846867>)
-- Public views on gene editing and its uses (<https://www.semanticscholar.org/paper/Public-views-on-gene-editing-and-its-uses-Gaskell-B%C3%A1rd/0b702fe853d7cfe0fcc9ba1ca321f6f62d6e2747#citing-papers>) [Note: the below were found exclusively using CrossRef]
-  - CRISPR Images: Media Use and Public Opinion About Gene Editing (<https://www.semanticscholar.org/paper/CRISPR-Images%3A-Media-Use-and-Public-Opinion-About-Dawson-Paintsil/506d8d279d2c517d763d3f5c7ca593ceb70bc7f2>)
-  - Public acceptability of gene therapy and gene editing for human use: A systematic review. (<https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>)
-  - Understanding opposition to human gene editing A role for pathogen disgust sensitivity? (<https://www.semanticscholar.org/paper/Understanding-opposition-to-human-gene-editing-A-Halstead-Lewis/6d4a1b6da361f47ade3d841b6e48b067851f7426>)
-  - Increased awareness and decreased acceptance of genome-editing technology: The impact of the Chinese twin babies (<https://www.semanticscholar.org/paper/Increased-awareness-and-decreased-acceptance-of-The-Watanabe-Saito/6ccba038e919e6b49468b0fde6084356eb892dd4>)
-  - Students’ attitudes towards somatic genome editing versus genome editing of the germline using an example of familial leukemia (<https://www.semanticscholar.org/paper/Students%E2%80%99-attitudes-towards-somatic-genome-editing-Vajen-Ronez/604118d9d625f3852f4b87c65a05337118fe03f2>)
-  - Assessing public opinions on the likelihood and permissibility of gene editing through construal level theory (<https://www.semanticscholar.org/paper/Assessing-public-opinions-on-the-likelihood-and-of-So-Sladek/e5a36f8aa08f95287947584a4a749daa82df6d9d>)
-  - Citizen views on genome editing: effects of species and purpose (<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>)
-  - Enhanced threat or therapeutic benefit? Risk and benefit perceptions of human gene editing by purpose and heritability of edits (<https://www.semanticscholar.org/paper/Enhanced-threat-or-therapeutic-benefit-Risk-and-of-Howell-Kohl/47aa3f2bfc10485523fce14076030f3b8c4d11b0>)
-  - Meaning of Ambiguity: A Japanese Survey on Synthetic Biology and Genome Editing (<https://www.semanticscholar.org/paper/Meaning-of-Ambiguity%3A-A-Japanese-Survey-on-Biology-Hibino-Yoshizawa/5a529c7c5ca3dcd637537e5dd04f277bb701b0f9>)
-  - Attitudes of clinical geneticists and certified genetic counselors to genome editing and its clinical applications: A nation-wide questionnaire survey in Japan (<https://www.semanticscholar.org/paper/Attitudes-of-clinical-geneticists-and-certified-to-Taguchi-Yamada/0fcdf483080eb098ff674a954fbd2603098c188a>)
-  - Should germline genome editing be allowed? The effect of treatment characteristics on public acceptability. (<https://www.semanticscholar.org/paper/Should-germline-genome-editing-be-allowed-The-of-on-Dijke-Wely/cbc7ebae1fb3e4e34a3ee8cad0aa77345c5149a8>)
-  - Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21>)
-  - Comparison of public discussions of gene editing on social media between the United States and China (<https://www.semanticscholar.org/paper/Comparison-of-public-discussions-of-gene-editing-on-Ji-Robbins/b51fde8e8a6ba2065b554a0db73ee7500241d314>)
-  - Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>)
-  - The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>)
-  - Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>)
-- U.S. attitudes on human genome editing (<https://www.semanticscholar.org/paper/U.S.-attitudes-on-human-genome-editing-Scheufele-Xenos/a995485317434f5a09542f3dd9c3731a624a2cac>)[repeat; included because there are novel results that come up when this is inputted into CrossRef]
-  - Survey on the perception of germline genome editing among the general public in Japan (<https://www.semanticscholar.org/paper/Survey-on-the-perception-of-germline-genome-editing-Uchiyama-Nagai/d7610f56bbab4fb04b08f3426fcca5feddcb8933>)
-  - Changes in opinions about human germline gene editing as a result of the Dutch DNA-dialogue project (<https://www.semanticscholar.org/paper/Changes-in-opinions-about-human-germline-gene-as-a-Houtman-Vijlbrief/ee1376ba853dd1b7f1e954e5b3d10c0761838ba8>)
-  - Social Agents of Technological Change: Dynamics and Divergence of Meanings, Expectations and Sentiments of Emerging Technologies : the case of Genome Editing (<https://www.semanticscholar.org/paper/Social-Agents-of-Technological-Change%3A-Dynamics-and-Nguyen/05d5f5b14b6d8ae3df21227f7b0f0e56998abb09>)
+- Public views on gene editing and its uses (<https://www.semanticscholar.org/paper/Public-views-on-gene-editing-and-its-uses-Gaskell-B%C3%A1rd/0b702fe853d7cfe0fcc9ba1ca321f6f62d6e2747#citing-papers>{:target="_blank"}) [Note: the below were found exclusively using CrossRef]
+  - CRISPR Images: Media Use and Public Opinion About Gene Editing (<https://www.semanticscholar.org/paper/CRISPR-Images%3A-Media-Use-and-Public-Opinion-About-Dawson-Paintsil/506d8d279d2c517d763d3f5c7ca593ceb70bc7f2>{:target="_blank"})
+  - Public acceptability of gene therapy and gene editing for human use: A systematic review. (<https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>{:target="_blank"})
+  - Understanding opposition to human gene editing A role for pathogen disgust sensitivity? (<https://www.semanticscholar.org/paper/Understanding-opposition-to-human-gene-editing-A-Halstead-Lewis/6d4a1b6da361f47ade3d841b6e48b067851f7426>{:target="_blank"})
+  - Increased awareness and decreased acceptance of genome-editing technology: The impact of the Chinese twin babies (<https://www.semanticscholar.org/paper/Increased-awareness-and-decreased-acceptance-of-The-Watanabe-Saito/6ccba038e919e6b49468b0fde6084356eb892dd4>{:target="_blank"})
+  - Students’ attitudes towards somatic genome editing versus genome editing of the germline using an example of familial leukemia (<https://www.semanticscholar.org/paper/Students%E2%80%99-attitudes-towards-somatic-genome-editing-Vajen-Ronez/604118d9d625f3852f4b87c65a05337118fe03f2>{:target="_blank"})
+  - Assessing public opinions on the likelihood and permissibility of gene editing through construal level theory (<https://www.semanticscholar.org/paper/Assessing-public-opinions-on-the-likelihood-and-of-So-Sladek/e5a36f8aa08f95287947584a4a749daa82df6d9d>{:target="_blank"})
+  - Citizen views on genome editing: effects of species and purpose (<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>{:target="_blank"})
+  - Enhanced threat or therapeutic benefit? Risk and benefit perceptions of human gene editing by purpose and heritability of edits (<https://www.semanticscholar.org/paper/Enhanced-threat-or-therapeutic-benefit-Risk-and-of-Howell-Kohl/47aa3f2bfc10485523fce14076030f3b8c4d11b0>{:target="_blank"})
+  - Meaning of Ambiguity: A Japanese Survey on Synthetic Biology and Genome Editing (<https://www.semanticscholar.org/paper/Meaning-of-Ambiguity%3A-A-Japanese-Survey-on-Biology-Hibino-Yoshizawa/5a529c7c5ca3dcd637537e5dd04f277bb701b0f9>{:target="_blank"})
+  - Attitudes of clinical geneticists and certified genetic counselors to genome editing and its clinical applications: A nation-wide questionnaire survey in Japan (<https://www.semanticscholar.org/paper/Attitudes-of-clinical-geneticists-and-certified-to-Taguchi-Yamada/0fcdf483080eb098ff674a954fbd2603098c188a>{:target="_blank"})
+  - Should germline genome editing be allowed? The effect of treatment characteristics on public acceptability. (<https://www.semanticscholar.org/paper/Should-germline-genome-editing-be-allowed-The-of-on-Dijke-Wely/cbc7ebae1fb3e4e34a3ee8cad0aa77345c5149a8>{:target="_blank"})
+  - Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21>{:target="_blank"})
+  - Comparison of public discussions of gene editing on social media between the United States and China (<https://www.semanticscholar.org/paper/Comparison-of-public-discussions-of-gene-editing-on-Ji-Robbins/b51fde8e8a6ba2065b554a0db73ee7500241d314>{:target="_blank"})
+  - Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>{:target="_blank"})
+  - The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>{:target="_blank"})
+  - Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>{:target="_blank"})
+- U.S. attitudes on human genome editing (<https://www.semanticscholar.org/paper/U.S.-attitudes-on-human-genome-editing-Scheufele-Xenos/a995485317434f5a09542f3dd9c3731a624a2cac>{:target="_blank"})[repeat from "attitudes toward human gene-editing” (first 3 pages); included because there are novel results that come up when this is inputted into CrossRef]
+  - Survey on the perception of germline genome editing among the general public in Japan (<https://www.semanticscholar.org/paper/Survey-on-the-perception-of-germline-genome-editing-Uchiyama-Nagai/d7610f56bbab4fb04b08f3426fcca5feddcb8933>{:target="_blank"})
+  - Changes in opinions about human germline gene editing as a result of the Dutch DNA-dialogue project (<https://www.semanticscholar.org/paper/Changes-in-opinions-about-human-germline-gene-as-a-Houtman-Vijlbrief/ee1376ba853dd1b7f1e954e5b3d10c0761838ba8>{:target="_blank"})
+  - Social Agents of Technological Change: Dynamics and Divergence of Meanings, Expectations and Sentiments of Emerging Technologies : the case of Genome Editing (<https://www.semanticscholar.org/paper/Social-Agents-of-Technological-Change%3A-Dynamics-and-Nguyen/05d5f5b14b6d8ae3df21227f7b0f0e56998abb09>{:target="_blank"})
 
   <!-- What's missing from this analyses? -->
 
@@ -835,8 +861,9 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 |Title (Year)|Authors|Link|Extent|
 |:---|:---|:---|:---|
-|AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|1/9|
-|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|1/9|
+|AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|3/9: I looked over the section on human gene-editing, but skimmed their descriptions. I took notes on their methodology and figures for this section.|
+|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|3/9: I read the first 3 pages in full and skimmed the rest, only looking for descriptions of support/opposition to gene-editing. I took notes on the figures and the support/opposition metrics. 
+
 |Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (2022)|Shinobu Kobayashi, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama1, Masato Uchiyama, Kaori Muto, Yasuto Takeuchi, Masaki Taira, Haruhiko Sago, and Kenji Takehara|[https://www.nature.com/articles/s10038-022-01042-z][jap_gene_2022]{:target="_blank"} and [here][jap_gene_2022_DL]{:target="_blank"}|1/9|
 |The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (2021)|Margaret Waltz, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan|[https://pubmed.ncbi.nlm.nih.gov/34406038/][view_from_benches_2021]{:target="_blank"} and [here][view_from_benches_2021_DL]{:target="_blank"}|1/9|
 |What we know about effective public engagement on CRISPR and beyond (2021)|Dietram A Scheufele, Nicole M Krause, Isabelle Freiling, Dominique Brossard|[https://pubmed.ncbi.nlm.nih.gov/34050014/][what_we_crispr_2021]{:target="_blank"} and [here][what_we_crispr_2021_DL]{:target="_blank"}|1/9|
@@ -857,7 +884,6 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 |A Global Social Media Survey of Attitudes to Human Genome Editing (2016)|Tristan McCaughey, Paul G. Sanfilippo, George E. C. Gooden, David M. Budden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Timothy Baldwin, Alice Pébay, and Alex W. Hewitt|[https://www.sciencedirect.com/science/article/pii/S1934590916300546][globe_soce_2016]{:target="_blank"} and [here][globe_soce_2016_DL]{:target="_blank"}|1/9|
 |U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (2016)|PEW Research Center|[https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/][us_wary_2016]{:target="_blank"} and [here][us_wary_2016_DL]{:target="_blank"}|1/9|
 |Chapter 5: Public Views About Biomedical Issues (2015)|PEW Research Center|[https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/][chapter_5_2015]{:target="_blank"} and [here][chapter_5_2015_DL]{:target="_blank"}|1/9|
-
 
 [set_limits_2021]: https://pubmed.ncbi.nlm.nih.gov/34050016/ "https://pubmed.ncbi.nlm.nih.gov/34050016/"
 [set_limits_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/set_limits_2021_DL.pdf
@@ -1351,7 +1377,10 @@ ___PEW Research Center, 2015*
 
 ### [Glossary and Visuals](#glossary)
 
-### [Subjective Summary](#summary)
+### [Subjective Summary and Other Considerations](#summary-considerations)
+
+
+__Summary__ 
 
 "A speculative piece that is trying to be a report"
 
@@ -1373,7 +1402,13 @@ Here is a breakdown of what I feel this essay is:
   - Important terms 
   - The terms are similar 
   -  
+  
+__Other Considerations__ 
 
+- In what ways are gene-editing, genome editing, genetic engineering, gene therapy, and genetic modification different?
+- What databases are there for clinical trials involving human gene-editing? 
+- How important is the postnatal vs. prenatal distinction in human gene-editing relative to the treatment vs. enhancement and somatic vs. germline distinction? 
+- 
 ---
 
 ## [Further Reading](#further-reading)
