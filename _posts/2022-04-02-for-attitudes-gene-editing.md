@@ -1351,6 +1351,29 @@ ___PEW Research Center, 2015*
 
 ### [Glossary and Visuals](#glossary)
 
+### [Subjective Summary](#summary)
+
+"A speculative piece that is trying to be a report"
+
+Here is a breakdown of what I feel this essay is:
+
+- What I think is important
+- Attempt at being transparent 
+- What I did 
+- Some prior beliefs, not refined
+- Acknowledgements 
+- Prospects and Perils
+  - I am interested in biotech. but not obsessed 
+  - Gene-editing might be good; society is complex
+  - Again, gene-editing good/bad? idk
+  - Might as well do a quick scan of gene-editing
+  - Some questions concerning gene-editing 
+  - Don't take what I say as the whole story
+  - Note on the next section 
+  - Important terms 
+  - The terms are similar 
+  -  
+
 ---
 
 ## [Further Reading](#further-reading)
