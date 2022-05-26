@@ -403,7 +403,7 @@ For those unaware, in blah blah blah. And a distinction is typically made betwee
 
 Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] synthesizes, in greater detail than we've seen previously, some of the major ethical concerns with human genome editing in response to the He Jiankui affair.
 
- Summarized: 
+Summarized: 
 
 - __Off-target effects__: Using CRISPR and other gene-editing technologies can result in mutations, deletions, or insertions in DNA that were not originally intended to occur, and that might lead to complications. 
 - __Downstream modification consequences__: Given that the full function of many genes is not adequately understood, editing certain genes might help treat a person, but also might lead to complications later in life, such as a weakening of the immune system. 
