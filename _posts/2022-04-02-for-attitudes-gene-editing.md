@@ -193,6 +193,23 @@ The historical distinctions are given in[^HGE-Book]:
 
 ### [State of Gene-Editing Research](#state-of-gene-editing-research)
 
+Major events 
+
+<!-- https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing
+> In 2015, scientists successfully used somatic gene therapy when a one-year old in the United Kingdom named Layla received a gene editing treatment to help her fight leukemia, a type of cancer. These scientists did not use CRISPR to treat Layla, and instead used another genome editing technology called TALENs. Doctors tried many treatments before this, but none of them seemed to work, so scientists received special permission to treat Layla using gene therapy. This therapy saved Layla's life. However, treatments like the one that Layla received are still experimental because the scientific community and policymakers still have to address technical barriers and ethical concerns surrounding genome editing. -->
+
+<!-- Last updated: August 15, 2019 -->
+
+<!-- https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing
+Summary of ethical concerns 
+Scientists and all of us should carefully consider the many ethical concerns that can emerge with genome editing, including safety. First and foremost, genome editing must be safe before it is used to treat patients. Some other ethical questions that scientists and society must consider are:
+
+    Is it okay to use gene therapy on an embryo when it is impossible to get permission from the embryo for treatment? Is getting permission from the parents enough?
+    What if gene therapies are too expensive and only wealthy people can access and afford them? That could worsen existing health inequalities between the rich and poor.
+    Will some people use genome editing for traits not important for health, such as athletic ability or height? Is that okay?
+    Should scientists ever be able to edit germline cells? Edits in the germline would be passed down through generations. -->
+
+
 Let's take a step back and look at the history of gene-editing[^timeline].
 
 - 1953: Discovery of the Double Helix
@@ -439,7 +456,7 @@ From another [paper][another_paper][^another-paper],
 
 ---
 
-## [A General Disinclination](#peoples-thoughts)
+## [Mixed Feelings](#peoples-thoughts)
 
 <!-- While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity. --> 
 
@@ -583,8 +600,38 @@ At a minimum, this process elicits people's attitudes towards some technological
 
 With regard to human genome editing, these are the questions concerning the near-term and long-future that I believe most people might want to know:
 
-- Where will the 4th gene-edited baby be born?
-- Which of the following countries will be first to legalize human gene-editing for treatment or enhancement? 
+
+Here is a list of important and/or interesting questions concerning human gene-editing that I've generated. I've written up some of the questions from this list on Metaculus; my criteria for doing this was wehther I thought the outcome of the question seemed to strongly depend on people's attitudes towards human gene-editing. 
+
+__More Easily Defined Questions__ 
+
+- How many research results will there be for [TALENS, ZFNs, CRISPR] in [2025, 2030, 2035]?
+- When will the [4th, 100th] gene-edited human child be born? 
+- When will [China, US, any country in the European Union] legalize any form of prenatal human genome editing? 
+- When will any country legalize prenatal germline genome editing in humans?
+  - <https://www.sciencedirect.com/science/article/abs/pii/S1084952122000799>
+- When will the first germline genome edited child be born? 
+- What will be the percentage of [EU, US, Chinese] citizens to support gene-editing for enhancement in humans? 
+- Which of the following countries [China, Israel, USA, Singapore, India] will be first to legalize prenatal human genome editing? 
+- In the first year after human genome editing is legalized in any country, how many other countries will legalize it? 
+
+__Less Easily Defined Questions__
+
+- How will attitudes of the [highly, moderately, lowly] religious towards human gene-editing change? 
+- How will attitudes of [liberals, conservatives] towards human gene-editing change? 
+- What percent of citizens in [China, Israel, USA, Singapore, India] will consider human gene-editing a misuse of science? 
+-  
+
+<!-- law database: https://guides.libraries.psu.edu/international-law -->
+
+<!-- See Human Germline Genome Editing 2017 for details on different between genome and gene-editing. -->
+
+> The first clinical application of CRISPR/Cas9 gene editing was in 2016, when a clini- cal trial delivered CRISPR gene-edited immune cells to a patient with advanced lung cancer. [Cyranoski D. CRISPR gene‑editing tested in a person for the first time. Nature. 2016;539:479.]
+
+<!-- https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/united-states-embryonic-germline-gene-editing/ -->
+
+Since there is a non-trivial chance that I will be able to lead a tournament on embryo editing and selection for enhancement in the coming months, I don't choose questions from this list that would be better suited for that tournament. 
+
 - In what country will germline genome editing in humans first be legalized?
 - In what country will germline genome editing in humans first be used?
 - When will germline genome editing first be used? 
