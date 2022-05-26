@@ -453,9 +453,11 @@ Let's now examine the following questions:
 
 United States:
   - Nov. 2021, 5107 Respondants 
-    - Experience w/ gene-editing for prevention? [N/A, Nothing, Low, High]: [1, 44, 47, 8]
-    - Gene-editing for prevention? [N/A, Not Sure, Bad, Good]: [1, 39, 30, 30]
-    - 
+    - Gene-editing for prevention? 
+      - Experience? [N/A, Nothing, Low, High]: [1, 44, 47, 8]
+      - Good for society? [N/A, Not Sure, Bad, Good]: [1, 39, 30, 30]
+      - Would use? [N/A, ++no, +no, +yes, ++yes]: [3, 24, 25, 32, 16]
+    - Gen
 
 
 [^]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Notes: (1) 5107/10260 respondants on the section on gene-editing, which was conducted Nov. 1-7 2021 (2) <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
