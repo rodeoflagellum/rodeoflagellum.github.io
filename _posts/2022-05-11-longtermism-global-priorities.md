@@ -40,8 +40,6 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 
 This is an ongoing glossary of terms, theorems, and definitions.
 
-
-
 ---
 
 ## [Questions I Have](#questions)
@@ -72,7 +70,29 @@ __The Case for Longtermism__
 
 ### The Case for Longtermism
 
-- Author: 
+- Author: Hilary Greaves and William MacAskill
+- Written: June 2021
+- Extent: ? 
+- Durability: ?
+
+___Notes, Quotes, Questions, Critiques, and Comments___
+
+- How many years of human history are left?: 
+  - _"...we still have over 200,000 years to go (Barnosky et al. 2011); there could be a further one billion years until the Earth is no longer habitable for humans (Wolf and Toon 2015); and trillions of years until the last conventional star formations (Adams and Laughlin 1999:34)."_
+- __Longtermism__: _"...we should be particularly concerned with ensuring that the far future goes well"_
+- __Strong Longtermism__: _"the view that impact on the far future is the most important feature of our actions today"_
+- How many years in the future should "long-term" refer to? 
+- __Axiological Strong Longtermism__: _"in the most important decision situations facing agents today, (i) every option that is near-best overall is near-best for the far future, and (ii) every option that is near-best overall delivers much larger benefits in the far future than in the near future."_
+- If society actually adopted axiological strong longtermism, what would change?
+  - _"We believe that strong longtermism is of the utmost importance: that if society came to adopt the views we defend in this paper, much of what we prioritise in the world today would change."_
+- What is consequentialism and what is invoked when it is assumed? 
+  - _"First, since we do not assume consequentialism, we must distinguish between axiological and deontic claims."_
+
+___Review___
+
+### Astronomical Waste
+
+- Author(s): 
 - Written:
 - Extent:
 - Durability:
@@ -80,8 +100,6 @@ __The Case for Longtermism__
 ___Notes, Quotes, Questions, Critiques, and Comments___
 
 ___Review___
-
-### Astronomical Waste
 
 [unread]
 

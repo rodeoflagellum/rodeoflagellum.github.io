@@ -451,6 +451,12 @@ Let's now examine the following questions:
 
 ### [Today and the Last 7 Years](#last-seven-years)
 
+There are two main mediums through which researcher's have examined what people think about human gene-editing: surveys[footnotes] and semantic text analyses[footnotes] of posts and other media on platforms such as Twitter and Reddit. 
+
+The surveys might span multiple countries, or just focus on one group within a single country. If the s
+
+
+
 United States:
   - Nov. 2021, 5107 Respondants 
     - Gene-editing for prevention? 
@@ -547,8 +553,6 @@ Less Accepting
 More Accepting 
 
 
-
-### [Drivers of These Attitudes](#rationale)
 
 <!-- - Religion
   - Protestant [country] [race]
