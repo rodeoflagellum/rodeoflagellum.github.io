@@ -753,47 +753,47 @@ This only occurred to me later in my writing of this essay, but "human genome ed
 
 #### *OpenAlex Queries*
 
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>
-  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (<https://pubmed.ncbi.nlm.nih.gov/34406038/>)
-    - What we know about effective public engagement on CRISPR and beyond (<https://pubmed.ncbi.nlm.nih.gov/34050014/>)
-    - Setting ethical limits on human gene editing after the fall of the somatic/germline barrier (<https://pubmed.ncbi.nlm.nih.gov/34050016/>)
-    - Heritable Human Genome Editing: The Public Engagement Imperative (<https://pubmed.ncbi.nlm.nih.gov/33346718/>)
-    - Reexamining the Ethics of Human Germline Editing in the Wake of Scandal (<https://pubmed.ncbi.nlm.nih.gov/32029087/>)
-      - Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (<https://pubmed.ncbi.nlm.nih.gov/29529985/>)
-        - The ethics of creating genetically modified children using genome editing (<https://pubmed.ncbi.nlm.nih.gov/28885275/>)
-        - Genome editing and assisted reproduction: curing embryos, society or prospective parents? (<https://pubmed.ncbi.nlm.nih.gov/28725950/>)
-        - Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (<https://pubmed.ncbi.nlm.nih.gov/31752935/>)
-  - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (<https://www.mdpi.com/2071-1050/13/9/4966>)
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>
-  - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (<https://pubmed.ncbi.nlm.nih.gov/33560915/>)
-  - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (<https://www.mdpi.com/2409-9287/5/3/20>)
-    - (★) D3.5: Public views of human enhancement technologies in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d3.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>)
-    - (★★★) D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf)
-  - (★★★) Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>)
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>
-  - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>)
-  - (★★★) Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (<https://pubmed.ncbi.nlm.nih.gov/30687386/>)
-  - (★) Attitudes towards genome editing among university students in Costa Rica (<https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea>)
-  - (★) Liberal arts student impressions of opportunities in gene editing (<https://www.jstor.org/stable/26849521>)
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2018>
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2017>
-  - What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>)
-- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2016>
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>{:target="_blank"}
+  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (<https://pubmed.ncbi.nlm.nih.gov/34406038/>{:target="_blank"})
+    - What we know about effective public engagement on CRISPR and beyond (<https://pubmed.ncbi.nlm.nih.gov/34050014/>{:target="_blank"})
+    - Setting ethical limits on human gene editing after the fall of the somatic/germline barrier (<https://pubmed.ncbi.nlm.nih.gov/34050016/>{:target="_blank"})
+    - Heritable Human Genome Editing: The Public Engagement Imperative (<https://pubmed.ncbi.nlm.nih.gov/33346718/>{:target="_blank"})
+    - Reexamining the Ethics of Human Germline Editing in the Wake of Scandal (<https://pubmed.ncbi.nlm.nih.gov/32029087/>{:target="_blank"})
+      - Why Human Germline Editing is More Problematic than Selecting Between Embryos: Ethically Considering Intergenerational Relationships (<https://pubmed.ncbi.nlm.nih.gov/29529985/>{:target="_blank"})
+        - The ethics of creating genetically modified children using genome editing (<https://pubmed.ncbi.nlm.nih.gov/28885275/>{:target="_blank"})
+        - Genome editing and assisted reproduction: curing embryos, society or prospective parents? (<https://pubmed.ncbi.nlm.nih.gov/28725950/>{:target="_blank"})
+        - Is selecting better than modifying? An investigation of arguments against germline gene editing as compared to preimplantation genetic diagnosis (<https://pubmed.ncbi.nlm.nih.gov/31752935/>{:target="_blank"})
+  - Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (<https://www.mdpi.com/2071-1050/13/9/4966>{:target="_blank"})
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2020>{:target="_blank"}
+  - What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (<https://pubmed.ncbi.nlm.nih.gov/33560915/>{:target="_blank"})
+  - The Ethics of Genetic Cognitive Enhancement: Gene Editing or Embryo Selection? (<https://www.mdpi.com/2409-9287/5/3/20>{:target="_blank"})
+    - (★) D3.5: Public views of human enhancement technologies in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d3.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>{:target="_blank"})
+    - (★★★) D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>{:target="_blank"})
+  - (★★★) Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>{:target="_blank"})
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>{:target="_blank"}
+  - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>{:target="_blank"})
+  - (★★★) Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (<https://pubmed.ncbi.nlm.nih.gov/30687386/>{:target="_blank"})
+  - (★) Attitudes towards genome editing among university students in Costa Rica (<https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea>{:target="_blank"})
+  - (★) Liberal arts student impressions of opportunities in gene editing (<https://www.jstor.org/stable/26849521>{:target="_blank"})
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2018>{:target="_blank"}
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2017>{:target="_blank"}
+  - What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>{:target="_blank"})
+- <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2016>{:target="_blank"}
 
 #### *Google Queries*
 
 - Cannot recall what I searched / Previous knowledge of this work
-  - What are the Ethical Concerns of Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns>)
-  - Making sense of heritable human genome editing: Scientific and ethical considerations (<https://pubmed.ncbi.nlm.nih.gov/34175039/>)
-  - (★★★) Public Views of Gene Editing for Babies Depend on How It Would Be Used (<https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/>)
-    - (★★★) U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (<https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/>)
-    - (★★★) Chapter 5: Public Views About Biomedical Issues (<https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/>)
-  - (★★★) Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>)
+  - What are the Ethical Concerns of Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns>{:target="_blank"})
+  - Making sense of heritable human genome editing: Scientific and ethical considerations (<https://pubmed.ncbi.nlm.nih.gov/34175039/>{:target="_blank"})
+  - (★★★) Public Views of Gene Editing for Babies Depend on How It Would Be Used (<https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/>{:target="_blank"})
+    - (★★★) U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (<https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/>{:target="_blank"})
+    - (★★★) Chapter 5: Public Views About Biomedical Issues (<https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/>{:target="_blank"})
+  - (★★★) Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>{:target="_blank"})
 - "attitudes toward human gene-editing" (first 3 pages)
-  - (★) U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>)
-  - A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>)
-  - (★) Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>)
-  - [same as sublink] Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (<https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/>)
+  - (★) U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>{:target="_blank"})
+  - A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>{:target="_blank"})
+  - (★) Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>{:target="_blank"})
+  - [same as sublink] Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (<https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/>{:target="_blank"})
     - (★★★) AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (<https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/>{:target="_blank"})
   - What do People Think About Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion>{:target="_blank"})
   - (★★★) Chinese Public Attitudes on Gene Editing (<https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf>{:target="_blank"})
