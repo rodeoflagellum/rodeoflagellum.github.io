@@ -569,7 +569,7 @@ include partipants counts, year, demographic properties.  -->
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
-Thus far, I have come across few resources on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans. 
+Thus far, I have come across few research articles on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans. 
 
 It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". 
 
@@ -580,9 +580,13 @@ At a minimum, this process elicits people's attitudes towards some technological
 With regard to human genome editing, these are the questions concerning the near-term and long-future that I believe most people might want to know:
 
 - Where will the 4th gene-edited baby be born?
-- In what country will germline genome editing in humans be legalized?
-- In what country will gene-editing for enhancement be legalized?
-- Where will
+- Which of the following countries will be first to legalize human gene-editing for treatment or enhancement? 
+- In what country will germline genome editing in humans first be legalized?
+- In what country will germline genome editing in humans first be used?
+- When will germline genome editing first be used? 
+- In what country will gene-editing for enhancement first be legalized?
+- In what country will gene-editing for enhancement first be used?
+- When will gene-editing for enhancement first be used? 
 - What will people think about human gene-editing in the future?
 - When will the first clinical trials of gene-editing be made accessible.
 
@@ -719,8 +723,18 @@ In all search lists,
 - (★★) The same as (★) AND I selected this result to examine more closely, found that it very useful for understanding opinions on human gene-editing, but didn't include it due to my limited energies
 - (★★★) The same as (★) AND this result very useful for understanding opinions on human gene-editing in more ways or to a larger degree than a (★★) result, to the point where I decided to include it in my analysis.
 
+In some instances, I may still reference studies or results with (★) or (★★), though I didn't spend much time investigating them. 
 
 The "Table of Covered Research" collects the research I ended up using to update my beliefs on people's attitudes towards human gene-editing. Given my limited time, I aimed to look at around 15-20 surveys, and ended up selecting and reading . 
+
+After collecting all the search results, I then rated them (★) after reading the abstract, (★★) after skimming the paper, and (★★★) after quickly evaluating all of the (★★) results. All PEW Research reports were exceptions in that I automatically gave them (★★★), given the insights and enjoyment I've gained from them in the past. 
+
+Abbreviations for the quickly-chosen reasons for not including the (★) or (★★) surveys:
+
+- N: Participants too low relative to the other studies 
+- L: Too localized
+- Q: The work seems low quality or not very credible 
+- C: Not comprehensive enough
 
 #### *Search Phrases*
 
@@ -823,16 +837,16 @@ A note should be made that
   - Enhanced threat or therapeutic benefit? Risk and benefit perceptions of human gene editing by purpose and heritability of edits (<https://www.semanticscholar.org/paper/Enhanced-threat-or-therapeutic-benefit-Risk-and-of-Howell-Kohl/47aa3f2bfc10485523fce14076030f3b8c4d11b0>{:target="_blank"})
   - Meaning of Ambiguity: A Japanese Survey on Synthetic Biology and Genome Editing (<https://www.semanticscholar.org/paper/Meaning-of-Ambiguity%3A-A-Japanese-Survey-on-Biology-Hibino-Yoshizawa/5a529c7c5ca3dcd637537e5dd04f277bb701b0f9>{:target="_blank"})
   - Attitudes of clinical geneticists and certified genetic counselors to genome editing and its clinical applications: A nation-wide questionnaire survey in Japan (<https://www.semanticscholar.org/paper/Attitudes-of-clinical-geneticists-and-certified-to-Taguchi-Yamada/0fcdf483080eb098ff674a954fbd2603098c188a>{:target="_blank"})
-  - Should germline genome editing be allowed? The effect of treatment characteristics on public acceptability. (<https://www.semanticscholar.org/paper/Should-germline-genome-editing-be-allowed-The-of-on-Dijke-Wely/cbc7ebae1fb3e4e34a3ee8cad0aa77345c5149a8>{:target="_blank"})
-  - Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21>{:target="_blank"})
-  - Comparison of public discussions of gene editing on social media between the United States and China (<https://www.semanticscholar.org/paper/Comparison-of-public-discussions-of-gene-editing-on-Ji-Robbins/b51fde8e8a6ba2065b554a0db73ee7500241d314>{:target="_blank"})
-  - Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>{:target="_blank"})
-  - The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>{:target="_blank"})
-  - Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>{:target="_blank"})
-- U.S. attitudes on human genome editing (<https://www.semanticscholar.org/paper/U.S.-attitudes-on-human-genome-editing-Scheufele-Xenos/a995485317434f5a09542f3dd9c3731a624a2cac>{:target="_blank"})[repeat from "attitudes toward human gene-editing” (first 3 pages); included because there are novel results that come up when this is inputted into CrossRef]
-  - Survey on the perception of germline genome editing among the general public in Japan (<https://www.semanticscholar.org/paper/Survey-on-the-perception-of-germline-genome-editing-Uchiyama-Nagai/d7610f56bbab4fb04b08f3426fcca5feddcb8933>{:target="_blank"})
-  - Changes in opinions about human germline gene editing as a result of the Dutch DNA-dialogue project (<https://www.semanticscholar.org/paper/Changes-in-opinions-about-human-germline-gene-as-a-Houtman-Vijlbrief/ee1376ba853dd1b7f1e954e5b3d10c0761838ba8>{:target="_blank"})
-  - Social Agents of Technological Change: Dynamics and Divergence of Meanings, Expectations and Sentiments of Emerging Technologies : the case of Genome Editing (<https://www.semanticscholar.org/paper/Social-Agents-of-Technological-Change%3A-Dynamics-and-Nguyen/05d5f5b14b6d8ae3df21227f7b0f0e56998abb09>{:target="_blank"})
+  - (★★)-L,C Should germline genome editing be allowed? The effect of treatment characteristics on public acceptability. (<https://www.semanticscholar.org/paper/Should-germline-genome-editing-be-allowed-The-of-on-Dijke-Wely/cbc7ebae1fb3e4e34a3ee8cad0aa77345c5149a8>{:target="_blank"})
+  - (★★★) Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21>{:target="_blank"})
+  - (★★)-C Comparison of public discussions of gene editing on social media between the United States and China (<https://www.semanticscholar.org/paper/Comparison-of-public-discussions-of-gene-editing-on-Ji-Robbins/b51fde8e8a6ba2065b554a0db73ee7500241d314>{:target="_blank"})
+  - (★)-L Italian public’s views on sharing genetic information and medical information: findings from the ‘Your DNA, Your Say’ study (<https://www.semanticscholar.org/paper/Italian-public%E2%80%99s-views-on-sharing-genetic-and-from-Romano-Milne/7808724d21a5eea43deed2ef9dab8f959d1fb765>{:target="_blank"})
+  - (★★★) The Uproar Over Gene-Edited Babies: A Semantic Network Analysis of CRISPR on Twitter (<https://www.semanticscholar.org/paper/The-Uproar-Over-Gene-Edited-Babies%3A-A-Semantic-of-Calabrese-Ding/08522485298d7431f79ee2bcf122058f0a88f49a>{:target="_blank"})
+  - (★★★) Assessing Public Opinion on CRISPR-Cas9: Combining Crowdsourcing and Deep Learning (<https://www.semanticscholar.org/paper/Assessing-Public-Opinion-on-CRISPR-Cas9%3A-Combining-M%C3%BCller-Schneider/9c62906c8cdf33f25589f57acc6e8447a10eaa2d>{:target="_blank"})
+- (★)-C U.S. attitudes on human genome editing (<https://www.semanticscholar.org/paper/U.S.-attitudes-on-human-genome-editing-Scheufele-Xenos/a995485317434f5a09542f3dd9c3731a624a2cac>{:target="_blank"})[repeat from "attitudes toward human gene-editing” (first 3 pages); included because there are novel results that come up when this is inputted into CrossRef]
+  - (★★) Survey on the perception of germline genome editing among the general public in Japan (<https://www.semanticscholar.org/paper/Survey-on-the-perception-of-germline-genome-editing-Uchiyama-Nagai/d7610f56bbab4fb04b08f3426fcca5feddcb8933>{:target="_blank"})
+  - (★★) Changes in opinions about human germline gene editing as a result of the Dutch DNA-dialogue project (<https://www.semanticscholar.org/paper/Changes-in-opinions-about-human-germline-gene-as-a-Houtman-Vijlbrief/ee1376ba853dd1b7f1e954e5b3d10c0761838ba8>{:target="_blank"})
+  - (★★) Social Agents of Technological Change: Dynamics and Divergence of Meanings, Expectations and Sentiments of Emerging Technologies : the case of Genome Editing (<https://www.semanticscholar.org/paper/Social-Agents-of-Technological-Change%3A-Dynamics-and-Nguyen/05d5f5b14b6d8ae3df21227f7b0f0e56998abb09>{:target="_blank"})
 
   <!-- What's missing from this analyses? -->
 
@@ -1408,7 +1422,8 @@ __Other Considerations__
 - In what ways are gene-editing, genome editing, genetic engineering, gene therapy, and genetic modification different?
 - What databases are there for clinical trials involving human gene-editing? 
 - How important is the postnatal vs. prenatal distinction in human gene-editing relative to the treatment vs. enhancement and somatic vs. germline distinction? 
-- 
+
+
 ---
 
 ## [Further Reading](#further-reading)

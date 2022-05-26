@@ -40,13 +40,12 @@ __Disclaimer__: I want to improve the long-term future, and believe that these c
 
 This is an ongoing glossary of terms, theorems, and definitions.
 
+
+
 ---
 
-## [Beliefs and Questions Before Reading](#before-reading)
-_Questions to Expose my Naivity I come up with not having read much or that aren't grounded in a particular reading_
-
-
-__General__
+## [Questions I Have](#questions)
+_Questions that expose my naivity; these are added before, during, and after reading_
 
 - How should a contemporaneous human life be valued monetarily or morally?
 - How do things like age, sex, disability affect the value of a human life?
@@ -58,9 +57,10 @@ __General__
 - What major problems does humanity face?
 - What are the bottlenecks preventing humanity from solving these problems?
 
+---
 
-## [Beliefs and Questions After Reading](#after-reading)
-_An accumulation of the questions I've asked across the rest of this document_
+## [Answers to Questions](#answers-to-questions)
+_An accumulation of answers to questions, even to ones I didn't ask_
 
 __The Case for Longtermism__
 
@@ -72,7 +72,7 @@ __The Case for Longtermism__
 
 ### The Case for Longtermism
 
-- Author:
+- Author: 
 - Written:
 - Extent:
 - Durability:
@@ -85,7 +85,7 @@ ___Review___
 
 [unread]
 
-### On the Overwhelming Importance of Shaping the Far Future
+### On the Overwhelming Importance of Shaping the Far Future, Chapter 3 
 
 [unread]
 
