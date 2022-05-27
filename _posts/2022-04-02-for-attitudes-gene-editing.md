@@ -148,29 +148,85 @@ be a question or just an announcement? -->
 
 ## Overview and Shortcuts
 
-> _Homo sapiens_ is a relatively young species and has not had as much time to accumulate genetic variation as have the vast majority of species on earth, most of which predate humans by enormous expanses of time. Nonetheless, there is considerable genetic variation in our species. The human genome comprises about $3 \cdot 10^9$ base pairs of DNA, and the extent of human genetic variation is such that no two humans, save identical twins, ever have been or will be genetically identical. Between any two humans, the amount of genetic variation—biochemical individuality—is about .1 percent. This means that about one base pair out of every 1,000 will be different between any two individuals. Any two (diploid) people have about $6 \cdot 10^6$ base pairs that are different, an important reason for the development of automated procedures to analyze genetic variation [See <https://www.ncbi.nlm.nih.gov/books/NBK20363/>]
+<!-- > _Homo sapiens_ is a relatively young species and has not had as much time to accumulate genetic variation as have the vast majority of species on earth, most of which predate humans by enormous expanses of time. Nonetheless, there is considerable genetic variation in our species. The human genome comprises about $3 \cdot 10^9$ base pairs of DNA, and the extent of human genetic variation is such that no two humans, save identical twins, ever have been or will be genetically identical. Between any two humans, the amount of genetic variation—biochemical individuality—is about .1 percent. This means that about one base pair out of every 1,000 will be different between any two individuals. Any two (diploid) people have about $6 \cdot 10^6$ base pairs that are different, an important reason for the development of automated procedures to analyze genetic variation [See <https://www.ncbi.nlm.nih.gov/books/NBK20363/>] -->
 
-Humans generally desire to be content and feel well during their lifetimes, to live long and healthily, and to experience fulfillment. This requires many things, not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices.
+Humans generally desire to be content and feel well during their lifetimes, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. In particular, many factors that affect these requirements have genetic components. For example, people 
+
+<!-- Most people happy: https://ourworldindata.org/happiness-and-life-satisfaction
+
+Genetics_happiness
+https://greatergood.berkeley.edu/article/item/genetics_of_happiness
+https://journals.sagepub.com/doi/10.1111/j.1467-9280.1996.tb00355.x
+https://www.science.org/doi/10.1126/scitranslmed.aai8746 -->
 
 With respect to these aspirations and to human civilization and biology generally, gene and genome editing is a technology with transformative potential. How so?  
 
-There are over 4600 genes in humans with phenotype-causing mutations; these genes account for over 6000 single gene disorders and traits, around 700 instances of increased suseptibility to complex diseases or infections, and around 250 somatic cell genetic diseases[^OMIM]. 
+There are over 4600 genes in humans with phenotype-causing mutations; these genes account for over 6000 single gene disorders[^examples_single_cell] and traits, around 700 instances of increased suseptibility to complex diseases or infections, and around 250 somatic cell genetic diseases[^OMIM]. 
 
-Among these maladies are genetic disorders such as 
+Among these maladies are genetic disorders such as Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"[^cdc_sickle_cell]. Another genetic disorder is Phenylketonuria (PKU), which affects around 1/15,000 babies in the US. Children, and can lead to cognitive and behavioral problems and can stunt development, among other things, if left untreated.[^pku_additional] 
 
-[^OMIM]: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>
+<!-- FOOTNOTES============================ -->
+[^examples_single_cell]: For other examples of single gene disorders, see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/> and <https://www.ncbi.nlm.nih.gov/books/NBK132154/>. ex2_single_cell_disorders.html
 
-> A genetic disorder is a disease caused in whole or in part by a change in the DNA sequence away from the normal sequence. Genetic disorders can be caused by a mutation in one gene (monogenic disorder), by mutations in multiple genes (multifactorial inheritance disorder), by a combination of gene mutations and environmental factors, or by damage to chromosomes (changes in the number or structure of entire chromosomes, the structures that carry genes). [See <https://www.genome.gov/For-Patients-and-Families/Genetic-Disorders>][^NHGRI_GDisorder]
+[^cdc_sickle_cell]: See <https://www.cdc.gov/ncbddd/sicklecell/facts.html>: "_SCD is a group of inherited red blood cell disorders. Healthy red blood cells are round, and they move through small blood vessels to carry oxygen to all parts of the body. In someone who has SCD, the red blood cells become hard and sticky and look like a C-shaped farm tool called a “sickle”. The sickle cells die early, which causes a constant shortage of red blood cells. Also, when they travel through small blood vessels, they get stuck and clog the blood flow. This can cause pain and other serious problems such infection, acute chest syndrome and stroke._". Also, see cdc_sickle_cell_05272022.html. 
 
-[^NHGRI_GDisorder]: See <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/NHFRI_GDisorders_05272022.html> for page during access date: 05/27/2022. 
+[^pku_additional]: For more about PKU see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/>: "_Babies who have PKU are usually healthy at first, but symptoms appear within a few months. These may include slow growth, eczema (a skin rash), musty body odor (from too much Phe), small head size, and fair skin (because Phe is converted into skin pigment). Without treatment, children with PKU experience developmental delays, behavior problems, intellectual disability, and seizures._"
+<!-- =====================================-->
 
-In this essay, I examine one driver of application of gene-editing technology in humans - people's attitudes towards human gene-editing - by reviewing research papers that include surveys or sentiment analyses. After distilling the results from these papers, I consider why people's attitudes have changed in the way they have. Next, I generate 
+Gene and genome editing could one day enable people to be free from these and other genetic disorders and diseases by targeting and ameloriating[^how_gene_editing_work_broadly] the affected gene(s)[^examples_somatic_genome_fix]. A future devoid of the suffering induced from genetic disorders seems like a GOOD thing. 
+
+<!-- FOOTNOTES============================ -->
+[^how_gene_editing_work_broadly]: NEED
+
+[^examples_somatic_genome_fix]: For other examples of therapeutic applications of somatic cell genome editing, please refer to this table. 
+<!-- =====================================-->
+
+In addition, gene and genome editing, if further developed, could safely permit humans to enhance themselves[^more_on_enhancement] - robuster immune systems; reduced suspecibility to infections and disease; reduced aggression; greater physical attractiveness, endurance, strength, and dexerity; increased cognitive capabilities or creativity; or stronger ethical inclinations - among plausibly many other things[^general_search_for_enhancement]. 
+
+Given present uncertainties with the genetic nature of these traits, it's difficult to predict how well or much gene or genome editing will be able to alter them, technically speaking (without regard to goverance). 
+
+<!-- FOOTNOTES============================ -->
+[^more_on_enhancement]: NEED List all books on enhancement I can find. Reference the Wikipedia link.
+
+[^general_search_for_enhancement]: In finding resources and evidence for the genetic components and malleability of the following potential enhancements, I searched one or all of "heretibility of X", "genetics of X", "X genetics", "X enhancement", "enhancement of X", where X is one the traits that I listed. 
+
+[^immune_system_malleability]: 
+
+[^disease_suspectibility_malleability]: 
+
+[^aggression_malleability]: 
+
+[^physical_attractiveness_malleability]:
+
+[^endurance_malleability]:
+
+[^strength_malleability]: 
+
+[^dexerity_malleability]: 
+
+[^IQ_enhancement]: 
+
+[^creativity_malleability]: 
+
+
+
+<!-- =====================================-->
+
+
+
+<!-- single cell genetic disroders 
+results for gene-editing helping these people 
+results for genome eediting helpthing these people HGEBook  -->
+
+This essays examines one driver of the potential for gene-editing technology to be applied in humans - people's attitudes towards human gene-editing. 
+
+reviewing research papers that include surveys or sentiment analyses. After distilling the results from these papers, I consider why people's attitudes have changed in the way they have. Next, I generate 
 
 Genetic disorders are already being targeted using gene-therapy, and other approaches 
 
-In addition, gene and genome editing, if further developed, could safely permit humans to enhance themselves, robustening their immune systems, making themselves more physically attractive or capable, increasing their IQ or creativity, or making themselves more morally inclined, among plausibly many other things, given that these traits are genetic. 
 
-Wiki Pages
+
+<!-- Wiki Pages
 Human Genetics 
 Genome Editing https://en.wikipedia.org/wiki/Genome_editing#Gene_therapy
 Human Genome Editing 
@@ -188,10 +244,7 @@ Concerns
 
 He Jiankui 
 Pre-Scandal 
-Post-Scandal 
-
-Gene and Genome Editing Futures
-What 
+Post-Scandal  -->
 
 
 <!-- Major assumption: I am interpreting people's self-reported attitudes as their actual attitudes.  -->
@@ -434,7 +487,7 @@ PKU is just one of example of a genetic disorders that gene-editing can help; Wi
 
 [wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list"
 
-[^OMIM]: Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._
+[^OMIM]: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>. <br><br> Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._ <br><br> This paper <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986124/pdf/AJMG-187-48.pdf> also references OMIM (I believe this increases the credibility of OMIM; again, I am not an expert) - "_The etiologies for many rare diseases have been discovered. Online Inheritance in Man (OMIM) (https://omim.org/statistics/geneMap, October 31, 2020) lists 4,339 genes with phenotype-causing variants. Orphanet (http://www.orphadata.org/cgi-bin/index.php, 10/09/2020) includes more than 7,800 disease-gene relationships. Each year about 250 rare genetic disease discoveries are added to the lists. These discoveries include pathogenic variants in a gene that had not previously been associated with disease and pathogenic variants in a gene previ- ously associated with a different disease (Boycott et al., 2017)_"
 
 The [OMIM][OMIM][^OMIM] Gene Map Statistics verifies this:
 
@@ -1518,6 +1571,10 @@ ___PEW Research Center, 2015*
 ![](/assets/2022/for_attitudes_gene_editing/images/pew_research_2015/pew_research_2015_8.png)
 
 ### [Glossary and Visuals](#glossary)
+
+__Genetic Disorder__: "A genetic disorder is a disease caused in whole or in part by a change in the DNA sequence away from the normal sequence. Genetic disorders can be caused by a mutation in one gene (monogenic disorder), by mutations in multiple genes (multifactorial inheritance disorder), by a combination of gene mutations and environmental factors, or by damage to chromosomes (changes in the number or structure of entire chromosomes, the structures that carry genes). [See <https://www.genome.gov/For-Patients-and-Families/Genetic-Disorders>][^NHGRI_GDisorder]
+
+[^NHGRI_GDisorder]: See <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/NHFRI_GDisorders_05272022.html> for page during access date: 05/27/2022. 
 
 ### [Subjective Summary and Other Considerations](#summary-considerations)
 
