@@ -209,3 +209,27 @@ As a consumer, if gene-editing "works as intended" in humans, my partner and I w
 
 
 |Gene Editing for Improved Animal Welfare and Production Traits in Cattle: Will This Technology Be Embraced or Rejected by the Public? (2021)|Maria Cristina Yunes, Zimbábwe Osório-Santos, Marina A. G. von Keyserlingk, and Maria José Hötzel|[https://www.mdpi.com/2071-1050/13/9/4966][prod_traits_cattle_2021]{:target="_blank"} and [here][prod_traits_cattle_2021_DL]{:target="_blank"}|1/9|
+
+
+<!-- In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][rationality], and [Forecasting][metaculus] communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally am not involved enough to monitor news of progress in the field.
+
+[EA]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
+
+[rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
+
+There are extensive benefits for humanity that could come from altering human genomes, in terms of health and biological capability, but there are simultaneously many risks and deleterious outcomes that this technology could engender. As is the case with most emerging technologies, the possible future scenarios involving human genome editing are diverse in nature.
+
+From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
+
+While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and instead have opinions on their individual _notion_ of what human genome editing entails.
+
+That being said, this section tries to offer a fractional look at the questions:
+
+- What is gene-editing, broadly speaking?
+- What is the state of research on human gene-editing?
+- What benefits might human gene-editing offer to humanity?
+- What concerns for humanity are there with human gene-editing?
+
+That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth and scope, and the order in which I present things) would likely be very different if I had more experience in the field[^sense_of_the_field].
+
+The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing being performed on humans. -->

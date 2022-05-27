@@ -279,32 +279,16 @@ Post-Scandal  -->
 
 ## [Prospects and Perils](#prospects-perils-gene-editing)
 
-In my life, I discuss gene-editing with friends in the [EA][EA], [Rationality][rationality], and [Forecasting][metaculus] communities. Given my wide-ranging interests in various emerging biotechnologies, I often search for research on gene-editing, but generally am not involved enough to monitor news of progress in the field.
-
-[EA]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
-
-[rationality]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
-
-There are extensive benefits for humanity that could come from altering human genomes, in terms of health and biological capability, but there are simultaneously many risks and deleterious outcomes that this technology could engender. As is the case with most emerging technologies, the possible future scenarios involving human genome editing are diverse in nature.
-
-From my present viewpoint as someone who does not adequately understand the technical landscape of genetics research, the expected value of different plausible futures involving human gene-editing seem difficult to access, and there seems to be strong arguments for and against humanity employing gene-editing in humans.
-
-While this essay is not one that explains, in depth, human genome editing, this brief section on its prospects and perils is aimed at adequately priming you for a discussion on what people think about human it. Of course, most people, including myself, are unfamiliar with the full scope of gene-editing technology, and instead have opinions on their individual _notion_ of what human genome editing entails.
-
-That being said, this section tries to offer a fractional look at the questions:
+This section tries to offer a fractional look at the questions:
 
 - What is gene-editing, broadly speaking?
 - What is the state of research on human gene-editing?
 - What benefits might human gene-editing offer to humanity?
 - What concerns for humanity are there with human gene-editing?
 
-That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth and scope, and the order in which I present things) would likely be very different if I had more experience in the field[^sense_of_the_field].
-
-The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing being performed on humans.
-
 ### Gene-Editing, -Therapy, -Engineering, -Modification,...?
 
-I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. You can find these terms and related concepts in the Glossary of this essay.
+I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. 
 
 > __Gene__ [Def.[^HGE-Book]] — A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
 >
@@ -319,6 +303,8 @@ I expect that most people reading this recognize the following terms: genetic en
 > __Genetic Modification__ [Def.[^Bioethics-Dict]] — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features.
 
 > __Genetic Engineering__ [Def.[^DNA_book]] — Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material.
+
+<!-- You can find more these terms and related concepts in the Glossary of this essay. -->
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
 
