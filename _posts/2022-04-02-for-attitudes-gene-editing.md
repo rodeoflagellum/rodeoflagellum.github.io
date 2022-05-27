@@ -2,7 +2,7 @@
 layout: post
 title:  "Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
-modified: 2022-05-19 8:50:00 -0400
+modified: 2022-05-27 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change."
@@ -70,18 +70,29 @@ __Takeaways__:
   - Prenatal vs. Postnatal
 - People without training in genetics generally don't support research on human gene-editing
 - Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
- 
 
-__Overview__: This is essay was written primarily with the goal of determining what people think about human gene-editing. I also wanted to generate some forecasting questions on this topic. This essay reasonably accomplishes these goals. In writing this, I've also included a small section on gene-editing and have also included my thoughts on why people's attitudes towards human gene-editing affect the potential timelines and consequences of human gene-editing. The section on gene-editing is inadequate for understanding gene-editing. As such, I recommend treating it as a primer or as a fraction of "what's out there". My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as my claims in this regard are lacking in support. Finally, I pretty sure that if someone spent more time thinking about the ways people's attitudes towards human gene-editing guides the future they'd come up with much stronger and clearer reasons than I have. 
+__General Transparency__ (see footnotes): 
+  - _How much expertise do you have?_[^expertise]
+  - _What are my biases?_[^biases]
+  - _How have you atoned for these biases?_[^atonment]
+  - _Shortcuts?_[^shortcuts]
+  - _Epistemic confidence?_[^epistemic_confidence]
+  - _Type of support for my claims?_[^support]
+  - _Major Inadequacies?_[^inadeq]
 
-__Transparency__:
-  - _How much expertise do you have?_ - I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 61 on Metaculus, with an average Brier score of 0.061 (155 questions). My underconfidence is 26%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me can be found [here][about_me].
-  - _What are my biases?_ - I am a human - [cognitive biases][wiki_biases] apply accordingly; With regard to human gene-editing, my current belief is that it's expected value is positive, in the long-term. I am optimistic about the average future involving human gene-editing for both treatment and enhancement purposes. Here is an attempt at defining my priors[^priors] and at updating my beliefs[^updates].
-  - _How have you atoned for these biases?_ - In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
-  - _Shortcuts?_ - I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations.
-  - _Epistemic confidence?_ - I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%[^forecast]), both at the time of me submitting this and in the future.
-  - _Type of support for my claims?_ Most of the claims in my review are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating, such as when I am investigating causal drivers for some of the  research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently know how to use the tools to understand well.
-  - _Major Inadequacies?_ - I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose", "Could be", and "Stating the Obvious".
+[^expertise]: I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 61 on Metaculus, with an average Brier score of 0.061 (155 questions). My underconfidence is 26%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me can be found [here][about_me].
+
+[^biases]: I am a human - [cognitive biases][wiki_biases] apply accordingly; With regard to human gene-editing, my current belief is that it's expected value is positive, in the long-term. I am optimistic about the average future involving human gene-editing for both treatment and enhancement purposes. Here is an attempt at defining my priors[^priors] and at updating my beliefs[^updates].
+
+[^atonment]: In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
+
+[^shortcuts]: I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations. More on my shortcuts can be found in the overview.
+
+[^epistemic_confidence]: I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%[^forecast]), both at the time of me submitting this and in the future.
+
+[^support]: Most of the claims in my review are supported by findings in the research articles I surveyed, and for the claims that aren't directly supported, I try to make it clear whenever I am speculating, such as when I am investigating causal drivers for some of the  research findings. I believe that my forecasting claims have less support in the sense that they are speculation about human behavior, which I do not presently know how to use the tools to understand well.
+
+[^inadeq]: I would accuse my report of the following [inadequacies][gleech_metrics]: "Appalling prose", "Could be", and "Stating the Obvious".
 
 <!-- What types of claims do I have? How do I support these claims?; Write on the economics of gene-editing -->
 
@@ -135,12 +146,60 @@ be a question or just an announcement? -->
 
 ---
 
-## Overview 
+## Overview and Shortcuts
 
-Humans generally want to be content and well during their lifetimes, to live long, and to experience fulfillment. This requires many things, including freedom from physical and psychological afflictions, supportive environments, and healthy lifestyle practices. 
+> _Homo sapiens_ is a relatively young species and has not had as much time to accumulate genetic variation as have the vast majority of species on earth, most of which predate humans by enormous expanses of time. Nonetheless, there is considerable genetic variation in our species. The human genome comprises about $3 \cdot 10^9$ base pairs of DNA, and the extent of human genetic variation is such that no two humans, save identical twins, ever have been or will be genetically identical. Between any two humans, the amount of genetic variation—biochemical individuality—is about .1 percent. This means that about one base pair out of every 1,000 will be different between any two individuals. Any two (diploid) people have about $6 \cdot 10^6$ base pairs that are different, an important reason for the development of automated procedures to analyze genetic variation [See <https://www.ncbi.nlm.nih.gov/books/NBK20363/>]
+
+Humans generally desire to be content and feel well during their lifetimes, to live long and healthily, and to experience fulfillment. This requires many things, not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices.
+
+With respect to these aspirations and to human civilization and biology generally, gene and genome editing is a technology with transformative potential. How so?  
+
+There are over 4600 genes in humans with phenotype-causing mutations; these genes account for over 6000 single gene disorders and traits, around 700 instances of increased suseptibility to complex diseases or infections, and around 250 somatic cell genetic diseases[^OMIM]. 
+
+Among these maladies are genetic disorders such as 
+
+[^OMIM]: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>
+
+> A genetic disorder is a disease caused in whole or in part by a change in the DNA sequence away from the normal sequence. Genetic disorders can be caused by a mutation in one gene (monogenic disorder), by mutations in multiple genes (multifactorial inheritance disorder), by a combination of gene mutations and environmental factors, or by damage to chromosomes (changes in the number or structure of entire chromosomes, the structures that carry genes). [See <https://www.genome.gov/For-Patients-and-Families/Genetic-Disorders>][^NHGRI_GDisorder]
+
+[^NHGRI_GDisorder]: See <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/NHFRI_GDisorders_05272022.html> for page during access date: 05/27/2022. 
+
+In this essay, I examine one driver of application of gene-editing technology in humans - people's attitudes towards human gene-editing - by reviewing research papers that include surveys or sentiment analyses. After distilling the results from these papers, I consider why people's attitudes have changed in the way they have. Next, I generate 
+
+Genetic disorders are already being targeted using gene-therapy, and other approaches 
+
+In addition, gene and genome editing, if further developed, could safely permit humans to enhance themselves, robustening their immune systems, making themselves more physically attractive or capable, increasing their IQ or creativity, or making themselves more morally inclined, among plausibly many other things, given that these traits are genetic. 
+
+Wiki Pages
+Human Genetics 
+Genome Editing https://en.wikipedia.org/wiki/Genome_editing#Gene_therapy
+Human Genome Editing 
+Genetics https://en.wikipedia.org/wiki/Genetics
+Gene-Therapy
+
+Gene-Editing, Therapy, Engineering, Modification,...?
+Major Milestones 
+A Timeline
+Pace of Research 
+Clinical Trials 
+Somatic vs. Germline
+Treatment vs. Enhancement 
+Concerns  
+
+He Jiankui 
+Pre-Scandal 
+Post-Scandal 
+
+Gene and Genome Editing Futures
+What 
 
 
-In this essay, I examine one driver of application of gene-editing technology in humans - people's attitudes towards human gene-editing - by reviewing research papers that include surveys or sentiment analyses. After distilling the results from these papers, I speculate about the reasons guiding 
+<!-- Major assumption: I am interpreting people's self-reported attitudes as their actual attitudes.  -->
+
+This is essay was written primarily with the goal of determining what people think about human gene-editing. I also wanted to generate some forecasting questions on this topic. This essay reasonably accomplishes these goals.
+
+
+In writing this, I've also included a small section on gene-editing and have also included my thoughts on why people's attitudes towards human gene-editing affect the potential timelines and consequences of human gene-editing. The section on gene-editing is inadequate for understanding gene-editing. As such, I recommend treating it as a primer or as a fraction of "what's out there". My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as my claims in this regard are lacking in support. Finally, I pretty sure that if someone spent more time thinking about the ways people's attitudes towards human gene-editing guides the future they'd come up with much stronger and clearer reasons than I have. 
 
 
 
@@ -207,7 +266,7 @@ With regard to human genome editing, there are three primary distinctions, two o
 
 The historical distinctions are given in[^HGE-Book]:
 
->In the 1970s, certain central distinctions were drawn (Juengst, 1997; Walters and Palmer, 1997). First, the distinction between somatic and germline genome modifications was established: somatic enhancements affect only a single indi- vidual, but heritable enhancements can be passed down through the generations. Discussions of heritable enhancements included concerns about possible effects on the gene pool and fears of a return to some form of eugenics. Second, a distinction was drawn between treating or preventing disease (therapy) and enhancement. Discussions of enhancement focused on issues such as safety and (especially in competitive environments such as sports) unfair advantage, with the definition of “unfair” highly dependent on context.
+> In the 1970s, certain central distinctions were drawn (Juengst, 1997; Walters and Palmer, 1997). First, the distinction between somatic and germline genome modifications was established: somatic enhancements affect only a single indi- vidual, but heritable enhancements can be passed down through the generations. Discussions of heritable enhancements included concerns about possible effects on the gene pool and fears of a return to some form of eugenics. Second, a distinction was drawn between treating or preventing disease (therapy) and enhancement. Discussions of enhancement focused on issues such as safety and (especially in competitive environments such as sports) unfair advantage, with the definition of “unfair” highly dependent on context.
 
 ### [State of Gene-Editing Research](#state-of-gene-editing-research)
 
