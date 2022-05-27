@@ -286,9 +286,44 @@ This section tries to offer a fractional look at the questions:
 - What benefits might human gene-editing offer to humanity?
 - What concerns for humanity are there with human gene-editing?
 
+Expect most of the 
+
 ### Gene-Editing, -Therapy, -Engineering, -Modification,...?
 
-I expect that most people reading this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. 
+> [Genome editing][wiki_genome_editing] is a powerful new tool for making precise additions, deletions, and alterations to the genome an organism’s complete set of genetic material. The development of new approaches—involving the use of [meganucleases][wiki_meganuclease]; [zinc finger nucleases][wiki_zinc_fingers] (ZFNs); [transcription activator-like effector nucleases][wiki_TALENS] (TALENs); and, most recently, the [CRISPR][wiki_CRISPR]/[Cas9][wiki_cas9] system—has made editing of the genome much more precise, efficient, flexible, and less expensive relative to previous strategies. With these advances has come an explosion of interest in the possible applications of genome editing, both in conducting fundamental research and potentially in promoting human health through the treatment or prevention of disease and disability. The latter possibilities range from restoring normal function in diseased organs by editing [somatic cells][wiki_somatic_cell] to preventing genetic diseases in future children and their descendants by [editing the human germline][wiki_germ_edit]. [Ref.[^HGE-Book]]
+
+[wiki_genome_editing]: https://en.wikipedia.org/wiki/Genome_editing "https://en.wikipedia.org/wiki/Genome_editing"
+
+[wiki_meganuclease]: https://en.wikipedia.org/wiki/Meganuclease "https://en.wikipedia.org/wiki/Meganuclease"
+
+[wiki_zinc_fingers]: https://en.wikipedia.org/wiki/Zinc_finger_nuclease "https://en.wikipedia.org/wiki/Zinc_finger_nuclease"
+
+[wiki_TALENS]: https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease "https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease"
+
+[wiki_CRISPR]: https://en.wikipedia.org/wiki/CRISPR "https://en.wikipedia.org/wiki/CRISPR"
+
+[wiki_cas9]: https://en.wikipedia.org/wiki/Cas9 "https://en.wikipedia.org/wiki/Cas9"
+
+[wiki_germ_edit]: https://en.wikipedia.org/wiki/Human_germline_engineering "https://en.wikipedia.org/wiki/Human_germline_engineering"
+
+[wiki_somatic_cell]: https://en.wikipedia.org/wiki/Somatic_cell "https://en.wikipedia.org/wiki/Somatic_cell"
+
+[wiki_enhancement]: https://en.wikipedia.org/wiki/Human_enhancement "https://en.wikipedia.org/wiki/Human_enhancement"
+
+[wiki_cas12]: https://en.wikipedia.org/wiki/Cas12a "https://en.wikipedia.org/wiki/Cas12a"
+
+[wiki_assisted_reproductive_technology]: https://en.wikipedia.org/wiki/Assisted_reproductive_technology "https://en.wikipedia.org/wiki/Assisted_reproductive_technology"
+
+[genome_project_complete]: https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete "https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete"
+
+> Human genome editing has great potential to improve human health and medicine. Human genome editing technologies can be used on somatic cells (non-heritable); germline cells (not for reproduction) and germline cells (for reproduction). Potential benefits of human genome editing include new strategies for diagnosis, treatment and prevention of genetic disorders; new avenues to treat infertility; new ways to promote disease resistance; contribution to vaccine development and enhanced knowledge of human biology. For example, application of somatic human genome editing has already been undertaken, including in vivo editing, to address HIV, sickle-cell disease and transthyretin amyloidosis1. Germline human genome editing contributes to deepen our understanding of the role of specific genes and processes in early human development, physiology and diseases. However, there are important areas of ongoing uncertainty as to potential benefits and risks, and gaps in scientific understanding in such key domains as off target effects and long-term risks.
+> 
+> At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing. [See [https://www.who.int/publications/i/item/9789240030381][who_recommendations]]
+
+[who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
+
+
+I expect that most people reading (LW, EAF, Metaculus users) this recognize the following terms: genetic engineering, gene-editing, genetically modified organisms, gene therapy, or genome editing. In many instances, these terms are defined similarly, despite the 
 
 > __Gene__ [Def.[^HGE-Book]] — A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
 >
@@ -322,9 +357,9 @@ The historical distinctions are given in[^HGE-Book]:
 
 > In the 1970s, certain central distinctions were drawn (Juengst, 1997; Walters and Palmer, 1997). First, the distinction between somatic and germline genome modifications was established: somatic enhancements affect only a single indi- vidual, but heritable enhancements can be passed down through the generations. Discussions of heritable enhancements included concerns about possible effects on the gene pool and fears of a return to some form of eugenics. Second, a distinction was drawn between treating or preventing disease (therapy) and enhancement. Discussions of enhancement focused on issues such as safety and (especially in competitive environments such as sports) unfair advantage, with the definition of “unfair” highly dependent on context.
 
-#### Major Milestones 
+### Major Milestones 
 
-### [State of Gene-Editing Research](#state-of-gene-editing-research)
+### [State of Research and Clinical Trials](#state-of-gene-editing-research)
 
 Major events 
 
@@ -424,35 +459,7 @@ Given we've now looked at what gene-editing entails, and where the state of rese
 
 One can easily imagine the prospects of altering a human's genes; the following quotes illustrate this to some degree.
 
-> [Genome editing][wiki_genome_editing] is a powerful new tool for making precise additions, deletions, and alterations to the genome an organism’s complete set of genetic material. The development of new approaches—involving the use of [meganucleases][wiki_meganuclease]; [zinc finger nucleases][wiki_zinc_fingers] (ZFNs); [transcription activator-like effector nucleases][wiki_TALENS] (TALENs); and, most recently, the [CRISPR][wiki_CRISPR]/[Cas9][wiki_cas9] system—has made editing of the genome much more precise, efficient, flexible, and less expensive relative to previous strategies. With these advances has come an explosion of interest in the possible applications of genome editing, both in conducting fundamental research and potentially in promoting human health through the treatment or prevention of disease and disability. The latter possibilities range from restoring normal function in diseased organs by editing [somatic cells][wiki_somatic_cell] to preventing genetic diseases in future children and their descendants by [editing the human germline][wiki_germ_edit]. [Ref.[^HGE-Book]]
 
-[wiki_genome_editing]: https://en.wikipedia.org/wiki/Genome_editing "https://en.wikipedia.org/wiki/Genome_editing"
-
-[wiki_meganuclease]: https://en.wikipedia.org/wiki/Meganuclease "https://en.wikipedia.org/wiki/Meganuclease"
-
-[wiki_zinc_fingers]: https://en.wikipedia.org/wiki/Zinc_finger_nuclease "https://en.wikipedia.org/wiki/Zinc_finger_nuclease"
-
-[wiki_TALENS]: https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease "https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease"
-
-[wiki_CRISPR]: https://en.wikipedia.org/wiki/CRISPR "https://en.wikipedia.org/wiki/CRISPR"
-
-[wiki_cas9]: https://en.wikipedia.org/wiki/Cas9 "https://en.wikipedia.org/wiki/Cas9"
-
-[wiki_germ_edit]: https://en.wikipedia.org/wiki/Human_germline_engineering "https://en.wikipedia.org/wiki/Human_germline_engineering"
-
-[wiki_somatic_cell]: https://en.wikipedia.org/wiki/Somatic_cell "https://en.wikipedia.org/wiki/Somatic_cell"
-
-[wiki_enhancement]: https://en.wikipedia.org/wiki/Human_enhancement "https://en.wikipedia.org/wiki/Human_enhancement"
-
-[wiki_cas12]: https://en.wikipedia.org/wiki/Cas12a "https://en.wikipedia.org/wiki/Cas12a"
-
-[wiki_assisted_reproductive_technology]: https://en.wikipedia.org/wiki/Assisted_reproductive_technology "https://en.wikipedia.org/wiki/Assisted_reproductive_technology"
-
-[genome_project_complete]: https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete "https://www.genome.gov/about-nhgri/Director/genomics-landscape/april-7-2022-the-human-genome-sequence-is-now-complete"
-
-> Human genome editing has great potential to improve human health and medicine. Human genome editing technologies can be used on somatic cells (non-heritable); germline cells (not for reproduction) and germline cells (for reproduction). Potential benefits of human genome editing include new strategies for diagnosis, treatment and prevention of genetic disorders; new avenues to treat infertility; new ways to promote disease resistance; contribution to vaccine development and enhanced knowledge of human biology. For example, application of somatic human genome editing has already been undertaken, including in vivo editing, to address HIV, sickle-cell disease and transthyretin amyloidosis1. Germline human genome editing contributes to deepen our understanding of the role of specific genes and processes in early human development, physiology and diseases. However, there are important areas of ongoing uncertainty as to potential benefits and risks, and gaps in scientific understanding in such key domains as off target effects and long-term risks [See [https://www.who.int/publications/i/item/9789240030381][who_recommendations]].
-
-[who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
 
 Current clinical trials involving human genome editing consist of postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
 
@@ -522,10 +529,6 @@ Erik Hoel's _Nietzschean future_[^hoel-contention] in his post _[How to prevent 
 > For imagine being told you’ve been chosen, forged to be objectively better than other people. In the tiniest mechanisms of your cells. Now, look out at the world of normies. What is your level of respect for them? And if your answer isn’t a sneer, that you’re looking at a bunch of Neanderthals who should be replaced, that they are pitiable at best, you don’t understand the darker aspects of psychology. Shakespeare? Why should they care what he wrote? He’s just another Neanderthal.
 
 I imagine that most people, even without having thought extensively about the social and economic forces guiding humanity's reactions to human gene-editing or about the different ways in which gene-editing can be used on humans, would agree that the future in Hoel's vignette is undesirable.
-
-From a more general lens: 
-
-> At the same time, however, somatic, germline and heritable human genome editing raise important and outstanding ethical and social issues. Challenges associated with somatic human genome editing include, for example, rogue clinics, medical travel, as well as the reporting of illegal, unregistered, unethical or unsafe research and other activities including the offer of unproven so-called therapeutic interventions. Heritable human genome editing also gives rise to great concerns as the edit might be passed to subsequent generations. Additional issues include enhancement to improve certain traits, the lack of diversity in collections of human samples and associated data, the need for equity of access to and benefit from human genome editing. There are important differences in the scale of the current challenges posed by somatic, germline and heritable human genome editing [See [https://www.who.int/publications/i/item/9789240030381][who_recommendations]].
 
 [Vera Lucia Raposo][vera]{:target="_blank"}[^vera-point], in her paper 2019 paper _[The First Chinese Edited Babies: A Leap of Faith in Science][fir_gen]{:target="_blank"}_, provides a nice section on these potential issues with human gene-editing and her contentions with them. 
 
