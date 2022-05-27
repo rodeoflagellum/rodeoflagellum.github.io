@@ -18,7 +18,7 @@ Thank you for writing this. Here are some notes / ideas I took while reading.
 
 Something I remembered when reading this was the idea, which most people here might have been exposed to at one point of another but might have forgotten, that "Adding is favoured over subtracting in problem solving" (https://www.nature.com/articles/d41586-021-00592-0). 
 
-I believe that making it easy for people, organizations, etc... to remember that subtractive solutions exist or to implement them would probably be a GOOD thing in EA. I think collectively reinterpreting failures, in some instances, as a subtractive solutions could further this. 
+I believe making it easy for people, organizations, etc... to remember subtractive solutions exist or to implement them would probably be a GOOD thing in EA. I think collectively reinterpreting failures, in some instances, as a subtractive solutions could further this. 
 
 > However, I fear that without taking meaningful steps towards it we'll fall far short of this ideal, resulting in people burning out, increased reputational risks for the community, and ultimately, significantly reduced impact. 
 > 
@@ -26,7 +26,7 @@ I believe that making it easy for people, organizations, etc... to remember that
 > 
 > For one thing, private sector entrepreneurship can be a very toxic environment (which is partly why I left).  
 
-I am not at all familiar with private sector entrepreneurship, but can say that I am grateful for the occassional (availability heuristic working here, I am only recollecting the past year or so of posts) mental-health post on EAF. These posts upweight the importance of taking breaks and doing other, less taxing activities in fighting the urge to ruthlessly optimize my behavior and get many things done and in avoiding burnout.
+I am not familiar with private sector entrepreneurship the types of burnout it engenders in people, but can say that I am grateful for the occassional (availability heuristic working here, I am only recollecting the past year or so of posts) mental-health post on EAF. These posts upweight the importance of taking breaks and doing other, less taxing activities in fighting the urge to ruthlessly optimize your behavior to get as many things done as possible. 
 
 I also find that after a break or walk I have an easier time with the work I was doing. For me, and probably for many others, long-term effectiveness at thought-work requires some periods of low-intensity activity. 
 
@@ -48,25 +48,28 @@ To be more clear, are the pitfalls in "high-risk, high-reward approach[es] to ac
 
 Here are two additional points that might be helpful in avoiding these pitfalls and that might also be instrumental towards "help[ing] us fail more gracefully, fail less grotesquely... or even better, fail less (while still achieving more)."
 
-- We shouldn't expect non-entrepreneurs to maintain entrepreneurial positions or tasks for too long
+- We shouldn't expect non-entrepreneurs to maintain stellar performance in entrepreneurial positions or tasks for too long
 - We should track failures and other inadequacices, rather than shying away from them, so that they can be routinely prevented 
 
 > In my experience, one of the most valuable things from pitches and meetings with investors is that even if they don’t fund you, they often give constructive feedback — you'll know why they didn’t.
 
-I've been coming across the idea of "garnering more feedback" within the EAF community somewhat lately
+I've been coming across the idea of "garnering more feedback" recently within the EAF community:
  - https://forum.effectivealtruism.org/posts/GskGj9wCzLdP8WgmT/an-easy-win-for-hard-decisions
  -  https://forum.effectivealtruism.org/posts/iPqHdRYGCNj5bTn52/help-with-the-forum-wiki-editing-giving-feedback-moderation
  - https://forum.effectivealtruism.org/posts/Khon9Bhmad7v4dNKe/the-cost-of-rejection
 
-Overall, I think increasing the amount and quality of feedback on posts, job rejections, grant applications, etc... is a great push. 
+Overall, I think increasng the amount and quality of feedback on posts, job rejections, grant applications, etc... is something very much worth moving towards. 
 
-I agree that it's probably the case that there are not enough "Appropriate systems to match people up with the right support and advice.", but I also believe that there are outlets that do exist but which might not be very visible or easily findable (perhaps 80000 Hours 1 on 1 advice calls could fall into this category). 
+I agree there are not enough "Appropriate systems to match people up with the right support and advice.", but I also believe that there are outlets that do exist but which might not be very visible or easily findable (perhaps 80000 Hours 1 on 1 advice calls could fall into this category). 
 
-Quotas and "explicitly funding such public goods" sound like decent solutions, especially if they're combined. How many EA staff would have to offer 10-20% of their time to make a real difference in the current paucity of feedback?
+Quotas and "explicitly funding such public goods" sound like decent solutions, especially if they're combined (a quota would limit your 10-20% community-feedback public-good funded time, ensuring it doesn't turn into more than you can handle). I wonder how many EA staff would have to offer 10-20% of their time to make a real difference in the current paucity of feedback. 
 
-Another solution might be to have more collaborations between organizations. I often find that when I co-author something or work with another person on a project I'm typically exposed to new resources and sometimes refine my skills in ways I hadn't considered prior. 
+Another solution might be to have more collaborations between organizations or individuals. I often find that when I co-author or work with another person on a project, I'm typically exposed to new and useful resources and sometimes refine my skills in ways I hadn't considered prior. 
 
+Subjectively evaluating two enterprises in terms of their "funded to the tune of $X" measure seems like a good example of Goodhart's law creeping in. I think more detailed and extensive transparency between funders and fundees would control overselling, but this is more easier stated than implemented. 
 
+Wrt to "Some examples I've encountered of pretty understandable risk avoidance:", I think accumulating the outcomes (again, including the failed ones) of risky scenarios that people have faced in the EA community might enable others to make better decisions. For example people's stories of a career change or transition into EA (a lot of the AMA career posts on EAF fulfill this purpose) more visible and then accumulating these stories in a "collection of risky decisions for EAs" page might do well in this regard.
 
+Paid training strikes me as something that is neglected and, if scaled, might really help with the earlier point "We need to be careful that we don't put people in situations where they're set up to fail unnecessarily.".
 
-
+I would be happy to see the "Making enemies instead of friends" made into its own post. 
