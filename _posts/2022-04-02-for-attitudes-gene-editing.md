@@ -70,8 +70,9 @@ __Takeaways__:
   - Prenatal vs. Postnatal
 - People without training in genetics generally don't support research on human gene-editing
 - Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
+ 
 
-__Overview__: This is essay was written primarily with the goal of determining what people think about human gene-editing. I also wanted to generate some forecasting questions on this topic. This essay accomplishes these goals. In writing this, I've also included a small section on gene-editing and have also included my thoughts on why people's attitudes towards human gene-editing affect the potential timelines and consequences of human gene-editing. The section on gene-editing is inadequate for understanding gene-editing. As such, I recommend treating it as a primer or as a fraction of "what's out there". My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as my claims in this regard are lacking in support. Finally, I pretty sure that if someone spent more time thinking about the ways people's attitudes towards human gene-editing guides the future they'd come up with much stronger and clearer reasons than I have.  
+__Overview__: This is essay was written primarily with the goal of determining what people think about human gene-editing. I also wanted to generate some forecasting questions on this topic. This essay reasonably accomplishes these goals. In writing this, I've also included a small section on gene-editing and have also included my thoughts on why people's attitudes towards human gene-editing affect the potential timelines and consequences of human gene-editing. The section on gene-editing is inadequate for understanding gene-editing. As such, I recommend treating it as a primer or as a fraction of "what's out there". My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as my claims in this regard are lacking in support. Finally, I pretty sure that if someone spent more time thinking about the ways people's attitudes towards human gene-editing guides the future they'd come up with much stronger and clearer reasons than I have. 
 
 __Transparency__:
   - _How much expertise do you have?_ - I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 61 on Metaculus, with an average Brier score of 0.061 (155 questions). My underconfidence is 26%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me can be found [here][about_me].
@@ -131,6 +132,21 @@ be a question or just an announcement? -->
 {:.no_toc}
 * TOC
 {:toc}
+
+---
+
+## Overview 
+
+Humans generally want to be content and well during their lifetimes, to live long, and to experience fulfillment. This requires many things, including freedom from physical and psychological afflictions, supportive environments, and healthy lifestyle practices. 
+
+
+In this essay, I examine one driver of application of gene-editing technology in humans - people's attitudes towards human gene-editing - by reviewing research papers that include surveys or sentiment analyses. After distilling the results from these papers, I speculate about the reasons guiding 
+
+
+
+It's relatively easy to notice inadequacies, be them civilizational or in one's personal life. The gap between ability, afflictions, 
+
+A genetic disorder is a disease caused in whole or in part by a change in the DNA sequence away from the normal sequence. Genetic disorders can be caused by a mutation in one gene (monogenic disorder), by mutations in multiple genes (multifactorial inheritance disorder), by a combination of gene mutations and environmental factors, or by damage to chromosomes (changes in the number or structure of entire chromosomes, the structures that carry genes).
 
 ---
 
@@ -214,7 +230,7 @@ Scientists and all of us should carefully consider the many ethical concerns tha
 
 Let's take a step back and look at the history of gene-editing[^timeline].
 
-- 1953: Discovery of the Double Helix
+> - 1953: Discovery of the Double Helix
 - 1958: DNA is Made in a Test Tube for the First Time
 - 1962: Jellyfish Protein Turns Into a Tool to Observe Invisible Cellular Processes
 - 1967: DNA Ligation Links DNA Fragments Together
@@ -1458,6 +1474,10 @@ Here is a breakdown of what I feel this essay is:
 - What I did 
 - Some prior beliefs, not refined
 - Acknowledgements 
+- Motivation 
+  - Humans want to be happy and fulfilled 
+  - 
+  - Genetic disorders 
 - Prospects and Perils
   - I am interested in biotech. but not obsessed 
   - Gene-editing might be good; society is complex
