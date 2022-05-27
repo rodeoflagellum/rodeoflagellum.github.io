@@ -46,10 +46,25 @@ To be more clear, are the pitfalls in "high-risk, high-reward approach[es] to ac
 
 <!-- [i.e., we can't expect most people to be able to pursue "high-risk, high-reward" strategies for achievement in EA, given the associated pitfalls] -->
 
-I've thought of two additional points that might help avoid these pitfalls and that might also be instrumental towards "help[ing] us fail more gracefully, fail less grotesquely... or even better, fail less (while still achieving more)."
+Here are two additional points that might be helpful in avoiding these pitfalls and that might also be instrumental towards "help[ing] us fail more gracefully, fail less grotesquely... or even better, fail less (while still achieving more)."
 
-- We shouldn't expect people to handle being entrepreneurs for too long
-- We should track failures and other inadequacices, rather than shying away from them, so that they can be prevented routinely
+- We shouldn't expect non-entrepreneurs to maintain entrepreneurial positions or tasks for too long
+- We should track failures and other inadequacices, rather than shying away from them, so that they can be routinely prevented 
+
+> In my experience, one of the most valuable things from pitches and meetings with investors is that even if they don’t fund you, they often give constructive feedback — you'll know why they didn’t.
+
+I've been coming across the idea of "garnering more feedback" within the EAF community somewhat lately
+ - https://forum.effectivealtruism.org/posts/GskGj9wCzLdP8WgmT/an-easy-win-for-hard-decisions
+ -  https://forum.effectivealtruism.org/posts/iPqHdRYGCNj5bTn52/help-with-the-forum-wiki-editing-giving-feedback-moderation
+ - https://forum.effectivealtruism.org/posts/Khon9Bhmad7v4dNKe/the-cost-of-rejection
+
+Overall, I think increasing the amount and quality of feedback on posts, job rejections, grant applications, etc... is a great push. 
+
+I agree that it's probably the case that there are not enough "Appropriate systems to match people up with the right support and advice.", but I also believe that there are outlets that do exist but which might not be very visible or easily findable (perhaps 80000 Hours 1 on 1 advice calls could fall into this category). 
+
+Quotas and "explicitly funding such public goods" sound like decent solutions, especially if they're combined. How many EA staff would have to offer 10-20% of their time to make a real difference in the current paucity of feedback?
+
+Another solution might be to have more collaborations between organizations. I often find that when I co-author something or work with another person on a project I'm typically exposed to new resources and sometimes refine my skills in ways I hadn't considered prior. 
 
 
 
