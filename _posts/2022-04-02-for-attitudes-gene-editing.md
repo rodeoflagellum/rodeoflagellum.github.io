@@ -354,7 +354,6 @@ These terms all are closely related and sometimes used interchangeably (e.g., ge
 [who_recommendations]: https://www.who.int/publications/i/item/9789240030381 "https://www.who.int/publications/i/item/9789240030381"
 
 
-
 With regard to human genome editing, there are three primary distinctions, two of which are historical in nature; the last is one that I believe is neglected — in my experience, many people primarily associate "designer babies" (prenatal editing) with human genome editing, but there are in fact many postnatal applications of genome editing.
 
 - (Treatment vs. Enhancement) Interventions
@@ -368,6 +367,13 @@ The historical distinctions are given in[^HGE-Book]:
 ### Major Milestones 
 
 ### [State of Research and Clinical Trials](#state-of-gene-editing-research)
+
+
+An example of gene-editing technologies from [^gene_edit_biomedicine]: 
+
+![](/assets/2022/for_attitudes_gene_editing/images/gene_edit_tech_ex1.png)
+
+[^gene_edit_biomedicine]: Li, Guanglei, Xiangyang Li, Songkuan Zhuang, Liren Wang, Yifan Zhu, Yangcan Chen, Wen Sun et al. "Gene editing and its applications in biomedicine." Science China Life Sciences (2022): 1-41.
 
 Major events 
 
