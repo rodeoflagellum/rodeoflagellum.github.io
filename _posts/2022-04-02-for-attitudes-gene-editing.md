@@ -137,9 +137,6 @@ __Acknowledgements__: Thank you Nuño Sempere, Misha Yagudin, and the Long Term 
 
 _Also Posted Here_: Metaculus, LW, EAF
 
-<!-- For the summary sentence under each section, should it
-be a question or just an announcement? -->
-
 ---
 
 ## [Table of Contents](#top)
@@ -153,9 +150,13 @@ be a question or just an announcement? -->
 
 <!-- > _Homo sapiens_ is a relatively young species and has not had as much time to accumulate genetic variation as have the vast majority of species on earth, most of which predate humans by enormous expanses of time. Nonetheless, there is considerable genetic variation in our species. The human genome comprises about $3 \cdot 10^9$ base pairs of DNA, and the extent of human genetic variation is such that no two humans, save identical twins, ever have been or will be genetically identical. Between any two humans, the amount of genetic variation—biochemical individuality—is about .1 percent. This means that about one base pair out of every 1,000 will be different between any two individuals. Any two (diploid) people have about $6 \cdot 10^6$ base pairs that are different, an important reason for the development of automated procedures to analyze genetic variation [See <https://www.ncbi.nlm.nih.gov/books/NBK20363/>] -->
 
-Humans generally desire to be content and feel well during their lifetimes, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. In particular, many factors that affect these requirements have genetic components. For example, people 
+Humans generally desire to be content and feel well, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, including but not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
 
-<!-- Most people happy: https://ourworldindata.org/happiness-and-life-satisfaction
+<!-- EDIT:
+In particular, many factors that affect these requirements have genetic components. For example, people with this gene report higher life satisfaction. 
+However, one relatively static factor that partially determines the quality of life are  -->
+
+<!-- For example, Most people happy: https://ourworldindata.org/happiness-and-life-satisfaction
 
 Genetics_happiness
 https://greatergood.berkeley.edu/article/item/genetics_of_happiness
@@ -163,11 +164,11 @@ https://journals.sagepub.com/doi/10.1111/j.1467-9280.1996.tb00355.x
 https://www.science.org/doi/10.1126/scitranslmed.aai8746 
 https://link.springer.com/content/pdf/10.1007/s10519-015-9713-y.pdf-->
 
-With respect to these aspirations and to human civilization and biology generally, gene and genome editing is a technology with transformative potential. How so?  
+With respect to these aspirations, and to human civilization and biology generally, gene and genome editing is a technology with transformative potential. 
 
 There are over 4600 genes in humans with phenotype-causing mutations; these genes account for over 6000 single gene disorders[^examples_single_cell] and traits, around 700 instances of increased suseptibility to complex diseases or infections, and around 250 somatic cell genetic diseases[^OMIM]. 
 
-Among these maladies are genetic disorders such as Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"[^cdc_sickle_cell]. Another genetic disorder is Phenylketonuria (PKU), which affects around 1/15,000 babies in the US. Children, and can lead to cognitive and behavioral problems and can stunt development, among other things, if left untreated.[^pku_additional] 
+Among these maladies are genetic disorders such as Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"[^cdc_sickle_cell]. Another genetic disorder is Phenylketonuria (PKU), which affects around 1/15,000 US children, and can lead to cognitive and behavioral problems and can stunt development, among other things, if left untreated.[^pku_additional] 
 
 <!-- FOOTNOTES============================ -->
 [^examples_single_cell]: For other examples of single gene disorders, see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/> and <https://www.ncbi.nlm.nih.gov/books/NBK132154/>. ex2_single_cell_disorders.html
@@ -177,7 +178,7 @@ Among these maladies are genetic disorders such as Sickle Cell Disease, which re
 [^pku_additional]: For more about PKU see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/>: "_Babies who have PKU are usually healthy at first, but symptoms appear within a few months. These may include slow growth, eczema (a skin rash), musty body odor (from too much Phe), small head size, and fair skin (because Phe is converted into skin pigment). Without treatment, children with PKU experience developmental delays, behavior problems, intellectual disability, and seizures._"
 <!-- =====================================-->
 
-Gene and genome editing could one day enable people to be free from these and other genetic disorders and diseases by targeting and ameloriating[^how_gene_editing_work_broadly] the affected gene(s)[^examples_somatic_genome_fix]. To me and, as we will see, a fair number of other people, a future devoid of the suffering induced from genetic disorders seems like a GOOD thing. 
+Gene and genome editing could one day enable people to be free from these and other disorders and diseases by targeting and ameloriating[^how_gene_editing_work_broadly] the affected gene(s)[^examples_somatic_genome_fix]. To me and, as we will see, a fair number of other people, a future devoid of the suffering induced from genetic disorders seems like a GOOD thing. 
 
 <!-- FOOTNOTES============================ -->
 [^how_gene_editing_work_broadly]: NEED
@@ -187,7 +188,7 @@ Gene and genome editing could one day enable people to be free from these and ot
 
 In addition, gene and genome editing, if further developed, could safely permit humans to enhance themselves[^more_on_enhancement] - robuster immune systems[^immune_system_malleability]; reduced suspecibility to infections and disease[^disease_suspectibility_malleability]; reduced aggression[^aggression_malleability]; reduced risk of addiction[^reduced_addiction_risk]; reduced depression[^depression_malleability] or anxiety[^anxiety_malleability]; higher life satisfaction[^life_satisfaction_malleability]; longer lifespans[^lifespan_malleability]; greater physical attractiveness[^physical_attractiveness_malleability], endurance[^endurance_malleability], strength[^strength_malleability], and dexerity[^dexerity_malleability]; increased cognitive capabilities[^IQ_enhancement] or creativity[^creativity_malleability]; or stronger ethical inclinations[^morality_malleability] - among plausibly many other things[^general_search_for_enhancement]. 
 
-Given present uncertainties[^problem_with_twin_studies] with the genetic nature of these traits, it's difficult to predict how well or much gene or genome editing will be able to enhance them, technically speaking (without regard to goverance). 
+Given present uncertainties[^problem_with_twin_studies] with the genetic nature of these traits, it's difficult to predict how well or much gene or genome editing technology will be able to enhance them. There are also many ethical considerations that need to be taken in account[^ethical_considerations]. 
 
 <!-- FOOTNOTES============================ -->
 [^more_on_enhancement]: NEED List all books on enhancement I can find. Reference the Wikipedia link.
@@ -225,15 +226,17 @@ Given present uncertainties[^problem_with_twin_studies] with the genetic nature 
 [^morality_malleability]: NEED
 
 [^problem_with_twin_studies]: NEED; https://www.geneticsandsociety.org/biopolitical-times/problem-twin-studies; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919929/; https://waxempirical.wordpress.com/2012/02/09/potential-limitations-problems-with-adoption-twin-studies/; https://www.researchgate.net/profile/Baptiste-Barbot/publication/261362797_The_Genetics_of_Creativity_The_Generative_and_Receptive_Sides_of_the_Creativity_Equation/links/0a85e53405186e65fe000000/The-Genetics-of-Creativity-The-Generative-and-Receptive-Sides-of-the-Creativity-Equation.pdf; https://books.google.com/books?hl=en&lr=&id=d1KTEQpQ6vsC&oi=fnd&pg=PA137&dq=heritability+of+creativity&ots=Fu0_2jvhx-&sig=Hw1Q9jlYD7IS3175x8LzRjO0JM8#v=onepage&q=heritability%20of%20creativity&f=false; 
+
+[^ethical_considerations]: NEED 
 <!-- =====================================-->
 
-This essays examines one factor that guides whether or how gene-editing technology is applied in humans - people's attitudes towards human gene-editing. I investigate people's attitudes towards human gene-editing by reviewing research papers that include surveys or sentiment analyses on the topic. 
+This essay examines one factor - people's attitudes towards human gene-editing - that guides whether or how gene or genome editing technology is applied in humans. I investigate people's attitudes towards human gene-editing by reviewing research which includes surveys or sentiment analyses on this topic. 
 
-Before discussing my findings on people's attitudes towards human gene-editing, I distill the present landscape of ethical discourse and research in human gene or genome editing. I recommend treating it as a primer to gene-editing in humans - a fraction of "what's out there" - and not as an authoritative resource on the topic. 
+Before discussing my findings on people's attitudes towards human gene-editing, I distill the present landscape of ethical discourse and research in human gene or genome editing. I recommend treating this section as a primer to gene-editing - a fraction of "what's out there" - and not as an authoritative resource on the topic. 
 
-After discussing people's attitudes towards human gene-editing, I try to analyze why people think what they think. [NEED]. My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as my claims in this regard are lacking in support. Finally, I pretty sure that if someone spent more time thinking about the ways people's attitudes towards human gene-editing guides the future they'd come up with much stronger and clearer reasons than I have. 
+After discussing people's attitudes towards human gene-editing, I try to unpack what factors might best explain these attitudes. My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as I believe my claims here are sparsely supported; should someone else spend. Next, I look at how people's attitudes towards human gene-editing guides the governance, rate of development, and usage of these technologies. 
 
-Finally, I consider some questions that interest me and that I think are important to timelines and outcomes involving human gene-editing. From the list of questions I generate, I select those whose outcomes I think are somewhat dependent on changes in or those that are directly about people's attitudes towards human gene-editing to write up on Metaculus. I then predict on these questions, and outline my rationale for the forecasts. 
+Finally, I consider some questions that interest me and that I think are important to timelines and outcomes involving human gene-editing. From the list of questions I generate, I select those whose outcomes I think are somewhat dependent on changes in or those that are directly about people's attitudes towards human gene-editing to write up on Metaculus. I then predict on these questions, and outline my rationale for my forecasts. 
 
 This is essay was written primarily with the goal of determining what people think about human gene-editing and of generating forecasting questions on this topic. All in all, I think this essay reasonably accomplishes these goals.
 
