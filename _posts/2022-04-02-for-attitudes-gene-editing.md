@@ -291,48 +291,83 @@ This section tries to offer a fractional look at the questions:
 
 ### Gene-Editing, -Therapy, -Engineering, -Modification,...?
 
-I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetically modified organisms, gene therapy, genome editing - but might not know the nuances between them. Thus far, I have not actually found a resource that adequately differenties these terms, but believe I've read enough to comment on their differences.  
+I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetic modification, gene therapy, genome editing - but might not know the nuances between them.
 
 [lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
 
 [eaf]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
 
-In many instances, these terms are used interchangeably[^interchangeable]. Nevertheless, gene and genome editing are typically examples of genetic engineering and modication, and gene therapy. 
+ Thus far, I have not actually found a resource that adequately differenties these terms, but in reading about them them, I've formed the belief that they are not too different. In many instances, these terms are used interchangeably[^interchangeable]. Nevertheless, gene and genome editing are typically examples of genetic engineering and modication, and gene therapy. 
 
+ Here are some definitions I've come across for genetic engineering, gene-editing, genetic modification, gene therapy, and genome editing. 
+
+<!-- FOOTNOTES============================ -->
 [^interchangeable]: From <https://en.wikipedia.org/wiki/Genome_editing#cite_note-75>: "_Genome editing, or genome engineering, or gene editing, is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism._". <br><br> From <https://www.genome.gov/genetics-glossary/Genetic-Engineering>, "_Genetic engineering (also called genetic modification) is a process that uses laboratory-based technologies to alter the DNA makeup of an organism. This may involve changing a single base pair (A-T or C-G), deleting a region of DNA or adding a new segment of DNA._" <br><br> From <https://en.wikipedia.org/wiki/Genetic_engineering>, "_Genetic engineering, also called genetic modification or genetic manipulation, is the direct manipulation of an organism's genes using biotechnology. It is a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms. New DNA is obtained by either isolating and copying the genetic material of interest using recombinant DNA methods or by artificially synthesising the DNA._" <br><br> "_Genome editing, also called gene editing, is an area of research seeking to modify genes of living organisms to improve our understanding of gene function and develop ways to use it to treat genetic or acquired diseases. Genome editing can be used to correct, introduce or delete almost any DNA sequence in many different types of cells and organisms._" <https://www.nih.gov/news-events/gene-editing-digital-press-kit> <br><br> From <https://allianceforscience.cornell.edu/wp-content/uploads/2022/02/Gene-editing-FAQ_V2.pdf>, "_Gene editing is also sometimes referred to as genome editing, CRISPR, and GE and included in the broader terms of genetic engineering and biotechnology._" and "..._In this case, gene editing is used to generate GMOs._". 
 
-<https://en.wikipedia.org/wiki/Gene_editing>
+[^gene_ther_genome_editing]: From[^HGE-Book] pp. 106, <br><br>"_Like traditional gene therapy, somatic genome editing could be used to revert an underlying genetic mutation to a variant not associated with disease, which would result in a fraction of the targeted cells regaining normal function. Somatic genome editing also could be used to engineer a cell so that its phenotype differed from that of a normal cell and was better able to resist or prevent disease._"
+<!-- =====================================-->
 
-My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances considered specific forms of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind. In this essay, I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing.
+<!-- My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances considered specific forms of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind. In this essay, I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing. -->
 
-> __Gene__ [Def.[^HGE-Book]] — A functional unit of heredity that is a segment of DNA in a specific site on a chromosome. A gene typically directs the formation of a protein or RNA molecule (NRC, 2002, p. 264).
->
-> __Gene editing__ — A technique that allows researchers to alter the DNA of cells or organisms to insert, delete, or modify a gene or gene sequences to silence, enhance, or otherwise change the gene’s characteristics (NASEM, 2016a, p. 182). [Def.[^HGE-Book]]
-
-> __Genome__ — The complete set of DNA that makes up an organism (NASEM, 2016a, p. 182). In humans, the genome is organized into 23 pairs of ho­mologous chromosomes. [Def.[^HGE-Book]]
->
-> __Genome editing__ 
-> 
-> "The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification." [Def.[^HGE-Book]]
-> 
-> "Genome editing technologies enable scientists to make changes to DNA, leading to changes in physical traits, like eye color, and disease risk. Scientists use different technologies to do this. These technologies act like scissors, cutting the DNA at a specific spot. Then scientists can remove, add, or replace the DNA where it was cut." <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>
-
-> __Gene Therapy__  — ... a set of technologies aimed at correcting genes that have been injured (mutations) and cause new diseases as a consequence. Gene therapy involves introducing DNA containing a functioning gene (created by genetically modified viruses) into a patient to correct the effects of a disease-causing mutation. There are two basic types of gene therapy depending on the cells targeted or treated: somatic and germline therapy. Most cells of the human body are somatic cells and transferring DNA to such (differentiated, non-reproductive) cells will just produce effects in this patient without being transmitted to the patient’s off- spring. Cells of the germline are gamete cells (undifferentiated, reproductive), eggs, and sperm and any change in them will be transmitted to the patient’s children. [Def.[^Bioethics-Dict]]
-
-> __Genetic Modification__ — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features. [Def.[^Bioethics-Dict]]
 
 > __Genetic Engineering__ 
 >
 > "Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material." [Def.[^DNA_book]]
 > 
-> "Genetic engineering is defined as the direct manipulation of an organism’s genes including heritable and nonheritable recombinant DNA constructs." <https://www.sciencedirect.com/topics/neuroscience/genetic-engineering> and <https://www.sciencedirect.com/science/article/pii/B9780123978561000027>
+> Genetic engineering is defined as the direct manipulation of an organism’s genes including heritable and nonheritable recombinant DNA constructs.
+> [See <https://www.sciencedirect.com/topics/neuroscience/genetic-engineering> and <https://www.sciencedirect.com/science/article/pii/B9780123978561000027>]
 
+> __Gene editing__ 
+> 
+> A technique that allows researchers to alter the DNA of cells or organisms to insert, delete, or modify a gene or gene sequences to silence, enhance, or otherwise change the gene’s characteristics (NASEM, 2016a, p. 182). 
+> 
+> [_Human Genome Editing: Science, Ethics, and Governance_[^HGE-Book]]
 
+> __Genetic Modification__ — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features.
+> 
+> [_Dictionary of Global Bioethics_[^Bioethics-Dict]]
+
+> __Genome editing__ 
+> 
+> The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification. 
+> 
+> [_Human Genome Editing: Science, Ethics, and Governance_[^HGE-Book]]
+> 
+> "Genome editing technologies enable scientists to make changes to DNA, leading to changes in physical traits, like eye color, and disease risk. Scientists use different technologies to do this. These technologies act like scissors, cutting the DNA at a specific spot. Then scientists can remove, add, or replace the DNA where it was cut." 
+> 
+> [See <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>]
+
+> __Gene Therapy__ 
+> 
+> ...a set of technologies aimed at correcting genes that have been injured (mutations) and cause new diseases as a consequence. Gene therapy involves introducing DNA containing a functioning gene (created by genetically modified viruses) into a patient to correct the effects of a disease-causing mutation. There are two basic types of gene therapy depending on the cells targeted or treated: somatic and germline therapy. Most cells of the human body are somatic cells and transferring DNA to such (differentiated, non-reproductive) cells will just produce effects in this patient without being transmitted to the patient’s off- spring. Cells of the germline are gamete cells (undifferentiated, reproductive), eggs, and sperm and any change in them will be transmitted to the patient’s children.
+> 
+[See _Dictionary of Global Bioethics_[^Bioethics-Dict]]
+> 
+> Human gene therapy seeks to modify or manipulate the expression of a gene or to alter the biological properties of living cells for therapeutic use 1.
+> 
+Gene therapy is a technique that modifies a person’s genes to treat or cure disease. Gene therapies can work by several mechanisms:
+> 
+- Replacing a disease-causing gene with a healthy copy of the gene
+- Inactivating a disease-causing gene that is not functioning properly
+- Introducing a new or modified gene into the body to help treat a disease
+> 
+> Gene therapy products are being studied to treat diseases including cancer, genetic diseases, and infectious diseases.
+> 
+> There are a variety of types of gene therapy products, including:
+> 
+- Plasmid DNA: Circular DNA molecules can be genetically engineered to carry therapeutic genes into human cells.
+- Viral vectors: Viruses have a natural ability to deliver genetic material into cells, and therefore some gene therapy products are derived from viruses. Once viruses have been modified to remove their ability to cause infectious disease, these modified viruses can be used as vectors (vehicles) to carry therapeutic genes into human cells.
+- Bacterial vectors: Bacteria can be modified to prevent them from causing infectious disease and then used as vectors (vehicles) to carry therapeutic genes into human tissues.
+- Human gene editing technology: The goals of gene editing are to disrupt harmful genes or to repair mutated genes.
+- Patient-derived cellular gene therapy products: Cells are removed from the patient, genetically modified (often using a viral vector) and then returned to the patient.
+> 
+> [See <https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/what-gene-therapy>]
+ 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
 
-These terms all are closely related and sometimes used interchangeably (e.g., genome editing and gene-editing are sometimes used interchangeably[^gene_genome]), but some distinctions between them are worth noting.
-
-> [Genome editing][wiki_genome_editing] is a powerful new tool for making precise additions, deletions, and alterations to the genome an organism’s complete set of genetic material. The development of new approaches—involving the use of [meganucleases][wiki_meganuclease]; [zinc finger nucleases][wiki_zinc_fingers] (ZFNs); [transcription activator-like effector nucleases][wiki_TALENS] (TALENs); and, most recently, the [CRISPR][wiki_CRISPR]/[Cas9][wiki_cas9] system—has made editing of the genome much more precise, efficient, flexible, and less expensive relative to previous strategies. With these advances has come an explosion of interest in the possible applications of genome editing, both in conducting fundamental research and potentially in promoting human health through the treatment or prevention of disease and disability. The latter possibilities range from restoring normal function in diseased organs by editing [somatic cells][wiki_somatic_cell] to preventing genetic diseases in future children and their descendants by [editing the human germline][wiki_germ_edit]. [Ref.[^HGE-Book]]
+> [Genome editing][wiki_genome_editing] is a powerful new tool for making precise additions, deletions, and alterations to the genome an organism’s complete set of genetic material. The development of new approaches—involving the use of [meganucleases][wiki_meganuclease]; [zinc finger nucleases][wiki_zinc_fingers] (ZFNs); [transcription activator-like effector nucleases][wiki_TALENS] (TALENs); and, most recently, the [CRISPR][wiki_CRISPR]/[Cas9][wiki_cas9] system—has made editing of the genome much more precise, efficient, flexible, and less expensive relative to previous strategies. With these advances has come an explosion of interest in the possible applications of genome editing, both in conducting fundamental research and potentially in promoting human health through the treatment or prevention of disease and disability. The latter possibilities range from restoring normal function in diseased organs by editing [somatic cells][wiki_somatic_cell] to preventing genetic diseases in future children and their descendants by [editing the human germline][wiki_germ_edit].
+> 
+> [_Human Genome Editing: Science, Ethics, and Governance_[^HGE-Book]]
 
 [wiki_genome_editing]: https://en.wikipedia.org/wiki/Genome_editing "https://en.wikipedia.org/wiki/Genome_editing"
 
@@ -1693,8 +1728,6 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [^referral]: If you know anyone with genetics training, I would appreciate if you asked them these questions and referred them to me.
 
-[^gene_genome]: I cannot remember where exactly that I saw this, but in a research paper, I observe "genome editing (a.k.a gene-editing)".
-
 [^DNA_book]: Rosenberg, Eugene. It's in Your DNA: From Discovery to Structure, Function and Role in Evolution, Cancer and Aging. Academic Press, 2017. <br><br> Note that I am citing this definition from Chapter 10: Genetic Engineering of this book.  
 
 [^questions-gene-editing]: I asked these questions, as well as the one in the section on gene-editing ethics and governance, without having read much on gene-editing. Given this, the questions I ask may not be the most important considerations for the biology, technology, ethics, and governance of gene-editing. I did not go back and revise these questions after learning more about gene-editing. Any considerations for revisions would be appreciated.
@@ -1705,7 +1738,7 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [^HGE-Book]: National Academies of Sciences, Engineering, and Medicine. Human genome editing: science, ethics, and governance. National Academies Press, 2017. <br><br> Notes: I used this book (Chapters 3 and 4, and the Appendices) to learn about gene-editing science and regulation, and most of the content in this essay's gene-editing section and glossary section come from my reading of this text.
 
-[^gene_ther_genome_editing]: From[^HGE-Book] pp. 106, <br><br>"_Like traditional gene therapy, somatic genome editing could be used to revert an underlying genetic mutation to a variant not associated with disease, which would result in a fraction of the targeted cells regaining normal function. Somatic genome editing also could be used to engineer a cell so that its phenotype differed from that of a normal cell and was better able to resist or prevent disease._"
+
 
 [^opinions]: I believe I should be thinking more about how opinions change over time, and about how people's self-reported opinions are biased. Here are some considerations (maybe a simple Google search would suffice): (1) how do people's views change, (2) opinion drift, (3) how attitudes change, (4) how opinions change, (5) how often do opinions change, (6) response bias, (7) measuring response bias, and (8) self-reported data issues.
 
