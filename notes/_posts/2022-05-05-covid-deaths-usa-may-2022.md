@@ -9,6 +9,11 @@ description: "My estimate for how many deaths there will be from SARS-CoV-2 duri
 tags: [prediction]
 ---
 
+
+__Update 06/05/2022__: The actual number of COVID deaths in the US for May was probably around [] = . 
+
+---
+
 Recently, I submitted an application to participate in an upcoming existential risk forecasting tournament that is being hosted by [Philip Tetlock][tetlock]. Here is a quote-chunk from the application to the tournament:
 
 > Some background information about us: Our research team is based at the University of Pennsylvania (PI: Phil Tetlock) but spans a range of disciplines and perspectives. Our core objective is to help the Effective Altruism community (and society at large) to develop better methods of improving high-stakes debates. The Hybrid Persuasion-Forecasting Tournament will focus on potential threats to humanity in the next century, with a focus in this round on AI, biosecurity, climate, and nuclear war in the short-term (<3 years), medium-term (10 years), and long-term (30+ years).
