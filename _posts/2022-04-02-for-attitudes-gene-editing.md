@@ -291,15 +291,17 @@ This section tries to offer a fractional look at the questions:
 
 ### Gene-Editing, -Therapy, -Engineering, -Modification,...?
 
-I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetically modified organisms, gene therapy, genome editing - but might not know the nuances between them. Thus far, I have not actually found a resource that adequately differenties these terms, but believe I've now read enough to comment on their differences.  
+I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetically modified organisms, gene therapy, genome editing - but might not know the nuances between them. Thus far, I have not actually found a resource that adequately differenties these terms, but believe I've read enough to comment on their differences.  
 
 [lw]: https://www.lesswrong.com/ "https://www.lesswrong.com/"
 
 [eaf]: https://forum.effectivealtruism.org/ "https://forum.effectivealtruism.org/"
 
-In many instances, these terms are used interchangeably[^interchangeable]. 
+In many instances, these terms are used interchangeably[^interchangeable]. Nevertheless, gene and genome editing are typically examples of genetic engineering and modication, and gene therapy. 
 
-[^interchangeable]: From Genome editing on Wikipedia: "_Genome editing, or genome engineering, or gene editing, is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism._". <br> From 
+[^interchangeable]: From <https://en.wikipedia.org/wiki/Genome_editing#cite_note-75>: "_Genome editing, or genome engineering, or gene editing, is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism._". <br><br> From <https://www.genome.gov/genetics-glossary/Genetic-Engineering>, "_Genetic engineering (also called genetic modification) is a process that uses laboratory-based technologies to alter the DNA makeup of an organism. This may involve changing a single base pair (A-T or C-G), deleting a region of DNA or adding a new segment of DNA._" <br><br> From <https://en.wikipedia.org/wiki/Genetic_engineering>, "_Genetic engineering, also called genetic modification or genetic manipulation, is the direct manipulation of an organism's genes using biotechnology. It is a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms. New DNA is obtained by either isolating and copying the genetic material of interest using recombinant DNA methods or by artificially synthesising the DNA._" <br><br> "_Genome editing, also called gene editing, is an area of research seeking to modify genes of living organisms to improve our understanding of gene function and develop ways to use it to treat genetic or acquired diseases. Genome editing can be used to correct, introduce or delete almost any DNA sequence in many different types of cells and organisms._" <https://www.nih.gov/news-events/gene-editing-digital-press-kit> 
+
+<https://en.wikipedia.org/wiki/Gene_editing>
 
 My present understanding is that genetic engineering subsumes gene-editing, genome editing, genetic modification, and gene therapy, and that genome editing, gene-editing, and genetic modification are often used interchangeably, but that genome editing and gene therapy are in some instances considered specific forms of gene-editing[^gene_ther_genome_editing], sometimes with the same end in mind. In this essay, I exclusively refer to the act of altering human DNA as human gene-editing or human genome editing.
 
@@ -309,13 +311,22 @@ My present understanding is that genetic engineering subsumes gene-editing, geno
 
 > __Genome__ — The complete set of DNA that makes up an organism (NASEM, 2016a, p. 182). In humans, the genome is organized into 23 pairs of ho­mologous chromosomes. [Def.[^HGE-Book]]
 >
-> __Genome editing__  — The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification. [Def.[^HGE-Book]]
+> __Genome editing__ 
+> 
+> "The process by which the genome sequence is changed through the intervention of a DNA break or other DNA modification." [Def.[^HGE-Book]]
+> 
+> "Genome editing technologies enable scientists to make changes to DNA, leading to changes in physical traits, like eye color, and disease risk. Scientists use different technologies to do this. These technologies act like scissors, cutting the DNA at a specific spot. Then scientists can remove, add, or replace the DNA where it was cut." <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>
 
 > __Gene Therapy__  — ... a set of technologies aimed at correcting genes that have been injured (mutations) and cause new diseases as a consequence. Gene therapy involves introducing DNA containing a functioning gene (created by genetically modified viruses) into a patient to correct the effects of a disease-causing mutation. There are two basic types of gene therapy depending on the cells targeted or treated: somatic and germline therapy. Most cells of the human body are somatic cells and transferring DNA to such (differentiated, non-reproductive) cells will just produce effects in this patient without being transmitted to the patient’s off- spring. Cells of the germline are gamete cells (undifferentiated, reproductive), eggs, and sperm and any change in them will be transmitted to the patient’s children. [Def.[^Bioethics-Dict]]
 
 > __Genetic Modification__ — Genetically modified organisms (GMOs) are those whose genetic material has been altered via genetic engineering such as molecular cloning, recombinant DNA technology, gene delivery in which the three Ts (transformation, transfection, and transduction) are used to introduce foreign DNA, and gene editing.<br> ...the genetic modification or manipulation of an organism today is brought about by using different bioengineering techniques that alter the genome of an organism by introducing or transferring fragments of DNA from other species (transgene) to create a new organism (a GMO) that expresses the desired features. [Def.[^Bioethics-Dict]]
 
-> __Genetic Engineering__ — Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material. [Def.[^DNA_book]]
+> __Genetic Engineering__ 
+>
+> "Genetic engineering, also called recombinant DNA technology, involves the group of techniques used to cut up and join together genetic material, especially DNA from different biological species, and to introduce the resulting hybrid DNA into an organism in order to form new combinations of heritable genetic material." [Def.[^DNA_book]]
+> 
+> "Genetic engineering is defined as the direct manipulation of an organism’s genes including heritable and nonheritable recombinant DNA constructs." <https://www.sciencedirect.com/topics/neuroscience/genetic-engineering> and <https://www.sciencedirect.com/science/article/pii/B9780123978561000027>
+
 
 [wiki_GMO]: https://en.wikipedia.org/wiki/Genetically_modified_organism "https://en.wikipedia.org/wiki/Genetically_modified_organism"
 
