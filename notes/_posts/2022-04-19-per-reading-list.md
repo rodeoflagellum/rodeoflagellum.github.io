@@ -3,10 +3,10 @@ layout: post
 title:  "A Reading List"
 category: misc
 date:  2022-04-19 11:15:00 -0400
-modified: 2022-05-21 17:50:00 -0400
+modified: 2022-05-30 15:30:00 -0400
 permalink: "/per_reading_list/"
 header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
-description: "An unordered list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered list containing what I would like to carefully use to learn."
+description: "An unordered and highly arbitrary list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered and highly arbitrarylist containing what I would like to carefully use to learn."
 tags: [personal, site]
 type: "List"
 status: "Ongoing"
@@ -48,8 +48,6 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 
 - Are we living at the 'hinge of history'?
   - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
-  - My notes on this
-  - See here
 - Are we living at the most influential time in history?
   - <https://www.bbc.com/future/article/20200923-the-hinge-of-history-long-termism-and-existential-risk>{:target="_blank"}
 - The Big Here and Long Now
@@ -59,16 +57,25 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 - Reasoning Transparency
   - <https://www.openphilanthropy.org/reasoning-transparency?>
 
+- OpenPhilanthropy
+  - Reasoning Transparency (<https://www.openphilanthropy.org/reasoning-transparency#Motivation>)
+
+- EAF 
+  - On being ambitious and celebrating failures [reviewed]
+
+- General  
+  - Things you're allowed to do (<https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/>)
+
 [Back to top](#top)
 
 ### [Books/Chapters](#read-books)
 
-- Metamorphosis of Prime Intellect
-- Map and Territory
-- How to Actually Change Your Mind
-- The Elephant in the Brain
-- X-Risk
-- The Precipice
+- Metamorphosis of Prime Intellect [unreviewed]
+- Map and Territory [unreviewed]
+- How to Actually Change Your Mind [unreviewed]
+- The Elephant in the Brain [unreviewed]
+- X-Risk [unreviewed]
+- The Precipice [unreviewed]
 
 [Back to top](#top)
 
@@ -78,7 +85,19 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
 
 ### [Articles](#unread-articles)
 
-- The Nooscope Manifested
+- OpenPhilanthropy
+  - 2017 Report on Consciousness and Moral Patienthood (<https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood#footnoteref119_c7p8bck>)
+  - Efforts to Improve the Accuracy of Our Judgments and Forecasts (<https://www.openphilanthropy.org/blog/efforts-improve-accuracy-our-judgments-and-forecasts#Calibration_training>)
+
+- EAF 
+  - Types of information hazards
+  - Geoengineering to reduce global catastrophic risk 
+  - What are the different types of longtermism 
+  - What do we want the world to look like in 10 years 
+
+- Other Research
+  - The Nooscope Manifested
+
 - Concrete Problems in AI Safety
 - Alignment for Advanced Machine Learning Systems
 - Additive Growth
