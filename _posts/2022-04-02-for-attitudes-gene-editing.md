@@ -87,7 +87,7 @@ __General Transparency__ (see footnotes):
 
 [^atonment]: In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
 
-[^shortcuts]: I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations. More on my shortcuts can be found in the overview.
+[^shortcuts]: I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations. More on my shortcuts can be found in the overview. The articles I looked at could be accused of being cherry picked.
 
 [^epistemic_confidence]: I would be very surprised if someone scanned the same research literature and came to a different conclusion on people's attitudes towards human gene-editing. I would not be too surprised if someone's forecasts on the questions I have written differed a fair amount from mine (+/- 20%[^forecast]), both at the time of me submitting this and in the future.
 
@@ -188,7 +188,7 @@ Gene and genome editing could one day enable people to be free from these and ot
 
 In addition, gene and genome editing, if further developed, could safely permit humans to enhance themselves[^more_on_enhancement] - robuster immune systems[^immune_system_malleability]; reduced suspecibility to infections and disease[^disease_suspectibility_malleability]; reduced aggression[^aggression_malleability]; reduced risk of addiction[^reduced_addiction_risk]; reduced depression[^depression_malleability] or anxiety[^anxiety_malleability]; higher life satisfaction[^life_satisfaction_malleability]; longer lifespans[^lifespan_malleability]; greater physical attractiveness[^physical_attractiveness_malleability], endurance[^endurance_malleability], strength[^strength_malleability], and dexerity[^dexerity_malleability]; increased cognitive capabilities[^IQ_enhancement] or creativity[^creativity_malleability]; or stronger ethical inclinations[^morality_malleability] - among plausibly many other things[^general_search_for_enhancement]. 
 
-Given present uncertainties[^problem_with_twin_studies] with the genetic nature of these traits, it's difficult to predict how well or much gene or genome editing technology will be able to enhance them. There are also many ethical considerations that need to be taken in account[^ethical_considerations]. 
+Given present uncertainties[^problem_with_twin_studies] with the genetic nature of these traits, it's difficult to predict how well or much gene or genome editing technology will be able to enhance them. There are also many ethical considerations that need to be taken in account[^ethical_considerations] in this regard. 
 
 <!-- FOOTNOTES============================ -->
 [^more_on_enhancement]: NEED List all books on enhancement I can find. Reference the Wikipedia link.
@@ -230,21 +230,21 @@ Given present uncertainties[^problem_with_twin_studies] with the genetic nature 
 [^ethical_considerations]: NEED 
 <!-- =====================================-->
 
-This essay examines one factor - people's attitudes towards human gene-editing - that guides whether or how gene or genome editing technology is applied in humans. I investigate people's attitudes towards human gene-editing by reviewing research which includes surveys or sentiment analyses on this topic. 
+This essay examines one factor - people's attitudes towards human gene-editing - that guides how and, in some instances, whether certain gene or genome editing technologies are applied to humans. I investigate people's attitudes towards human gene-editing by reviewing research which includes surveys or sentiment analyses on this topic. 
 
 Before discussing my findings on people's attitudes towards human gene-editing, I distill the present landscape of ethical discourse and research in human gene or genome editing. I recommend treating this section as a primer to gene-editing - a fraction of "what's out there" - and not as an authoritative resource on the topic. 
 
-After discussing people's attitudes towards human gene-editing, I try to unpack what factors might best explain these attitudes. My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as I believe my claims here are sparsely supported; should someone else spend. Next, I look at how people's attitudes towards human gene-editing guides the governance, rate of development, and usage of these technologies. 
+After discussing people's attitudes towards human gene-editing, I try to unpack what factors might best explain these attitudes. My explanations and considerations for what drives people's beliefs concerning human gene-editiing should be received with skepticism, as I believe my claims here are especially speculative. Next, I look at how people's attitudes towards human gene-editing guides the governance, rate of development, and usage of gene and genome editing technologies. 
 
 Finally, I consider some questions that interest me and that I think are important to timelines and outcomes involving human gene-editing. From the list of questions I generate, I select those whose outcomes I think are somewhat dependent on changes in or those that are directly about people's attitudes towards human gene-editing to write up on Metaculus. I then predict on these questions, and outline my rationale for my forecasts. 
 
 This is essay was written primarily with the goal of determining what people think about human gene-editing and of generating forecasting questions on this topic. All in all, I think this essay reasonably accomplishes these goals.
 
-I did take some shortcuts in writing this essay. 
+I took some shortcuts in writing this essay. 
 
-- I haven't extensively analyzed all or most of my references, which means that I have treated them as though they are likely true, even though I don't suspect this is the case (i.e., I'm not sure as to how accurate my references are, to how evidencing they are, and to what their issues are). Two examples of this are that I haven't taken into account the problems with twin studies[^twin-studies], and that I haven't taken into account the problems that occur with self-reporting[^self-reporting]. 
-- I did not write down many of the search terms I used for finding my evidence and the resources I use. This makes it more difficult for others to find resources to invalidate or validate my evidence and claims. 
-- I have not considered the "economics" of human gene-editing, which is something that might be an even more accurate indicator of how people will respond to human gene-editing. Economic indicators - stocks, bets, funding, etc... - for companies and organizations that investors believe might make widespread human gene-editing possible were not considered in this essay, but might add substantial support to some of the findings in this essay. 
+- I haven't extensively analyzed all or most of my referenced works, which means that I have treated them as though they are likely true, even though I don't suspect this is the case (i.e., I'm not sure how accurate my references are, how evidenced they are, and what their main issues are). Two examples of this: I haven't taken into account the problems with twin studies[^twin-studies] when examining which human traits might be able to be enhanced, and I haven't taken into account the problems that occur with self-reporting[^self-reporting] when looking at surveys of people's attitudes on human gene-editing. 
+- I did not write down many of the search terms I used for finding my evidence and the resources I used in this essay. This makes it more difficult for others to find resources to invalidate or validate my evidence and claims. I apologize for this.  
+- I have not considered the "economics" of human gene-editing, which is something that might be an even more detailed indicator, in certain instances, of how people will respond to human gene-editing. Economic indicators - stocks, bets, funding, etc... - for companies and organizations that investors believe might make widespread human gene-editing possible were not considered in this essay, but I imagine that they might add substantial support to some of this essay's findings if I had considered them. 
 
 [^self-reporting]: NEED 
 
@@ -495,7 +495,7 @@ One proxy for verifying this is to observe changes in the frequency of terms suc
 
 ![](/assets/2022/for_attitudes_gene_editing/images/gene_editing_2000-2021.png)
 
-[^GS_results]: 
+[^GS_results]: Example search for "gene-editing" for the year 2000: <https://scholar.google.com/scholar?q=%22gene-editing%22&hl=en&as_sdt=0%2C43&as_vis=1&as_ylo=2000&as_yhi=2000>. Exact numbers for the searches: <br><br> gene_editing_results = [487, 809, 818, 898, 855, 853, 804, 769, 771, 922, 843, 953, 914, 1090, 1780, 3900, 6050, 8720, 11900, 14800, 17700, 19900] <br><br>human_gene_editing = [3, 1, 1, 2, 1, 1, 0, 1, 0, 1, 1, 6, 19, 27, 19, 73, 202, 228, 232, 374, 331, 371]
 
 Note that the line indexed with (1) refers to the cumulative number of search results, the line indexed with (2) corresponds to the number of results for each year.
 
@@ -503,13 +503,15 @@ If it is true that search term frequency is closely correlated with research act
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_gene_editing_2000-2021.png)
 
-What's missing from this search is the proportion of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing); I do not investigate these things in this essay, but would appreciate if anyone can comment on this; my premonition is that most research is technical in nature, with the next largest group being ethics and governance, which in my experience often coincide with each other.
+What's missing from this search is the proportion of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing)
+
+I do not investigate these things in this essay, but would appreciate if anyone can comment on this; my premonition is that most research is technical in nature, with the next largest group being ethics and governance, which in my experience often coincide with each other.
 
 Beyond search term frequency, I believe looking at the number of clinical trials involving gene-editing over time would be useful and interesting.
 
-From[^hirakawa]:
-
 > The U.S. clinical trials database (clinicaltrials.gov) contains all studies which meet the definition of an ‘applicable clinical trial’ initiated on or after 27 September 2007 or continuing beyond 26 December 2007. In addition to trials required to register, voluntary registration is also accepted; studies conducted outside U.S.A., and those which may meet one of the conditions in the future, often register voluntarily. We searched the U.S. clinical trials database (01/01/2020) for any trial containing at least one of the following terms: CRISPR, Cas9, Cas12, Cas13, ZFN, zinc finger, gene edit, gene modification, and genome edit. Trials that did not use the genome editor as part of the therapeutic intervention were excluded from the analysis; these included trials to create cell lines from patients using Cas9; use of patient cells to develop therapeutic strategies, but where the cells were not used as a therapeutic themselves; CRISPR use for genome sequencing; and surveys of opinions regarding human gene editing. This search identified 41 trials utilizing genome editing agents including ZFNs, TALENs, and CRISPR/Cas9 for therapeutic interventions, no studies utilizing Cas12 or Cas13 have been registered (Table 1).
+> 
+> _Gene editing and CRISPR in the clinic: current and future perspectives_[^hirakawa]
 
 The number of results in _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved why this is the case, but don't think it matters too much) is in line with the Google Scholar query results on gene-editing and human gene-editing.
 
