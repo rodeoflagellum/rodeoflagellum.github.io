@@ -287,7 +287,7 @@ This section tries to offer a fractional look at the questions:
 - What benefits might human gene-editing offer to humanity?
 - What concerns for humanity are there with human gene-editing?
 
-### Gene-Editing, -Therapy, -Engineering, -Modification,...?
+### [Gene-Editing, -Therapy, -Engineering, -Modification,...?](#definition-of-gene-editing)
 
 I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetic modification, gene therapy, genome editing - but might not know the nuances between them.
 
@@ -418,8 +418,6 @@ Gene therapy is a technique that modifies a person’s genes to treat or cure di
 
 People usually distinguish topics in human gene-editing by the "treatment/therapy vs. enhancement" and "somatic vs. germline" axes. These are historical in nature. 
 
-
-
 > In the 1970s, certain central distinctions were drawn (Juengst, 1997; Walters and Palmer, 1997). First, the distinction between somatic and germline genome modifications was established: somatic enhancements affect only a single individual, but heritable enhancements can be passed down through the generations. Discussions of heritable enhancements included concerns about possible effects on the gene pool and fears of a return to some form of eugenics. Second, a distinction was drawn between treating or preventing disease (therapy) and enhancement. Discussions of enhancement focused on issues such as safety and (especially in competitive environments such as sports) unfair advantage, with the definition of “unfair” highly dependent on context.
 > 
 > [_Human Genome Editing: Science, Ethics, and Governance_[^HGE-Book]]
@@ -436,7 +434,7 @@ Coverage of pre-natal gene-editing typically centers on the idea of _designer ba
 [^design_results]: From search "designer babies" (without the quotations) on Google Scholar, the following results come up. This list is not exhaustive. See <https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=designer+babies&btnG=#d=gs_cit&t=1653965068073&u=%2Fscholar%3Fq%3Dinfo%3AI9F9JEQZcpgJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D6%26hl%3Den><br><br>Pang, Ronald TK, and P. C. Ho. "Designer babies." Obstetrics, Gynaecology & Reproductive Medicine 26, no. 2 (2016): 59-60. See <https://www.sciencedirect.com/science/article/abs/pii/S1751721415300063><br><br>"_Designer babies are either created from an embryo selected by preimplantation genetic diagnosis (PGD) or genetically modified in order to influence the traits of the resulting children. The primary aim of creating designer babies is to avoid their having heritable diseases coded by mutations in DNA._"<br><br>Suter, Sonia M. "A brave new world of designer babies." Berkeley Tech. LJ 22 (2007): 897. See <https://www.sciencedirect.com/science/article/abs/pii/S1751721415300063><br><br>Steinbock, Bonnie. "Designer babies: choosing our children's genes." The Lancet 372, no. 9646 (2008): 1294-1295. See <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)61538-X/fulltext><br><br>Fordham, Brigham A. "Disability and Designer Babies." Val. UL Rev. 45 (2010): 1473. See <https://heinonline.org/HOL/Page?handle=hein.journals/valur45&div=47&g_sent=1&casa_token=>
 <!-- =====================================-->
 
-### Major Milestones and Developments
+### [Major Milestones and Developments](#milestones-and-development)
 
 Let's take a step back and look at the history of gene-editing[^timeline].
 
@@ -517,13 +515,31 @@ The results in this passage, taken from _Hirakawa et al.'s_ Table 1 by year (the
 
 ![](/assets/2022/for_attitudes_gene_editing/images/trials.png)
 
-For greater context, I get the following results after going on <https://clinicaltrials.gov/>, and searching separately "genome editing" and "human gene editing":
+For greater context, I get the following results after going on <https://clinicaltrials.gov/>, and searching separately "genome editing" and "human gene editing" (searched on 05/24/2022):
 
 ![](/assets/2022/for_attitudes_gene_editing/images/genome_editing.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)
 
-Although I haven't taken the time to analyze the nature and distribution of these trials, which would be helpful for evaluating timelines for certain technical breakdowns in gene-editing (e.g., a reduction in mosacisims following some therapy), 
+The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: 
+
+- <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
+
+![](/assets/2022/for_attitudes_gene_editing/images/hge_pic.png)
+
+[who]: https://www.who.int/ "https://www.who.int/"
+
+[hge]: https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing/registry "https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing/registry"
+
+[ictrp]: https://www.who.int/clinical-trials-registry-platform "https://www.who.int/clinical-trials-registry-platform"
+
+As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_  (see [here][trial]) is aimed at aiding those with PKU.
+
+> This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
+
+[trial]: https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178 "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178"
+
+Although I haven't taken the time to analyze the nature and distribution of these trials, which would be helpful for evaluating timelines for certain technical breakdowns in gene-editing (e.g., a reduction in mosacisims following some therapy), getting a sense of the landscape of clinical trials on gene-editing seems revelant to a discussion on people's attitudes towards human gene-editing. 
 
 ### Affordances
 
@@ -568,25 +584,7 @@ From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
 
 >  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight.
 
-[wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
-
-The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: 
-
-- <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
-
-![](/assets/2022/for_attitudes_gene_editing/images/hge_pic.png)
-
-[who]: https://www.who.int/ "https://www.who.int/"
-
-[hge]: https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing/registry "https://www.who.int/groups/expert-advisory-committee-on-developing-global-standards-for-governance-and-oversight-of-human-genome-editing/registry"
-
-[ictrp]: https://www.who.int/clinical-trials-registry-platform "https://www.who.int/clinical-trials-registry-platform"
-
-As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_  (see [here][trial]) is aimed at aiding those with PKU.
-
-> This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
-
-[trial]: https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178 "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05222178"
+<!-- [wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
 
 A future void of PKU would probably reduce some amount of suffering, which most people would likely consider to be a GOOD thing. 
 
@@ -594,15 +592,15 @@ PKU is just one of example of a genetic disorders that gene-editing can help; Wi
 
 [wiki_disorder]: https://en.wikipedia.org/wiki/Genetic_disorder "https://en.wikipedia.org/wiki/Genetic_disorder"
 
-[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list"
+[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list" -->
 
 [^OMIM]: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>. <br><br> Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._ <br><br> This paper <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986124/pdf/AJMG-187-48.pdf> also references OMIM (I believe this increases the credibility of OMIM; again, I am not an expert) - "_The etiologies for many rare diseases have been discovered. Online Inheritance in Man (OMIM) (https://omim.org/statistics/geneMap, October 31, 2020) lists 4,339 genes with phenotype-causing variants. Orphanet (http://www.orphadata.org/cgi-bin/index.php, 10/09/2020) includes more than 7,800 disease-gene relationships. Each year about 250 rare genetic disease discoveries are added to the lists. These discoveries include pathogenic variants in a gene that had not previously been associated with disease and pathogenic variants in a gene previ- ously associated with a different disease (Boycott et al., 2017)_"
 
-The [OMIM][OMIM][^OMIM] Gene Map Statistics verifies this:
+<!-- The [OMIM][OMIM][^OMIM] Gene Map Statistics verifies this:
 
 ![](/assets/2022/for_attitudes_gene_editing/images/omim.png)
 
-[OMIM]: https://www.omim.org/about "https://www.omim.org/about"
+[OMIM]: https://www.omim.org/about "https://www.omim.org/about" -->
 
 Though fairly outdated (2017) source[^HGE-Book] provides a window into the landscape human genome editing's potential for treatment. 
 
