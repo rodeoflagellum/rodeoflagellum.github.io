@@ -501,25 +501,29 @@ If it is true that search term frequency is closely correlated with research act
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_gene_editing_2000-2021.png)
 
-What's missing from this search is the proportion of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing)
+What's missing from this search is the proportion of these research results that concern the ethics surrounding, the governance of, the technology of, and people's attitudes towards human gene-editing (i.e., what is the breakdown for different types of research on human gene-editing).
 
 I do not investigate these things in this essay, but would appreciate if anyone can comment on this; my premonition is that most research is technical in nature, with the next largest group being ethics and governance, which in my experience often coincide with each other.
 
-Beyond search term frequency, I believe looking at the number of clinical trials involving gene-editing over time would be useful and interesting.
+Other than search term frequency, looking at changes in the number of clinical trials involving gene-editing should also be useful.
+
+Though this is taken from a 2 year-old paper, it provides some sense of the changes in registered trials. 
 
 > The U.S. clinical trials database (clinicaltrials.gov) contains all studies which meet the definition of an ‘applicable clinical trial’ initiated on or after 27 September 2007 or continuing beyond 26 December 2007. In addition to trials required to register, voluntary registration is also accepted; studies conducted outside U.S.A., and those which may meet one of the conditions in the future, often register voluntarily. We searched the U.S. clinical trials database (01/01/2020) for any trial containing at least one of the following terms: CRISPR, Cas9, Cas12, Cas13, ZFN, zinc finger, gene edit, gene modification, and genome edit. Trials that did not use the genome editor as part of the therapeutic intervention were excluded from the analysis; these included trials to create cell lines from patients using Cas9; use of patient cells to develop therapeutic strategies, but where the cells were not used as a therapeutic themselves; CRISPR use for genome sequencing; and surveys of opinions regarding human gene editing. This search identified 41 trials utilizing genome editing agents including ZFNs, TALENs, and CRISPR/Cas9 for therapeutic interventions, no studies utilizing Cas12 or Cas13 have been registered (Table 1).
 > 
 > _Gene editing and CRISPR in the clinic: current and future perspectives_[^hirakawa]
 
-The number of results in _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved why this is the case, but don't think it matters too much) is in line with the Google Scholar query results on gene-editing and human gene-editing.
+The results in this passage, taken from _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved why this is the case, but don't think it matters too much), is in line with my earlier Google Scholar query results on gene-editing and human gene-editing.
 
 ![](/assets/2022/for_attitudes_gene_editing/images/trials.png)
 
-Going on <https://clinicaltrials.gov/>, and searching separately "genome editing" and "human gene editing", I get:
+For greater context, I get the following results after going on <https://clinicaltrials.gov/>, and searching separately "genome editing" and "human gene editing":
 
 ![](/assets/2022/for_attitudes_gene_editing/images/genome_editing.png)
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)
+
+Although I haven't taken the time to analyze the nature and distribution of these trials, which would be helpful for evaluating timelines for certain technical breakdowns in gene-editing (e.g., a reduction in mosacisims following some therapy), 
 
 ### Affordances
 
