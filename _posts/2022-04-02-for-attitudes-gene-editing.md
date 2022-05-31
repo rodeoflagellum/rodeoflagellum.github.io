@@ -288,6 +288,7 @@ This section tries to offer a fractional look at the questions:
 - What concerns for humanity are there with human gene-editing?
 
 ### [Gene-Editing, -Therapy, -Engineering, -Modification,...?](#definition-of-gene-editing)
+_What is gene-editing, broadly speaking?_
 
 I expect that most people reading this ([LW][lw], [EAF][eaf], [Metaculus][metaculus] users) recognize the following terms - genetic engineering, gene-editing, genetic modification, gene therapy, genome editing - but might not know the nuances between them.
 
@@ -435,6 +436,7 @@ Coverage of pre-natal gene-editing typically centers on the idea of _designer ba
 <!-- =====================================-->
 
 ### [Major Milestones and Developments](#milestones-and-development)
+_What is the state of research on human gene-editing?_
 
 Let's take a step back and look at the history of gene-editing[^timeline].
 
@@ -521,9 +523,9 @@ For greater context, I get the following results after going on <https://clinica
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)
 
-The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome Editing][hge] (HGE) Registry, which gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP). You can find the ICTRP trials that are related to human genome editing here: 
+Another repository for human gene-editing clinical trials is the [World Health Organization][who] (WHO) [Human Genome Editing][hge] (HGE) Registry, which was created in 2019 and gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP)[^ictrp].
 
-- <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>
+[^ictrp]: You can find the ICTRP trials that are related to human genome editing here <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>.
 
 ![](/assets/2022/for_attitudes_gene_editing/images/hge_pic.png)
 
@@ -533,7 +535,7 @@ The [World Health Organization][who] (WHO) created, in 2019, the [Human Genome E
 
 [ictrp]: https://www.who.int/clinical-trials-registry-platform "https://www.who.int/clinical-trials-registry-platform"
 
-As of the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_  (see [here][trial]) is aimed at aiding those with PKU.
+At the time of writing this (around May 23 2022), the most recently registered clinical trial _Safety and Efficacy of HMI-103, a Gene Editing Development Candidate in Adults With Classical PKU Due to PAH Deficiency_  (see [here][trial]) is aimed at aiding those with PKU, which we discussed briefly in the Overview and Shortcuts section. 
 
 > This is an open-label, sequential ascending dose-escalation, Phase 1 study to evaluate the safety and efficacy of a single intravenous administration of HMI-103, a gene editing development candidate, in adult participants aged 18 to 55 years, inclusive, with classical PKU due to PAH deficiency who have uncontrolled disease despite Phe-restricted dietary management. [See <https://clinicaltrials.gov/ct2/show/NCT05222178>]
 
@@ -541,7 +543,8 @@ As of the time of writing this (around May 23 2022), the most recently registere
 
 Although I haven't taken the time to analyze the nature and distribution of these trials, which would be helpful for evaluating timelines for certain technical breakdowns in gene-editing (e.g., a reduction in mosacisims following some therapy), getting a sense of the landscape of clinical trials on gene-editing seems revelant to a discussion on people's attitudes towards human gene-editing. 
 
-### Affordances
+### [Affordances](#affordances)
+_What benefits might human gene-editing offer to humanity?_
 
 An example of gene-editing technologies from [^gene_edit_biomedicine]: 
 
@@ -565,11 +568,6 @@ Scientists and all of us should carefully consider the many ethical concerns tha
     Should scientists ever be able to edit germline cells? Edits in the germline would be passed down through generations. -->
 
 
-
-  
-
-### [Affordances](#affordances)
-
 Given we've now looked at what gene-editing entails, and where the state of research on it stands broadly, let's look at the potential affordances and risks of human gene-editing.
 
 One can easily imagine the prospects of altering a human's genes; the following quotes illustrate this to some degree.
@@ -580,9 +578,9 @@ Current clinical trials involving human genome editing consist of postnatal soma
 
 So, one affordance of human gene-editing is the potential to free humanity from certain genetic disorders. Let's look at an example a genetic disorder that might be treated with genome editing. 
 
-From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
+<!-- From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
 
->  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight.
+>  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight. -->
 
 <!-- [wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
 
@@ -613,6 +611,7 @@ The prospect of enhancement is intuitive: there are just so many things that hum
 I am not going to discuss human genome editing for enhancement much more, but there are numerous ethical considerations that should be taken into account when considering human genome editing for this end. 
 
 ### [Risks and Concerns](#risks-and-concerns)
+_What concerns for humanity are there with human gene-editing?_
 
 https://arxiv.org/pdf/1410.5787.pdf?source=post_page---------------------------
 
