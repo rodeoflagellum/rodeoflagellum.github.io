@@ -90,10 +90,11 @@ Additionally, I rank each unread entity with 1 to 5 stars, depending on how inte
   - Efforts to Improve the Accuracy of Our Judgments and Forecasts (<https://www.openphilanthropy.org/blog/efforts-improve-accuracy-our-judgments-and-forecasts#Calibration_training>)
 
 - EAF 
-  - Types of information hazards
-  - Geoengineering to reduce global catastrophic risk 
-  - What are the different types of longtermism 
-  - What do we want the world to look like in 10 years 
+  - Types of information hazards: <https://forum.effectivealtruism.org/posts/ztEvQB3qw2Z4jMiXw/types-of-information-hazards>
+  - Geoengineering to reduce global catastrophic risk: <https://forum.effectivealtruism.org/posts/gDGBrfkyqcxusDLzT/geoengineering-to-reduce-global-catastrophic-risk>
+  - What are the different types of longtermism: <https://forum.effectivealtruism.org/posts/oCbR4oMr2waBQhXRC/what-are-the-different-types-of-longtermisms-ea-librarian>
+  - What do we want the world to look like in 10 years: <https://forum.effectivealtruism.org/posts/En5ivmd2ZGDQDkDcj/what-do-we-want-the-world-to-look-like-in-10-years>
+  - Issues with Futarchy: <https://forum.effectivealtruism.org/posts/E4QnGsXLEEcNysADT/issues-with-futarchy>
 
 - Other Research
   - The Nooscope Manifested
