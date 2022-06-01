@@ -513,6 +513,12 @@ Though this is taken from a 2 year-old paper, it provides some sense of the chan
 > 
 > _Gene editing and CRISPR in the clinic: current and future perspectives_[^hirakawa]
 
+Here is some more information on the genome-editors that are used for gene-editing[^gene_edit_biomedicine]: 
+
+![](/assets/2022/for_attitudes_gene_editing/images/gene_edit_tech_ex1.png)
+
+[^gene_edit_biomedicine]: Li, Guanglei, Xiangyang Li, Songkuan Zhuang, Liren Wang, Yifan Zhu, Yangcan Chen, Wen Sun et al. "Gene editing and its applications in biomedicine." Science China Life Sciences (2022): 1-41.
+
 The results in this passage, taken from _Hirakawa et al.'s_ Table 1 by year (they mention 41 trial results, but there are 50 entities in their Table; I have not resolved why this is the case, but don't think it matters too much), is in line with my earlier Google Scholar query results on gene-editing and human gene-editing.
 
 ![](/assets/2022/for_attitudes_gene_editing/images/trials.png)
@@ -523,7 +529,7 @@ For greater context, I get the following results after going on <https://clinica
 
 ![](/assets/2022/for_attitudes_gene_editing/images/human_editing.png)
 
-Another repository for human gene-editing clinical trials is the [World Health Organization][who] (WHO) [Human Genome Editing][hge] (HGE) Registry, which was created in 2019 and gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP)[^ictrp].
+Another repository for clinical trials related to human gene-editing is the [World Health Organization][who]'s (WHO) [Human Genome Editing][hge] (HGE) Registry, which was created in 2019 and gets it's data from the WHO's [International Clinical Trials Registry Platform][ictrp] (ICTRP)[^ictrp].
 
 [^ictrp]: You can find the ICTRP trials that are related to human genome editing here <https://trialsearch.who.int/AdvSearch.aspx?SearchTermStat=1&SearchTermFlag=2&ReturnUrl=~/ListBy.aspx?TypeListing=0>.
 
@@ -543,36 +549,17 @@ At the time of writing this (around May 23 2022), the most recently registered c
 
 Although I haven't taken the time to analyze the nature and distribution of these trials, which would be helpful for evaluating timelines for certain technical breakdowns in gene-editing (e.g., a reduction in mosacisims following some therapy), getting a sense of the landscape of clinical trials on gene-editing seems revelant to a discussion on people's attitudes towards human gene-editing. 
 
+Given we've now looked at what gene-editing broadly entails, and where the state of research on it stands, let's look at the potential affordances and risks of human gene-editing.
+
 ### [Affordances](#affordances)
 _What benefits might human gene-editing offer to humanity?_
-
-An example of gene-editing technologies from [^gene_edit_biomedicine]: 
-
-![](/assets/2022/for_attitudes_gene_editing/images/gene_edit_tech_ex1.png)
-
-[^gene_edit_biomedicine]: Li, Guanglei, Xiangyang Li, Songkuan Zhuang, Liren Wang, Yifan Zhu, Yangcan Chen, Wen Sun et al. "Gene editing and its applications in biomedicine." Science China Life Sciences (2022): 1-41.
-
 
 <!-- https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing
 > In 2015, scientists successfully used somatic gene therapy when a one-year old in the United Kingdom named Layla received a gene editing treatment to help her fight leukemia, a type of cancer. These scientists did not use CRISPR to treat Layla, and instead used another genome editing technology called TALENs. Doctors tried many treatments before this, but none of them seemed to work, so scientists received special permission to treat Layla using gene therapy. This therapy saved Layla's life. However, treatments like the one that Layla received are still experimental because the scientific community and policymakers still have to address technical barriers and ethical concerns surrounding genome editing. -->
 
 <!-- Last updated: August 15, 2019 -->
 
-<!-- https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing
-Summary of ethical concerns 
-Scientists and all of us should carefully consider the many ethical concerns that can emerge with genome editing, including safety. First and foremost, genome editing must be safe before it is used to treat patients. Some other ethical questions that scientists and society must consider are:
-
-    Is it okay to use gene therapy on an embryo when it is impossible to get permission from the embryo for treatment? Is getting permission from the parents enough?
-    What if gene therapies are too expensive and only wealthy people can access and afford them? That could worsen existing health inequalities between the rich and poor.
-    Will some people use genome editing for traits not important for health, such as athletic ability or height? Is that okay?
-    Should scientists ever be able to edit germline cells? Edits in the germline would be passed down through generations. -->
-
-
-Given we've now looked at what gene-editing entails, and where the state of research on it stands broadly, let's look at the potential affordances and risks of human gene-editing.
-
 One can easily imagine the prospects of altering a human's genes; the following quotes illustrate this to some degree.
-
-
 
 Current clinical trials involving human genome editing consist of postnatal somatic cell treatments of genetic disorders; I suspect this will continue to be the case in the near-term future, given the uncertainties with germline genome editing and with  prenatal genome editing.
 
@@ -614,6 +601,17 @@ I am not going to discuss human genome editing for enhancement much more, but th
 _What concerns for humanity are there with human gene-editing?_
 
 https://arxiv.org/pdf/1410.5787.pdf?source=post_page---------------------------
+
+> __Summary of ethical concerns__
+> 
+> Scientists and all of us should carefully consider the many ethical concerns that can emerge with genome editing, including safety. First and foremost, genome editing must be safe before it is used to treat patients. Some other ethical questions that scientists and society must consider are:
+> 
+> - Is it okay to use gene therapy on an embryo when it is impossible to get permission from the embryo for treatment? Is getting permission from the parents enough?
+- What if gene therapies are too expensive and only wealthy people can access and afford them? That could worsen existing health inequalities between the rich and poor.
+- Will some people use genome editing for traits not important for health, such as athletic ability or height? Is that okay?
+- Should scientists ever be able to edit germline cells? Edits in the germline would be passed down through generations. 
+> 
+> [See <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>]
 
 #### Contra-Concerns
 
