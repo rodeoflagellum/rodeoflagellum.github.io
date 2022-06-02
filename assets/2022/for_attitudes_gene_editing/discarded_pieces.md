@@ -385,4 +385,67 @@ I will come back to this point, but for now, I imagine that generating considera
 
 
 
+### [Subjective Summary and Other Considerations](#summary-considerations)
 
+
+__Summary__ 
+
+"A speculative piece that is trying to be a report"
+
+Here is a breakdown of what I feel this essay is:
+
+- What I think is important
+- Attempt at being transparent 
+- What I did 
+- Some prior beliefs, not refined
+- Acknowledgements 
+- Motivation 
+  - Humans want to be happy and fulfilled 
+  - 
+  - Genetic disorders 
+- Prospects and Perils
+  - I am interested in biotech. but not obsessed 
+  - Gene-editing might be good; society is complex
+  - Again, gene-editing good/bad? idk
+  - Might as well do a quick scan of gene-editing
+  - Some questions concerning gene-editing 
+  - Don't take what I say as the whole story
+  - Note on the next section 
+  - Important terms 
+  - The terms are similar 
+  -  
+  
+__Other Considerations__ 
+
+- In what ways are gene-editing, genome editing, genetic engineering, gene therapy, and genetic modification different?
+- What databases are there for clinical trials involving human gene-editing? 
+- How important is the postnatal vs. prenatal distinction in human gene-editing relative to the treatment vs. enhancement and somatic vs. germline distinction? 
+
+
+<!-- BOOKS  -->
+
+<!-- [^]: Greely, Henry T. CRISPR people: The science and ethics of editing humans. MIT Press, 2022. <br><br> Notes: <br><br> Quotes:
+
+[^]: Singh, Vijai, and Pawan K. Dhar, eds. Genome engineering via CRISPR-Cas9 system. Academic Press, 2020.<br><br> Notes: <br><br> Quotes:
+
+[^]: Parens, Erik, and Josephine Johnston, eds. Human flourishing in an age of gene editing. Oxford University Press, 2019. <br><br> Notes: <br><br> Quotes:
+
+[]: Braverman, Irus. Gene editing, law, and the environment. New York, NY: Routledge, 2018. <br><br> Notes: <br><br> Quotes:
+
+[^]: Braun, Matthias, Hannah Schickl, and Peter Dabrock, eds. Between Moral Hazard and Legal Uncertainty: Ethical, Legal and Societal Challenges of Human Genome Editing. Springer, 2018. <br><br> Notes: <br><br> Quotes: -->
+
+
+
+<!-- Hello, I am a recently graduated student of Neuroscience and Mathematics from [college], and I am writing a forecasting review of people's attitudes towards human gene-editing. Part of this review is creating forecasting questions. For example, on a PEW Research Center report from 2020, 56% of Indian respondents found gene-editing an appropriate use of science, so we may ask, what % of Indian respondents will find gene-editing an appropriate use of science in 2025? My problem here is that the PEW Research Center and other organizations involved with surveying people's takes on gene-editing are not guaranteed to consistently conduct these surveys. My "ask" to NHGRI is an answer to whether the NHGRI will conduct a survey on people's attitudes towards human gene-editing in the next 10 years, and whether I can talk to a genetics-researcher about this topic (I am interested in aggregating expert opinions on these forecasting questions). Thank you for reading all of this, and I wish you the best!
+
+Kind regards,
+name -->
+
+
+<!-- Gene-editing does not come up in many conversations I have, and when I do mention it, my fairly neurotypical Western friends and family react mostly with cached concern-oriented thoughts such as "If everyone was intelligent, there would be no garbage men (my grandma)" and "Isn't that eugenics?" -->
+
+<!-- _What do people think about tampering with human genes?_
+_What factors are tied to people's attitudes on gene-editing?_
+_What does the future landscape of opinions look like for human gene-editing?_ -->
+
+[^intro-thoughts]: The extent of this introduction was guided how much I felt I needed to understand gene-editing to write this essay, and by my desire to limit the content on gene-editing relative to people's attitudes on it - bringing back up the thought "this is an essay on attitudes towards gene-editing, not gene-editing" helped with this.
