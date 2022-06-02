@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-06-01 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change."
+description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change. This post was originally written for the Metaculus Journal."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
@@ -887,8 +887,6 @@ In all search lists,
 
 In some instances, I may still reference studies or results with (★) or (★★), though I didn't spend much time investigating them. 
 
-The "Table of Covered Research" collects the research I ended up using to update my beliefs on people's attitudes towards human gene-editing. Given my limited time, I aimed to look at around 15-20 surveys, and ended up selecting and reading . 
-
 After collecting all the search results, I then rated them (★) after reading the abstract, (★★) after skimming the paper, and (★★★) after quickly evaluating all of the (★★) results. All PEW Research reports were exceptions in that I automatically gave them (★★★), given the insights and enjoyment I've gained from them in the past. 
 
 Abbreviations for the quickly-chosen reasons for not including the (★) or (★★) surveys:
@@ -897,6 +895,8 @@ Abbreviations for the quickly-chosen reasons for not including the (★) or (★
 - L: Too localized
 - Q: The work seems low quality or not very credible 
 - C: Not comprehensive enough
+
+The "Table of Covered Research" collects the research I ended up using to update my beliefs on people's attitudes towards human gene-editing. Given my limited time, I aimed to look at around 15-20 surveys, and ended up selecting and reading . 
 
 #### *Search Phrases*
 
