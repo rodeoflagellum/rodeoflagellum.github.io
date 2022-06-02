@@ -382,3 +382,7 @@ Level 1: Claims at face value + read entire thing  -->
 - What are the failure modes for human gene-editing, and how should their severity and likelihood be evaluated? -->
 
 I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
+
+
+
+
