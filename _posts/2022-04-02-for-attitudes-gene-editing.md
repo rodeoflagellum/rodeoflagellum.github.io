@@ -2,7 +2,7 @@
 layout: post
 title:  "Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
-modified: 2022-06-01 8:50:00 -0400
+modified: 2022-06-02 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change. This post was originally written for the Metaculus Journal."
@@ -632,6 +632,12 @@ For those unaware, a distinction is typically made between risk outlooks on the 
 > 
 > [See <https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing>]
 
+From[^germline_concerns], 
+
+[^germline_concerns]: Coller, Barry S. "Ethics of human genome editing." Annual Review of Medicine 70 (2019): 289-305.
+
+![](/assets/2022/for_attitudes_gene_editing/images/germline_concerns.png)
+
 <!-- https://arxiv.org/pdf/1410.5787.pdf?source=post_page--------------------------- -->
 
 Jodie Rothschild's 2020 paper _Ethical considerations of gene editing and genetic selection_[^rothchild] synthesizes, in greater detail than we've seen previously, some of the major ethical concerns with human genome editing in response to the He Jiankui affair.
@@ -657,6 +663,8 @@ the research at any point
 - __Insurance__: 
 
 [^rothchild]: Rothschild, Jodie. "Ethical considerations of gene editing and genetic selection." Journal of General and Family Medicine 21, no. 3 (2020): 37-47.
+
+[gs_ethics]: Google Scholar results from searching "Ethics of Human Gene-Editing" (note that there may be duplicate references here; to download the HTML, click [here](/assets/2022/for_attitudes_gene_editing/docs/gs_ethics.html), else <https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=Ethics+of+Human+Genome+Editing&btnG=>): NEED
 
 #### Contra-Concerns
 
@@ -836,7 +844,6 @@ what forms of gene-editing are eventually implemented
 practices come to pass, when these -->
 
 
-
 ### [My Predictions](#my-predictions)
 
 <!-- __Hypotheses__: -->
@@ -879,22 +886,24 @@ Note: In the query-lists below (OpenAlex Queries and Google Queries), the list s
 
 Research that I found outside of this "formal" search is included under "Other Research". 
 
+After collecting all the search results, I then rated them (★), usually after reading the abstract, (★★) after skimming the paper, and (★★★) after evaluating all of the (★★) results.
+
+All PEW Research reports were exceptions in that I automatically gave them (★★★), given the insights and enjoyment I've gained from them in the past. 
+
 In all search lists,
 
-- (★) This search result was useful in understanding people's attitudes on human gene-editing
-- (★★) The same as (★) AND I selected this result to examine more closely, found that it very useful for understanding opinions on human gene-editing, but didn't include it in the final collection due to my limited energies or to its deficits 
-- (★★★) The same as (★) AND this result very useful for understanding opinions on human gene-editing in more ways or to a larger degree than a (★★) result, to the point where I decided to include it in my analysis.
+- (★) indicates a search result that was useful in understanding people's attitudes on human gene-editing
+- (★★) indicates that I selected this result to examine more closely, and found that it very useful for understanding opinions on human gene-editing, but didn't include it in the final collection due to my limited energies or to its deficits 
+- (★★★) indicates this result was very useful for understanding opinions on human gene-editing to the point where I decided to include it in my collection.
 
-In some instances, I may still reference studies or results with (★) or (★★), though I didn't spend much time investigating them. 
+In some instances, I may still reference studies or results with (★) or (★★) in this essay, though I didn't spend much time investigating these. 
 
-After collecting all the search results, I then rated them (★) after reading the abstract, (★★) after skimming the paper, and (★★★) after quickly evaluating all of the (★★) results. All PEW Research reports were exceptions in that I automatically gave them (★★★), given the insights and enjoyment I've gained from them in the past. 
+Abbreviations for the quickly-chosen reasons for not including the (★) or (★★) results in the final collection of surveys and studies:
 
-Abbreviations for the quickly-chosen reasons for not including the (★) or (★★) surveys:
-
-- N: Participants too low relative to the other studies 
-- L: Too localized
-- Q: The work seems low quality or not very credible 
-- C: Not comprehensive enough
+- N: The number of participants was small, especially relative to some of the other studies I looked at
+- L: The survey seemed to narrow in scope or was too localized for our interests 
+- Q: The credibility of the work is questionable, or the quality of the work seems low (an impression that this report and survey were hastily written) 
+- C: The survey or report is not comprehensive enough, especially relative to the other studies I looked at. 
 
 The "Table of Covered Research" collects the research I ended up using to update my beliefs on people's attitudes towards human gene-editing. Given my limited time, I aimed to look at around 15-20 surveys, and ended up selecting and reading . 
 
@@ -930,7 +939,7 @@ This only occurred to me later in my writing of this essay, but "human genome ed
 #### *OpenAlex Queries*
 
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2021>{:target="_blank"}
-  - The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (<https://pubmed.ncbi.nlm.nih.gov/34406038/>{:target="_blank"})
+  - (★★★) The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (<https://pubmed.ncbi.nlm.nih.gov/34406038/>{:target="_blank"})
     - What we know about effective public engagement on CRISPR and beyond (<https://pubmed.ncbi.nlm.nih.gov/34050014/>{:target="_blank"})
     - Setting ethical limits on human gene editing after the fall of the somatic/germline barrier (<https://pubmed.ncbi.nlm.nih.gov/34050016/>{:target="_blank"})
     - Heritable Human Genome Editing: The Public Engagement Imperative (<https://pubmed.ncbi.nlm.nih.gov/33346718/>{:target="_blank"})
@@ -947,13 +956,13 @@ This only occurred to me later in my writing of this essay, but "human genome ed
     - (★★★) D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>{:target="_blank"})
   - (★★★) Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (<https://pubmed.ncbi.nlm.nih.gov/32718240/>{:target="_blank"})
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2019>{:target="_blank"}
-  - A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>{:target="_blank"})
+  - (★★★) A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/29926763/>{:target="_blank"})
   - (★★★) Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (<https://pubmed.ncbi.nlm.nih.gov/30687386/>{:target="_blank"})
   - (★) Attitudes towards genome editing among university students in Costa Rica (<https://www.semanticscholar.org/paper/Attitudes-towards-genome-aditing-among-university-Salazar-Pana/c972eba768ed4d1d333d98ada6beb307f18738ea>{:target="_blank"})
   - (★) Liberal arts student impressions of opportunities in gene editing (<https://www.jstor.org/stable/26849521>{:target="_blank"})
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2018>{:target="_blank"}
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2017>{:target="_blank"}
-  - What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>{:target="_blank"})
+  - (★) What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (<https://pubmed.ncbi.nlm.nih.gov/28974517/>{:target="_blank"})
 - <https://api.openalex.org/works?search=Human%20Gene%20Editing%20Survey&filter=publication_year:2016>{:target="_blank"}
 
 #### *Google Queries*
@@ -967,11 +976,11 @@ This only occurred to me later in my writing of this essay, but "human genome ed
   - (★★★) Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (<https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/>{:target="_blank"})
 - "attitudes toward human gene-editing" (first 3 pages)
   - (★) U.S. attitudes on human genome editing (<https://www.science.org/doi/10.1126/science.aan3708>{:target="_blank"})
-  - A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>{:target="_blank"})
-  - (★) Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>{:target="_blank"})
+  - (★★★) A Global Social Media Survey of Attitudes to Human Genome Editing (<https://www.sciencedirect.com/science/article/pii/S1934590916300546>{:target="_blank"})
+  - (★★) Attitudes Toward Hypothetical Uses of Gene-Editing Technologies in Parents of People with Autosomal Aneuploidies (<https://pubmed.ncbi.nlm.nih.gov/31599684/>{:target="_blank"})
   - [same as sublink] Highly religious Americans more skeptical of human enhancements such as brain implants, gene editing (<https://www.pewresearch.org/fact-tank/2022/05/04/highly-religious-americans-more-skeptical-of-human-enhancements-such-as-brain-implants-gene-editing/>{:target="_blank"})
     - (★★★) AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (<https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/>{:target="_blank"})
-  - What do People Think About Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion>{:target="_blank"})
+  - (★) What do People Think About Genome Editing? (<https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/public-opinion>{:target="_blank"})
   - (★★★) Chinese Public Attitudes on Gene Editing (<https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf>{:target="_blank"})
   - (★★★) Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (<https://www.nature.com/articles/s10038-020-0810-2>{:target="_blank"})
   - (★★) Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (<https://www.dovepress.com/attitudes-of-indonesian-medical-doctors-and-medical-students-toward-ge-peer-reviewed-fulltext-article-JMDH>{:target="_blank"})
@@ -979,15 +988,15 @@ This only occurred to me later in my writing of this essay, but "human genome ed
   - (★★★) Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (<https://pubmed.ncbi.nlm.nih.gov/31599688/>{:target="_blank"})
     - The clinical application of gene editing: ethical and social issues. (<https://pubmed.ncbi.nlm.nih.gov/31331245/>{:target="_blank"})
     - Revising, Correcting, and Transferring Genes. (<https://pubmed.ncbi.nlm.nih.gov/32757931/>{:target="_blank"})
-    - (★★) Attitudes of people with inherited retinal conditions toward gene editing technology. (<https://pubmed.ncbi.nlm.nih.gov/31190471/>{:target="_blank"})
-  - (★★) Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (<https://www.nature.com/articles/s10038-022-01042-z>{:target="_blank"})
-    - (★★) The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/>{:target="_blank"})
+    - (★★)-L Attitudes of people with inherited retinal conditions toward gene editing technology. (<https://pubmed.ncbi.nlm.nih.gov/31190471/>{:target="_blank"})
+  - (★★)-L Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (<https://www.nature.com/articles/s10038-022-01042-z>{:target="_blank"})
+    - (★★★) The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/>{:target="_blank"})
 
 #### *Other Research*
 
 A note should be made that
 
-- Where Will We Draw the Line? Public Opinions of Human Gene Editing (<https://journals.sagepub.com/doi/abs/10.1177/1049732319846867>)
+- Where Will We Draw the Line? Public Opinions of Human Gene Editing (<https://journals.sagepub.com/doi/abs/10.1177/1049732319846867>{:target="_blank"})
 - Public views on gene editing and its uses (<https://www.semanticscholar.org/paper/Public-views-on-gene-editing-and-its-uses-Gaskell-B%C3%A1rd/0b702fe853d7cfe0fcc9ba1ca321f6f62d6e2747#citing-papers>{:target="_blank"}) [Note: the below were found exclusively using CrossRef]
   - CRISPR Images: Media Use and Public Opinion About Gene Editing (<https://www.semanticscholar.org/paper/CRISPR-Images%3A-Media-Use-and-Public-Opinion-About-Dawson-Paintsil/506d8d279d2c517d763d3f5c7ca593ceb70bc7f2>{:target="_blank"})
   - Public acceptability of gene therapy and gene editing for human use: A systematic review. (<https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>{:target="_blank"})
@@ -1629,7 +1638,7 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 [^vera-point]: Raposo, Vera Lucia. "The first Chinese edited babies: a leap of faith in science." JBRA assisted reproduction 23, no. 3 (2019): 197. <br><br> Note that I recycled the list and blockquote relating to Vera's paper from my other essay _[Forecasting Designer Babies][designer-babes]_.
 
-[^timeline]: I searched "timeline of human gene-editing" in FireFox on 05/17/2022, looked at the first page of results, and found the timeline that looked the most useful (where usefulness  = some mental function of credibility and comprehensiveness). I chose the [timeline][genetic_editing_timeline] on <https://www.synthego.com/learn/genome-engineering-history> and added links to Wikipedia pages; Synthego claims of itself: <br>"_Synthego is a genome engineering company that enables the acceleration of life science research and development in the pursuit of improved human health. <br><br> The company leverages machine learning, automation, and gene editing to build platforms for science at scale. With its foundations in engineering disciplines, the company’s platform technologies vertically integrate proprietary hardware, software, bioinformatics, chemistries, and molecular biology to advance basic research, target validation, and clinical trials. <br><br> With its technologies cited in hundreds of peer-reviewed publications and utilized by thousands of commercial and academic researchers and therapeutic drug developers, Synthego is at the forefront of innovation enabling the next generation of medicines by delivering genome editing at an unprecedented scale._"
+[^timeline]: I searched "timeline of human gene-editing" in FireFox on 05/17/2022, looked at the first page of results, and found the timeline that looked the most useful (where usefulness  = some mental function of credibility and comprehensiveness). I chose the [timeline][genetic_editing_timeline] on <https://www.synthego.com/learn/genome-engineering-history>{:target="_blank"} and added links to Wikipedia pages; Synthego claims of itself: <br>"_Synthego is a genome engineering company that enables the acceleration of life science research and development in the pursuit of improved human health. <br><br> The company leverages machine learning, automation, and gene editing to build platforms for science at scale. With its foundations in engineering disciplines, the company’s platform technologies vertically integrate proprietary hardware, software, bioinformatics, chemistries, and molecular biology to advance basic research, target validation, and clinical trials. <br><br> With its technologies cited in hundreds of peer-reviewed publications and utilized by thousands of commercial and academic researchers and therapeutic drug developers, Synthego is at the forefront of innovation enabling the next generation of medicines by delivering genome editing at an unprecedented scale._"
 
 [^updates]: Once the essay is written and submitted, I will post a brief update of my beliefs in the comments.
 
