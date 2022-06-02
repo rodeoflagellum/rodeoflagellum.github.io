@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title:  "\"On being ambitious and celebrating failures\""
+title:  "EAF: \"On being ambitious and celebrating failures\""
 date:  2022-05-26 14:08:00 -0400
 modified: 2022-05-27 15:36:00 -0400
 permalink: "/notes_on_celebrating_failure/"

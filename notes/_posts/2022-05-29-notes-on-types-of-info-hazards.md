@@ -1,7 +1,7 @@
 ---
 layout: post
 category: misc
-title:  "\"Types of information hazards\""
+title:  "EAF: \"Types of information hazards\""
 date:  2022-05-29 12:00:00 -0400
 modified: 2022-05-29 12:30:00 -0400
 permalink: "/notes_on_type_of_info_hazards/"
