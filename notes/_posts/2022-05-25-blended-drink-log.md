@@ -15,8 +15,20 @@ During the summer of 2021, I began to consume substantially more blended drinks 
 
 ---
 
-1. __Overall: 69, 69, N/A__
-- 3 ice cubes (57g)
+__Overall: 86, 83, 68__ 
+- 100 mL unsweetened almond milk 
+- 1 tsp hemp seeds 
+- 2 tsp chia seeds 
+- 1 tsp acai powder
+- 100g blueberries
+- 100g banana
+- 1 Tbsp beet powder
+- 1 tsp "magic mushroom" 
+- 78g ice cubes (4)
+
+
+__Overall: 69, 69, N/A__
+- 57g ice cubes (3)
 - 81g blueberries
 - 58g boysenberry
 - 25g peas 
@@ -28,7 +40,7 @@ During the summer of 2021, I began to consume substantially more blended drinks 
 - 1 Tbsp hemp seeds 
 - 1 Tbsp chia seeds 
 - 1 tsp bee pollen 
-- 280 mL almond milk 
+- 280 mL unsweetened almond milk 
 - V: 4, 6.5, N/A
 - C: 7, 8, N/A
 - T: 6, 6.5, N/A

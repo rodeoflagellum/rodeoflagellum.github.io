@@ -233,3 +233,152 @@ That being said, this section tries to offer a fractional look at the questions:
 That I am not an expert in genetics is a very crucial consideration when you are reading my coverage of human gene-editing; my presentation of the content (it's depth and scope, and the order in which I present things) would likely be very different if I had more experience in the field[^sense_of_the_field].
 
 The next section, which forms the brunt of this essay, actually gets to questions on and related to what people think about gene-editing being performed on humans. -->
+
+> _Homo sapiens_ is a relatively young species and has not had as much time to accumulate genetic variation as have the vast majority of species on earth, most of which predate humans by enormous expanses of time. Nonetheless, there is considerable genetic variation in our species. The human genome comprises about $3 \cdot 10^9$ base pairs of DNA, and the extent of human genetic variation is such that no two humans, save identical twins, ever have been or will be genetically identical. Between any two humans, the amount of genetic variation—biochemical individuality—is about .1 percent. This means that about one base pair out of every 1,000 will be different between any two individuals. Any two (diploid) people have about $6 \cdot 10^6$ base pairs that are different, an important reason for the development of automated procedures to analyze genetic variation [See <https://www.ncbi.nlm.nih.gov/books/NBK20363/>]
+
+<!-- https://www.genome.gov/about-genomics/policy-issues/what-is-Genome-Editing
+> -->
+
+<!-- Last updated: August 15, 2019 -->
+
+<!-- From Wikipedia's [page on Phenylketonuria][wiki_PKU]:
+
+>  Phenylketonuria (PKU) is an inborn error of metabolism that results in decreased metabolism of the amino acid phenylalanine. Untreated PKU can lead to intellectual disability, seizures, behavioral problems, and mental disorders. It may also result in a musty smell and lighter skin. A baby born to a mother who has poorly treated PKU may have heart problems, a small head, and low birth weight. -->
+
+<!-- [wiki_PKU]: https://en.wikipedia.org/wiki/Phenylketonuria "https://en.wikipedia.org/wiki/Phenylketonuria"
+
+A future void of PKU would probably reduce some amount of suffering, which most people would likely consider to be a GOOD thing. 
+
+PKU is just one of example of a genetic disorders that gene-editing can help; Wikipedia's [list of genetic disorders][wiki_list_of_disorders] claims that there are more than 6000 [genetic disorders][wiki_disorder] humans suffer from.
+
+[wiki_disorder]: https://en.wikipedia.org/wiki/Genetic_disorder "https://en.wikipedia.org/wiki/Genetic_disorder"
+
+[wiki_list_of_disorders]: https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list "https://en.wikipedia.org/wiki/List_of_genetic_disorders#Full_genetic_disorders_list" -->
+
+<!-- The [OMIM][OMIM][^OMIM] Gene Map Statistics verifies this:
+
+![](/assets/2022/for_attitudes_gene_editing/images/omim.png)
+
+[OMIM]: https://www.omim.org/about "https://www.omim.org/about" -->
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7140808/
+
+<!-- Nonetheless, it is very easy to imagine negative events of varying magnitude involving human gene-editing. For example, imagine a scenario where a couple illegally has their child's germline modified, with the good intention of eliminating a heritable disease, and the modifications get carried through to future generations without many people knowing. Such as with mutations in DNA, it might be the case that some of the edits result in unintentional and unnoticeable side effects that are only harmful in select instances. This might not appear too bad on the face of it, but the problem is that the germline edits end up being propagated through the wider human gene pool. -->
+
+
+<!-- &emsp; This essay is not an introduction to gene-editing, nor does it seek to comprehensively outline the landscape of debate for or against human gene-editing, but I hope that by adding some exposure to these things, absorbing the current state of people's attitudes towards gene-editing in the following sections will be easier or more enjoyable. -->
+
+
+<!-- While I might still be misperceiving the magnitude of the expected affordances of gene-editing relative to the expected pitfalls (both indirect and direct), or vice versa, my sense is that people believe gene-editing is not risky enough to warrant a full-scale shut down of research on it, and conversely is also not potentially beneficial enough, given the expected risks, to warrant a massive (relative to the current rate of growth) influx of capital investment and research activity. --> 
+
+<!-- - Religion
+  - Protestant [country] [race]
+  - Catholic [country] [race]
+  - Buddhist [country] [race]
+- Education
+  -  
+Look at changes in just education, just race, just religion-->
+
+<!-- In the attitudes section, write down the results and major quotes for each section, including an overarching description. Have a footnote with the citation as well as contentions and notes.
+
+Then aggregate all of these responses.
+
+Make a table of the results with surveys:
+include partipants counts, year, demographic properties.  -->
+
+Hello 
+
+United States: 
+
+
+Less Accepting 
+  - 
+
+More Accepting 
+
+
+See for many papers
+https://projects.iq.harvard.edu/sciencepolicy/blog/arrival-gene-edited-babies-what-lies-ahead
+
+<!-- United States:
+  - Nov. 2021, 5107 Respondants 
+    - Gene-editing for prevention? 
+      - Experience? [N/A, Nothing, Low, High]: [1, 44, 47, 8]
+      - Good for society? [N/A, Not Sure, Bad, Good]: [1, 39, 30, 30]
+      - Would use? [N/A, ++no, +no, +yes, ++yes]: [3, 24, 25, 32, 16]
+    - Gen -->
+
+> Among the discussions that expressed a clear stance,
+Twitter exhibited the largest percentage of posts (701/816,
+85.9%) in opposition, followed by Sina Weibo (968/1140,
+84.91%), Reddit (550/898, 61.2%), and YouTube (567/1078,
+52.59%).
+
+<!-- law database: https://guides.libraries.psu.edu/international-law -->
+
+<!-- See Human Germline Genome Editing 2017 for details on different between genome and gene-editing. -->
+
+
+
+<!-- https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/united-states-embryonic-germline-gene-editing/ -->
+
+
+The stars next to each of these represent what I subjectively evaluate the importance of these questions to be. 
+
+Since this is an essay on people's attitudes  human gene-editing, I will
+
+
+The questions that are likely related to people's attitudes on gene-editing?
+
+<!-- gassian process;
+time series;
+binomial distribution;
+beta-binomial distribution;
+poisson process;
+https://otexts.com/fpp3/judgmental.htm
+https://www.researchgate.net/profile/Javier-Enrique-Medina-Vasquez/publication/41733449_Scenario_planning/links/559b2f0408ae21086d2784ab/Scenario-planning.pdf
+https://www.researchgate.net/profile/Ignacio-Rios/publication/273900727_Multi-period_forecasting_and_scenario_generation_with_limited_data/links/55c8995108aeb97567475590/Multi-period-forecasting-and-scenario-generation-with-limited-data.pdf
+bayesian model of attitudes; update by year to say "current views"
+https://dro.dur.ac.uk/6748/1/6748.pdf
+bayes network: https://web.stanford.edu/class/archive/cs/cs221/cs221.1196/lectures/bayes1.pdf
+SPIES method for q1, q2, q3; done several times  
+bayesian model averaging: https://www.jstor.org/stable/2676803
+  https://www.bayesianspectacles.org/preprint-a-conceptual-introduction-to-bayesian-model-averaging/
+stacking over bayesian model averaging: https://statmodeling.stat.columbia.edu/2021/12/18/use-stacking-rather-than-bayesian-model-averaging/
+likelihoods, not p-values https://stats.stackexchange.com/questions/445348/why-are-p-values-probabilities-rather-than-likelihoods
+https://alexanderetz.com/2015/07/25/understanding-bayes-updating-priors-via-the-likelihood/
+resources:
+  https://www.sciencedirect.com/topics/computer-science/nuisance-parameter
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067488/ -->
+
+<!-- Level 0: claims at face value
+Level 1: Claims at face value + read entire thing  -->
+
+<!-- If you have USA, see how largely opinions have differed. -->
+
+<!-- Analyze all of Ryan's questions.  -->
+
+<!-- How will religiosity change in the coming decade? -->
+
+<!-- How well do aggregated opinions general?  -->
+
+### [General Questions Notes](#general-questions-notes)
+
+
+<!-- Looking for symptoms of people's attitudes, or the topic coming up in public conversation. Things or conferences that are renewed. Polls etc...  -->
+
+- What will be the first country to legalized human genome editing?
+- What country will have the largest use of gene-therapy?
+- What will be the first country to legalize gene-editing?
+- How
+
+### [Selected Questions](#selected-questions)
+
+<!-- - When will the first clinical trials involving human genome editing occur?
+- How successful will the first clinical trials involving human genome editing be?
+- When, if ever, will human gene-editing become widely available?
+- When, if ever, will human gene-editing become widely performed?
+- In what ways might gene-editing be regulated, if available and/or widely used?
+- What are the failure modes for human gene-editing, and how should their severity and likelihood be evaluated? -->
+
+I will come back to this point, but for now, I imagine that generating considerations and scenarios for what transformative effects gene-editing humans could have on humanity is still important; part of this might involve answering or attempting to answer the following questions on human gene-editing (these apply to both treatment and enhancement):
