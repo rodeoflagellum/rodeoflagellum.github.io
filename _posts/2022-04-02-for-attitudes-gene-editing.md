@@ -1691,31 +1691,3 @@ The [cover image][cover_image]{:target="_blank"} for this page was likely taken 
 
 ### [Footnotes](#footnotes)
 
-
-
-
-<!-- (Get some forecasts from friends; reference Yudkowsky's attitudes essay ) -->
-
-
-
-
-
-[^sense_of_the_field]: This statement is supported for me by my anecdotal experience that, after reading another research paper or book chapter on human genome editing, the distinctions I make and the scope of what I believe should be discussed in a purview of human genome editing, among others things, alter largely from what I had written before being exposed to the additional content.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

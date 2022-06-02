@@ -449,3 +449,5 @@ _What factors are tied to people's attitudes on gene-editing?_
 _What does the future landscape of opinions look like for human gene-editing?_ -->
 
 [^intro-thoughts]: The extent of this introduction was guided how much I felt I needed to understand gene-editing to write this essay, and by my desire to limit the content on gene-editing relative to people's attitudes on it - bringing back up the thought "this is an essay on attitudes towards gene-editing, not gene-editing" helped with this.
+
+[^sense_of_the_field]: This statement is supported for me by my anecdotal experience that, after reading another research paper or book chapter on human genome editing, the distinctions I make and the scope of what I believe should be discussed in a purview of human genome editing, among others things, alter largely from what I had written before being exposed to the additional content.
