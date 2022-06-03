@@ -1085,8 +1085,6 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 |Title (Year)|Authors|Link|Extent|
 |:---|:---|:---|:---|
-
-
 |AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|3/9: I looked over the section on human gene-editing, but skimmed their descriptions. I took notes on their methodology and figures for this section.|
 |The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|3/9: I read the first 3 pages in full and skimmed the rest, only looking for descriptions of support/opposition to gene-editing. I took notes on the figures and the support/opposition metrics.| 
 |Citizen views on genome editing: effects of species and purpose (2021)|Gesa Busch, Erin Ryan, Marina A. G. von Keyserlingk, and Daniel M. Weary|<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>{:target="_blank"} and [here][citi_view_gens_2021_DL]|1/9|
