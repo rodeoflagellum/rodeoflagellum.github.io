@@ -2,7 +2,7 @@
 layout: post
 title:  "Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
-modified: 2022-06-02 8:50:00 -0400
+modified: 2022-06-03 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change. This post was originally written for the Metaculus Journal."
@@ -58,7 +58,32 @@ Current TODO:
 []: Discuss the drivers and ask questions about them (make supper list)
 []: Forecasting questions
 []: Have section for agree / disagree with some examples of contentions
-[]: -->
+[]: 
+
+Authoritative delivery 
+
+Find a better quote than the one on human genetic variation to start 
+Links/footnotes for the genetic basis of these entities 
+Link/footnote to "safely" to the quote from Brian Cwok's Ethic paper 
+underline all glossary terms, get wiki links to all terms 
+Get citations for all article PDFs 
+Come up with foonotes for all such things like [See html][^foot]
+Save the files for the clinicaltrials.gov searches 
+Glossay and visuals for all terms 
+Get links for the timeline
+Page numbers and dates and pdfs for all citations 
+Find more definitions for human gene-editing + more 
+Have raw data from the graphs + code in the appendix 
+
+Visualization Code 
+
+Quote on their differences 
+Definitions, then gene and genome editing 
+Then time line 
+
+Include present Metaculus questions on gene-editing in a list, along with the most relevant 
+ones predictions in a foonotes  
+-->
 
 <!-- https://www.metaculus.com/questions/10630/?invite=g2UBTF -->
 
@@ -80,9 +105,9 @@ __General Transparency__[^transparency] (see footnotes):
   - _Feedback?_[^feedback]
 
 <!-- FOOTNOTES################################### -->
-[^transparency]: I often find myself having trouble determining what questions are most important to consider epistemically when reading an article or piece of research. The following transparency remarks I make come from <https://www.openphilanthropy.org/reasoning-transparency>. __Request__: Please, if you have any suggestion for bettering my epistemics, I want to hear them, and will edit this article with useful updates and suggestions. 
+[^transparency]: _General Transparency_: It usually difficult for me to determine which questions are most epistemically salient to a particular article or piece of research. This writing is not an exception, and I believe I might be missing some important considerations for properly framing my essay and being transparent. In the past, I've found the following article useful <https://www.openphilanthropy.org/reasoning-transparency>, and have modeled some of remarks after this post. __Request__: Please, if you have any suggestion for improving the epistemics of this post, I want to hear them, and will edit this article to include useful updates and suggestions made in the comments. 
 
-[^expertise]: I have no formal training in genetics.  I have a B.A. in Neuroscience and Mathematics. I've published 1 research paper. As for forecasting expertise, I am currently rank 54 on Metaculus, with an average Brier score of 0.057 (172 questions). My underconfidence is 25%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts. More about me can be found [here][about_me].
+[^expertise]: I have no formal training in genetics, and am not able to explain the technicalities or present progress bottlenecks of the various gene-editing technologies currently in use. Moreover, I am not too confident in my remembrance and understanding of the core definitions related to gene-editing, though, Anki has helped in this regard). As for my education, I have a B.A. in Neuroscience and Mathematics and, with regard to gene-editing, have read roughly 25 papers on the topic, but not the content (e.g., I don't fully understand how CRISPR-Cas9 works on a detailed level - i.e., I am not currently able to use CRISPR-Cas9 in a lab, even if I had the resources to). That I've published 1 research paper in applied ML is some further evidence towards my capabilities.  As for forecasting expertise, I am currently rank 54 on Metaculus, with an average Brier score of 0.057 (173 questions). My underconfidence is 25%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts, but am very likely not yet at the level of a superforecaster. More about me as a person with interests and goals can be found [here][about_me].
 
 [^EA_relevance]: NEED. From the Impactful Forecasting contest. List posts on EAF about gene-editing. 
 
@@ -844,6 +869,15 @@ I've written up some of the questions[^questions-gene-editing], which range in c
 - When will prenatal human gene-editing become widespread (100k births)? 
 - When will postnatal human gene-editing become widespread (100k usages)?
 - How many trials involving human genome editing will there be on clinicaltrials.gov [2025, 2030, 2035]? 
+
+The questions I've decided to create on Metaculus are:
+
+- What will be the ratio of support for highly religious to non-religious Americans for human gene-editing in 2027? 
+- What will be the ratio of support 
+- Which of the following countries will be first to adopt human gene-editing? 
+- Which of the following countries will be last to adopt human gene-editing? 
+- How many years after the 4th gene-edited child is born will prenatal gene-editing in humans be legalized?
+
 
 
 <!-- There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
