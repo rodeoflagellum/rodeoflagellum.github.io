@@ -8,7 +8,7 @@ permalink: "/notes_on_celebrating_failure/"
 description: "Some notes on Luke Freeman's EAF post \"On being ambitious and celebrating failures\""
 type: Thoughts
 status: Finished
-extent: (3/9)
+extent: (4/9)
 durability: (4/5)
 ---
 
