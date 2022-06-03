@@ -724,11 +724,11 @@ Let's now examine the following questions:
 
 There are two main mediums through which researcher's have examined what people think about human gene-editing: surveys[^surveys] and semantic text analyses[^analyses] of posts and other media on platforms such as Twitter and Reddit. 
 
-[^surveys]: List the examples 
+[^surveys]: List the examples. NEED
 
-[^analyses]: List the examples 
+[^analyses]: List the examples. NEED
 
-The resources I've gathered range from 2015 to 2022, and cover multiple countries and multiple demographics. In total, I looked at 15 surveys, but  
+The resources I've gathered 2015 to 2022, and cover multiple countries and multiple demographics. In total, I looked at 15 surveys, but  
 
 
 
