@@ -451,3 +451,16 @@ _What does the future landscape of opinions look like for human gene-editing?_ -
 [^intro-thoughts]: The extent of this introduction was guided how much I felt I needed to understand gene-editing to write this essay, and by my desire to limit the content on gene-editing relative to people's attitudes on it - bringing back up the thought "this is an essay on attitudes towards gene-editing, not gene-editing" helped with this.
 
 [^sense_of_the_field]: This statement is supported for me by my anecdotal experience that, after reading another research paper or book chapter on human genome editing, the distinctions I make and the scope of what I believe should be discussed in a purview of human genome editing, among others things, alter largely from what I had written before being exposed to the additional content.
+
+|Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (2022)|Shinobu Kobayashi, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama1, Masato Uchiyama, Kaori Muto, Yasuto Takeuchi, Masaki Taira, Haruhiko Sago, and Kenji Takehara|[https://www.nature.com/articles/s10038-022-01042-z][jap_gene_2022]{:target="_blank"} and [here][jap_gene_2022_DL]{:target="_blank"}|1/9|
+|What we know about effective public engagement on CRISPR and beyond (2021)|Dietram A Scheufele, Nicole M Krause, Isabelle Freiling, Dominique Brossard|[https://pubmed.ncbi.nlm.nih.gov/34050014/][what_we_crispr_2021]{:target="_blank"} and [here][what_we_crispr_2021_DL]{:target="_blank"}|1/9|
+|Attitudes of Indonesian Medical Doctors and Medical Students Toward Genome Editing (2021)|Safira Nur Izzah, Dimas Setyanto, Nurina Hasanatuludhhiyah, Danti Nur Indiastuti, Zamal Nasution, and Annette d’Arqom|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8106925/][indo_gene_2021]{:target="_blank"} and [here][indo_gene_2021_DL]{:target="_blank"}|1/9|
+|What Do We (Not) Know About Global Views of Human Gene Editing? Insights and Blind Spots in the CRISPR Era (2020)|Emily L Howell, Shiyu Yang, Becca Beets, Dominique Brossard, Dietram A Scheufele, Michael A Xenos|[https://pubmed.ncbi.nlm.nih.gov/34050016/][what_we_know_crispr_2020]{:target="_blank"} and [here][what_we_know_crispr_2020_DL]{:target="_blank"}|1/9|
+
+
+|Where Will We Draw the Line? Public Opinions of Human Gene Editing (2019)|Kirsten A. Riggan, Richard R. Sharp, and Megan Allyse|[https://journals.sagepub.com/doi/abs/10.1177/1049732319846867][draw_the_line_2019]{:target="_blank"} and [here][draw_the_line_2019_DL]{:target="_blank"}|1/9|
+
+
+
+|What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
+|U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
