@@ -1066,38 +1066,45 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 #### *Table of Covered Research*
 
 
-[pub_acc_review_2020_DL]: /assets/2022/for_attitudes_gene_editing/pub_acc_review_2020_DL.pdf
 
-[pub_view_gen_2017_DL]: /assets/2022/for_attitudes_gene_editing/pub_view_gen_DL_2017.pdf
+
+[citi_view_gens_2021_DL]: /assets/2022/for_attitudes_gene_editing/docs/citi_view_gens_2021_DL.pdf
+
+[inc_aware_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/inc_aware_2020_DL.pdf
+
+[pub_acc_review_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/pub_acc_review_2020_DL.pdf
+
+[pub_view_gen_2017_DL]: /assets/2022/for_attitudes_gene_editing/docs/pub_view_gen_DL_2017.pdf
+
+[enh_threat_2020_DL]: /assets/2022/for_attitudes_gene_editing/docs/enh_threat_2020_DL.pdf
 
 |Title (Year)|Authors|Link|Extent|
 |:---|:---|:---|:---|
-
-|Public acceptability of gene therapy and gene editing for human use: A systematic review (2020) | Juliette Delhove, Ivana Osenk, Ivanka Prichard, and Martin Donnelley | <https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>{:target="_blank"} and [here][pub_acc_review_2020_DL] | 1/9 | 
-
-|Public views on gene editing and its uses (2017) | George Gaskell, Imre Bard, Agnes Allansdottir, Rui Vieira da Cunha, Peter Eduard, Juergen Hampel, Elisabeth Hildt, Christian Hofmaier, Nicole Kronberger, Sheena Laursen, Anna Meijknecht, Salvör Nordal, Alexandre Quintanilha, Gema Revuelta, Núria Saladié, Judit Sándor, Júlio Borlido Santos, Simone Seyringer, Ilina Singh, Han Somsen, Winnie Toonders, Helge Torgersen, Vincent Torre, Márton Varju & Hub Zwart| <https://philpapers.org/archive/ZWAPVO.pdf>{:target="_blank"} and [here][pub_view_gen_2017_DL] | 1/9 | 
+|Citizen views on genome editing: effects of species and purpose (2021)|Gesa Busch, Erin Ryan, Marina A. G. von Keyserlingk, and Daniel M. Weary|<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>{:target="_blank"} and [here][citi_view_gens_2021_DL]|1/9|
+|Public acceptability of gene therapy and gene editing for human use: A systematic review (2020)|Juliette Delhove, Ivana Osenk, Ivanka Prichard, and Martin Donnelley|<https://www.semanticscholar.org/paper/Public-acceptability-of-gene-therapy-and-gene-for-A-Delhove-Osenk/09a910402fef12158b91fab6ab6286c2191ff87e>{:target="_blank"} and [here][pub_acc_review_2020_DL]|1/9| 
+|Enhanced threat or therapeutic benefit? Risk and benefit perceptions of human gene editing by purpose and heritability of edits (2020)|Emily L. Howell, Patrice Kohl, Dietram A. Scheufele, Sarah Clifford, Anqi Shao, Michael A. Xenos, and Dominique Brossard|<https://www.semanticscholar.org/paper/Enhanced-threat-or-therapeutic-benefit-Risk-and-of-Howell-Kohl/47aa3f2bfc10485523fce14076030f3b8c4d11b0>{:target="_blank"} and [here][enh_threat_2020_DL]|1/9|
+|Public views on gene editing and its uses (2017)|George Gaskell, Imre Bard, Agnes Allansdottir, Rui Vieira da Cunha, Peter Eduard, Juergen Hampel, Elisabeth Hildt, Christian Hofmaier, Nicole Kronberger, Sheena Laursen, Anna Meijknecht, Salvör Nordal, Alexandre Quintanilha, Gema Revuelta, Núria Saladié, Judit Sándor, Júlio Borlido Santos, Simone Seyringer, Ilina Singh, Han Somsen, Winnie Toonders, Helge Torgersen, Vincent Torre, Márton Varju & Hub Zwart|<https://philpapers.org/archive/ZWAPVO.pdf>{:target="_blank"} and [here][pub_view_gen_2017_DL]|1/9| 
+|Increased awareness and decreased acceptance of genome-editing technology: The impact of the Chinese twin babies (2020)|Daiki Watanabe, Yoko Saito, Mai Tsuda, and Ryo Ohsawa|<https://www.semanticscholar.org/paper/Increased-awareness-and-decreased-acceptance-of-The-Watanabe-Saito/6ccba038e919e6b49468b0fde6084356eb892dd4>{:target="_blank"} and [here][inc_aware_2020_DL]|1/9|
 
 |AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|3/9: I looked over the section on human gene-editing, but skimmed their descriptions. I took notes on their methodology and figures for this section.|
-|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|3/9: I read the first 3 pages in full and skimmed the rest, only looking for descriptions of support/opposition to gene-editing. I took notes on the figures and the support/opposition metrics. | 
-
-|The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (2021) | Margaret Waltz, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan |[https://pubmed.ncbi.nlm.nih.gov/34406038/][view_from_benches_2021]{:target="_blank"} and [here][view_from_benches_2021_DL]{:target="_blank"} | 1/9 |
-|D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (2019) | Tim Hanson, Heidi Carmen Howard, Emilia Niemiec, Javier Prieto, Marie Prudhomme, Oliver Greene, and George Spedding | <https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>{:target="_blank"} and [here][d25_2019_DL]{:target="_blank"}|1/9|
+|The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|3/9: I read the first 3 pages in full and skimmed the rest, only looking for descriptions of support/opposition to gene-editing. I took notes on the figures and the support/opposition metrics.| 
+|The View from the Benches: Scientists’ Perspectives on the Uses and Governance of Human Gene-Editing Research (2021)|Margaret Waltz, Eric T. Juengst, Teresa Edwards, Gail E. Henderson, Kristine J. Kuczynski, John M. Conley, Paige Della-Penna, and R. Jean Cadigan|[https://pubmed.ncbi.nlm.nih.gov/34406038/][view_from_benches_2021]{:target="_blank"} and [here][view_from_benches_2021_DL]{:target="_blank"}|1/9|
+|D2.5: Public views on genetics, genomics and gene editing in 11 EU and non-EU countries (2019)|Tim Hanson, Heidi Carmen Howard, Emilia Niemiec, Javier Prieto, Marie Prudhomme, Oliver Greene, and George Spedding|<https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d2.5_societal-acceptance-and-awareness-surveys_with-foreword.pdf>{:target="_blank"} and [here][d25_2019_DL]{:target="_blank"}|1/9|
 |Gene editing for treatment and prevention of human diseases: a global survey of gene editing-related researchers. (2020)|Leonardo Fernandes Moutinho Rocha, Luiza Amara Maciel Braga, and Fabio Batista Mota|[https://pubmed.ncbi.nlm.nih.gov/32718240/][survey_treat_res_2020]{:target="_blank"} and [here][survey_treat_res_2020_DL]{:target="_blank"}|1/9|
-
 |A Need for Better Understanding Is the Major Determinant for Public Perceptions of Human Gene Editing (2018)|Tristan McCaughey, David M Budden, Paul G Sanfilippo, George EC Gooden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Alice Pébay, Timothy Baldwin, and Alex W Hewitt|[https://pubmed.ncbi.nlm.nih.gov/29926763/][need_determine_2018]{:target="_blank"} and [here][need_determine_2018_DL]{:target="_blank"}|1/9|
 |Predicting Public Attitudes Toward Gene Editing of Germlines: The Impact of Moral and Hereditary Concern in Human and Animal Applications. (2019)|Christine Critchley, Dianne Nicol, Gordana Bruce, Jarrod Walshe, Tamara Treleaven, and Bernard Tuch|[https://pubmed.ncbi.nlm.nih.gov/30687386/][pred_moral_attitude_2019]{:target="_blank"} and [here][pred_moral_attitude_2019_DL]{:target="_blank"}|1/9|
-
 |Chinese Public Attitudes on Gene Editing (2018)|Liang Chen and Zhi’an Zhang|[https://www.globaltimes.cn/pdf/ChinesePublicAttitudesOnGeneEditing2018.11.12.pdf][china_gene_2018]{:target="_blank"} and [here][china_gene_2018_DL]{:target="_blank"}|1/9|
 |Public Views of Gene Editing for Babies Depend on How It Would Be Used (2018)|PEW Research Center|[https://www.pewresearch.org/science/2018/07/26/public-views-of-gene-editing-for-babies-depend-on-how-it-would-be-used/][public_view_gen_2018]{:target="_blank"} and [here][public_view_gen_2018_DL]{:target="_blank"}|1/9|
-
 |U.S. Public Wary of Biomedical Technologies to ‘Enhance’ Human Abilities (2016)|PEW Research Center|[https://www.pewresearch.org/science/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/][us_wary_2016]{:target="_blank"} and [here][us_wary_2016_DL]{:target="_blank"}|1/9|
 |Chapter 5: Public Views About Biomedical Issues (2015)|PEW Research Center|[https://www.pewresearch.org/science/2015/07/01/chapter-5-public-views-about-biomedical-issues/][chapter_5_2015]{:target="_blank"} and [here][chapter_5_2015_DL]{:target="_blank"}|1/9|
-
 |Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease (2020)|PEW Research Center|[https://www.pewresearch.org/science/2020/12/10/biotechnology-research-viewed-with-caution-globally-but-most-support-gene-editing-for-babies-to-treat-disease/][pew_res_2020]{:target="_blank"} and [here][pew_res_2020_DL]{:target="_blank"}|1/9|
 |A Global Social Media Survey of Attitudes to Human Genome Editing (2016)|Tristan McCaughey, Paul G. Sanfilippo, George E. C. Gooden, David M. Budden, Li Fan, Eva Fenwick, Gwyneth Rees, Casimir MacGregor, Lei Si, Christine Chen, Helena Hai Liang, Timothy Baldwin, Alice Pébay, and Alex W. Hewitt|[https://www.sciencedirect.com/science/article/pii/S1934590916300546][globe_soce_2016]{:target="_blank"} and [here][globe_soce_2016_DL]{:target="_blank"}|1/9|
-
 |Genetics experience impacts attitudes towards germline gene editing: a survey of over 1500 members of the public (2020)|Abbie Jedwab, Danya F. Vears, Cheryl Tse, and Christopher Gynge|[https://www.nature.com/articles/s10038-020-0810-2][germ_1500_2020]{:target="_blank"} and [here][germ_1500_2020_DL]{:target="_blank"}|1/9|
 |Attitudes of Members of Genetics Professional Societies Toward Human Gene Editing (2019)|Alyssa J Armsby, Yvonne Bombard, Nanibaa' A Garrison, Bonnie L Halpern-Felsher, and Kelly E Ormond|[https://pubmed.ncbi.nlm.nih.gov/31599688/][prof_gene_2019]{:target="_blank"} and [here][prof_gene_2019_DL]{:target="_blank"}|1/9|
+
+
+
+
 
 
 |Public attitudes in the clinical application of genome editing on human embryos in Japan: a cross-sectional survey across multiple stakeholders (2022)|Shinobu Kobayashi, Takekazu Miyoshi, Tohru Kobayashi, Itaru Hayakawa, Kevin Y. Urayama1, Masato Uchiyama, Kaori Muto, Yasuto Takeuchi, Masaki Taira, Haruhiko Sago, and Kenji Takehara|[https://www.nature.com/articles/s10038-022-01042-z][jap_gene_2022]{:target="_blank"} and [here][jap_gene_2022_DL]{:target="_blank"}|1/9|
