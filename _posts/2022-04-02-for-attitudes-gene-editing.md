@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-06-03 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "This post includes a scan of people's past and current takes on human gene-editing, and some forecasting questions (along with my predictions on them) on how people's attitudes towards gene-editing might change. This post was originally written for the Metaculus Journal."
+description: "This post consists of a fractional overview of progress in gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and somes forecasts on (along with my predictions on them) on questions relating to people's attitudes towards gene-editing."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
@@ -103,7 +103,7 @@ __General Transparency__[^transparency] (see footnotes):
   - _Actual Contribution?_[^contribution]
   - _Relevance to EA?_[^EA_relevance]
   - _External Review and Feedback?_[^feedback]
-  _ _Priors and Updates?_[^priors]
+  - _Priors and Updates?_[^priors]
 
 <!-- FOOTNOTES################################### -->
 [^transparency]: _General Transparency_: It usually difficult for me to determine which questions are most epistemically salient to a particular article or piece of research. This writing is not an exception, and I believe I might be missing some important considerations for properly framing my essay and being transparent. In the past, I've found the following article useful <https://www.openphilanthropy.org/reasoning-transparency>, and have modeled some of remarks after this post. __Request__: Please, if you have any suggestion for improving the epistemics of this post, I want to hear them, and will edit this article to include useful updates and suggestions made in the comments. 
@@ -754,6 +754,8 @@ There are two main mediums through which researcher's have examined what people 
 
 Within these groupings, there is considerable deviation in methodology, most notably in which groups questions are asked and in which questions are asked. 
 
+At the end of this the end of this section you can find my notes on each of the articles I've covered. 
+
 __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns
 
 United States, N=5107/10260, Nov.1-7 2021
@@ -762,8 +764,25 @@ United States, N=5107/10260, Nov.1-7 2021
   - (*) widespread use? [30, 30, 39, 1] (good, ..., not sure, N/A)
   - if available, use? [16, 32, 25, 24, 3] (++yes, +yes, +no, +++no, N/A)
   - scenarios if GEP widespread
-    - people use it morally poorly [45, 39, 9, 5, 3] ((++yes, +yes, ...)
-    - help people live longer/better []
+    - people use it morally poorly [45, 39, 9, 5, 3] (++yes, +yes, ...)
+    - help people live longer/better [13, 52, 23, 9, 3] (++yes, +yes, ...) 
+    - engender new/good medical progress [16, 51, 22, 8, 3] (++yes, +yes, ...)
+    - goes too far in removing differences [24, 44, 22, 7, 3] (++yes, +yes, ...)
+    - (**) betterment vs. meddling [46, 52, 2]
+    - parents would feel pressured [73, 25, 2]
+    - quality of life [39, 18, 40, 3] (↑, ↓, -, N/A)
+    - change in income inequality gap [55, 8, 35, 2]
+  - roles in regulating GEP
+    - federal government agencies [41, 31, 26, 2] (major, minor, no role, N/A)
+    - gene-editing companies [44, 35, 19, 2]
+    - gene-editing users [55, 29, 15, 2]
+    - medical scientists [67, 21, 10, 2]
+    - (***) government regulation [47, 51, 2] (too far, not far enough, N/A)
+    -  
+Translation:
+
+
+
 
 
 
