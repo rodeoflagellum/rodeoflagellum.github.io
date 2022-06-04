@@ -808,9 +808,24 @@ Translation: In 2022, Americans self-report:
 - There is a even split in people's beliefs about whether (16+32)% or not (25+24)%, they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
 - Most people (45+39%) believe that gene-editing will likely be used in morally egregrious manner; only 5% believe it's very unlikely that gene-editing will be used this way.  
 
-
 [^pew_2022]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
 
+
+__Notes__[^pew_2020]: Biotechnology Research
+Viewed With Caution Globally, but Most Support Gene Editing
+for Babies To Treat Disease
+
+- pre-natal gene-editing (PrGE)
+  - treat disease at birth 
+  - prevent / reduce risk of disease
+  - enhance intelligence  
+  - research on gene-editing 
+
+
+
+[^pew_2020]: Pew Research Center, Dec. 2020, “Biotechnology Research
+Viewed With Caution Globally, but Most Support Gene Editing
+for Babies To Treat Disease"
 
 <!-- [^]: Ni, Congning, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton, Bradley Malin, and Zhijun Yin. "The Public Perception of the# GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study." Journal of medical Internet research 24, no. 3 (2022): e31687. <br><br> Notes: <br><br> Quotes:
 
