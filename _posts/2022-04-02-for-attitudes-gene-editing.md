@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-06-03 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "This post consists of a fractional overview of progress in gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and somes forecasts on (along with my predictions on them) on questions relating to people's attitudes towards gene-editing."
+description: "This post consists of a fractional overview of progress in gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and somes forecasts on questions relating to people's attitudes towards gene-editing."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
@@ -761,8 +761,8 @@ __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempere
 United States, N=5107/10260, Nov.1-7 2021
 - gene-editing for prevention (GEP)
   - experience? [8, 47, 44, 1] (a lot, a little, none, N/A)
-  - (*) widespread use? [30, 30, 39, 1] (good, ..., not sure, N/A)
-  - if available, use? [16, 32, 25, 24, 3] (++yes, +yes, +no, +++no, N/A)
+  - (*) widespread use [30, 30, 39, 1] (good, bad, not sure, N/A)
+  - if available, use [16, 32, 25, 24, 3] (++yes, +yes, +no, ++no, N/A)
   - scenarios if GEP widespread
     - people use it morally poorly [45, 39, 9, 5, 3] (++yes, +yes, ...)
     - help people live longer/better [13, 52, 23, 9, 3] (++yes, +yes, ...) 
@@ -778,11 +778,19 @@ United States, N=5107/10260, Nov.1-7 2021
     - gene-editing users [55, 29, 15, 2]
     - medical scientists [67, 21, 10, 2]
     - (***) government regulation [47, 51, 2] (too far, not far enough, N/A)
-    -  
+    - test standards for gene-editing technology [17, 80, 2] (higher, normal, N/A)
+  - circumstances of GEP
+    - choose diseases/conditions [49, 15, 34, 2] (more, less, no difference, N/A)-morally acceptable
+    - somatic cell [48, 16, 34, 2]
+    - postnatal [53, 11, 34, 2]
+  - use cases for GEP
+    - more attractive [5, 74, 20, 1] (favor, oppose, not sure, N/A)
+    - treatment [71, 10, 18, 1]
+  - general question breakdowns
+    - (*: widespread use (good, bad, not sure)), Men: [36, 29, 35], Women: [24, 32, 44], HS or less: [23, 34, 43], Some college: [33, 28, 39], College graduate: [33, 29, 38], Postgraduate: [38, 28, 34], Much experience: [43, 31, 26], Little experience: [34, 33, 33], No experience: [23, 28, 49], High religiousity: [14, 46, 39], Medium religiousity: [29, 29, 41], Low religiousity: [43, 20, 36]
+    - (**: betterment vs. meddling?), High religiousity: [26, 72], Medium religiousity: [45, 53], Low religiousity: [64, 36]
+    - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]
 Translation:
-
-
-
 
 
 
@@ -1143,7 +1151,7 @@ Ideally, an explanation for my "Extent" labels would be placed elsewhere on this
 
 |Title (Year)|Authors|Link|Extent|
 |:---|:---|:---|:---|
-|AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|3/9: I looked over the section on human gene-editing, but skimmed their descriptions. I took notes on their methodology and figures for this section.|
+|AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns (2022)|PEW Research Center|[https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/][ai_enhance_2022]{:target="_blank"} and [here][ai_enhance_2022_DL]{:target="_blank"}|4/9: I looked over the section on human gene-editing, but skimmed their descriptions. I took notes on their methodology and figures for this section.|
 |The Public Perception of the #GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study (2022)|Congning Ni, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton. Bradley Malin, and Zhijun Yin|[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8957000/][gene_baby_2022]{:target="_blank"} and [here][gene_baby_2022_DL]{:target="_blank"}|3/9: I read the first 3 pages in full and skimmed the rest, only looking for descriptions of support/opposition to gene-editing. I took notes on the figures and the support/opposition metrics.| 
 |Citizen views on genome editing: effects of species and purpose (2021)|Gesa Busch, Erin Ryan, Marina A. G. von Keyserlingk, and Daniel M. Weary|<https://www.semanticscholar.org/paper/Citizen-views-on-genome-editing%3A-effects-of-species-Busch-Ryan/1aea990504a69e961d6aaf0bdec7db56b63a6b7b>{:target="_blank"} and [here][citi_view_gens_2021_DL]|1/9|
 |Examining the relationship between gene editing knowledge, value predispositions, and general science attitudes among U.S. farmers, scientists, policymakers, and the general public (2021)|Christopher Calabrese, Jieyu Ding Featherstone, Matthew Robbins, and George A. Barnett|<https://www.semanticscholar.org/paper/Examining-the-relationship-between-gene-editing-and-Calabrese-Featherstone/04804b6fb2a4a4a872635268bc696d4fa996ae21> and [here][farmers_2021_DL]|1/9|
