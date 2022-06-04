@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-06-03 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "This post consists of a fractional overview of progress in gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and somes forecasts on questions relating to people's attitudes towards gene-editing."
+description: "This post consists of a fractional overview of gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and forecasting questions and considerations relating to people's attitudes towards gene-editing."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
@@ -94,34 +94,33 @@ Dont include a section on your forecasts
 
 __Takeaways__:
 
-- People without training in genetics generally don't support research on human gene-editing
-- Of the people without training in genetics who support research on human gene-editing, most favor gene-editing for treatment over gene-editing for enhancement
+- A strong majority of people favor gene-editing for treatment over enhancement
+- In general, the highly religious, politically conservative, women, and less educated support gene-editing less than their counterparts. 
+- There is some evidence that people begin to support gene-editing more once they learn more about it.
 
 __General Transparency__[^transparency] (see footnotes): 
   - _How much expertise do you have?_[^expertise]
-  - _What are my biases?_[^biases]
-  - _How have you atoned for these biases?_[^atonment]
-  - _Shortcuts taken?_[^shortcuts]
+  - _Priors and Updates?_[^priors]
   - _Epistemic confidence?_[^epistemic_confidence]
-  - _Type of support for my claims?_[^support]
+  - _Shortcuts taken?_[^shortcuts]
   - _Major Inadequacies?_[^inadeq]
+  - _Type of support for my claims?_[^support]
   - _Actual Contribution?_[^contribution]
   - _Relevance to EA?_[^EA_relevance]
   - _External Review and Feedback?_[^feedback]
-  - _Priors and Updates?_[^priors]
 
 <!-- FOOTNOTES################################### -->
 [^transparency]: _General Transparency_: It usually difficult for me to determine which questions are most epistemically salient to a particular article or piece of research. This writing is not an exception, and I believe I might be missing some important considerations for properly framing my essay and being transparent. In the past, I've found the following article useful <https://www.openphilanthropy.org/reasoning-transparency>, and have modeled some of remarks after this post. __Request__: Please, if you have any suggestion for improving the epistemics of this post, I want to hear them, and will edit this article to include useful updates and suggestions made in the comments. 
 
 [^expertise]: _How much expertise do you have?_: I have no formal training in genetics, and am not able to explain the technicalities or present progress bottlenecks of the various gene-editing technologies currently in use. Moreover, I am not too confident in my remembrance and understanding of the core definitions related to gene-editing, though, Anki has helped in this regard). As for my education, I have a B.A. in Neuroscience and Mathematics and, with regard to gene-editing, have read roughly 25 papers on the topic, but not the content (e.g., I don't fully understand how CRISPR-Cas9 works on a detailed level - i.e., I am not currently able to use CRISPR-Cas9 in a lab, even if I had the resources to). That I've published 1 research paper in applied ML is some further evidence towards my capabilities.  As for forecasting expertise, I am currently rank 54 on Metaculus, with an average Brier score of 0.057 (173 questions). My underconfidence is 25%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts, but am very likely not yet at the level of a superforecaster. More about me as a person with interests and goals can be found [here][about_me].
 
-[^EA_relevance]: _Relevance to EA?_: NEED. From the Impactful Forecasting contest. List posts on EAF about gene-editing. 
+[^EA_relevance]: _Relevance to EA?_: Gene-editing is a transformative technology in the sense that in could, in a single generation, tremendously reduce incidences of genetic disorders and disease across humanity. Moreover, gene-editing could eventually be able to safely expand and enhance many traits. These potential benefits need to be balanced against the potential for misuse and against the chance of an undesirable state for humanity emerging later or directly as a consequence of the introduction widespread gene-editing in humans. While the expected value of gene-editing is unclear, it is plausible that in some futures, gene-editing may be a massively positive technological intervention for humanity in the long-term. Given this prospect, it makes sense to allocate some attention to gene-editing in humans as a cause-area in EA. Further evidence of the relvance of gene-editing relevance to EA can be found in Eli, Lifland, Sam Glover, and  Misha_Yagudin's [Impactful Forecastin Contest][impactful]. The question _[How many gene-edited babies will have been born worldwide by the end of 2029?]_[gene_babe_29] had its impactfulness scored in the following manner: "_Decision Importance: 3. Since He Jiankui went rogue (assuming nothing weird was going on with CCP) this has become a v. interesting Q. Important path to reduce suffering (some diseases like sickle cell will be easy to eliminate with CRISPR). Ease of contribution: 2. Fairly tricky to forecast on with no domain-specific expertise but developments here do get media coverage. Neglectedness: 3. Think there hasn't been enough discussion paid to gene-editing so fairly neglected - but decent number of forecasts, just the comments aren't *that* enlightening (yet)._". To date, the EAF does not have too much content on gene-editing. NEED
+
+[impactful]: https://forum.effectivealtruism.org/posts/HDoMrQFG76QtkdrZJ/impactful-forecasting-prize-for-forecast-writeups-on-curated "https://forum.effectivealtruism.org/posts/HDoMrQFG76QtkdrZJ/impactful-forecasting-prize-for-forecast-writeups-on-curated"
+
+[gene_babe_29]: https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/ "https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/"
 
 [^feedback]: _External Review and Feedback?_: Here are some notes and comments given by others on this piece, along with my responses to them. I indicate when and how I update the content based on these notes. 
-
-[^biases]: _What are my biases?_: I am a human - [cognitive biases][wiki_biases] apply accordingly; With regard to human gene-editing, my current belief is that it's expected value is positive, in the long-term. I am optimistic about the average future involving human gene-editing for both treatment and enhancement purposes. 
-
-[^atonment]: _How have you atoned for these biases?_: In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
 
 [^shortcuts]: _Shortcuts taken?_: I operate within the results produced by my initial searches, and haven't considered what fraction of the research landscape I am covering, which means I'm not sure how much I am missing. I did not spend much time learning about gene-editing before writing this, and I did not completely read all the relevant research I came across (I did, however, indicate the extent I engaged with each relevant piece of research). I admit my forecasting analyses are likely missing many considerations. More on my shortcuts can be found in the overview. The articles I looked at could be accused of being cherry picked. I am not sure how much I've omitted from my discussion of gene-editing.
 
@@ -806,7 +805,7 @@ United States, N=5107/10260, Nov.1-7 2021
     - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]
 
 Translation: In 2022, Americans self-report:
-- A roughly equal split between some and no experience in gene-editing, and almost 10% reporting a lot of experience. 
+- A roughly equal split between some (47%) and no (44%) experience in gene-editing, and 8% reporting a lot of experience. 
 - Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
 - There is a even split in people's beliefs about whether (16+32)% or not (25+24)%, they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
 - Most people (45+39%) believe that gene-editing will likely be used in morally egregrious manner; only 5% believe it's very unlikely that gene-editing will be used this way.  

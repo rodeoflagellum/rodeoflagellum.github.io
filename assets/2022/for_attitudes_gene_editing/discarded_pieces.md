@@ -464,3 +464,11 @@ _What does the future landscape of opinions look like for human gene-editing?_ -
 
 |What Do We Really Think About Human Germline Genome Editing, and What Does It Mean for Medicine? (2017)|Kiran Musunuru, William R. Lagor, and Joseph M. Miano|[https://pubmed.ncbi.nlm.nih.gov/28974517/][what_we_want_2017]{:target="_blank"} and [here][what_we_want_2017_DL]{:target="_blank"}|1/9|
 |U.S. attitudes on human genome editing (2017)|Dietram A. Scheufele, Michael A. Xenos, Emily L. Howell, Kathleen M. Rose, Dominique Brossard, and Bruce W. Hardy|[https://www.science.org/doi/10.1126/science.aan3708][us_attitudes_2017]{:target="_blank"} and [here][us_attitudes_2017_DL]{:target="_blank"}|1/9|
+
+
+  - _What are your biases?_[^biases]
+  - _How have you atoned for these biases?_[^atonment]
+
+  [^biases]: _What are my biases?_: I am a human - [cognitive biases][wiki_biases] apply accordingly; With regard to human gene-editing, my current belief is that it's expected value is positive, in the long-term. I am optimistic about the average future involving human gene-editing for both treatment and enhancement purposes. 
+
+[^atonment]: _How have you atoned for these biases?_: In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
