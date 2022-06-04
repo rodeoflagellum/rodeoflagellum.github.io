@@ -77,12 +77,17 @@ Have raw data from the graphs + code in the appendix
 
 Visualization Code 
 
+Remove spaces from footnotes
+
 Quote on their differences 
 Definitions, then gene and genome editing 
 Then time line 
 
 Include present Metaculus questions on gene-editing in a list, along with the most relevant 
 ones predictions in a foonotes  
+
+Add the precautionary principle
+Dont include a section on your forecasts
 -->
 
 <!-- https://www.metaculus.com/questions/10630/?invite=g2UBTF -->
@@ -803,8 +808,8 @@ United States, N=5107/10260, Nov.1-7 2021
 Translation: In 2022, Americans self-report:
 - A roughly equal split between some and no experience in gene-editing, and almost 10% reporting a lot of experience. 
 - Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
-- There is a even split in people's beliefs about whether or not they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing, a third believe they are highly likely to use gene-editing. 
-- 
+- There is a even split in people's beliefs about whether (16+32)% or not (25+24)%, they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
+- Most people (45+39%) believe that gene-editing will likely be used in morally egregrious manner; only 5% believe it's very unlikely that gene-editing will be used this way.  
 
 
 [^pew_2022]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
