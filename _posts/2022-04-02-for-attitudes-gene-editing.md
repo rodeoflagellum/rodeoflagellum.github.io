@@ -525,10 +525,19 @@ Let's take a step back and look at the history of gene-editing[^timeline].
 
 > The first clinical application of CRISPR/Cas9 gene editing was in 2016, when a clinical trial delivered CRISPR gene-edited immune cells to a patient with advanced lung cancer. 
 > 
-> [See Cyranoski D. CRISPR gene‑editing tested in a person for the first time. Nature. 2016;539:479.]
+> [See <https://pubmed.ncbi.nlm.nih.gov/27882996/>[^first_crisp]]
+
+[^first_crisp]: _The first clinical application of CRISPR/Cas9..._: Cyranoski D. CRISPR gene-editing tested in a person for the first time. Nature. 2016 Nov 24;539(7630):479. doi: 10.1038/nature.2016.20988. PMID: 27882996.
 
 - 2017: First CAR T Therapy for Cancer is Approved
 - 2018: First Human Trials for CRISPR are Approved
+
+> The world was shocked in Nov. 25, 2018 by the revelation that He Jiankui had used clustered regularly interspaced short palindromic repeats (‘CRISPR’) to edit embryos—two of which had, sometime in October, become living babies.
+> 
+> [See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6813942/>[^he_jian_cite]]
+
+[^he_jian_cite]: _The world was shocked in Nov. 25, 2018..._: Greely, Henry T. "CRISPR’d babies: human germline genome editing in the ‘He Jiankui affair’." Journal of Law and the Biosciences 6, no. 1 (2019): 111-183.
+
 - 2019: Prime Editing Makes Single Stranded Cuts a Possibility
 - 2020: Success of Clinical Trials and More
 
@@ -790,8 +799,12 @@ United States, N=5107/10260, Nov.1-7 2021
     - (*: widespread use (good, bad, not sure)), Men: [36, 29, 35], Women: [24, 32, 44], HS or less: [23, 34, 43], Some college: [33, 28, 39], College graduate: [33, 29, 38], Postgraduate: [38, 28, 34], Much experience: [43, 31, 26], Little experience: [34, 33, 33], No experience: [23, 28, 49], High religiousity: [14, 46, 39], Medium religiousity: [29, 29, 41], Low religiousity: [43, 20, 36]
     - (**: betterment vs. meddling?), High religiousity: [26, 72], Medium religiousity: [45, 53], Low religiousity: [64, 36]
     - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]
-Translation:
 
+Translation: In 2022, Americans self-report:
+- A roughly equal split between some and no experience in gene-editing, and almost 10% reporting a lot of experience. 
+- Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
+- There is a even split in people's beliefs about whether or not they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing, a third believe they are highly likely to use gene-editing. 
+- 
 
 
 [^pew_2022]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
