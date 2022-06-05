@@ -758,6 +758,12 @@ In summary, the four main axes of contention are:
 
 <!-- Make Manifold's Market markets and link them on EAF and the footnotes --> 
 
+> My aim in this paper is to argue that debates about enhancement are of limited value in dealing with questions about foreseeable clinical uses of germline gene editing. This is for two reasons. First, the use of gene editing for biomedical enhancement in any sort of interesting way is not just technically far off, it involves a different kind of use of gene editing than is currently being pursued in research. Any use of gene editing to enhance our physical or psychological characteristics would likely involve affecting the developmental pathways for these traits in completely different ways than researchers are currently exploring. Second, and more importantly, there are significant questions about future clinical use even for very clearly thera- peutic uses of germline gene editing. I will focus on one in depth: determining rationale for germline gene editing in cases where there are competing therapeutic options.
+> 
+> [See <https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/moving-beyond-therapy-and-enhancement-in-the-ethics-of-gene-editing/0C3C87FF1344EEC69D5457A4E52B58C8>[^enh_nuance]]
+
+[^enh_nuance]: Cwik, Bryan. "Moving beyond ‘therapy’and ‘enhancement’in the ethics of gene editing." Cambridge Quarterly of Healthcare Ethics 28, no. 4 (2019): 695-707.
+
 ---
 
 ## [Mixed Feelings](#peoples-thoughts)
