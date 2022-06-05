@@ -775,8 +775,8 @@ United States, N=5107/10260, Nov.1-7 2021
   - (*) Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
   - There is an even split in people's beliefs about whether (16+32)% or not (25+24)% they are likely to use gene-editing if it's available; however, among those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
   - scenarios if GEP widespread
-    - Most people (45%-highly likely, 39%-likely) believe that gene-editing is at least likely be used in morally egregrious manner; only 5% believe it's highly unlikely that gene-editing will be used this way. 
-    - help people live longer/better [13, 52, 23, 9, 3] (++yes, +yes, ...) 
+    - Most people believe that gene-editing is at least likely (45%-highly likely, 39%-likely) be used in morally egregrious manner; only 5% believe it's highly unlikely that gene-editing will be used this way. 
+    - Despite the above beliefs, 65% of people (13%-highly likely, 52%-likely) believe that widespread GEP will help people to live longer and better; 10% of people believe the complete opposite, i.e. widespread GEP will highly likely not improve people's health, wellbeing, or lifespans. 
     - engender new/good medical progress [16, 51, 22, 8, 3] (++yes, +yes, ...)
     - goes too far in removing differences [24, 44, 22, 7, 3] (++yes, +yes, ...)
     - (**) betterment vs. meddling [46, 52, 2]
