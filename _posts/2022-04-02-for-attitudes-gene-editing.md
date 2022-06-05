@@ -904,40 +904,53 @@ Despite the potential paucity of work in this regard, I believe that generating 
 
 Here is a list of important and/or interesting questions concerning human gene-editing that I've generated. Any further question or operationalization would be welcome in the comments. 
 
-I've written up some of the questions[^questions-gene-editing], which range in clarity and resolvability, from this list on Metaculus[^gene_edit_Metaculus] and Manifold Markets; my criteria for doing this was whether I (and some others) thought the outcome of the question seemed to strongly depend on people's attitudes towards human gene-editing[^tournament]. 
+I've written up some of the questions, which range in clarity and resolvability, from this list on Metaculus[^gene_edit_Metaculus] and Manifold Markets; my criteria for doing this was whether I (and some others) thought the outcome of the question seemed to strongly depend on people's attitudes towards human gene-editing[^tournament]. 
 
 [^tournament]: This is an aside, but since there is a non-trivial chance that I will be able to lead a tournament on "genetic evolution" on Metaculus in the coming months, I've avoided choosing questions from this list that would be better suited for such a tournament. 
 
 [^gene_edit_Metaculus]: The following open questions on human gene-editing exist on Metaculus (searched "gene edit"): Total Gene-Edited Human Births before 2030 <https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/>; Date of Birth of First Cloned Human <https://www.metaculus.com/questions/1537/when-will-the-first-cloned-human-be-born/>; By the year 2100, will any jurisdiction enforce requirements for all births to be genetically engineered? <https://www.metaculus.com/questions/7250/ban-on-genetically-unmodified-humans/>; Will the first human clone be made in China? <https://www.metaculus.com/questions/7660/will-the-first-human-clone-be-made-in-china/>; Will an anti-discrimination law be enacted to protect U.S. federal employees who have been genetically-edited or screened as embryos by 2100? <https://www.metaculus.com/questions/9752/protection-for-the-gene-editedscreened/>; When will a person who was not screened or genetically modified as an embryo file a lawsuit against their parents for not doing so? <https://www.metaculus.com/questions/9793/unscreenunmodified-person-sues-parents/>
 
+<!-- [^questions-gene-editing]: I asked these questions, as well as the one in the section on gene-editing ethics and governance, without having read much on gene-editing. Given this, the questions I ask may not be the most important considerations for the biology, technology, ethics, and governance of gene-editing. I did not go back and revise these questions after learning more about gene-editing. Any considerations for revisions would be appreciated. [^questions-gene-editing]-->
 
-[^questions-gene-editing]: I asked these questions, as well as the one in the section on gene-editing ethics and governance, without having read much on gene-editing. Given this, the questions I ask may not be the most important considerations for the biology, technology, ethics, and governance of gene-editing. I did not go back and revise these questions after learning more about gene-editing. Any considerations for revisions would be appreciated.
+__Gene-Editing Technology__
 
-- How many research results will there be for [TALENS, ZFNs, CRISPR, other genome editors] in [2025, 2030, 2035]?
-- When will the [4th, 100th, 1000th] gene-edited human child be born? 
-- When will [China, US, any country in the European Union, etc...] legalize any form of prenatal human genome editing? (multi-question) 
-- Which of the following countries [China, Israel, USA, Singapore, India, etc...] will be first to legalize prenatal human genome editing? 
-- When [2022 - 2100] will any country legalize prenatal germline genome editing in humans?
-  - <https://www.sciencedirect.com/science/article/abs/pii/S1084952122000799>
-- In the first year after human genome editing is legalized in any country, how many other countries will legalize it? 
-- Where [China, Israel, USA, Singapore, India, etc...] will prenatal germline genome editing in humans first be legalized?  
+- How many research results will there be for [TALENS, ZFNs, CRISPR, other genome editors] in [2025, 2030, 2035, etc...]?
+
+__Gene-Editing Timelines (General)__
+
+- When will the [4th, 100th, 1000th, etc...] gene-edited human child be born? 
+- When [2022 - 2100] will prenatal human gene-editing become widespread (100k births)? 
+- When [2022 - 2100] will postnatal human gene-editing become widespread (100k usages)?
 - When [2022 - 2100] will the first germline genome edited child be born? 
-- Where [China, Israel, USA, Singapore, India, etc...] will the first germline genome edited child be born? 
-- What percentage of [EU, US, Chinese, etc...] citizens will support gene-editing for enhancement in humans? 
-- How will attitudes of the [highly, moderately, lowly] religious towards human gene-editing change [2025, 2030, 2035]? 
-- How will attitudes of [liberals, conservatives] towards human gene-editing change [2025, 2030, 2035]? 
-- What percent of citizens in [China, Israel, USA, Singapore, India] will consider human gene-editing a misuse of science [2025, 2030, 2035]? 
-- When will prenatal human gene-editing become widespread (100k births)? 
-- When will postnatal human gene-editing become widespread (100k usages)?
-- How many trials involving human genome editing will there be on clinicaltrials.gov [2025, 2030, 2035]? 
+- When [2022 - 2100] will any country legalize prenatal germline genome editing in humans?
+- When [2022 - 2100] will there be > 100 clinical trials involving somatic cell genome editing? (see <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146048/pdf/bsr-40-bsr20200127.pdf>)
+- Will prenatal gene-editing in humans be legalized in the jurisdiction where the 4th gene-edited baby is born?
+- In the first year after human genome editing is legalized in any country, how many other countries will legalize it? 
+
+
+- <https://www.sciencedirect.com/science/article/abs/pii/S1084952122000799>
+
+__Gene-Editing Timelines (Localized)__
+- When will [China, US, EU nation, etc...] legalize any form of prenatal human genome editing? (multi-question) 
+- Which of the following countries [China, Israel, USA, Singapore, India, etc...] will be first to legalize prenatal human genome editing? (multi-question) 
+- Where [China, Israel, USA, Singapore, India, etc...] will prenatal germline genome editing in humans first be legalized? 
+- Where [China, Israel, USA, Singapore, India, etc...] will the first germline genome edited child be born?
+
+
+__External Factors__ 
+- How will religiousity change globally by [2025, 2030, 2035, etc...]?
+- How will global education levels change in [2025, 2030, 2035, etc...]?
+- What percent of citizens in [China, Israel, USA, Singapore, India] will consider human gene-editing a misuse of science [2025, 2030, 2035, etc...]? 
+- What will be the ratio of support for highly religious to non-religious Americans for human gene-editing in 2027? 
+- Google Trends Interest on human gene-editing in [2025, 2030, 2035, etc...]?
+
+
+  
+
 
 The questions I've decided to create on Metaculus are:
 
-- What will be the ratio of support for highly religious to non-religious Americans for human gene-editing in 2027? 
-- What will be the ratio of support 
-- Which of the following countries will be first to adopt human gene-editing? 
-- Which of the following countries will be last to adopt human gene-editing? 
-- How many years after the 4th gene-edited child is born will prenatal gene-editing in humans be legalized?
+
 
 
 
