@@ -474,3 +474,38 @@ _What does the future landscape of opinions look like for human gene-editing?_ -
 [^atonment]: _How have you atoned for these biases?_: In this essay, I do not discuss what humanity "should do" with gene-editing, and I have attempted to control for my optimism in my forecasts on people's attitudes towards human gene-editing.
 
 [^forecast]: This is a tentative estimate, and is more in line with how much I think people's opinions will differ from might. I would consider a small difference in forecasts to be around 10%, and a large one to be around 35%. What constitutes a "small" and "large" difference in forecasts probably differs somewhat between people. I would appreciate if you share your forecasts for the questions in this essay in the comments and outline your reasoning. I would also appreciate critiques of my forecasts, as I am typically underconfident.
+
+I should not be recording their data over again 
+
+United States, N=5107/10260, Nov.1-7 2021
+- gene-editing for prevention (GEP)
+  - experience? [8, 47, 44, 1] (a lot, a little, none, N/A)
+  - (*) widespread use [30, 30, 39, 1] (good, bad, not sure, N/A)
+  - if available, use [16, 32, 25, 24, 3] (++yes, +yes, +no, ++no, N/A)
+  - scenarios if GEP widespread
+    - people use it morally poorly [45, 39, 9, 5, 3] (++yes, +yes, ...)
+    - help people live longer/better [13, 52, 23, 9, 3] (++yes, +yes, ...) 
+    - engender new/good medical progress [16, 51, 22, 8, 3] (++yes, +yes, ...)
+    - goes too far in removing differences [24, 44, 22, 7, 3] (++yes, +yes, ...)
+    - (**) betterment vs. meddling [46, 52, 2]
+    - parents would feel pressured [73, 25, 2]
+    - quality of life [39, 18, 40, 3] (↑, ↓, -, N/A)
+    - change in income inequality gap [55, 8, 35, 2]
+  - roles in regulating GEP
+    - federal government agencies [41, 31, 26, 2] (major, minor, no role, N/A)
+    - gene-editing companies [44, 35, 19, 2]
+    - gene-editing users [55, 29, 15, 2]
+    - medical scientists [67, 21, 10, 2]
+    - (***) government regulation [47, 51, 2] (too far, not far enough, N/A)
+    - test standards for gene-editing technology [17, 80, 2] (higher, normal, N/A)
+  - circumstances of GEP
+    - choose diseases/conditions [49, 15, 34, 2] (more, less, no difference, N/A)-morally acceptable
+    - somatic cell [48, 16, 34, 2]
+    - postnatal [53, 11, 34, 2]
+  - use cases for GEP
+    - more attractive [5, 74, 20, 1] (favor, oppose, not sure, N/A)
+    - treatment [71, 10, 18, 1]
+  - general question breakdowns
+    - (*: widespread use (good, bad, not sure)), Men: [36, 29, 35], Women: [24, 32, 44], HS or less: [23, 34, 43], Some college: [33, 28, 39], College graduate: [33, 29, 38], Postgraduate: [38, 28, 34], Much experience: [43, 31, 26], Little experience: [34, 33, 33], No experience: [23, 28, 49], High religiousity: [14, 46, 39], Medium religiousity: [29, 29, 41], Low religiousity: [43, 20, 36]
+    - (**: betterment vs. meddling?), High religiousity: [26, 72], Medium religiousity: [45, 53], Low religiousity: [64, 36]
+    - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]

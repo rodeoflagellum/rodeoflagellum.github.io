@@ -771,11 +771,11 @@ __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempere
 
 United States, N=5107/10260, Nov.1-7 2021
 - gene-editing for prevention (GEP)
-  - experience? [8, 47, 44, 1] (a lot, a little, none, N/A)
-  - (*) widespread use [30, 30, 39, 1] (good, bad, not sure, N/A)
-  - if available, use [16, 32, 25, 24, 3] (++yes, +yes, +no, ++no, N/A)
+  - A roughly equal split between some (47%) and no (44%) experience in gene-editing, and 8% reporting a lot of experience. 
+  - (*) Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
+  - There is an even split in people's beliefs about whether (16+32)% or not (25+24)% they are likely to use gene-editing if it's available; however, among those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
   - scenarios if GEP widespread
-    - people use it morally poorly [45, 39, 9, 5, 3] (++yes, +yes, ...)
+    - Most people (45%-highly likely, 39%-likely) believe that gene-editing is at least likely be used in morally egregrious manner; only 5% believe it's highly unlikely that gene-editing will be used this way. 
     - help people live longer/better [13, 52, 23, 9, 3] (++yes, +yes, ...) 
     - engender new/good medical progress [16, 51, 22, 8, 3] (++yes, +yes, ...)
     - goes too far in removing differences [24, 44, 22, 7, 3] (++yes, +yes, ...)
@@ -803,10 +803,6 @@ United States, N=5107/10260, Nov.1-7 2021
     - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]
 
 Translation: In 2022, Americans self-report:
-- A roughly equal split between some (47%) and no (44%) experience in gene-editing, and 8% reporting a lot of experience. 
-- Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
-- There is a even split in people's beliefs about whether (16+32)% or not (25+24)%, they are likely to use gene-editing if it's available; however, within those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
-- Most people (45+39%) believe that gene-editing will likely be used in morally egregrious manner; only 5% believe it's very unlikely that gene-editing will be used this way.  
 
 [^pew_2022]: Pew Research Center, March 2022, “AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns” <br><br> Quotes: "_Americans strongly support using gene editing techniques for people’s therapeutic needs. But, when it comes to their potential use to enhance human health over the course of a lifetime by reducing a baby’s risk of getting serious diseases or conditions, as many Americans think this would be a bad idea for society as say it would be a good idea. The public is also closely divided over whether they would want this for their own baby. As with previous Pew Research Center surveys on this topic, women and more religious Americans are less accepting of gene editing for this purpose._"
 
@@ -820,6 +816,8 @@ for Babies To Treat Disease
   - prevent / reduce risk of disease
   - enhance intelligence  
   - research on gene-editing 
+- beliefs about evolution
+  - Europe and Russia: [Spain: ]
 
 
 
