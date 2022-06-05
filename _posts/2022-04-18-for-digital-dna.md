@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Forecasting DNA Digital Data Storage"
-date:  2022-04-18 12:00:00 -0400
-last_edit: 2022-05-12 11:00:00 -0400
+title:  "DNA Digital Data Storage"
+date:  2022-06-05 12:00:00 -0400
+last_edit: 2022-06-05 12:30:00 -0400
 permalink: "/for_digital_dna/"
 status: "In Progress"
 type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
-description: "An overview of some trends in DNA digital data storage and an offering of some forecasting questions on the subject."
+description: "An overview of DNA digital data storage and some forecasting questions concerning its future."
 ---
 
-__Epistemic Status__:
+__Takeaways__:
 
-__Disclaimer__:
+__General Transparency__:
 
-__Glossary__:
+__Acknowledgement__:
 
 
 <!-- Search DNA Digital Data Storage on
@@ -36,11 +36,23 @@ google scholar  -->
 
 ---
 
-## [Final Thoughts](#final)
+## [What is it?](#what-is-it)
 
 ---
 
-## [Link Bibliography](#link-bib)
+## [Usefulness?](#usefulness?)
+
+---
+
+## [Trajectories](#trajectories)
+
+---
+
+## [Appendix](#appendix)
+
+### [The Landscape](#the-landscape)
+
+To learn about DNA digital data storage, I began by reading its Wikipedia page. In addition, I went through the first 15 pages of Google Scholar results for "DNA Digital Data Storage" wihtout citations, and skimmed some results and read others. Listed below are the papers I've looked through in some form, along with the extent I've looked through them. 
 
 ---
 
