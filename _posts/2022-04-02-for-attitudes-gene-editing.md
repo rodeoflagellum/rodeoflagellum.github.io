@@ -2,7 +2,7 @@
 layout: post
 title:  "Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
-modified: 2022-06-03 8:50:00 -0400
+modified: 2022-06-05 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 header_image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "This post consists of a fractional overview of gene-editing, a scan of and small discussion on people's past and current takes on human gene-editing, and forecasting questions and considerations relating to people's attitudes towards gene-editing."
@@ -794,7 +794,7 @@ __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempere
 
 United States, N=5107/10260, Nov.1-7 2021
 - gene-editing for prevention (GEP)
-  - There is a roughly equal split between some (47%) and no (44%) experience in gene-editing, with 8% reporting a lot of experience.[^pr_22_1] 
+  - There is a roughly equal split between some (47%) and no (44%) experience in gene-editing, with 8% reporting a lot of experience.[^pr_22_1],[^pr_22_2]
   - (*) Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
   - There is an even split in people's beliefs about whether (16-highly likely, 32-likely)% or not (25-unlikely, 24-highly unlikely)% they are likely to use gene-editing if it's available; however, there are 33% more people that are highly unlikely to use gene-editing than who are highly likely to use it. 
   - scenarios if GEP widespread
@@ -802,9 +802,9 @@ United States, N=5107/10260, Nov.1-7 2021
     - Despite the above beliefs, 65% of people (13%-highly likely, 52%-likely) believe that widespread GEP will help people to live longer and better; 10% of people believe the complete opposite, i.e. widespread GEP will highly likely not improve people's health, wellbeing, or lifespans. There is a nearly identical distribution for beliefs on whether widespread GEP will engender new medical progress. 
     - Most people (24%-highly likely, 44%-likely) believe that GEP will likely go too far in decreasing humanity's genetic diversity. Less than 10% (7%), believe that it's highly unlikely that GEP goes too far in this regard. 
     - (**) In general, there are slightly more (52% vs. 46%) people who believe GEP is an example of meddling than those who believe it's an example of betterment.
-    - Roughly 3/4ths of people believe that if GEP is widespread parents would feel pressured to use it.[^pr_22_2]
-    - quality of life [39, 18, 40, 3] (↑, ↓, -, N/A)
-    - change in income inequality gap [55, 8, 35, 2]
+    - Roughly 3/4ths (73%) of people believe that if GEP is widespread parents would feel pressured to use it.[^pr_22_2]
+    - Roughly 4/5ths of people are split evenly between believing that widespread GEP will either increase (39%) or not change (40%) quality of life; the remaining 1/5th (18%) believe it will decrease quality of life.
+    - Slightly over half of people (55%) believe that income inequality will be increased as a result of gene-editing; those remaining heavily lean towards the belief that there will be no change in income inequality (35%).
   - roles in regulating GEP
     - federal government agencies [41, 31, 26, 2] (major, minor, no role, N/A)
     - gene-editing companies [44, 35, 19, 2]
@@ -843,9 +843,7 @@ for Babies To Treat Disease
 
 
 
-[^pew_2020]: Pew Research Center, Dec. 2020, “Biotechnology Research
-Viewed With Caution Globally, but Most Support Gene Editing
-for Babies To Treat Disease"
+[^pew_2020]: Pew Research Center, Dec. 2020, “Biotechnology Research Viewed With Caution Globally, but Most Support Gene Editing for Babies To Treat Disease"
 
 <!-- [^]: Ni, Congning, Zhiyu Wan, Chao Yan, Yongtai Liu, Ellen Wright Clayton, Bradley Malin, and Zhijun Yin. "The Public Perception of the# GeneEditedBabies Event Across Multiple Social Media Platforms: Observational Study." Journal of medical Internet research 24, no. 3 (2022): e31687. <br><br> Notes: <br><br> Quotes:
 
