@@ -771,16 +771,15 @@ __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempere
 
 United States, N=5107/10260, Nov.1-7 2021
 - gene-editing for prevention (GEP)
-  - A roughly equal split between some (47%) and no (44%) experience in gene-editing, and 8% reporting a lot of experience. 
+  - There is a roughly equal split between some (47%) and no (44%) experience in gene-editing, with 8% reporting a lot of experience. 
   - (*) Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
-  - There is an even split in people's beliefs about whether (16+32)% or not (25+24)% they are likely to use gene-editing if it's available; however, among those who believe they are likely to use gene-editing (16+32)%, a third (16)% believe they are _highly_ likely to use gene-editing. 
+  - There is an even split in people's beliefs about whether (16-highly likely, 32-likely)% or not (25-unlikely, 24-highly unlikely)% they are likely to use gene-editing if it's available; however, there are 33% more people that are highly unlikely to use gene-editing than who are highly likely to use it. 
   - scenarios if GEP widespread
-    - Most people believe that gene-editing is at least likely (45%-highly likely, 39%-likely) be used in morally egregrious manner; only 5% believe it's highly unlikely that gene-editing will be used this way. 
-    - Despite the above beliefs, 65% of people (13%-highly likely, 52%-likely) believe that widespread GEP will help people to live longer and better; 10% of people believe the complete opposite, i.e. widespread GEP will highly likely not improve people's health, wellbeing, or lifespans. 
-    - engender new/good medical progress [16, 51, 22, 8, 3] (++yes, +yes, ...)
-    - goes too far in removing differences [24, 44, 22, 7, 3] (++yes, +yes, ...)
-    - (**) betterment vs. meddling [46, 52, 2]
-    - parents would feel pressured [73, 25, 2]
+    - Most people believe that GEP is likely (45%-highly likely, 39%-likely) be used in morally egregrious manner; only 5% believe it's highly unlikely that gene-editing will be used this way. 
+    - Despite the above beliefs, 65% of people (13%-highly likely, 52%-likely) believe that widespread GEP will help people to live longer and better; 10% of people believe the complete opposite, i.e. widespread GEP will highly likely not improve people's health, wellbeing, or lifespans. There is a nearly identical distribution for beliefs on whether widespread GEP will engender new medical progress. 
+    - Most people (24%-highly likely, 44%-likely) believe that GEP will likely go too far in decreasing humanity's genetic diversity. Less than 10% (7%), believe that it's highly unlikely that GEP goes too far in this regard. 
+    - (**) In general, there are slightly more (52% vs. 46%) people who believe GEP is an example of meddling than those who believe it's an example of betterment.
+    - Roughly 3/4ths of people believe that if GEP is widespread parents would feel pressured to use it.
     - quality of life [39, 18, 40, 3] (↑, ↓, -, N/A)
     - change in income inequality gap [55, 8, 35, 2]
   - roles in regulating GEP
@@ -893,21 +892,21 @@ for Babies To Treat Disease"
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
-Thus far, I have come across few research articles on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the three dimensions of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans.[^closest_example]
+Thus far, I believe I've come across few research articles on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the axes (treatment vs. enhancement, somatic vs. germline) of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans.[^closest_example]
 
 [^closest_example]: It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". NEED
 
-When considering emerging technologies, I believe generating scenarios and making forecasting on these scenarios is a neglected but useful activity.[^uses]
+Despite the potential paucity of work in this regard, I believe that generating potential scenarios for how humanity uses and employs gene-editing and changes as a result of it, and making forecasts on these scenarios, is a useful activity. I imagine one could find other examples of the usefulness of making scenarios and forecasts in the histories of development and adoption of various technologies.[^uses]
 
 [^uses]: NEED 
 
-At a minimum, this process elicits people's attitudes towards some technological phenomenon, which are important for adoption scenarios, even if people's attitudes differ from their behavior. Forecasts also provide evidence towards the plausibility of certain futures involving the technology in question. I expect this to generalize to the technology of human genome editing. 
+<!-- At a minimum, this process elicits people's attitudes towards some technological phenomenon, which are important for adoption scenarios, even if people's attitudes differ from their behavior. Forecasts also provide evidence towards the plausibility of certain futures involving the technology in question. I expect this to generalize to the technology of human genome editing.  -->
 
 Here is a list of important and/or interesting questions concerning human gene-editing that I've generated. Any further question or operationalization would be welcome in the comments. 
 
 I've written up some of the questions[^questions-gene-editing], which range in clarity and resolvability, from this list on Metaculus[^gene_edit_Metaculus] and Manifold Markets; my criteria for doing this was whether I (and some others) thought the outcome of the question seemed to strongly depend on people's attitudes towards human gene-editing[^tournament]. 
 
-[^tournament]: This is an aside, but since there is a non-trivial chance that I will be able to lead a tournament on embryo editing and selection for enhancement on Metaculus in the coming months, I avoided choosing questions from this list that would be better suited for such a tournament. 
+[^tournament]: This is an aside, but since there is a non-trivial chance that I will be able to lead a tournament on "genetic evolution" on Metaculus in the coming months, I've avoided choosing questions from this list that would be better suited for such a tournament. 
 
 [^gene_edit_Metaculus]: The following open questions on human gene-editing exist on Metaculus (searched "gene edit"): Total Gene-Edited Human Births before 2030 <https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/>; Date of Birth of First Cloned Human <https://www.metaculus.com/questions/1537/when-will-the-first-cloned-human-be-born/>; By the year 2100, will any jurisdiction enforce requirements for all births to be genetically engineered? <https://www.metaculus.com/questions/7250/ban-on-genetically-unmodified-humans/>; Will the first human clone be made in China? <https://www.metaculus.com/questions/7660/will-the-first-human-clone-be-made-in-china/>; Will an anti-discrimination law be enacted to protect U.S. federal employees who have been genetically-edited or screened as embryos by 2100? <https://www.metaculus.com/questions/9752/protection-for-the-gene-editedscreened/>; When will a person who was not screened or genetically modified as an embryo file a lawsuit against their parents for not doing so? <https://www.metaculus.com/questions/9793/unscreenunmodified-person-sues-parents/>
 
