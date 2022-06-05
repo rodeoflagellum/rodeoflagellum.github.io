@@ -537,6 +537,12 @@ Let's take a step back and look at the history of gene-editing[^timeline].
 > The world was shocked in Nov. 25, 2018 by the revelation that He Jiankui had used clustered regularly interspaced short palindromic repeats (‘CRISPR’) to edit embryos—two of which had, sometime in October, become living babies.
 > 
 > [See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6813942/>[^he_jian_cite]]
+> 
+> ![](/assets/2022/for_attitudes_gene_editing/images/rogue_jiankui.png)
+> 
+> [See <https://www.sciencedirect.com/science/article/abs/pii/S002561961931016X/>[^rogue_jiankui]]
+
+[^rogue_jiankui]: Meagher, Karen M., Megan A. Allyse, Zubin Master, and Richard R. Sharp. "Reexamining the ethics of human germline editing in the wake of scandal." In Mayo Clinic Proceedings, vol. 95, no. 2, pp. 330-338. Elsevier, 2020.
 
 [^he_jian_cite]: _The world was shocked in Nov. 25, 2018..._: Greely, Henry T. "CRISPR’d babies: human germline genome editing in the ‘He Jiankui affair’." Journal of Law and the Biosciences 6, no. 1 (2019): 111-183.
 
@@ -639,6 +645,12 @@ I am not going to discuss human genome editing for enhancement much more, but th
 ### [Risks and Concerns](#risks-and-concerns)
 _What concerns for humanity are there with human gene-editing?_
 
+Recommendations for Germline Genome editing[^ormond]:
+
+![](/assets/2022/for_attitudes_gene_editing/images/recommendations_germline.png)
+
+[^ormond]: Ormond, Kelly E., Douglas P. Mortlock, Derek T. Scholes, Yvonne Bombard, Lawrence C. Brody, W. Andrew Faucett, Garrison Nanibaa’A et al. "Human germline genome editing." The American Journal of Human Genetics 101, no. 2 (2017): 167-176.
+
 There are a wide range of ethical and technical concerns regarding human gene-editing. 
 
 These concerns organically fall into several different categories: enhancement ethics, societal consequences of widespread genome editing (any usage), germline genome editing ethics, the line between enhancement and treatment, and unintended biological consequences stemming from somatic (or germline) genome editing.
@@ -715,7 +727,7 @@ the research at any point
 
 [gs_ethics]: Google Scholar results from searching "Ethics of Human Gene-Editing" (note that there may be duplicate references here; to download the HTML, click [here](/assets/2022/for_attitudes_gene_editing/docs/gs_ethics.html), else <https://scholar.google.com/scholar?hl=en&as_sdt=0%2C31&q=Ethics+of+Human+Genome+Editing&btnG=>): NEED
 
-#### Contra-Concerns
+#### Contra-Concerns and Nuances
 
 Some papers provide counter-arguments to some of the concerns detailed previously. 
 
@@ -892,23 +904,23 @@ for Babies To Treat Disease"
 
 ## [Forecasting These Attitudes](#forecast-attitudes)
 
-Thus far, I believe I've come across few research articles on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the axes (treatment vs. enhancement, somatic vs. germline) of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans.[^closest_example]
+Thus far, I cannot recall having come across any research articles on human gene-editing that explicitly outline the social, regulatory, technological, and/or economic pathways to different scenarios across the axes (treatment vs. enhancement, somatic vs. germline) of gene-editing, or that actually attach probabilities to any future scenario involving gene-editing in humans.[^closest_example]
 
 [^closest_example]: It is also possible (and somewhat likely) that I am missing a lot here by not having extensively explored search results such as "human gene-editing scenarios". NEED
 
-Despite the potential paucity of work in this regard, I believe that generating potential scenarios for how humanity uses and employs gene-editing and changes as a result of it, and making forecasts on these scenarios, is a useful activity. I imagine one could find other examples of the usefulness of making scenarios and forecasts in the histories of development and adoption of various technologies.[^uses]
+Despite the potential paucity of work in this regard, I believe that generating scenarios for how humanity might employ gene-editing and change as a result of it, and making forecasts on these scenarios, is a useful activity. I imagine one could find other examples of the usefulness of making scenarios and forecasts in the development and adoption histories of various technologies.[^uses]
 
 [^uses]: NEED 
 
 <!-- At a minimum, this process elicits people's attitudes towards some technological phenomenon, which are important for adoption scenarios, even if people's attitudes differ from their behavior. Forecasts also provide evidence towards the plausibility of certain futures involving the technology in question. I expect this to generalize to the technology of human genome editing.  -->
 
-Here is a list of important and/or interesting questions concerning human gene-editing that I've generated. Any further question or operationalization would be welcome in the comments. 
+Here is a list of important and/or interesting questions concerning human gene-editing that I've generated. Any further questions or operationalizations (for the questions I choose to write on Metaculus) would be welcome in the comments. 
 
 I've written up some of the questions, which range in clarity and resolvability, from this list on Metaculus[^gene_edit_Metaculus] and Manifold Markets; my criteria for doing this was whether I (and some others) thought the outcome of the question seemed to strongly depend on people's attitudes towards human gene-editing[^tournament]. 
 
 [^tournament]: This is an aside, but since there is a non-trivial chance that I will be able to lead a tournament on "genetic evolution" on Metaculus in the coming months, I've avoided choosing questions from this list that would be better suited for such a tournament. 
 
-[^gene_edit_Metaculus]: The following open questions on human gene-editing exist on Metaculus (searched "gene edit"): Total Gene-Edited Human Births before 2030 <https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/>; Date of Birth of First Cloned Human <https://www.metaculus.com/questions/1537/when-will-the-first-cloned-human-be-born/>; By the year 2100, will any jurisdiction enforce requirements for all births to be genetically engineered? <https://www.metaculus.com/questions/7250/ban-on-genetically-unmodified-humans/>; Will the first human clone be made in China? <https://www.metaculus.com/questions/7660/will-the-first-human-clone-be-made-in-china/>; Will an anti-discrimination law be enacted to protect U.S. federal employees who have been genetically-edited or screened as embryos by 2100? <https://www.metaculus.com/questions/9752/protection-for-the-gene-editedscreened/>; When will a person who was not screened or genetically modified as an embryo file a lawsuit against their parents for not doing so? <https://www.metaculus.com/questions/9793/unscreenunmodified-person-sues-parents/>
+[^gene_edit_Metaculus]: _...from this list on Metaculus..._: A note should be made that there are already some questions on human gene-editing on Metaculus. Searching "gene edit" on Metaculus produces the following: Total Gene-Edited Human Births before 2030 <https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/>; Date of Birth of First Cloned Human <https://www.metaculus.com/questions/1537/when-will-the-first-cloned-human-be-born/>; By the year 2100, will any jurisdiction enforce requirements for all births to be genetically engineered? <https://www.metaculus.com/questions/7250/ban-on-genetically-unmodified-humans/>; Will the first human clone be made in China? <https://www.metaculus.com/questions/7660/will-the-first-human-clone-be-made-in-china/>; Will an anti-discrimination law be enacted to protect U.S. federal employees who have been genetically-edited or screened as embryos by 2100? <https://www.metaculus.com/questions/9752/protection-for-the-gene-editedscreened/>; When will a person who was not screened or genetically modified as an embryo file a lawsuit against their parents for not doing so? <https://www.metaculus.com/questions/9793/unscreenunmodified-person-sues-parents/>
 
 <!-- [^questions-gene-editing]: I asked these questions, as well as the one in the section on gene-editing ethics and governance, without having read much on gene-editing. Given this, the questions I ask may not be the most important considerations for the biology, technology, ethics, and governance of gene-editing. I did not go back and revise these questions after learning more about gene-editing. Any considerations for revisions would be appreciated. [^questions-gene-editing]-->
 
@@ -927,8 +939,7 @@ __Gene-Editing Timelines (General)__
 - Will prenatal gene-editing in humans be legalized in the jurisdiction where the 4th gene-edited baby is born?
 - In the first year after human genome editing is legalized in any country, how many other countries will legalize it? 
 
-
-- <https://www.sciencedirect.com/science/article/abs/pii/S1084952122000799>
+<!-- - <https://www.sciencedirect.com/science/article/abs/pii/S1084952122000799> -->
 
 __Gene-Editing Timelines (Localized)__
 - When will [China, US, EU nation, etc...] legalize any form of prenatal human genome editing? (multi-question) 
@@ -937,22 +948,15 @@ __Gene-Editing Timelines (Localized)__
 - Where [China, Israel, USA, Singapore, India, etc...] will the first germline genome edited child be born?
 
 
-__External Factors__ 
+__External Factors and Indicators__ 
 - How will religiousity change globally by [2025, 2030, 2035, etc...]?
 - How will global education levels change in [2025, 2030, 2035, etc...]?
 - What percent of citizens in [China, Israel, USA, Singapore, India] will consider human gene-editing a misuse of science [2025, 2030, 2035, etc...]? 
 - What will be the ratio of support for highly religious to non-religious Americans for human gene-editing in 2027? 
 - Google Trends Interest on human gene-editing in [2025, 2030, 2035, etc...]?
-
-
-  
-
+- In the next PEW Research Survey on Global Attitudes Towards Biotechnology, what percentage of people will classify gene-editing as a misuse or appropriate use of science? 
 
 The questions I've decided to create on Metaculus are:
-
-
-
-
 
 <!-- There are many more questions I could ask here. I suspect one major factor affecting the outcomes of all these questions is people's attitudes towards human gene-editing. While it seems difficult to gauge how much sway the public, bioethicists, and genetics researchers have on how gene-editing is used, it is, at the end of it, human decision-making and the beliefs that guide those decisions that determine whether humans are gene-edited. The following questions
 

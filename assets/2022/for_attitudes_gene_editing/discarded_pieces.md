@@ -509,3 +509,19 @@ United States, N=5107/10260, Nov.1-7 2021
     - (*: widespread use (good, bad, not sure)), Men: [36, 29, 35], Women: [24, 32, 44], HS or less: [23, 34, 43], Some college: [33, 28, 39], College graduate: [33, 29, 38], Postgraduate: [38, 28, 34], Much experience: [43, 31, 26], Little experience: [34, 33, 33], No experience: [23, 28, 49], High religiousity: [14, 46, 39], Medium religiousity: [29, 29, 41], Low religiousity: [43, 20, 36]
     - (**: betterment vs. meddling?), High religiousity: [26, 72], Medium religiousity: [45, 53], Low religiousity: [64, 36]
     - (***: government regulation (too far, not far enough)), Republican/lean Republican: [62, 37], Democrat/lean Democrat: [35, 63]
+
+
+****Definition genome editing
+
+‘‘Genome editing’’ collectively refers to a set of technolo-
+gies, including a new tool based on the CRISPR/Cas9
+mechanism discovered in Streptococcus pyogenes.
+
+****Distinction between somatic gene-therapy and genome editing 
+
+In many ways, preceding gene-transfer technologies that fell short of ‘‘genome edit- ing’’—i.e., introduced genes into cells but did not permanently incorporate them into the genome—laid the groundwork for issues presented in this statement. 
+
+In the 1980s, true genome-targeting techniques—that is, the targeted modification of a specific sequence at its normal genomic location rather than the insertion of gene copies at other locations—were pioneered for germline engineering in mice. These early studies catalyzed much research and thought into the scientific advantages of gene targeting over traditional gene-transfer methods. By 2010, decades of work had culminated in the development of a variety of engineered nucleases such as zinc-finger nucleases, meganucleases, and transcription activator-like effector nucleases. In early 2013, the introduction of an RNA-guided nuclease—the CRISPR/Cas9 system adapted from the bacterial species Streptococcus pyo- genes—was shown to specifically cleave target sequences and enable a new approach to precise genome modifica-6–9
+
+Genome-editing tools all work in a similar fashion. They ‘‘target’’ specific DNA sequences for individual genes or non-coding regions by engineering certain proteins or pro- tein-RNA complexes that can then recognize and bind the sequences and generate single-strand or double-strand DNA breaks. For example, a Cas9 protein along with a CRISPR ‘‘guide RNA’’ can find a target gene among the thousands of genes in a cell’s genome and cleave both DNA strands at the target site. It is this cleavage event
+groundwork for the issues presented in this statement. Of relevance here are several key issues raised by early so- matic gene-therapy trials: (1) a real prospect of treating and even curing previously intractable diseases, especially in cases where the primary cause is a defective gene; (2) the possibility of undesirable side effects, sometimes due to the delivery method or to the random insertion site of the transferred DNA itself; and (3) regulatory oversight
