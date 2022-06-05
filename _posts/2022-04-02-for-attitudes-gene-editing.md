@@ -794,7 +794,7 @@ __Notes__[^pew_2022]: AI and Human Enhancement: Americans’ Openness Is Tempere
 
 United States, N=5107/10260, Nov.1-7 2021
 - gene-editing for prevention (GEP)
-  - There is a roughly equal split between some (47%) and no (44%) experience in gene-editing, with 8% reporting a lot of experience.[^pr_22_1],[^pr_22_2]
+  - There is a roughly equal split between some (47%) and no (44%) experience in gene-editing, with 8% reporting a lot of experience.[^pr_22_1]
   - (*) Most aren't sure whether widespread use of gene-editing would be good or bad, but the other 60% is evenly split between good and bad. 
   - There is an even split in people's beliefs about whether (16-highly likely, 32-likely)% or not (25-unlikely, 24-highly unlikely)% they are likely to use gene-editing if it's available; however, there are 33% more people that are highly unlikely to use gene-editing than who are highly likely to use it. 
   - scenarios if GEP widespread
@@ -806,7 +806,7 @@ United States, N=5107/10260, Nov.1-7 2021
     - Roughly 4/5ths of people are split evenly between believing that widespread GEP will either increase (39%) or not change (40%) quality of life; the remaining 1/5th (18%) believe it will decrease quality of life.
     - Slightly over half of people (55%) believe that income inequality will be increased as a result of gene-editing; those remaining heavily lean towards the belief that there will be no change in income inequality (35%).
   - roles in regulating GEP
-    - federal government agencies [41, 31, 26, 2] (major, minor, no role, N/A)
+    - There is a slight majority of people (41%) beliefing federal government agencies should have a major role in regulating gene-editing technologies; the rest are split between believing the government should have a minor role (31%) or no role (26%).
     - gene-editing companies [44, 35, 19, 2]
     - gene-editing users [55, 29, 15, 2]
     - medical scientists [67, 21, 10, 2]
