@@ -38,9 +38,19 @@ google scholar  -->
 
 ## [What is it?](#what-is-it)
 
+### DNA 
+
+### 
+
 ---
 
 ## [Usefulness?](#usefulness?)
+
+### Data, Data, Data, etc...
+
+### One of Several Options 
+
+### Pros and Cons 
 
 ---
 
@@ -52,7 +62,21 @@ google scholar  -->
 
 ### [The Landscape](#the-landscape)
 
-To learn about DNA digital data storage, I began by reading its Wikipedia page. In addition, I went through the first 15 pages of Google Scholar results for "DNA Digital Data Storage" wihtout citations, and skimmed some results and read others. Listed below are the papers I've looked through in some form, along with the extent I've looked through them. 
+To learn about DNA digital data storage, I began by searching "dna digital data storage" on FireFox, and reading the following:
+
+- _DNA digital data storage_ Wikipedia page: <https://en.wikipedia.org/wiki/DNA_digital_data_storage>
+    - Idea: Encode/decode binary data into DNA, which has high storage potential (__Q__: how much?)
+    - Problem: High cost (__Q__: how much?), slow encode/decode times (__Q__: how bad?) 
+    - Event: 2019, 16 GB Wiki. En. stored in synthetic DNA. 
+    - Event: 2021, able to write data into DNA at 18 Mbps..
+
+- DNA Data Storage, Wyss Institute: <https://wyss.harvard.edu/technology/dna-data-storage/>
+- DNA as a digital information storage device: hope or hype? <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5935598/>
+- A primer on DNA data storage and its potential uses: <https://www.techtarget.com/searchstorage/feature/A-primer-on-DNA-data-storage-and-its-potential-uses>
+
+Following this, I went through the first 15 pages of Google Scholar results for "DNA Digital Data Storage" wihtout citations, and skimmed some results and read others. Listed below are my notes on some papers I've looked through, along with the extent I've looked through them.
+
+- 
 
 ---
 
