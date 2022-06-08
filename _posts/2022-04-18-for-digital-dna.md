@@ -51,17 +51,25 @@ bottlenecks  -->
 
 [wiki_E_age]: https://en.wikipedia.org/wiki/Age_of_Earth "https://en.wikipedia.org/wiki/Age_of_Earth"
 
-[^Eage]: Dalrymple, G. Brent. "The age of the Earth in the twentieth century: a problem (mostly) solved." Geological Society, London, Special Publications 190, no. 1 (2001): 205-221. See <https://creationismonline.com/YEC/Dalrymple_B.pdf>.
+[^Eage]: _...roughly 4.54 billion years old_: Dalrymple, G. Brent. "The age of the Earth in the twentieth century: a problem (mostly) solved." Geological Society, London, Special Publications 190, no. 1 (2001): 205-221. See <https://creationismonline.com/YEC/Dalrymple_B.pdf>. Quote: (pp.1) "...the first calculation by Patterson in 1953 of a valid age for the Earth of
+4.55Ga, using the primordial meteoritic lead composition and samples representing the
+composition of modern Earth lead. The value for the age of the Earth in wide use today was
+determined by Tera in 1980, who found a value of 4.54 Ga from a clever analysis of the lead
+isotopic compositions of four ancient conformable lead deposits. Whether this age repre-
+sents the age of the Earth's accretion, of core formation, or of the material from which the
+Earth formed is not yet known, but recent evidence suggests it may approximate the latter."
 
-[^Eage2]: Manhes, Gérard, Claude J. Allègre, Bernard Dupré, and Bruno Hamelin. "Lead isotope study of basic-ultrabasic layered complexes: Speculations about the age of the earth and primitive mantle characteristics." Earth and Planetary Science Letters 47, no. 3 (1980): 370-382.
+[^Eage2]: _...roughly 4.54 billion years old_: Manhes, Gérard, Claude J. Allègre, Bernard Dupré, and Bruno Hamelin. "Lead isotope study of basic-ultrabasic layered complexes: Speculations about the age of the earth and primitive mantle characteristics." Earth and Planetary Science Letters 47, no. 3 (1980): 370-382. Quote: (pp.1) "If these two bodies are considered as pieces of a “primitive” closed-system mantle, a4.55 ± 0.01 age of the earth can be calculated from their Pb initial ratios."
 
 [timeline_of_life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life "https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life"
 
-Radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage,^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The [history of life][] began perhaps 
+[life_began]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms"
+
+Radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage,^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. How the [history of life][timeline_of_life] on Earth [began][life_began] is still being figured out; however, the first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. 
 
 [earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
 
-[^early]: Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. 
+[^early]: _the first microorganisms appeared between "at least 3770 and possibly 4290 million years..."_: Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. Quote: (pp.1) "Here we report putative fossilised microorganisms at least 3770 and possibly 4290 million years old in ferruginous sedimentary rocks, interpreted as seafloor-hydrothermal vent-related precipitates, from the Nuvvuagittuq belt in Canada."
 
 Earliest known life forms
 
