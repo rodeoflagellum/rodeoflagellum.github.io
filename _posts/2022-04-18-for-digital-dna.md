@@ -71,7 +71,9 @@ bottlenecks  -->
 
 [abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
 
-For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured, ribonucleic acid (RNA) is current believed to have constituted the first auto-self-replicating system; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and DNA 
+For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured, ribonucleic acid (RNA) is current believed to have constituted the first auto-self-replicating system; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA).
+
+RNA and DNA are both nucleic acids, 
 
 Most life today 
 
