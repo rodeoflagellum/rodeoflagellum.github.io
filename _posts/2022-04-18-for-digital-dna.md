@@ -36,7 +36,39 @@ google scholar  -->
 
 ---
 
-## [What is it?](#what-is-it)
+<!-- Life + DNA 
+What DNA is 
+Next Generation Sequencing
+Storage potential
+The problem of storage 
+Some expectations 
+DNA digital data storage 
+pros 
+cons 
+bottlenecks  --> 
+
+[wiki_DNA]: https://en.wikipedia.org/wiki/DNA "https://en.wikipedia.org/wiki/DNA"
+
+[wiki_E_age]: https://en.wikipedia.org/wiki/Age_of_Earth "https://en.wikipedia.org/wiki/Age_of_Earth"
+
+[^Eage]: Dalrymple, G. Brent. "The age of the Earth in the twentieth century: a problem (mostly) solved." Geological Society, London, Special Publications 190, no. 1 (2001): 205-221. See <https://creationismonline.com/YEC/Dalrymple_B.pdf>.
+
+[^Eage2]: Manhes, Gérard, Claude J. Allègre, Bernard Dupré, and Bruno Hamelin. "Lead isotope study of basic-ultrabasic layered complexes: Speculations about the age of the earth and primitive mantle characteristics." Earth and Planetary Science Letters 47, no. 3 (1980): 370-382.
+
+[timeline_of_life]: https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life "https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life"
+
+Radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage,^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The [history of life][] began perhaps 
+
+[earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
+
+[^early]: Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. 
+
+Earliest known life forms
+
+th the date of the first life at, and the emergence of DNA at 
+
+
+## [Musings on DNA](#what-is-it)
 
 ### DNA 
 
@@ -78,7 +110,7 @@ To learn about DNA digital data storage, I began by searching "dna digital data 
 
 Following this, I went through the first 10 pages of Google Scholar results for "DNA Digital Data Storage" without citations, and skimmed some results and read others. Listed below are my notes on some papers I've looked through, along with the extent I've looked through them.
 
-- Dahlman, James E. "ALL THE WORLD’S DATA COULD FIT IN AN EGG." Scientific American 320, no. 6 (2019): 68-73. See <https://www.dahlmanlab.org/uploads/5/8/5/6/58561089/scientificamerican0619-68_1.pdf>
+- Dahlman, James E. "ALL THE WORLD’S DATA COULD FIT IN AN EGG." Scientific American 320, no. 6 (2019): 68-73. See <https://www.dahlmanlab.org/uploads/5/8/5/6/58561089/scientificamerican0619-68_1.pdf>.
 - Xu, Chengtao, Chao Zhao, Biao Ma, and Hong Liu. "Uncertainties in synthetic DNA-based data storage." Nucleic acids research 49, no. 10 (2021): 5451-5469. See <https://academic.oup.com/nar/article/49/10/5451/6219117?login=true>. 
 - Ceze, Luis, Jeff Nivala, and Karin Strauss. "Molecular digital data storage using DNA." Nature Reviews Genetics 20, no. 8 (2019): 456-466. See <https://www.nature.com/articles/s41576-019-0125-3>.
 - Meiser, Linda C., Philipp L. Antkowiak, Julian Koch, Weida D. Chen, A. Xavier Kohll, Wendelin J. Stark, Reinhard Heckel, and Robert N. Grass. "Reading and writing digital data in DNA." Nature Protocols 15, no. 1 (2020): 86-101. See <https://www.nature.com/articles/s41596-019-0244-5>
