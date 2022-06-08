@@ -2,7 +2,7 @@
 layout: post
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
-last_edit: 2022-06-07 12:30:00 -0400
+modified: 2022-06-08 12:00:00 -0400
 permalink: "/for_digital_dna/"
 status: "In Progress"
 type: "Essay"
@@ -65,13 +65,20 @@ bottlenecks  -->
 [rna_world]: https://en.wikipedia.org/wiki/RNA_world "https://en.wikipedia.org/wiki/RNA_world"
 
 [^rnaW]: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. Quote: (pp.1) "Did an RNA world exist? Some of the most persuasive arguments in favor of an RNA world are as follows. First, RNA is both an informational molecule and a biocata- lyst—both genotype and phenotype—whereas protein has extremely limited ability to transmit information (as with prions). Thus, RNA should be capable of replicating itself, and indeed RNA can perform the sort of chemistry required for RNA replication (Cech 1986). Second, it is more parsimonious to conceive of a single type of molecule replicating itself than to posit that two different molecules (such as a nucleic acid and a protein capable of replicating that nucleic acid) were synthesized by random chemical reactions in the same place at the same time. Third, the ribosome uses RNA catalysis to perform the key activity of protein synthesis in all extant organisms, so it must have done so in the Last Universal Common Ancestor (LUCA). Fourth, other catalytic activities of RNA—activities that RNA would need in an RNA world but that have not been found in contemporary RNAs—are generally already present in large combinatorial libraries of RNA sequences and can be discovered by SELEX. Fifth, RNA clearly preceded DNA, because multiple enzymes are dedicated to the biosynthesis of the ribonucleotide precursors of RNA, whereas deoxyribonucleotide biosynthesis is derivative of ribonucleotide synthesis, requiring only two additional enzymatic activities (thymidylate synthase and ribonucleotide reductase.) Finally, a primordial RNA world has the attractive feature of continuity; it could evolve into contemporary biology by the sort of events that are well precedented, whereas it is unclear how a self-replicating system based on completely unrelated chemistry could have been supplanted by RNA. 
-    ![](/assets/2022/for_digital_dna/images/rna_world.png)
+
 
 [rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
 
 [abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
 
-For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured, ribonucleic acid (RNA) is current believed to have constituted the first auto-self-replicating system; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA).
+For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured out, ribonucleic acid (RNA) is current believed to have constituted the auto-self-replicating system required for life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW]. 
+
+
+It
+
+DNA content (base pairs)
+1×10e6 to 5×10e6
+1.5×10e7 to 5×10e9
 
 RNA and DNA are both nucleic acids, 
 
@@ -134,6 +141,13 @@ Following this, I went through the first 10 pages of Google Scholar results for 
     - Event: 2021, able to write data into DNA at 18 Mbps.
     - Idea: Cell free vs. In vivo (__Q__: visualization?, explore these) = (Illumina dye sequencing, nanopores vs. CRISPR to make "molecular recorders")
     - Benchmark: 99.3% acc. in 2016 and 99.9999% acc. in 2022 for cell free mechanism -->
+
+
+### [Visuals](#visuals)
+
+___RNA World Hypothesis[^rnaW]___
+
+![](/assets/2022/for_digital_dna/images/rna_world.png)
 
 ---
 
