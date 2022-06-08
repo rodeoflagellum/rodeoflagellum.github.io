@@ -62,11 +62,28 @@ bottlenecks  -->
 
 [life_began]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms"
 
-For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. How the [history of life][timeline_of_life] on Earth [began][life_began] is still being figured out; however, the first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. 
+[rna_world]: https://en.wikipedia.org/wiki/RNA_world "https://en.wikipedia.org/wiki/RNA_world"
+
+[^rnaW]: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. 
+    ![](/assets/2022/for_digital_dna/images/rna_world.png)
+
+[rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
+
+[abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
+
+For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured, Ribonucleic acid (RNA) is current believed to be the prime candidate as the first self-replicating systems; this hypothesis is called the RNA World Hypothesis. 
+
+Most life today 
+
+What precipitate this first life One plausible theory - the RNA World hypothesis - is RNA appeared . 
+
+In any case, the 
+
+To put this into context, an oft cited figure is that a single unfolded strand of DNA could 
 
 [earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
 
-[^early]: _the first microorganisms appeared between "at least 3770 and possibly 4290 million years..."_: Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. Quote: (pp.1) "Here we report putative fossilised microorganisms at least 3770 and possibly 4290 million years old in ferruginous sedimentary rocks, interpreted as seafloor-hydrothermal vent-related precipitates, from the Nuvvuagittuq belt in Canada."
+[^early]: _the first microorganisms appeared between "at least 3770 and possibly 4290 million years..."_ : Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. Quote: (pp.1) "Here we report putative fossilised microorganisms at least 3770 and possibly 4290 million years old in ferruginous sedimentary rocks, interpreted as seafloor-hydrothermal vent-related precipitates, from the Nuvvuagittuq belt in Canada."
 
 Earliest known life forms
 
