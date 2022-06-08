@@ -30,11 +30,10 @@ google scholar  -->
 ---
 
 ## [Table of Contents](#toc)
-<details>
+
 {:.no_toc}
 * TOC
 {:toc}
-</details>
 
 ---
 
@@ -67,7 +66,7 @@ Earth formed is not yet known, but recent evidence suggests it may approximate t
 
 [life_began]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms"
 
-Radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage,Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. How the [history of life][timeline_of_life] on Earth [began][life_began] is still being figured out; however, the first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. 
+Radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. How the [history of life][timeline_of_life] on Earth [began][life_began] is still being figured out; however, the first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. 
 
 [earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
 
