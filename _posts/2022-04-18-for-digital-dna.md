@@ -37,11 +37,19 @@ google scholar  -->
 
 ---
 
-<!-- Life + DNA 
-What DNA is 
-Next Generation Sequencing
-Storage potential
-The problem of storage 
+<!-- 
+MUSINGS ON DNA
+Life on Earth 
+RNA World 
+RNA vs. DNA (longer)
+DNA is dominant 
+Facts on DNA (incl. human genome)
+
+
+The Problem of Storage 
+DNA Storage Potential
+
+
 Some expectations 
 DNA digital data storage 
 pros 
@@ -64,7 +72,7 @@ bottlenecks  -->
 
 [rna_world]: https://en.wikipedia.org/wiki/RNA_world "https://en.wikipedia.org/wiki/RNA_world"
 
-[^rnaW]: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. Quote: (pp.1) "Did an RNA world exist? Some of the most persuasive arguments in favor of an RNA world are as follows. First, RNA is both an informational molecule and a biocata- lyst—both genotype and phenotype—whereas protein has extremely limited ability to transmit information (as with prions). Thus, RNA should be capable of replicating itself, and indeed RNA can perform the sort of chemistry required for RNA replication (Cech 1986). Second, it is more parsimonious to conceive of a single type of molecule replicating itself than to posit that two different molecules (such as a nucleic acid and a protein capable of replicating that nucleic acid) were synthesized by random chemical reactions in the same place at the same time. Third, the ribosome uses RNA catalysis to perform the key activity of protein synthesis in all extant organisms, so it must have done so in the Last Universal Common Ancestor (LUCA). Fourth, other catalytic activities of RNA—activities that RNA would need in an RNA world but that have not been found in contemporary RNAs—are generally already present in large combinatorial libraries of RNA sequences and can be discovered by SELEX. Fifth, RNA clearly preceded DNA, because multiple enzymes are dedicated to the biosynthesis of the ribonucleotide precursors of RNA, whereas deoxyribonucleotide biosynthesis is derivative of ribonucleotide synthesis, requiring only two additional enzymatic activities (thymidylate synthase and ribonucleotide reductase.) Finally, a primordial RNA world has the attractive feature of continuity; it could evolve into contemporary biology by the sort of events that are well precedented, whereas it is unclear how a self-replicating system based on completely unrelated chemistry could have been supplanted by RNA. 
+[^rnaW]: _this hypothesis is called the RNA World Hypothesis, and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)_: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. Quote: (pp.1) "Did an RNA world exist? Some of the most persuasive arguments in favor of an RNA world are as follows. First, RNA is both an informational molecule and a biocata- lyst—both genotype and phenotype—whereas protein has extremely limited ability to transmit information (as with prions). Thus, RNA should be capable of replicating itself, and indeed RNA can perform the sort of chemistry required for RNA replication (Cech 1986). Second, it is more parsimonious to conceive of a single type of molecule replicating itself than to posit that two different molecules (such as a nucleic acid and a protein capable of replicating that nucleic acid) were synthesized by random chemical reactions in the same place at the same time. Third, the ribosome uses RNA catalysis to perform the key activity of protein synthesis in all extant organisms, so it must have done so in the Last Universal Common Ancestor (LUCA). Fourth, other catalytic activities of RNA—activities that RNA would need in an RNA world but that have not been found in contemporary RNAs—are generally already present in large combinatorial libraries of RNA sequences and can be discovered by SELEX. Fifth, RNA clearly preceded DNA, because multiple enzymes are dedicated to the biosynthesis of the ribonucleotide precursors of RNA, whereas deoxyribonucleotide biosynthesis is derivative of ribonucleotide synthesis, requiring only two additional enzymatic activities (thymidylate synthase and ribonucleotide reductase.) Finally, a primordial RNA world has the attractive feature of continuity; it could evolve into contemporary biology by the sort of events that are well precedented, whereas it is unclear how a self-replicating system based on completely unrelated chemistry could have been supplanted by RNA." 
 
 
 [rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
@@ -73,6 +81,11 @@ bottlenecks  -->
 
 For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still being figured out, ribonucleic acid (RNA) is current believed to have constituted the auto-self-replicating system required for life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW]. 
 
+RNA and DNA are both nucleic acids, which mean they consist of nucleotides, which are 
+
+Nucleic acids are the primary mechanism through which genetic information of all cells 
+
+
 
 It
 
@@ -80,7 +93,7 @@ DNA content (base pairs)
 1×10e6 to 5×10e6
 1.5×10e7 to 5×10e9
 
-RNA and DNA are both nucleic acids, 
+
 
 Most life today 
 
@@ -99,7 +112,8 @@ Earliest known life forms
 th the date of the first life at, and the emergence of DNA at 
 
 
----
+
+<!-- ---
 
 ## [Usefulness?](#usefulness?)
 
@@ -111,7 +125,7 @@ th the date of the first life at, and the emergence of DNA at
 
 ---
 
-## [Trajectories](#trajectories)
+## [Trajectories](#trajectories) -->
 
 ---
 
@@ -142,12 +156,25 @@ Following this, I went through the first 10 pages of Google Scholar results for 
     - Idea: Cell free vs. In vivo (__Q__: visualization?, explore these) = (Illumina dye sequencing, nanopores vs. CRISPR to make "molecular recorders")
     - Benchmark: 99.3% acc. in 2016 and 99.9999% acc. in 2022 for cell free mechanism -->
 
+[^meth]: Meiser, Linda C., Philipp L. Antkowiak, Julian Koch, Weida D. Chen, A. Xavier Kohll, Wendelin J. Stark, Reinhard Heckel, and Robert N. Grass. "Reading and writing digital data in DNA." Nature Protocols 15, no. 1 (2020): 86-101.
 
 ### [Visuals](#visuals)
 
 ___RNA World Hypothesis[^rnaW]___
 
 ![](/assets/2022/for_digital_dna/images/rna_world.png)
+
+__RNA and DNA__[^wiki_dna_img]
+
+![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
+
+[^wiki_dna_img]: From Wikipedia: <https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN.svg>. Credit: File:Difference DNA RNA-DE.svg: Sponk / *translation: Sponk, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+
+___Method for DNA Digital Data Storage[^meth]___
+
+![](/assets/2022/for_digital_dna/images/how_its_done.png)
+
+
 
 ---
 
