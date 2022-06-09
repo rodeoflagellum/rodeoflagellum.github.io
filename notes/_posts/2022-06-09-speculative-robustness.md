@@ -30,4 +30,18 @@ If a line of bacteria or virus could be bred to reflect human migration and habi
 
 Are there any prospects with this idea? 
 
-I imagine the immediate problems would be (1) modeling the Earth's climate regions and climate variability in a culture is difficult (2) it is also probably difficult to create genetically some bacteria or virus that follows the parameters of human migratory and population change (3) bacteria don't have civilizations or technological progress, so using bacteria as a model of "humans across the globe", even if everything was implemented correctly, might only reflect the tendencies of human hunter-gatherers 
+I imagine the immediate problems would be (1) modeling the Earth's climate regions and climate variability in a culture is difficult (2) it is also probably difficult to create genetically some bacteria or virus that follows the parameters of human migratory and population change (3) bacteria don't have civilizations or technological progress, so using bacteria as a model of "humans across the globe", even if everything was implemented correctly, might only reflect the tendencies of human hunter-gatherers.
+
+---
+
+- Comment (LW, [jimrandomh](https://www.lesswrong.com/users/jimrandomh)): You can get data on migration patterns directly, there's lots of published country-level immigration data which is good enough. Engineering a bacterium does not help with this in the slightest.
+    - Reply: I did not inquire anywhere about a way to measure human migration patterns under present-day circumstances.
+        I understand this is already known.
+
+        What the question concerns is a way to measure some aspects of humanity's reaction to a global catastrophe.
+
+        "If a line of bacteria or virus could be bred to reflect human migration and habitation patterns, then it might be possible to determine a rough estimate of humanity's robustness to the direct effects and subsequent environmental effects of a global catastrophe in terms of population resilience and migration patterns."
+
+        I am saying that if these known-migration patterns can be engineered into a culture of bacteria, then we might be able to test how these cultures react to catastrophes, and since the culture is a reflection of human population and migration, then we may be able to get some data on how humanity writ large would react to a global catastrophe, since there is a paucity of data on "how humans react to global catastrophes".
+
+        Do you have updated sentiments following this comment?
