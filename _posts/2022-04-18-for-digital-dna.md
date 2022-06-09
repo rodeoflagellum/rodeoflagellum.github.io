@@ -2,7 +2,7 @@
 layout: post
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
-modified: 2022-06-08 12:00:00 -0400
+modified: 2022-06-09 12:00:00 -0400
 permalink: "/for_digital_dna/"
 status: "In Progress"
 type: "Essay"
@@ -74,62 +74,61 @@ bottlenecks  -->
 
 [^rnaW]: _this hypothesis is called the RNA World Hypothesis, and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)_: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. Quote: (pp.1) "Did an RNA world exist? Some of the most persuasive arguments in favor of an RNA world are as follows. First, RNA is both an informational molecule and a biocata- lyst—both genotype and phenotype—whereas protein has extremely limited ability to transmit information (as with prions). Thus, RNA should be capable of replicating itself, and indeed RNA can perform the sort of chemistry required for RNA replication (Cech 1986). Second, it is more parsimonious to conceive of a single type of molecule replicating itself than to posit that two different molecules (such as a nucleic acid and a protein capable of replicating that nucleic acid) were synthesized by random chemical reactions in the same place at the same time. Third, the ribosome uses RNA catalysis to perform the key activity of protein synthesis in all extant organisms, so it must have done so in the Last Universal Common Ancestor (LUCA). Fourth, other catalytic activities of RNA—activities that RNA would need in an RNA world but that have not been found in contemporary RNAs—are generally already present in large combinatorial libraries of RNA sequences and can be discovered by SELEX. Fifth, RNA clearly preceded DNA, because multiple enzymes are dedicated to the biosynthesis of the ribonucleotide precursors of RNA, whereas deoxyribonucleotide biosynthesis is derivative of ribonucleotide synthesis, requiring only two additional enzymatic activities (thymidylate synthase and ribonucleotide reductase.) Finally, a primordial RNA world has the attractive feature of continuity; it could evolve into contemporary biology by the sort of events that are well precedented, whereas it is unclear how a self-replicating system based on completely unrelated chemistry could have been supplanted by RNA." 
 
-
 [rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
 
 [abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
 
-For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system required for the development of early life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW].  
+For those currently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system required for the development of early life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW]. Presently, deoxyribonucleic acid (DNA), the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today[^cell_book]. 
 
-This brings us to the question of what RNA and DNA actually are. The writers on Wikipedia (as of 06/09/2022) have done a much better job at providing a comprehensive definition of RNA and DNA than I could have done[^alt_def_rna]<sup>,</sup>[^alt_def_dna]: 
+[^cell_book]: _...deoxyribonucleic acid (DNA), the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today_: Cooper, Geoffrey M., Robert E. Hausman, and Robert E. Hausman. The cell: a molecular approach. Vol. 8. Washington, DC, USA:: ASM press, 2007. Quote: (pp.6) "As discussed further in Chapter 4, all present-day cells use DNA as the genetic material and employ the same basic mechanisms for DNA replication and expression of the genetic information. Genes are the functional units of inheritance, corresponding to segments of DNA that encode proteins or RNA molecules. The nucleotide sequence of a gene is copied into RNA by a process called transcription. For RNAs that encode proteins, their nucleotide sequence is then used to specify the order of amino acids in a protein by a process called translation."
 
-[wiki_coding]: 
+This brings us to the question of what RNA and DNA actually are. Rather than answer this myself, I default to the writers on Wikipedia (as of 06/09/2022), who have done a much better job at providing a comprehensive definition of RNA and DNA than I could have[^alt_def_rna]<sup>,</sup>[^alt_def_dna]: 
 
-[wiki_decoding]: 
+[wiki_coding]: https://en.wikipedia.org/wiki/Genetic_code "https://en.wikipedia.org/wiki/Genetic_code"
 
-[wiki_regulation]: 
+[wiki_decoding]: https://en.wikipedia.org/wiki/Translation_(biology) "https://en.wikipedia.org/wiki/Translation_(biology)"
 
-[wiki_expression]: 
+[wiki_regulation]: https://en.wikipedia.org/wiki/RNA_interference "https://en.wikipedia.org/wiki/RNA_interference"
 
-[wiki_coding]: 
+[wiki_expression]: https://en.wikipedia.org/wiki/Gene_expression "https://en.wikipedia.org/wiki/Gene_expression"
 
-[wiki_genes]: 
+[wiki_genes]: https://en.wikipedia.org/wiki/Gene "https://en.wikipedia.org/wiki/Gene"
 
-[wiki_DNA]: 
+[wiki_DNA]: https://en.wikipedia.org/wiki/DNA "https://en.wikipedia.org/wiki/DNA"
 
-[wiki_nucleics]: 
+[wiki_nucleics]: https://en.wikipedia.org/wiki/Nucleic_acid "https://en.wikipedia.org/wiki/Nucleic_acid"
 
-[wiki_lipids]: 
+[wiki_lipids]: https://en.wikipedia.org/wiki/Lipid "https://en.wikipedia.org/wiki/Lipid"
+ 
+[wiki_proteins]: https://en.wikipedia.org/wiki/Protein "https://en.wikipedia.org/wiki/Protein"
 
-[wiki_proteins]: 
+[wiki_carbs]: https://en.wikipedia.org/wiki/Carbohydrate "https://en.wikipedia.org/wiki/Carbohydrate"
 
-[wiki_carbs]: 
+[wiki_macros]: https://en.wikipedia.org/wiki/Macromolecule "https://en.wikipedia.org/wiki/Macromolecule"
 
-[wiki_macros]: 
+[wiki_life]: https://en.wikipedia.org/wiki/Life "https://en.wikipedia.org/wiki/Life"
 
-[wiki_life]: 
+[wiki_nucleos]: https://en.wikipedia.org/wiki/Nucleotide "https://en.wikipedia.org/wiki/Nucleotide"
 
-[wiki_nucleos]: 
+[wiki_mRNA]: https://en.wikipedia.org/wiki/Messenger_RNA "https://en.wikipedia.org/wiki/Messenger_RNA"
 
-[wiki_coding]: 
+[wiki_nitro_bases]: https://en.wikipedia.org/wiki/Nucleobase "https://en.wikipedia.org/wiki/Nucleobase"
 
-[wiki_mRNA]: 
+[wiki_gua]: https://en.wikipedia.org/wiki/Guanine "https://en.wikipedia.org/wiki/Guanine"
 
-[wiki_nitro_bases]: 
+[wiki_ura]: https://en.wikipedia.org/wiki/Uracil "https://en.wikipedia.org/wiki/Uracil"
 
-[wiki_gua]: 
+[wiki_ade]: https://en.wikipedia.org/wiki/Adenine "https://en.wikipedia.org/wiki/Adenine"
 
-[wiki_ura]: 
+[wiki_cyto]: https://en.wikipedia.org/wiki/Cytosine "https://en.wikipedia.org/wiki/Cytosine"
 
-[wiki_ade]: 
+[wiki_vir]: https://en.wikipedia.org/wiki/Virus "https://en.wikipedia.org/wiki/Virus"
 
-[wiki_cyto]: 
+[wiki_geno]: https://en.wikipedia.org/wiki/Genome "https://en.wikipedia.org/wiki/Genome"
 
-[wiki_vir]: 
+[wiki_polymer]: https://en.wikipedia.org/wiki/Polymer "https://en.wikipedia.org/wiki/Polymer"
 
-[wiki_geno]: 
-
-> Ribonucleic acid (RNA) is a [polymeric](https://en.wikipedia.org/wiki/Polymer) molecule essential in various biological roles in coding, decoding, regulation and expression of genes. RNA and deoxyribonucleic acid (DNA) are nucleic acids. Along with lipids, proteins, and carbohydrates, nucleic acids constitute one of the four major macromolecules essential for all known forms of life. Like DNA, RNA is assembled as a chain of nucleotides, but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA (mRNA) to convey genetic information (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome. 
+> Ribonucleic acid ([RNA][]) is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][], [decoding][], [regulation][] and [expression][] of[genes][]. RNA and deoxyribonucleic acid ([DNA][]) are [nucleic acids][]. Along with [lipids][], [proteins][], and [carbohydrates][], nucleic acids constitute one of the four major [macromolecules][] essential for all known forms of [life][]. Like DNA, RNA is assembled as a chain of [nucleotides][], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][]) to convey genetic information (using the [nitrogenous][] bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome. 
 > 
 > [See <https://en.wikipedia.org/wiki/RNA>]
 
