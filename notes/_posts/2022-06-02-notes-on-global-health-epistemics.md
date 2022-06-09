@@ -27,7 +27,12 @@ Here are some notes I've taken to try to put everything you've said together. Pl
     - __Idea Support 4__: How well “it’s possible to do a lot of good with a relatively small expenditure of resources” generalizes beyond global health is unclear, and should likely not be a standard belief for other cause-areas. The expected goodness of actions in global health is contingent upon the present world state, which will change (as altruism in global health progresses and becomes more efficient, there will be diminishing returns in the expected goodness of the actions we take today to further global health)
     - __Action Update 1__: Given the altruistic efficiency and clarity within global health, and given people's support for it, it makes sense to introduce EA's altruist market in global health to newcomers; however, we should not "trick" them into thinking EA is solely or mostly about altruism in global heath - rather, we should frame EA's altruist market in global health as an example of what a market likely close to being efficient can look like. 
     
+
+<br>
+
 ---
+
+<br>
 
 [Comment](https://forum.effectivealtruism.org/posts/AMt5JTofBj2S27hyR/global-health-is-important-for-the-epistemic-foundations-of?commentId=kWLQo5YA538cqnsem) (EAF, [Owen Cotton-Barratt](https://forum.effectivealtruism.org/users/owen_cotton-barratt)): "I think the main thing this seems to be missing is that I'm not saying global health has an efficient altruistic market -- I'm saying that if anything does you should expect to see it there. But actually we don't even see it there ... reasonable-looking health interventions vary by ~four orders of magnitude in cost-effectiveness, and the most cost-effective are not fully funded."
 

@@ -3,7 +3,7 @@ layout: post
 category: misc
 title:  "US SARS-CoV-2 Deaths May 2022"
 date:  2022-05-05 13:00:00 -0400
-modified: 2022-05-05 14:09:00 -0400
+modified: 2022-06-09 14:09:00 -0400
 permalink: "/pred_covid_deaths_usa_may_2022/"
 description: "My estimate for how many deaths there will be from SARS-CoV-2 during the month of May 2022."
 tags: [prediction]
@@ -12,9 +12,13 @@ status: Unresolved
 ---
 
 
-__Update 06/05/2022__: The actual number of COVID deaths in the US for May was probably around [] = . 
+__Resolution Update 06/09/2022__: The actual number of COVID deaths in the US for May was around 9479 (993205 for May 1, 1002684 for May 31; see <https://covid.cdc.gov/covid-data-tracker/#trends_totaldeaths>). I should have used the rationale below as just one of many scenarios in some meta-model, rather than just relying on the single model. For context, the rest of this post was written on May 5th 2022. 
+
+<br>
 
 ---
+
+<br>
 
 Recently, I submitted an application to participate in an upcoming existential risk forecasting tournament that is being hosted by [Philip Tetlock][tetlock]. Here is a quote-chunk from the application to the tournament:
 

@@ -66,5 +66,7 @@ As of 06/09/2022, my forecast is as follows:
 
 ![](/notes/assets/2022/europe_monkeypox/monk_for_06092022.png)
 
-My rationale is the 
+My rationale for this present forecast:
+
+- 
 

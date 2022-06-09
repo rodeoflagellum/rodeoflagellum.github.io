@@ -78,6 +78,10 @@ I would be happy to see the “Making enemies instead of friends” made into it
 
 Again, thank you for writing this, Luke!
 
+<br>
+
 ---
+
+<br>
 
 [Comment](https://forum.effectivealtruism.org/posts/Aoe3oXzgwwzhT6gqX/on-being-ambitious-failing-successfully-and-less?commentId=kgvctvc9KimkB3hz5) (EAF, [Luke Freeman](https://forum.effectivealtruism.org/users/lukefreeman)): Thanks for writing this! I strongly upvoted this comment because I think it contributes a lot to and extends the OP on many different points.
