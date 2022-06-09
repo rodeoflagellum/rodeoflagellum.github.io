@@ -34,7 +34,7 @@ I imagine the immediate problems would be (1) modeling the Earth's climate regio
 
 ---
 
-Comment (LW, [jimrandomh](https://www.lesswrong.com/users/jimrandomh)): "You can get data on migration patterns directly, there's lots of published country-level immigration data which is good enough. Engineering a bacterium does not help with this in the slightest."
+[Comment](https://www.lesswrong.com/posts/rXPTkfcuxaoQsMGf5/modeling-humanity-s-robustness-to-gcrs?commentId=iMb5fLhgQtLuhiq53) (LW, [jimrandomh](https://www.lesswrong.com/users/jimrandomh)): "You can get data on migration patterns directly, there's lots of published country-level immigration data which is good enough. Engineering a bacterium does not help with this in the slightest."
 
 Reply: 
 
@@ -49,3 +49,4 @@ What the question concerns is a way to measure some aspects of humanity's reacti
 I am saying that if these known-migration patterns can be engineered into a culture of bacteria, then we might be able to test how these cultures react to catastrophes, and since the culture is a reflection of human population and migration, then we may be able to get some data on how humanity writ large would react to a global catastrophe, since there is a paucity of data on "how humans react to global catastrophes".
 
 Do you have updated sentiments following this comment?
+

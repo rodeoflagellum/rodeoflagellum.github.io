@@ -12,6 +12,8 @@ extent: (4/9)
 durability: (4/5)
 ---
 
+Post: <https://forum.effectivealtruism.org/posts/Aoe3oXzgwwzhT6gqX/on-being-ambitious-failing-successfully-and-less>
+
 Thank you for writing this. Here are some notes / ideas I took while reading. 
 
 > This “celebrating failures” notion is a celebration of both the audacity to try and the humility to learn and change course. It’s a great ideal. I wholeheartedly support it
@@ -75,3 +77,7 @@ Paid training strikes me as something that is neglected and, if scaled, might re
 I would be happy to see the “Making enemies instead of friends” made into its own post.
 
 Again, thank you for writing this, Luke!
+
+---
+
+[Comment](https://forum.effectivealtruism.org/posts/Aoe3oXzgwwzhT6gqX/on-being-ambitious-failing-successfully-and-less?commentId=kgvctvc9KimkB3hz5) (EAF, [Luke Freeman](https://forum.effectivealtruism.org/users/lukefreeman)): Thanks for writing this! I strongly upvoted this comment because I think it contributes a lot to and extends the OP on many different points.
