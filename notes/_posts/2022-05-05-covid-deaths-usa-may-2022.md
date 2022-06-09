@@ -7,6 +7,8 @@ modified: 2022-05-05 14:09:00 -0400
 permalink: "/pred_covid_deaths_usa_may_2022/"
 description: "My estimate for how many deaths there will be from SARS-CoV-2 during the month of May 2022."
 tags: [prediction]
+type: Forecast
+status: Unresolved
 ---
 
 
