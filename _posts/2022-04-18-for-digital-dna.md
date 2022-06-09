@@ -16,7 +16,7 @@ __Takeaways__:
 
 __General Transparency__:
 
-__Acknowledgement__:
+__Acknowledgements__:
 
 
 <!-- Search DNA Digital Data Storage on
