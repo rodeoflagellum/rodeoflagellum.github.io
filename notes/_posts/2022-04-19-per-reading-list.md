@@ -5,13 +5,13 @@ category: misc
 date:  2022-04-19 11:15:00 -0400
 modified: 2022-05-30 15:30:00 -0400
 permalink: "/per_reading_list/"
-header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg
 description: "An unordered and highly arbitrary list of articles, books, and other things that I've read and found important enough to include here (usually this means I've taken notes on the piece), and another unordered and highly arbitrarylist containing what I would like to carefully use to learn."
 tags: [personal, site]
 type: "List"
 status: "Ongoing"
 ---
 
+<!-- header_image: /assets/2022/reading_list/race_course_at_longchamps_1970.17.114.jpg -->
 
 ---
 
