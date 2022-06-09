@@ -79,16 +79,67 @@ bottlenecks  -->
 
 [abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
 
-For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system required for the development of early life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW]. 
+For those presently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system required for the development of early life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW].  
 
+This brings us to the question of what RNA and DNA actually are. The writers on Wikipedia (as of 06/09/2022) have done a much better job at providing a comprehensive definition of RNA and DNA than I could have done[^alt_def_rna]<sup>,</sup>[^alt_def_dna]: 
 
-What is RNA and DNA? Wikipedia can do a much better job at defining these[^alt_def_rna]<sup>,</sup>[^alt_def_dna] than I can: 
+[wiki_coding]: 
+
+[wiki_decoding]: 
+
+[wiki_regulation]: 
+
+[wiki_expression]: 
+
+[wiki_coding]: 
+
+[wiki_genes]: 
+
+[wiki_DNA]: 
+
+[wiki_nucleics]: 
+
+[wiki_lipids]: 
+
+[wiki_proteins]: 
+
+[wiki_carbs]: 
+
+[wiki_macros]: 
+
+[wiki_life]: 
+
+[wiki_nucleos]: 
+
+[wiki_coding]: 
+
+[wiki_mRNA]: 
+
+[wiki_nitro_bases]: 
+
+[wiki_gua]: 
+
+[wiki_ura]: 
+
+[wiki_ade]: 
+
+[wiki_cyto]: 
+
+[wiki_vir]: 
+
+[wiki_geno]: 
 
 > Ribonucleic acid (RNA) is a [polymeric](https://en.wikipedia.org/wiki/Polymer) molecule essential in various biological roles in coding, decoding, regulation and expression of genes. RNA and deoxyribonucleic acid (DNA) are nucleic acids. Along with lipids, proteins, and carbohydrates, nucleic acids constitute one of the four major macromolecules essential for all known forms of life. Like DNA, RNA is assembled as a chain of nucleotides, but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA (mRNA) to convey genetic information (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome. 
+> 
+> [See <https://en.wikipedia.org/wiki/RNA>]
 
-> Deoxyribonucleic acid (/diːˈɒksɪˌraɪboʊnjuːˌkliːɪk, -ˌkleɪ-/ (listen);[1] DNA) is a polymer composed of two polynucleotide chains that coil around each other to form a double helix carrying genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses. DNA and ribonucleic acid (RNA) are nucleic acids. Alongside proteins, lipids and complex carbohydrates (polysaccharides), nucleic acids are one of the four major types of macromolecules that are essential for all known forms of life. 
+and 
 
-[^alt_def_dna]: 
+> Deoxyribonucleic acid is a [polymer](https://en.wikipedia.org/wiki/Polymer) composed of two polynucleotide chains that coil around each other to form a double helix carrying genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses. DNA and ribonucleic acid (RNA) are nucleic acids. Alongside proteins, lipids and complex carbohydrates (polysaccharides), nucleic acids are one of the four major types of macromolecules that are essential for all known forms of life. 
+> 
+> [See <https://en.wikipedia.org/wiki/DNA>]
+
+[^alt_def_dna]: _defining these_: Here are some alternate definitions of DNA: From <https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet>; "Deoxyribonucleic acid (DNA) is a molecule that contains the biological instructions that make each species unique. DNA, along with the instructions it contains, is passed from adult organisms to their offspring during reproduction." 
 
 [^alt_def_rna:]
 
