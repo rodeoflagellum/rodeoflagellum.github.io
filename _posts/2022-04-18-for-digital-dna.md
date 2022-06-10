@@ -10,6 +10,8 @@ image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
 description: "An overview of DNA digital data storage and some forecasting questions concerning its future."
+word_count: "yes"
+reading_time: "yes"
 ---
 
 __Takeaways__:
@@ -153,6 +155,8 @@ RNA World
 RNA vs. DNA (longer)
 DNA is dominant 
 Facts on DNA (incl. human genome)
+
+Use RNA world to break into solely discussing DNA
 
 
 The Problem of Storage 
