@@ -7,6 +7,6 @@ permalink: "/for_persusasion_tournament/"
 status: "Ongoing"
 type: "Log"
 tags: [forecasting, prediction, gcr, x-risk, global-priorities]
-image: /assets/2022/for_biosecurity_tournament/birmingham-museums-trust-YHdOVC7mzkE-unsplash.jpg
+image: /assets/2022/for_persusasion_tournament/birmingham-museums-trust-YHdOVC7mzkE-unsplash.jpg
 description: "Philip Tetlock's tournament"
 ---
