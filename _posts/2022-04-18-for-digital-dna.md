@@ -59,6 +59,10 @@ google scholar  -->
 
 For those currently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life] and [emergence][abio] of life on Earth [began][life_began] is still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system required for the development of early life; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)[^rnaW]. Presently, deoxyribonucleic acid (DNA), the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today[^cell_book]. 
 
+[earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
+
+[^early]: _the first microorganisms appeared between "at least 3770 and possibly 4290 million years..."_ : Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. Quote: (pp.1) "Here we report putative fossilised microorganisms at least 3770 and possibly 4290 million years old in ferruginous sedimentary rocks, interpreted as seafloor-hydrothermal vent-related precipitates, from the Nuvvuagittuq belt in Canada."
+
 [^cell_book]: _...deoxyribonucleic acid (DNA), the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today_: Cooper, Geoffrey M., Robert E. Hausman, and Robert E. Hausman. The cell: a molecular approach. Vol. 8. Washington, DC, USA:: ASM press, 2007. Quote: (pp.6) "As discussed further in Chapter 4, all present-day cells use DNA as the genetic material and employ the same basic mechanisms for DNA replication and expression of the genetic information. Genes are the functional units of inheritance, corresponding to segments of DNA that encode proteins or RNA molecules. The nucleotide sequence of a gene is copied into RNA by a process called transcription. For RNAs that encode proteins, their nucleotide sequence is then used to specify the order of amino acids in a protein by a process called translation."
 
 This brings us to the question of what RNA and DNA actually are. Rather than answer this myself, I default to the writers on Wikipedia (as of 06/09/2022), who have done a much better job at providing a comprehensive definition of RNA and DNA than I could have[^alt_def_rna]<sup>,</sup>[^alt_def_dna]: 
@@ -169,35 +173,47 @@ RNA and DNA are both nucleic acids, and are main storage mechanisms of informati
 
 > The Central Dogma. This states that once "information" has passed into protein it cannot get out again. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the precise determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. 
 
-Generally, RNA, which is less stable than DNA, acts 
+Generally, RNA is not as stable as DNA and is involved directly in the synthesis of proteins from 
 
 
+<!-- AMMUNITION 
 
-It
+[^trends]: Akram, Fatima, Haider Ali, and Aiman Tahir Laghari. "Trends to store digital data in DNA: an overview." Molecular biology reports 45, no. 5 (2018): 1479-1490.
 
-DNA content (base pairs)
-1×10e6 to 5×10e6
-1.5×10e7 to 5×10e9
+Every year the storage necessity is increasing by 50% [^trends] (Hakami HA, Chaczko Z, Kale A (2015) Review of big data storage based on DNA computing. In: Proceedings of the Asia- Pacific Conference on Computer-Aided System Engineering (APCASE’15), Quito Ecuador, pp 113–117)
 
+DNA can store an unbelievable amount of enormous data just as Castillo has reported that the whole data present on internet can be recorded in a device that would be lesser than a cubic inch[^trends] (Castillo M (2014) From hard drives to flash drives to DNA drives. Am J Neuroradiol 35:1–2)
 
+The amount of data that can be stored on DNA is 1 EB (EB or 109 GB) per cubic millimeter, it means that eighth order of the amount stored on tapes having a half-life of 500 years in harsh conditions[^trends] (Allentoft ME, Scofield RP, Oskam CL, Hale ML, Holdaway RN, Bunce M (2012) A molecular characterization of a newly discov- ered megafaunal fossil site in North Canterbury, South Island, New Zealand. J R Soc N Z 42:241–256)
 
-Most life today 
-
-What precipitate this first life One plausible theory - the RNA World hypothesis - is RNA appeared . 
-
-In any case, the 
-
-To put this into context, an oft cited figure is that a single unfolded strand of DNA could 
-
-[earliest_life]: https://en.wikipedia.org/wiki/Earliest_known_life_forms "https://en.wikipedia.org/wiki/Earliest_known_life_forms" 
-
-[^early]: _the first microorganisms appeared between "at least 3770 and possibly 4290 million years..."_ : Dodd, Matthew S., Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin TS Little. "Evidence for early life in Earth’s oldest hydrothermal vent precipitates." Nature 543, no. 7643 (2017): 60-64. See <https://discovery.ucl.ac.uk/id/eprint/1536298/1/Dodd_et_al_2017_Nature_accepted.pdf>. Quote: (pp.1) "Here we report putative fossilised microorganisms at least 3770 and possibly 4290 million years old in ferruginous sedimentary rocks, interpreted as seafloor-hydrothermal vent-related precipitates, from the Nuvvuagittuq belt in Canada."
-
-Earliest known life forms
-
-th the date of the first life at, and the emergence of DNA at 
+Q: Google Trends interests, https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0q3zpyk -->
 
 
+<!-- 
+DNA/RNA diff https://sciencenotes.org/dna-vs-rna-similarities-and-differences/
+DNA half life: 
+https://www.nature.com/articles/nature.2012.11555.pdf
+mRNA half life 
+https://watermark.silverchair.com/dsn030.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQML7j4o-S37Xdo4stVAgEQgIICf6hhVyBz-b1J3byoRsNCzRmayeSbwlbFzZmht3TjNWB_6u-wLW6CO9u8bgcgK5V5COpue7I8utdzgH1jwR0TvsrAl-AXEJXFbdeUvo8e53G58DZRHOgtq6AziA_l05OmLCJh1txozRSXYUVRLOzdeLhYCcGWocxkO09RzA7hvzgSI1McsCQ4srUoi9ABkXU4C6zjaRyKPcrcIYW2-7uremPTvZz-DB0bzKHUVDipRCGzeihIC1YbWqDAquL6TSGtvh5G215DqNCnhE23H7eaHS-nHwgYpacXbm3ikj8_EBhwMC5YGF7BK4vnR80UG34XVFnOKvHVXrcBvIFhVZ2IhSDw-zEqvPc7ye-GEIlTVRZrCoVJDKJleEZZbktIBapihTs0erQqiKnD8NYlUjGLNVgocALNx7XE4LSq36i3D_ukcjRT-NeiAHbeAcBraiUXGcA7VXkj73JKw3gbrujhrOiUwnTFpoZN6Mw_douZO8R0bSQ0FJ_w6M6yIrB_id4LDp_YHflfLP577-T-ZTirvK4yhQZE611MuBWcu2uUqZap1Cp90BmSlBhmZ8pcqUrQhF2woqcmwmrI6VnYJByUzaTwl7ulkNilE0ptnznz9TR_5EHlgn0UqPmK3qccUpRnJwJ1nE0l8urS4NwSryp-whQu7nKmXOnoendtEdbGWIcKwTfV_lk-x1qOLfrM-ssnxt8_Q2JBKrYlDfFoHqn5yc2ZwWM5HmPXFNN5jsqLBw9D3jnotgawQ-CIxqQxQ-eIr2he9Ytyhu7oFKkM-NldCZ_4W2v6iGpFkINAeXOgYa04dEhe1avId9slEyn9h03k4PQ7ytDCKe7PxaltuSDihw
+http://book.bionumbers.org/how-fast-do-rnas-and-proteins-degrade/
+
+DNA Information Storage Mechanisms in Expo
+
+Reading and writing digital data in DNA (introduction)
+Half life, discuss fossil examples 
+
+Trends to store digital data in DNA: an overview
+DNA Potential 
+
+DNA as a digital information storage device: hope or hype?
+The global data crunch 
+
+Novel Modalities in DNA Data Storage
+Current synthesis costs have been estimated to be approximately $3500 per megabyte of data [22–24], depending on the scale of synthesis conducted, with large-scale processes such as silicon chip deposition platforms having lowered costs per base compared with smaller-scale, column-based synthesis 
+
+
+Look through all of this Molecular digital data storage using DNA
+-->
 
 <!-- ---
 
