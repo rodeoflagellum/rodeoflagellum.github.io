@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metaculus Biosecurity Tournament"
-date:  2022-06-09 21:40:00 -0400
+date:  2022-06-09 21:30:00 -0400
 modified: 2022-06-09 22:50:00 -0400
 permalink: "/for_biosecurity_tournament/"
 status: "Ongoing"
@@ -142,5 +142,6 @@ Find the question here: <>
 ### SARS-CoV-2 Vaccine Doses 
 
 Find the question here: <>
+
 <!-- 
 https://unsplash.com/photos/v15kmerLWcA -->
