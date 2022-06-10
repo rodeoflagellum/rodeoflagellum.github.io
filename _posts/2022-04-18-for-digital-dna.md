@@ -109,7 +109,7 @@ This brings us to the question of what RNA and DNA actually are. Rather than ans
 
 [wiki_polymer]: https://en.wikipedia.org/wiki/Polymer "https://en.wikipedia.org/wiki/Polymer"
 
-> __Ribonucleic acid ([RNA][wiki_rna])__ is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][wiki_coding], [decoding][wiki_decoding], [regulation][wiki_regulation] and [expression][wiki_expression] of[genes][wiki_genes]. RNA and deoxyribonucleic acid ([DNA][wiki_DNA]) are [nucleic acids][wiki_nucleics]. Along with [lipids][wiki_lipids], [proteins][wiki_proteins], and [carbohydrates][wiki_carbs], nucleic acids constitute one of the four major [macromolecules][wiki_macros] essential for all known forms of [life][wiki_life]. Like DNA, RNA is assembled as a chain of [nucleotides][], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][wiki_mRNA]) to convey genetic information (using the [nitrogenous][wiki_nitro_bases] bases of [guanine][wiki_gua], [uracil][wiki_ura], [adenine][wiki_ade], and [cytosine][wiki_cyto], denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many [viruses][wiki_vir] encode their genetic information using an RNA [genome][wiki_geno]. 
+> __Ribonucleic acid ([RNA][wiki_rna])__ is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][wiki_coding], [decoding][wiki_decoding], [regulation][wiki_regulation] and [expression][wiki_expression] of[genes][wiki_genes]. RNA and deoxyribonucleic acid ([DNA][wiki_DNA]) are [nucleic acids][wiki_nucleics]. Along with [lipids][wiki_lipids], [proteins][wiki_proteins], and [carbohydrates][wiki_carbs], nucleic acids constitute one of the four major [macromolecules][wiki_macros] essential for all known forms of [life][wiki_life]. Like DNA, RNA is assembled as a chain of [nucleotides][wiki_nucleos], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][wiki_mRNA]) to convey genetic information (using the [nitrogenous][wiki_nitro_bases] bases of [guanine][wiki_gua], [uracil][wiki_ura], [adenine][wiki_ade], and [cytosine][wiki_cyto], denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many [viruses][wiki_vir] encode their genetic information using an RNA [genome][wiki_geno]. 
 > 
 > [See <https://en.wikipedia.org/wiki/RNA>]
 
@@ -135,6 +135,13 @@ and
 
 [^alt_def_rna]: _defining these_: Here are some alternate definitions of RNA. NEED 
 
+__RNA__ and __DNA__[^wiki_dna_img]
+
+![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
+
+[^wiki_dna_img]: From Wikipedia: <https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN.svg>. Credit: File:Difference DNA RNA-DE.svg: Sponk / *translation: Sponk, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+
+
 <!-- 
 MUSINGS ON DNA
 Life on Earth 
@@ -154,9 +161,15 @@ pros
 cons 
 bottlenecks  --> 
 
-RNA and DNA are both nucleic acids, which mean they consist of nucleotides, which are 
+[wiki_dogma]: https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology "https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology"
 
-Nucleic acids are the primary mechanism through which genetic information of all cells 
+RNA and DNA are both nucleic acids, and are main storage mechanisms of information storage in cells. The [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer. As originally stated by Francis Crick[^dogma]:
+
+[^dogma]: _As originally stated by Francis Crick_: Crick, Francis HC. "On protein synthesis." In Symp Soc Exp Biol, vol. 12, no. 138-63, p. 8. 1958. See <https://d1wqtxts1xzle7.cloudfront.net/31353481/Symp_Soc_Exp_Biol_1958_Crick_on_protein_synthesis-with-cover-page-v2.pdf?Expires=1654880735&Signature=glAwa258T3TTy4fxqd-~07IsWvg0joqi7rzuDePEqjj3xoixZjKxxDbzPjHObOFlSS3YfLLShkkK1c7PcrdbWD7UkW~WyKJaCBlYBCoLN9gqfRSpqbR0di7tyY~x6k0pu1jhne7hVEAlGROYtP47~5KPRTFAsQj4Sr6Vif2I9jADAMGXi06AClr~AgqBFZqQ~vvIUwpS8po7WOx52su9Lf2KCtaEUwPVPhD1cvox0di8aN4IVjDsxLKFSgL0grDOvvpK-OPk5acCnll3XTRjrOjcVf4l3yW8tC6iDihmBh4Lh3ET4EhPtDZk3IYsQjTPTP2ZauV6W6uvuNKasm~LCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA>. Quote: (pp.153). 
+
+> The Central Dogma. This states that once "information" has passed into protein it cannot get out again. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the precise determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. 
+
+Generally, RNA, which is less stable than DNA, acts 
 
 
 
@@ -231,17 +244,12 @@ Following this, I went through the first 10 pages of Google Scholar results for 
 
 [^meth]: Meiser, Linda C., Philipp L. Antkowiak, Julian Koch, Weida D. Chen, A. Xavier Kohll, Wendelin J. Stark, Reinhard Heckel, and Robert N. Grass. "Reading and writing digital data in DNA." Nature Protocols 15, no. 1 (2020): 86-101.
 
-### [Visuals](#visuals)
+### [Other Visuals](#visuals)
 
 ___RNA World Hypothesis[^rnaW]___
 
 ![](/assets/2022/for_digital_dna/images/rna_world.png)
 
-__RNA and DNA__[^wiki_dna_img]
-
-![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
-
-[^wiki_dna_img]: From Wikipedia: <https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN.svg>. Credit: File:Difference DNA RNA-DE.svg: Sponk / *translation: Sponk, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 ___Method for DNA Digital Data Storage[^meth]___
 
