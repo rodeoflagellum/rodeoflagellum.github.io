@@ -87,11 +87,30 @@ Find the question here: <https://www.metaculus.com/questions/11164/25m-killed-by
 > 
 > Descendants of SARS-CoV-2 will not be included for purposes of this question, even if there are new variants that differ substantially from existing circulating variants. New variants of other existing pathogens that have caused pandemics, for instance HIV and TB, would also not count. However, a new strain of influenza that causes a pandemic would count.
 
+<iframe src=""https://www.metaculus.com/questions/embed/11164/"" width=""550"" height=""260""></iframe>
+
 My initial inclination on this question is that the 
 
 ### High-risk Labatory Incidents 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11273/number-of-bio-lab-incidents-from-2022-2026/>
+
+> There is an extensive history of laboratory biosecurity incidents, including at high-security laboratories. One paper by Manheim and Lewis (2021) found 71 incidents involving "either accidental or purposeful exposure to, or infection by, a highly infectious pathogenic agent" between 1975 and 2016 (inclusive).
+> 
+> There are four biosafety levels, each with specific controls for containment of microbes and biological agents based on the nature of the microbes/agents being worked on. The US Department of Health and Human Services describes these four levels:
+> 
+> > - BSL-1: used to study infectious agents or toxins not known to consistently cause disease in healthy adults.
+- BSL-2: used to study moderate-risk infectious agents or toxins that pose a risk if accidentally inhaled, swallowed, or exposed to the skin.
+- BSL-3: used to study infectious agents or toxins that may be transmitted through the air and cause potentially lethal infection through inhalation exposure.
+- BSL-4: used to study infectious agents or toxins that pose a high risk of aerosol-transmitted laboratory infections and life-threatening disease for which no vaccine or therapy is available.
+> 
+> The purpose of this question is to understand the risks in laboratory biology work over the coming years, which is important given its potential as a pandemic threat.
+> 
+> How many high-risk laboratory biosecurity incidents will occur between 2022 and 2026 (inclusive)?
+> 
+> This question will resolve as the best estimate of the number of human-caused pathogen exposure events at laboratories between January 1, 2022 and December 31, 2026, according to information available by January 1, 2032. If no such estimate is available at that time, Metaculus Admins will attempt to make such an estimate by counting the number of such events.
+> 
+> For the purposes of this question, we will use the definition of "human-caused pathogen exposure events at laboratories" used by Manheim and Lewis (2019): "involving either accidental or purposeful exposure to, or infection by, a highly infectious pathogenic agent" and that the pathogenic agent is one that is "usable as a bioweapon, or that requires similar safeguards."
 
 ### US Commitment for Bioweapon Prevention 
 
