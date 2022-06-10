@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Metaculus Biosecurity Tournament"
-date:  2022-06-21 21:40:00 -0400
-modified: 2022-03-11 16:50:00 -0400
+date:  2022-06-09 21:40:00 -0400
+modified: 2022-06-09 22:50:00 -0400
 permalink: "/for_biosecurity_tournament/"
 status: "Ongoing"
 type: "Log"
