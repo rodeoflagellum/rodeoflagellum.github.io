@@ -13,7 +13,7 @@ description: "My forecasts and thoughts on various questions in Metaculus's 2022
 
 __Overview__ 
 
->  Biosecurity Tournament, Prize Pool: $25,000, End Date: Dec 30, 2024
+> Biosecurity Tournament, Prize Pool: $25,000, End Date: Dec 30, 2024
 > 
 > This first-of-its kind, multi-year biosecurity forecasting tournament was developed in partnership with pandemic preparedness non-profit Guarding Against Pandemics and the research and advocacy think tank the Institute for Progress. The Biosecurity Tournament has three aims: to map out the future biosecurity risk landscape, to help direct resource allocation to the highest-impact interventions, and to inform the distribution of attention and efforts — all with a focus on global catastrophic biological risks (GCBRs).
 > 
@@ -36,13 +36,15 @@ __Overview__
 
 ### Pandemic Prevention and Preparedness 
 
+Find the question here: <https://www.metaculus.com/questions/11274/international-pandemic-treaty-before-2025/>
+
 > The idea of an international treaty on pandemic prevention and preparedness has been recently discussed. According to a March 2021 joint article by leaders of 23 countries as well as President of the European Council and Director-General of the World Health Organisation, the main goal of such a treaty would be to:
 > 
-    > foster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment.
+> > foster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment.
 > 
 > According to the European Council, the following are the anticipated next steps of the planned treaty:
 > 
-    > The intergovernmental negotiating body, tasked with drafting and negotiating this international instrument, will hold its next meeting by 1 August 2022, to discuss progress on a working draft. It will then deliver a progress report to the 76th World Health Assembly in 2023, with the aim to adopt the instrument by 2024.
+> > The intergovernmental negotiating body, tasked with drafting and negotiating this international instrument, will hold its next meeting by 1 August 2022, to discuss progress on a working draft. It will then deliver a progress report to the 76th World Health Assembly in 2023, with the aim to adopt the instrument by 2024.
 > 
 > The purpose of this question is to understand the potential of this treaty to be adopted.
 > 
@@ -50,22 +52,71 @@ __Overview__
 > 
 > This question will resolve as Yes if, by December 31, 2024, at least 10 countries have ratified an new international treaty on pandemic prevention and preparedness. This question concerns only new treaties, meaning treaties which have not been ratified by any nation as of June 1, 2022.
 
-<iframe src="https://www.metaculus.com/questions/embed/2534/" width="100%" height="300"></iframe>
+<!-- <iframe src="https://www.metaculus.com/questions/embed/2534/" width="100%" height="300"></iframe> -->
+
+<iframe src=""https://www.metaculus.com/questions/embed/11274/"" width=""550"" height=""260""></iframe>
 
 ### Novel Pandemic 
 
+Find the question here: <https://www.metaculus.com/questions/11164/25m-killed-by-pandemic-2022-to-2031/>
+
+> The WHO reported over 6.3 million deaths from COVID-19 as of early June 2022. The true death toll is likely much higher than official records, according to excess mortality figures. One model by The Economist estimates 21.2 million deaths due to COVID-19 as of late May 2022. Excess deaths are calculated by comparing the total deaths reported from all causes to how many deaths would be expected given data from recent years.
+> 
+> While COVID-19 will continue to impact humanity indefinitely, infectious disease experts are concerned that another pandemic could emerge at anytime.
+> 
+> There are a variety of factors that could might make a novel pandemic likely, including:
+> 
+> - The growth of the world population.
+- The continuation of factory farming.
+-  Climate change increasing cross-species viral transmission risk.
+-  Habitat destruction exposing people to new pathogens.
+- It becoming increasingly easy to manufacture deadly viruses in the lab.
+> The U.S. congress thus far failing to pass pandemic prevention legislation.
+> 
+> The purpose of this question is to understand the likelihood of a novel pandemic occurring in the coming decade.
+> 
+> Will there be a novel pathogen that kills over 25 million people between 2022 and 2031 (inclusive)?
+> 
+> This question will resolve as Yes if at least 25 million people have died from an infectious pathogen (excluding SARS-CoV-2 and its descendants) from January 1, 2022 to December 31, 2031, according to excess mortality figures compiled by what Metaculus judges to be the most credible of following sources:
+> 
+> - The World Health Organisation (or its successor)
+- Credible media reports/models
+- Academic studies/models
+> 
+> If there are several reports/models judged credible by Metaculus admins, the resolution will be determined by the median of the reported deaths.
+> 
+> Descendants of SARS-CoV-2 will not be included for purposes of this question, even if there are new variants that differ substantially from existing circulating variants. New variants of other existing pathogens that have caused pandemics, for instance HIV and TB, would also not count. However, a new strain of influenza that causes a pandemic would count.
+
+My initial inclination on this question is that the 
+
 ### High-risk Labatory Incidents 
+
+Find the question here: <>
 
 ### US Commitment for Bioweapon Prevention 
 
+Find the question here: <>
+
 ### Review Process for BWC Review Conference 
 
-### BARDA Mask Innovation Challenge Results 
+Find the question here: <>
+
+### BARDA Mask Innovation Challenge Results
+
+Find the question here: <>
 
 ### Portable Genomic Sequencing Devices
 
+Find the question here: <>
+
 ### US Metagenomic Sequencing 
+
+Find the question here: <>
 
 ### New SARS-CoV-2 Variant 
 
+Find the question here: <>
+
 ### SARS-CoV-2 Vaccine Doses 
+
+Find the question here: <>
