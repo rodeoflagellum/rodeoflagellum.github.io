@@ -74,7 +74,7 @@ bottlenecks  -->
 
 [^rnaW]: _this hypothesis is called the RNA World Hypothesis, and posits that RNA preceded proteins and deoxyribonucleic acid (DNA)_: Cech, Thomas R. "The RNA worlds in context." Cold Spring Harbor perspectives in biology 4, no. 7 (2012): a006742. See <https://cshperspectives.cshlp.org/content/4/7/a006742.full.pdf>. Quote: (pp.1) "Did an RNA world exist? Some of the most persuasive arguments in favor of an RNA world are as follows. First, RNA is both an informational molecule and a biocata- lyst—both genotype and phenotype—whereas protein has extremely limited ability to transmit information (as with prions). Thus, RNA should be capable of replicating itself, and indeed RNA can perform the sort of chemistry required for RNA replication (Cech 1986). Second, it is more parsimonious to conceive of a single type of molecule replicating itself than to posit that two different molecules (such as a nucleic acid and a protein capable of replicating that nucleic acid) were synthesized by random chemical reactions in the same place at the same time. Third, the ribosome uses RNA catalysis to perform the key activity of protein synthesis in all extant organisms, so it must have done so in the Last Universal Common Ancestor (LUCA). Fourth, other catalytic activities of RNA—activities that RNA would need in an RNA world but that have not been found in contemporary RNAs—are generally already present in large combinatorial libraries of RNA sequences and can be discovered by SELEX. Fifth, RNA clearly preceded DNA, because multiple enzymes are dedicated to the biosynthesis of the ribonucleotide precursors of RNA, whereas deoxyribonucleotide biosynthesis is derivative of ribonucleotide synthesis, requiring only two additional enzymatic activities (thymidylate synthase and ribonucleotide reductase.) Finally, a primordial RNA world has the attractive feature of continuity; it could evolve into contemporary biology by the sort of events that are well precedented, whereas it is unclear how a self-replicating system based on completely unrelated chemistry could have been supplanted by RNA." 
 
-[rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
+
 
 [abio]: https://en.wikipedia.org/wiki/Abiogenesis "https://en.wikipedia.org/wiki/Abiogenesis"
 
@@ -83,6 +83,8 @@ For those currently unaware, radiometric dating research places the [age of the 
 [^cell_book]: _...deoxyribonucleic acid (DNA), the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today_: Cooper, Geoffrey M., Robert E. Hausman, and Robert E. Hausman. The cell: a molecular approach. Vol. 8. Washington, DC, USA:: ASM press, 2007. Quote: (pp.6) "As discussed further in Chapter 4, all present-day cells use DNA as the genetic material and employ the same basic mechanisms for DNA replication and expression of the genetic information. Genes are the functional units of inheritance, corresponding to segments of DNA that encode proteins or RNA molecules. The nucleotide sequence of a gene is copied into RNA by a process called transcription. For RNAs that encode proteins, their nucleotide sequence is then used to specify the order of amino acids in a protein by a process called translation."
 
 This brings us to the question of what RNA and DNA actually are. Rather than answer this myself, I default to the writers on Wikipedia (as of 06/09/2022), who have done a much better job at providing a comprehensive definition of RNA and DNA than I could have[^alt_def_rna]<sup>,</sup>[^alt_def_dna]: 
+
+[wiki_rna]: https://en.wikipedia.org/wiki/RNA "https://en.wikipedia.org/wiki/RNA" 
 
 [wiki_coding]: https://en.wikipedia.org/wiki/Genetic_code "https://en.wikipedia.org/wiki/Genetic_code"
 
@@ -128,13 +130,25 @@ This brings us to the question of what RNA and DNA actually are. Rather than ans
 
 [wiki_polymer]: https://en.wikipedia.org/wiki/Polymer "https://en.wikipedia.org/wiki/Polymer"
 
-> Ribonucleic acid ([RNA][]) is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][], [decoding][], [regulation][] and [expression][] of[genes][]. RNA and deoxyribonucleic acid ([DNA][]) are [nucleic acids][]. Along with [lipids][], [proteins][], and [carbohydrates][], nucleic acids constitute one of the four major [macromolecules][] essential for all known forms of [life][]. Like DNA, RNA is assembled as a chain of [nucleotides][], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][]) to convey genetic information (using the [nitrogenous][] bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome. 
+> Ribonucleic acid ([RNA][wiki_rna]) is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][wiki_coding], [decoding][wiki_decoding], [regulation][wiki_regulation] and [expression][wiki_expression] of[genes][wiki_genes]. RNA and deoxyribonucleic acid ([DNA][wiki_DNA]) are [nucleic acids][wiki_nucleics]. Along with [lipids][wiki_lipids], [proteins][wiki_proteins], and [carbohydrates][wiki_carbs], nucleic acids constitute one of the four major [macromolecules][wiki_macros] essential for all known forms of [life][wiki_life]. Like DNA, RNA is assembled as a chain of [nucleotides][], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][wiki_mRNA]) to convey genetic information (using the [nitrogenous][wiki_nitro_bases] bases of [guanine][wiki_gua], [uracil][wiki_ura], [adenine][wiki_ade], and [cytosine][wiki_cyto], denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many [viruses][wiki_vir] encode their genetic information using an RNA [genome][wiki_geno]. 
 > 
 > [See <https://en.wikipedia.org/wiki/RNA>]
 
 and 
 
-> Deoxyribonucleic acid is a [polymer](https://en.wikipedia.org/wiki/Polymer) composed of two polynucleotide chains that coil around each other to form a double helix carrying genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses. DNA and ribonucleic acid (RNA) are nucleic acids. Alongside proteins, lipids and complex carbohydrates (polysaccharides), nucleic acids are one of the four major types of macromolecules that are essential for all known forms of life. 
+[wiki_polynu]: https://en.wikipedia.org/wiki/Polynucleotide "https://en.wikipedia.org/wiki/Polynucleotide"
+
+[wiki_doub]: https://en.wikipedia.org/wiki/Nucleic_acid_double_helix "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix"
+
+[wiki_gentc]: https://en.wikipedia.org/wiki/Genetics "https://en.wikipedia.org/wiki/Genetics" 
+
+[wiki_repo]: https://en.wikipedia.org/wiki/Reproduction "https://en.wikipedia.org/wiki/Reproduction" 
+
+[wiki_org]: https://en.wikipedia.org/wiki/Organism "https://en.wikipedia.org/wiki/Organism" 
+
+[wiki_polys]: https://en.wikipedia.org/wiki/Polysaccharide "https://en.wikipedia.org/wiki/Polysaccharide"
+
+> Deoxyribonucleic acid (DNA) is a [polymer][wiki_polymer] composed of two [polynucleotide][wiki_polynu] chains that coil around each other to form a [double helix][wiki_doub] carrying [genetic][wiki_gentc] instructions for the development, functioning, growth and [reproduction][wiki_repo] of all known [organisms][wiki_org] and many [viruses][wiki_vir]. DNA and ribonucleic acid ([RNA][wiki_rna]) are [nucleic acids][wiki_nucleics]. Alongside [proteins][wiki_proteins], [lipids][wiki_lipids] and complex [carbohydrates][wiki_carbs] ([polysaccharides][wiki_polys]), nucleic acids are one of the four major types of [macromolecules][wiki_macro] that are essential for all known forms of [life][wiki_life]. 
 > 
 > [See <https://en.wikipedia.org/wiki/DNA>]
 
