@@ -2,7 +2,7 @@
 layout: post
 title:  "Metaculus Biosecurity Tournament"
 date:  2022-06-09 21:30:00 -0400
-modified: 2022-06-09 22:50:00 -0400
+modified: 2022-06-12 16:15:00 -0400
 permalink: "/for_biosecurity_tournament/"
 status: "Ongoing"
 type: "Log"
@@ -10,8 +10,6 @@ tags: [forecasting, prediction, biosecurity, gcr, global-priorities, goverance]
 image: /assets/2022/for_biosecurity_tournament/birmingham-museums-trust-v15kmerLWcA-unsplash.jpg
 description: "My forecasts and thoughts on various questions in Metaculus's 2022 Biosecurity Tournament"
 ---
-
-__Overview__ 
 
 > Biosecurity Tournament, Prize Pool: $25,000, End Date: Dec 30, 2024
 > 
@@ -40,11 +38,11 @@ Find the question here: <https://www.metaculus.com/questions/11274/international
 
 > The idea of an international treaty on pandemic prevention and preparedness has been recently discussed. According to a March 2021 joint article by leaders of 23 countries as well as President of the European Council and Director-General of the World Health Organisation, the main goal of such a treaty would be to:
 > 
-> > foster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment.
+> > _foster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment._
 > 
 > According to the European Council, the following are the anticipated next steps of the planned treaty:
 > 
-> > The intergovernmental negotiating body, tasked with drafting and negotiating this international instrument, will hold its next meeting by 1 August 2022, to discuss progress on a working draft. It will then deliver a progress report to the 76th World Health Assembly in 2023, with the aim to adopt the instrument by 2024.
+> > _The intergovernmental negotiating body, tasked with drafting and negotiating this international instrument, will hold its next meeting by 1 August 2022, to discuss progress on a working draft. It will then deliver a progress report to the 76th World Health Assembly in 2023, with the aim to adopt the instrument by 2024._
 > 
 > The purpose of this question is to understand the potential of this treaty to be adopted.
 > 
@@ -52,9 +50,8 @@ Find the question here: <https://www.metaculus.com/questions/11274/international
 > 
 > This question will resolve as Yes if, by December 31, 2024, at least 10 countries have ratified an new international treaty on pandemic prevention and preparedness. This question concerns only new treaties, meaning treaties which have not been ratified by any nation as of June 1, 2022.
 
-<!-- <iframe src="https://www.metaculus.com/questions/embed/2534/" width="100%" height="300"></iframe> -->
 
-<iframe src=""https://www.metaculus.com/questions/embed/11274/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/11274/" width="100%" height="300"></iframe>
 
 ### Novel Pandemic 
 
@@ -87,7 +84,7 @@ Find the question here: <https://www.metaculus.com/questions/11164/25m-killed-by
 > 
 > Descendants of SARS-CoV-2 will not be included for purposes of this question, even if there are new variants that differ substantially from existing circulating variants. New variants of other existing pathogens that have caused pandemics, for instance HIV and TB, would also not count. However, a new strain of influenza that causes a pandemic would count.
 
-<iframe src=""https://www.metaculus.com/questions/embed/11164/"" width=""550"" height=""260""></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/11164/" width="100%" height="300"></iframe>
 
 My initial inclination on this question is that the 
 
@@ -112,36 +109,48 @@ Find the question here: <https://www.metaculus.com/questions/11273/number-of-bio
 > 
 > For the purposes of this question, we will use the definition of "human-caused pathogen exposure events at laboratories" used by Manheim and Lewis (2019): "involving either accidental or purposeful exposure to, or infection by, a highly infectious pathogenic agent" and that the pathogenic agent is one that is "usable as a bioweapon, or that requires similar safeguards."
 
-<iframe src=""https://www.metaculus.com/questions/embed/11273/"" width=""550"" height=""260""></iframe>
-
+<iframe src="https://www.metaculus.com/questions/embed/11273/" width="100%" height="300"></iframe>
 
 ### US Commitment for Bioweapon Prevention 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11276/us-funds-new-programs-for-2022-bwc/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11276/" width="100%" height="300"></iframe>
 
 ### Review Process for BWC Review Conference 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11275/establishment-of-bwc-st-review-process/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11275/" width="100%" height="300"></iframe>
+
 
 ### BARDA Mask Innovation Challenge Results
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11272/new-affordable-high-quality-mask-by-2025/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11272/" width="100%" height="300"></iframe>
 
 ### Portable Genomic Sequencing Devices
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11271/handheldportable-genomic-sequencer-250/>
 
 ### US Metagenomic Sequencing 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11270/us-metagenomic-sequencing-program-2025/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11270/" width="100%" height="300"></iframe>
 
 ### New SARS-CoV-2 Variant 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11269/date-new-variant-overtakes-omicron/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11269/" width="100%" height="300"></iframe>
 
 ### SARS-CoV-2 Vaccine Doses 
 
-Find the question here: <>
+Find the question here: <https://www.metaculus.com/questions/11268/covid-vaccine-doses-cdcfda-approved-by-2025/>
+
+<iframe src="https://www.metaculus.com/questions/embed/11268/" width="100%" height="300"></iframe>
 
 <!-- 
 https://unsplash.com/photos/v15kmerLWcA -->
