@@ -86,7 +86,9 @@ Find the question here: <https://www.metaculus.com/questions/11164/25m-killed-by
 
 <iframe src="https://www.metaculus.com/questions/embed/11164/" width="100%" height="300"></iframe>
 
-My initial inclination on this question is that the 
+Let $A$ denote the event that there is a novel pandemic that kills 25m people in the interval [2022, 2031]. 
+
+My immediate attitude is that the chance of this event 
 
 ### High-risk Labatory Incidents 
 

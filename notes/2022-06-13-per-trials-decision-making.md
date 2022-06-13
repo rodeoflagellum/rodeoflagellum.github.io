@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Trials in Decision Making, v1"
+title:  "Trials in Decision Making"
+category: misc
 date:  2022-06-13 10:01:00 -0400
-modified: 2022-MM-DD 13:33:00 -0400
+modified: 2022-06-13 16:28:00 -0400
 permalink: "/per_trials_decision_making/"
 tags: [personal, rationality]
-header_image: /assets/2022/per_trials_decision_making/
+header_image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg
 description: "Frame: A place where I explore different tools for decision making, using my own goals and desires as the decision-fodder."
 word_count: "yes"
 reading_time: "yes"
@@ -32,7 +33,10 @@ The following list includes things I mostly want to do more of / do more effecti
 - Forecasting / making forecast questions / estimating
 - Going on a walk 
 - Doing mathematics problems 
+- Generating questions / minimally investigating
 - Exploring data
+- Going to sleep at a reasonable time 
+- Eating well 
 - Having a conversation with someone
 - Meditating 
 - Website building / programming
@@ -189,27 +193,47 @@ __Hard Choice Model__
 
 Incorporating these into a program...
 
-Action,10m,10d,10y,Overall Importance,Urgency,Estimated Completion Time,Preference,
-
-
 ```python
 import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt 
+import sys
+
+FILE = "decisions.csv"
 
 def add_decision():
-    pass 
+    decision_matrix = {
+        "Decision":"","10n":"","10d":"","10m":"","10y":"",
+        "Urgency":"","Importance":"","Estimated Completion Time":"",
+        "Preference":"","Interest":"","YHat":"","GHat":"","RHat":"",
+        "WHat":"","BlkHat":"","BluHat":"","Frequency":"","Error":""
+    }
+    print("Make sure to do [number]:[response]")
+    for k in list(decision_matrix.keys()):
+        decision_matrix[k] = input(f"{k}: ")
 
-def remove_decision():
-    pass 
+    print("You've entered the following")
+    print(list(decision_matrix.keys()))
+    
+    while True: 
+        ans = input(f"Alter? (n/[key]):")
+        try: 
+            if ans == "n":
+                break  
+            else: 
+                decision_matrix[ans] = input(f"{ans}: ")
+        except: 
+            print("Oops, reenter.")
+    
+    with open(FILE, "a") as f:
+        line = ','.join(list(decision_matrix.values()))
+        f.write(line)
+        f.close()
 
 def main():
 
     options = {
-        "Add Decision":add_decision(),
-        "Remove Decision":remove_decision(),
-        "Evaluate Decisions":evaluate_decision(),
-        "
+        "Add_Decision":add_decision,
     }
 
     using = True 
@@ -217,8 +241,11 @@ def main():
         for k, v in options.items():
             print(k)
         try: 
-            choice = input("What would you like to do?: ")
-            options[choice]
+            choice = input("What would you like to do? (n,[choice]): ")
+            if choice != "n":
+                options[choice]()
+            else:
+                sys.exit()
         except: 
             print("\nSomething went awry, please try again.\n")
         
@@ -227,5 +254,188 @@ if __name__ == "__main__":
     main()
 ```
 
+The following came up in my decision making explorations. 
+
+Determine a frequency or activity ordering. 
+
+More concrete decisions:
+
+- Reading X 
+- Taking notes on X 
+- Making a forecasting question 
+- Commenting on an LW/EAF post 
+- Writing DNA Digital Data Storage 
+- Writing Human Neural Organoids 
+- Writing Human Gamete Markets 
+- Writing Attitudes Towards Human Gene-Editing
+- Writing Automated ML/DL 
+- Writing Artificial Photosynthesis 
+- Writing Prenatal Enhancement 
+- GPI Essay Prize
+- EA Fiction Essay 
+- EA Red-teaming Essay 
+- EA Global Health Cause-Area Essay 
+- Site.md 
+- Reading Introduction to Statistical Decision Theory 
+- Reading Combinatorics: A Problem Based Approach 
+- Reading Machine Learning Refined 
+- Reading Elements of Mathematics 
+- Reading The Sequences 
+- Reading Immoral Mazes 
+- Reading 
+
+- Studying Anki Cards 
+- Going to sleep before 11pm
+- Lifting weights 
+- Going on a run 
+- Going on a hike 
+- 
+
+- Decision: The decision I want to make 
+- 10n: Utility 10 minutes following activity (1-100):Description
+    - ~0: 
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- 10d: Utility in next 10 days (1-100):Description 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- 10m: Utility in next 10 months (1-100):Description
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- 10y: Utility in next 10 years (1-100):Description 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- Urgency:
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- Importance: 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- Estimated Time to Complete: # hours 
+- Preference:
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- Interest: [1-100]:How much I want to do this thing, presently
+- YHat: 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- RHat:
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- WHat:
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- BlkHat:
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- BluHat: 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
+- Frequency: A term for how frequently I suspect
+- Error: How incorrect I am in a "good" direction vs. in a "poor" direction. For example, a score of 50 means that I was mostly on point with the values, and a score of 98 means that something was much better overall than I expected (this could be in terms of completion time, importance, YHat, ...). All error scores start at 50. 
+
+
 What is valuable or important to me in life? 
 
+
+Here is the current table: 
+
+
+
+
+<!-- <birmingham-museums-trust-adudERb6uDM-unsplash> -->
