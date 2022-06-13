@@ -30,6 +30,7 @@ __Habits__
 - Taking notes on some written piece 
 - Going on run
 - Going on a walk 
+- Going on a trip
 - Exercising weight-free
 - Exercising w/ weights 
 - Studying Anki / putting cards into it
@@ -62,10 +63,13 @@ __Learning__
 - Introduction to Probability 
 - LW: A Map That Reflects the Territory 
 - LW: Engines of Cognition
-- Age of Em 
+- Age of Em
 - Global Catastrophic Risks
 - Algorithms for Decision Making 
+- Algorithms for Optimization 
 - Statistical Rethinking  
+- Doing Good Better 
+- What We Owe the Future 
 
 __Writing and Creation__
 
@@ -97,68 +101,38 @@ __Writing and Creation__
 - Humanity's Problems essay 
 - Metaculus Biosecurity Tournament 
 - X-Risk Persuasion Tournament 
+- EnsembleSplice paper / post 
 
-__Invovled Actions__
+__Involved Actions__
 
-- Metaculus AutoUpdater
+- Metaculus AutoUpdater program 
 - Forecasting GUI 
-- Clock page 
+- Clocks and timelines page 
 - Timeline of my life 
 - OurWorldInData explorations
 - My Metaculus Track Record 
 - View button
-- Learning to play Magic the Gathering
 - Agreement/Enjoyment sliders
 - Comments  
 - Archive / blogroll blocks 
 - Page Sorting
-- Get psychiatrist, nutritionist
-- Fix computer 
 
-(larger decisions)
+__Particularly Expensive Decisions__
 
-- PhD, yes (what) or no
-- Where to live
-- What to work on / research
-- What to learn 
-
-More concrete decisions (for smaller decisions, such as going on a walk, I am going to use more simple heuristics):
-
-- Reading X 
-- Taking notes on X 
-- Making a forecasting question 
-- Commenting on an LW/EAF post 
-- Writing DNA Digital Data Storage 
-- Writing Human Neural Organoids 
-- Writing Human Gamete Markets 
-- Writing Attitudes Towards Human Gene-Editing
-- Writing Automated ML/DL 
-- Writing Artificial Photosynthesis 
-- Writing Prenatal Enhancement 
-- GPI Essay Prize
-- EA Fiction Essay 
-- EA Red-teaming Essay 
-- EA Global Health Cause-Area Essay 
-- Site.md 
-- Reading Introduction to Statistical Decision Theory 
-- Reading Combinatorics: A Problem Based Approach 
-- Reading Machine Learning Refined 
-- Reading Elements of Mathematics 
-- Reading The Sequences 
-- Reading Immoral Mazes 
-- Reading 
+- Getting a job a X
+- Settling somewhere 
+- Having children 
 - Doing a PhD 
-- 
+- Founding a company / organization 
 
-- Studying Anki Cards 
-- Going to sleep before 11pm
-- Lifting weights 
-- Going on a run 
-- Going on a hike 
-- 
+__Meta__
 
-<br>
+- What to work on / research?
+- What to learn? 
+- How to determine what's valuable to you? 
 
+
+## Untools 
 --- 
 
 <br>
@@ -235,6 +209,11 @@ __Hard Choice Model__
 > 
 > - How impactful it is
 - How easy it is to compare the options
+
+
+
+## Decision Evaluation 
+--- 
 
 
 Incorporating these into a program...
