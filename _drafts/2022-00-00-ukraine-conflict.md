@@ -117,16 +117,6 @@ A potential example of forecasting influencing individual decision making:
 
 [wiki_wis]: https://en.wikipedia.org/wiki/Wisdom_of_the_crowd "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd"
 
-## Page Epistemics
-
-#### *Status*
-
-#### *Certainty*
-
-#### *Importance*
-
-#### *Impact*
-
 ## Notes
 
 ### Cover Image

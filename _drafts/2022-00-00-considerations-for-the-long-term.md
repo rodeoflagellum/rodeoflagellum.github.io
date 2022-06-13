@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Considerations for the Long-Term"
+title:  "Considerations for My Future"
 date:  2022-04-28 23:00:00 -0400
 modified: 2022-04-28 23:15:00 -0400
 permalink: "/considerations_for_the_long_term/"

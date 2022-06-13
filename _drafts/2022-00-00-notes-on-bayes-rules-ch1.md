@@ -1,10 +1,10 @@
 ---
 layout: post
 category: misc
-title:  Bayes Rules!, Chapter 1
+title:  Bayes Rules!
 date:  2022-05-02 10:30:18 -0400
 last_edit: 2022-05-02 10:34:18 -0400
-permalink: "/notes_bayes_rules_ch1/"
+permalink: "/notes_bayes_rules/"
 type: "Notes"
 status: "Complete"
 durability: "5/5"
@@ -52,3 +52,38 @@ ___Informal Example___: I am applying for a job, and believe I am a decent candi
 ___Informal Example___: I am somewhat knowledgable about the Cretaceous paleontology of New Jersey. One hypothesis might be that I don't find a plesiosaur vertebrae (partial or whole) my next hunt. I probably have somewhere around 7 vertebrae and probably have gone fossil collecting between 100 and 300 times, so ~200 times, which means my prior probability should be around $\frac{7}{200} = 0.035$. This is a frequentist frame.
 
 [^1]: Frequentist: What is the __long-run relative frequency__ of me getting similar jobs?<br>Bayesian: How __plausible__ is it that I get this job.
+
+Imagine $A$ denotes the event "it rains tomorrow", and $B$ denotes the event "strong winds tonight". Note that if we know $B$ but not $A$, then $P(A\|B)$ refers to _the probability it rains tomorrow, given we know that there are strong winds tonight_.
+
+If we know $A$ but not $B$, then $L(B\|A)$ (the likelihood of $B$ given $A$) refers to _how compatible the knowledge that it rains tomorrow is with the event that there are strong winds tonight._
+
+Pretend the following is true:
+
+| Event | Count | Percent |
+| --- | --- | --- |
+| Rain Tomorrow ($B$) | 25 | 0.15625 |
+| No Rain Tomorrow ($B^c$) | 135 | 0.84375 |
+| Total | 160 | 1.0 |
+
+Also, pretend:
+
+| Strong Winds Tonight ($A$) | Rain Tomorrow ($B$) | No Rain Tomorrow ($B^c$) |
+| --- | --- | --- |
+| FALSE | 15 | 105 |
+| TRUE | 10 | 30 |
+| Total | 25 | 135 |
+
+> __Probability vs likelihood__
+>
+When B is known, the conditional probability function $P(\cdot \|B)$ allows us to compare the probabilities of an unknown event, $A$ or $A^c$, occurring with $B$: \\[P(A\|B) \text{ vs } P(A^c \| B)\\]
+
+:
+
+P(A|B) vs P(Ac|B).
+
+When A
+is known, the likelihood function L(⋅|A)=P(A|⋅) allows us to evaluate the relative compatibility of data A with events B or Bc
+
+:
+
+L(B|A) vs L(Bc|A).

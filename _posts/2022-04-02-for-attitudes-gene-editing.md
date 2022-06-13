@@ -189,6 +189,9 @@ _Also Posted Here_: Metaculus, LW, EAF
 
 Humans generally desire to be content and feel well, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, including but not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
 
+
+<!-- Genetics of Wellbeing and Its Components Satisfaction with Life, Happiness, and Quality of Life: A Review and Meta-analysis
+of Heritability Studies -->
 <!-- EDIT:
 In particular, many factors that affect these requirements have genetic components. For example, people with this gene report higher life satisfaction. 
 However, one relatively static factor that partially determines the quality of life are  -->

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Longtermism and Global Priorities"
+title:  "[Notes] Longtermism and Global Priorities"
 header_image: /assets/2022/longtermism_global_priorities/pont_neuf,_paris_1970.17.58.jpg
 date:  2022-05-12 8:08:00 -0400
 modified: 2022-05-14 9:10:00 -0400
 permalink: "/longtermism_global_priorities/"
-tags: [longtermism, global-priorities]
-description: "My ongoing notes on longtermism and global priorities research; these are primarily for my own learning"
+tags: [longtermism, global-priorities, personal]
+description: "My ongoing notes on longtermism and global priorities research; these are primarily for my own learning."
 type: Notes
 status: Ongoing
 ---

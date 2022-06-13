@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forecast Series: Synthetic Biological Weapons, P1"
+title:  "Synthetic Biological Weapons Usage by 2030"
 date:  2022-02-21 15:34:18 -0500
 last_edit: 2022-03-04 15:34:18 -0500
 permalink: "/synthetic_biological_weapons_deaths/"
