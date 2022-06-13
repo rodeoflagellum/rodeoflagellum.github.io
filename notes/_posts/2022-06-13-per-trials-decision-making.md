@@ -48,6 +48,8 @@ __Habits__
 - Working on my website 
 - Writing (EAF/LW comment, website article, fiction, journal, thoughts, review) 
 - Fasting 
+- Investing well
+- Monitoring my finances 
 
 __Learning__ 
 
@@ -91,6 +93,7 @@ __Writing and Creation__
 - 1 Year LTFF Reflection essay 
 - Trials in Decision Making essay 
 - Diary: Cloning a Purple Fern 
+- Diary: Nanomaterial Shirts
 - Landscape of GCR Policy essay 
 - Reading List 
 - Outlook on Personalized Medicine essay 
@@ -112,6 +115,7 @@ __Involved Actions__
 - OurWorldInData explorations
 - My Metaculus Track Record 
 - View button
+- Dropdown menus
 - Agreement/Enjoyment sliders
 - Comments  
 - Archive / blogroll blocks 
