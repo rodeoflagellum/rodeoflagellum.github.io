@@ -2,15 +2,12 @@
 layout: post
 title: Site
 date: 2022-02-21 12:00:00 -0400
-last_edit: 2022-04-21 12:00:18 -0400
+modified: 2022-04-21 12:00:18 -0400
 permalink: /site/
-status: "Notes"
 tags: [epistemics, site, personal]
-image: /assets/images/hunting_scene_with_a_harbor_1970.17.103.jpg
-desc: "I want what I write to mainly be accurate and clear. This page describes considerations relevant to most content on the site, and exists as a place for me to brainstorm and refine my site-design ideas; in some ways, this page is a TODO list."
+header_image: /assets/2022/site/hunting_scene_with_a_harbor_1970.17.103.jpg
+description: "Frame: A page to describe considerations for this site and a TODO list."
 ---
-
-__Disclaimer__: I am in the process of editing the content of this page. More broadly, I am still sorting out how I would like to communicate in writing on this site, what I want to do with it, and what I expect's it place in the greater ecosystem of the Internet to be.
 
 ---
 
@@ -68,8 +65,6 @@ Find here the formal tags currently in use on the site.
 {% endfor %}
 </ul>
 
-These tags are
-
 #### Specifics
 
 ### [Status](#status)
@@ -124,8 +119,6 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 ### [Bibliography](#bibliography)
 
 ### [Word Count](#word-count)
-
-
 
 ### [Views](#views)
 
@@ -182,6 +175,8 @@ Looking at the reading time on this EAF [post](https://forum.effectivealtruism.o
 
 ### [Epistemic Status](#epistemic-status)
 
+### [General Transparency](#epistemic-status)
+
 ### [Contribution](#contribution)
 
 Robin Hanson broke down contributions into 3 levels
@@ -204,8 +199,6 @@ General transparency on how what I've written is inadequate.
 - What support does the author think they have for each of their substantive claims?
 - What does the author think are the most important takeaways, and what could change the author’s mind about those takeaways?
 - If the analysis includes some data analysis, how were the data collected, which analyses were done, and can I access the data myself?
-
-### [Glossary](#glossary)
 
 ---
 
@@ -272,8 +265,6 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 #### Visualization
 
 #### Syntheses
-
-#### Memes
 
 #### Experimental Designs
 
