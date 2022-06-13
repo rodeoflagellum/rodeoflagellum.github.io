@@ -48,8 +48,10 @@ __Habits__
 - Working on my website 
 - Writing (EAF/LW comment, website article, fiction, journal, thoughts, review) 
 - Fasting 
+- Going fossil collecting 
 - Investing well
 - Monitoring my finances 
+- Being signed out of my email 
 
 __Learning__ 
 
@@ -72,6 +74,37 @@ __Learning__
 - Statistical Rethinking  
 - Doing Good Better 
 - What We Owe the Future 
+- Statistical Rethinking 
+- An Introduction to Decision Theory
+- Basic Principles of Nanotechnology 
+- Cognitive Science 
+- Data Structures and Algorithms in Python 
+- Superintelligence
+- Deep Learning Architectures 
+- The Principles of Deep Learning Theory
+- Do Colors Exist? 
+- Essential Topology
+- The Precipice 
+- Understanding Analysis 
+- Foundations of Group Theory 
+- The Origin and Nature of Life on Earth 
+- Enhancing Human Capabilities 
+- Forecasting: Principles and Practices 
+- GPI's Work 
+- FHI's Work 
+- Genetics: From Genes to Genomes 
+- Global Catastrophic Biological Risks 
+- Introduction to Algorithms 
+- Introductory Econometrics 
+- Living Machines 
+- Linear Algebra Done Right 
+- Well Packed - Not a Bit Too Much 
+- Mathematical Foundations of Game Theory 
+- Mathematical Logic 
+- Molecular Biology of the Cell 
+- On What Matters (vol. ?)
+- Neurobiology: A Functional Approach 
+- CRISPR: Methods and Protocols 
 
 __Writing and Creation__
 

@@ -70,7 +70,7 @@ Following Gwern's example, I've taken a slew of personality and morals surveys o
 
 [coming soon]
 
----
+<!-- ---
 
 ## [Goals](#goals)
 _A tentative list of some things I want to do_ 
@@ -110,7 +110,7 @@ Remember, (Desire / Effort / % Probability of Change)
 - Follow through each year with the Giving What We Can Pledge (95 / 90 / 2)
 - Run >=10 miles in one session (45 / 75 / 50)
 - Swim at least 10 times per year (35 / 65 / 75)
-- Create a piece of thread art in real life using AI (70 / 70 / 60) 
+- Create a piece of thread art in real life using AI (70 / 70 / 60)  -->
 
 
 
