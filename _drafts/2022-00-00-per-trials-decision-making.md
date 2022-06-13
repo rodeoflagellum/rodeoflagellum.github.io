@@ -80,6 +80,7 @@ This next list are 1-off actions or writing ideas:
 - Forecasting Aggregation Experiments 
 - Improving NN Efficiency 
 - Erik Hoel 2050 Project 
+- Site.md
 - Notes on X-Risk, GCRs
 
 (actions)
@@ -104,6 +105,7 @@ This next list are 1-off actions or writing ideas:
 - PhD, yes (what) or no
 - Where to live
 - What to work on / research
+- What to learn 
 
 <br>
 
@@ -184,6 +186,46 @@ __Hard Choice Model__
 > - How impactful it is
 - How easy it is to compare the options
 
+
+Incorporating these into a program...
+
+Action,10m,10d,10y,Overall Importance,Urgency,Estimated Completion Time,Preference,
+
+
+```python
+import numpy as np
+import pandas as pd 
+import matplotlib.pyplot as plt 
+
+def add_decision():
+    pass 
+
+def remove_decision():
+    pass 
+
+def main():
+
+    options = {
+        "Add Decision":add_decision(),
+        "Remove Decision":remove_decision(),
+        "Evaluate Decisions":evaluate_decision(),
+        "
+    }
+
+    using = True 
+    while using: 
+        for k, v in options.items():
+            print(k)
+        try: 
+            choice = input("What would you like to do?: ")
+            options[choice]
+        except: 
+            print("\nSomething went awry, please try again.\n")
+        
+
+if __name__ == "__main__":
+    main()
+```
 
 What is valuable or important to me in life? 
 
