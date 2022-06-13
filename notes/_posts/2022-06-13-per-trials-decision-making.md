@@ -24,29 +24,31 @@ I would be interested to see if many people in the LW / EA communities explicitl
 
 The following list includes things I mostly want to do more of / do more effectively: 
 
-- Reading and occasionally taking notes 
-    - LessWrong; EAF; blogs; research papers; novels; textbooks; digital articles
+__Habits__ 
+
+- Reading (LessWrong, EAF, blogs, research papers, novels, textbooks, digital articles) 
+- Taking notes on some written piece 
 - Going on run
+- Going on a walk 
 - Exercising weight-free
 - Exercising w/ weights 
 - Studying Anki / putting cards into it
-- Forecasting / making forecast questions / estimating
-- Going on a walk 
+- Updating my predictions 
+- Writing forecast questions
+- Making estimates 
 - Doing mathematics problems 
-- Generating questions / minimally investigating
+- Generating questions on topics and minimally investigating them  
 - Exploring data
+- Practicing R, Python, Julia 
 - Going to sleep at a reasonable time 
 - Eating well 
 - Having a conversation with someone
 - Meditating 
-- Website building / programming
-- Writing
-    - EAF/LW comment; website article; fiction; journal; thoughts
+- Working on my website 
+- Writing (EAF/LW comment, website article, fiction, journal, thoughts, review) 
 - Fasting 
 
-This next list are 1-off actions or writing ideas: 
-
-(reading)
+__Learning__ 
 
 - Topics in Global Priorities Course
 - The Sequences
@@ -60,34 +62,43 @@ This next list are 1-off actions or writing ideas:
 - Introduction to Probability 
 - LW: A Map That Reflects the Territory 
 - LW: Engines of Cognition
+- Age of Em 
+- Global Catastrophic Risks
+- Algorithms for Decision Making 
+- Statistical Rethinking  
 
-(writing / exploration)
+__Writing and Creation__
 
-- Bacterial Modeling
-- Civilizational Stability 
+- Bacterial Modeling essay
+- Civilizational Stability essay
 - Fermi Estimates Log
-- Prenatal Enhancement
-- Forecasting Practices 
-- My Personality and Morals fixing 
-- AI Progress and AI/DL Research fixing
+- Prenatal Enhancement essay
+- Forecasting Practices essay
+- Ukraine Conflict Forecasting essay 
+- My Personality and Morals edits  
+- Erik Hoel 2050 Project edits
+- Site.md edits 
+- AI Progress and AI/DL Research edits
 - GPI Essay Prize
-- EA Fiction Essay 
-- Red-teaming Essay 
-- OpenPhil Cause Area Essay
+- EA Fiction essay 
+- EA Red-teaming essay 
+- EA Global Health Cause-Area Essay
 - Collection of Good Writing / Advice 
-- 1 Year LTFF Reflection 
+- 1 Year LTFF Reflection essay 
+- Trials in Decision Making essay 
 - Diary: Cloning a Purple Fern 
-- Landscape of GCR Policy
-- Wikipedia reading list 
-- General reading list 
-- Outlook on Personalized Medicine
-- Forecasting Aggregation Experiments 
-- Improving NN Efficiency 
-- Erik Hoel 2050 Project 
-- Site.md
-- Notes on X-Risk, GCRs
+- Landscape of GCR Policy essay 
+- Reading List 
+- Outlook on Personalized Medicine essay 
+- Forecasting Aggregation experiments 
+- Improving NN Efficiency experiments 
+- Notes on X-Risk & GCRs 
+- Notes on Longtermism and Global Priorities 
+- Humanity's Problems essay 
+- Metaculus Biosecurity Tournament 
+- X-Risk Persuasion Tournament 
 
-(actions)
+__Invovled Actions__
 
 - Metaculus AutoUpdater
 - Forecasting GUI 
@@ -110,6 +121,41 @@ This next list are 1-off actions or writing ideas:
 - Where to live
 - What to work on / research
 - What to learn 
+
+More concrete decisions (for smaller decisions, such as going on a walk, I am going to use more simple heuristics):
+
+- Reading X 
+- Taking notes on X 
+- Making a forecasting question 
+- Commenting on an LW/EAF post 
+- Writing DNA Digital Data Storage 
+- Writing Human Neural Organoids 
+- Writing Human Gamete Markets 
+- Writing Attitudes Towards Human Gene-Editing
+- Writing Automated ML/DL 
+- Writing Artificial Photosynthesis 
+- Writing Prenatal Enhancement 
+- GPI Essay Prize
+- EA Fiction Essay 
+- EA Red-teaming Essay 
+- EA Global Health Cause-Area Essay 
+- Site.md 
+- Reading Introduction to Statistical Decision Theory 
+- Reading Combinatorics: A Problem Based Approach 
+- Reading Machine Learning Refined 
+- Reading Elements of Mathematics 
+- Reading The Sequences 
+- Reading Immoral Mazes 
+- Reading 
+- Doing a PhD 
+- 
+
+- Studying Anki Cards 
+- Going to sleep before 11pm
+- Lifting weights 
+- Going on a run 
+- Going on a hike 
+- 
 
 <br>
 
@@ -250,38 +296,7 @@ if __name__ == "__main__":
 
 The following came up in my decision making explorations. 
 
-More concrete decisions (for smaller decisions, such as going on a walk, I am going to use more simple heuristics):
 
-- Reading X 
-- Taking notes on X 
-- Making a forecasting question 
-- Commenting on an LW/EAF post 
-- Writing DNA Digital Data Storage 
-- Writing Human Neural Organoids 
-- Writing Human Gamete Markets 
-- Writing Attitudes Towards Human Gene-Editing
-- Writing Automated ML/DL 
-- Writing Artificial Photosynthesis 
-- Writing Prenatal Enhancement 
-- GPI Essay Prize
-- EA Fiction Essay 
-- EA Red-teaming Essay 
-- EA Global Health Cause-Area Essay 
-- Site.md 
-- Reading Introduction to Statistical Decision Theory 
-- Reading Combinatorics: A Problem Based Approach 
-- Reading Machine Learning Refined 
-- Reading Elements of Mathematics 
-- Reading The Sequences 
-- Reading Immoral Mazes 
-- Reading 
-
-- Studying Anki Cards 
-- Going to sleep before 11pm
-- Lifting weights 
-- Going on a run 
-- Going on a hike 
-- 
 
 - Decision: The decision I want to make 
 - 10n: Utility 10 minutes following activity (1-100):Description
