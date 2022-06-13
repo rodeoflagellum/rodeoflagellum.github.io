@@ -105,6 +105,7 @@ __Learning__
 - On What Matters (vol. ?)
 - Neurobiology: A Functional Approach 
 - CRISPR: Methods and Protocols 
+- Bayes Rules!
 
 __Writing and Creation__
 
@@ -149,6 +150,8 @@ __Involved Actions__
 - My Metaculus Track Record 
 - View button
 - Dropdown menus
+- Reduce size of site / increased speed 
+- Image compression
 - Agreement/Enjoyment sliders
 - Comments  
 - Archive / blogroll blocks 
