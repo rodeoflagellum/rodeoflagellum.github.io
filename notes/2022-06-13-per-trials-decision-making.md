@@ -211,10 +211,8 @@ def add_decision():
     print("Make sure to do [number]:[response]")
     for k in list(decision_matrix.keys()):
         decision_matrix[k] = input(f"{k}: ")
-
     print("You've entered the following")
     print(list(decision_matrix.keys()))
-    
     while True: 
         ans = input(f"Alter? (n/[key]):")
         try: 
@@ -224,18 +222,15 @@ def add_decision():
                 decision_matrix[ans] = input(f"{ans}: ")
         except: 
             print("Oops, reenter.")
-    
     with open(FILE, "a") as f:
         line = ','.join(list(decision_matrix.values()))
         f.write(line)
         f.close()
 
 def main():
-
     options = {
         "Add_Decision":add_decision,
     }
-
     using = True 
     while using: 
         for k, v in options.items():
@@ -249,16 +244,13 @@ def main():
         except: 
             print("\nSomething went awry, please try again.\n")
         
-
 if __name__ == "__main__":
     main()
 ```
 
 The following came up in my decision making explorations. 
 
-Determine a frequency or activity ordering. 
-
-More concrete decisions:
+More concrete decisions (for smaller decisions, such as going on a walk, I am going to use more simple heuristics):
 
 - Reading X 
 - Taking notes on X 
@@ -358,6 +350,17 @@ More concrete decisions:
     - ~80: 
     - ~90: Solve some major problem 
     - ~100: Helping humanity as a whole
+- Impactfulness: 
+    - ~0: Drinking a coffee
+    - ~10: 
+    - ~30: 
+    - ~40: 
+    - ~50: 
+    - ~60: 
+    - ~70: 
+    - ~80: 
+    - ~90: Solve some major problem 
+    - ~100: Helping humanity as a whole
 - Estimated Time to Complete: # hours 
 - Preference:
     - ~0: Drinking a coffee
@@ -430,8 +433,10 @@ More concrete decisions:
 - Error: How incorrect I am in a "good" direction vs. in a "poor" direction. For example, a score of 50 means that I was mostly on point with the values, and a score of 98 means that something was much better overall than I expected (this could be in terms of completion time, importance, YHat, ...). All error scores start at 50. 
 
 
-What is valuable or important to me in life? 
-
+<!-- What is valuable or important to me in life? 
+\
+have some way to calculate opportunity costs (permutations of 
+other factor's impactfulness / important -->
 
 Here is the current table: 
 
