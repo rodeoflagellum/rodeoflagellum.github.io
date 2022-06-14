@@ -158,6 +158,33 @@ __RNA__ and __DNA__[^wiki_dna_img]
 
 ![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
 
+The [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer and storage. As originally stated by Francis Crick[^dogma]:
+
+> The Central Dogma. This states that once "information" has passed into protein it cannot get out again. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the precise determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. 
+
+[wiki_half]: https://en.wikipedia.org/wiki/Half-life "https://en.wikipedia.org/wiki/Half-life"
+
+[wiki_moa]: https://en.wikipedia.org/wiki/Moa "https://en.wikipedia.org/wiki/Moa"
+
+RNA is much less structurally stable than DNA[^stability], which means that RNA degrades faster. The [half-life][wiki_half][^half_life] of DNA is much longer than that of RNA. For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius. Interestingly, even with an _"ideal preservation temperature of −5ºC, effectively every bond would be destroyed after a maximum of 6.8 million years"_.[^moa] Compare this with the half-life of mouse mRNA: around 7 hours (median), with the mRNA of a vast majority of genes having half-lives > 1 hour.[^mouse] DNA is much more robust a capsule for housing genetic information, and its dominion in this regard in all living cells makes sense.
+
+[^half_life]: Given by the equation $N(t) = N_0 e^{-\lambda t}$. Here, $t$ denotes time, $N_0$ represents the starting amount of the substance in question, $\lambda \in \mathbb{R}_{+}$ the decay rate of the substance, and $N(t)$ the amount of substance left after time $t$.  
+
+[^stability]: _RNA is much less structurally stable and than DNA_: See <https://en.wikipedia.org/wiki/RNA_world#Comparison_of_DNA_and_RNA_structure>. Quote: "...the presence of a hydroxyl group at the 2'-position of the ribose sugar in RNA (illustration, right). [Source 21] This group makes the molecule less stable because, when not constrained in a double helix, the 2' hydroxyl can chemically attack the adjacent phosphodiester bond to cleave the phosphodiester backbone. The hydroxyl group also forces the ribose into the C3'-endo sugar conformation unlike the C2'-endo conformation of the deoxyribose sugar in DNA. This forces an RNA double helix to change from a B-DNA structure to one more closely resembling A-DNA."
+
+[^mouse]: _Compare this with the half-life of mouse mRNA: around 7 hours_: Sharova, Lioudmila V., Alexei A. Sharov, Timur Nedorezov, Yulan Piao, Nabeebi Shaik, and Minoru SH Ko. "Database for mRNA half-life of 19 977 genes obtained by DNA microarray analysis of pluripotent and differentiating mouse embryonic stem cells." DNA research 16, no. 1 (2009): 45-58. See <https://academic.oup.com/dnaresearch/article/16/1/45/364974?login=true>. Quote: (abstract) "Median estimated half-life was 7.1 h and only <100 genes, including Prdm1, Myc, Gadd45 g, Foxa2, Hes5 and Trib1, showed half-life less than 1 h. In general, mRNA species with short half-life were enriched among genes with regulatory functions (transcription factors), whereas mRNA species with long half-life were enriched among genes related to metabolism and structure (extracellular matrix, cytoskeleton)."
+
+[^moa]: _For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius[^moa]._: Kaplan, M. "DNA has a 521-year half-life [at 13.1 C]: genetic material can’t be recovered from dinosaurs–but it lasts longer than thought." Nature News 10 (2012). See <https://www.nature.com/articles/nature.2012.11555>. Quotes: (pp.1) "But palaeogeneticists led by Morten Allentoft at the University of Copenhagen and Michael Bunce at Murdoch University in Perth, Australia, examined 158 DNA-containing leg bones belonging to three species of extinct giant birds called moa. The bones, which were between 600 and 8,000 years old, had been recovered from three sites within 5 kilometres of each other, with nearly identical preservation conditions including a temperature of 13.1 ºC. The findings are published today in Proceedings of the Royal Society B1."; "By comparing the specimens' ages and degrees of DNA degradation, the researchers calculated that DNA has a half-life of 521 years. That means that after 521 years, half of the bonds between nucleotides in the backbone of a sample would have broken; after another 521 years half of the remaining bonds would have gone; and so on."; "The team predicts that even in a bone at an ideal preservation temperature of −5 ºC, effectively every bond would be destroyed after a maximum of 6.8 million years. The DNA would cease to be readable much earlier — perhaps after roughly 1.5 million years, when the remaining strands would be too short to give meaningful information."
+
+That DNA has such a long half-life is quite extraordinary. Two fairly recent examples showcasing this feat of Nature that pierced the public's attention[^public] are Ötzi the iceman and the report of million year-old mammoth remains. Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the older mummies that have been retrieved; that DNA is so structurally sound over time can afford us amazing insight into humanity's and Otzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). The million year 
+
+
+While I am not sure how the distributions of lifeforms and cellular mechanics would be different in worlds where DNA was half, a third, etc... as robust as it is in this world, I am grateful, at least with regard to our understanding of the Earth's natural past, that DNA is the way it is. 
+
+[^meal]: _Otzi's last meal_: Rollo, Franco, Massimo Ubaldi, Luca Ermini, and Isolina Marota. "Ötzi's last meals: DNA analysis of the intestinal content of the Neolithic glacier mummy from the Alps." Proceedings of the National Academy of Sciences 99, no. 20 (2002): 12594-12599. See <https://www.pnas.org/doi/pdf/10.1073/pnas.192184599>. 
+
+[^biom]: _...his gut microbiome_: Lugli, Gabriele Andrea, Christian Milani, Leonardo Mancabelli, Francesca Turroni, Chiara Ferrario, Sabrina Duranti, Douwe van Sinderen, and Marco Ventura. "Ancient bacteria of the Ötzi’s microbiome: a genomic tale from the Copper Age." Microbiome 5, no. 1 (2017): 1-18. See <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0221-y>.
+
 <!-- 
 MUSINGS ON DNA
 Life on Earth 
@@ -179,32 +206,6 @@ pros
 cons 
 bottlenecks  --> 
 
-The [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer and storage. As originally stated by Francis Crick[^dogma]:
-
-> The Central Dogma. This states that once "information" has passed into protein it cannot get out again. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the precise determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. 
-
-[wiki_half]: https://en.wikipedia.org/wiki/Half-life "https://en.wikipedia.org/wiki/Half-life"
-
-[wiki_moa]: https://en.wikipedia.org/wiki/Moa "https://en.wikipedia.org/wiki/Moa"
-
-RNA is much less structurally stable than DNA[^stability], which means that RNA degrades faster. The [half-life][wiki_half][^half_life] of DNA is much longer than that of RNA. For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius. Interestingly, even with an _"ideal preservation temperature of −5ºC, effectively every bond would be destroyed after a maximum of 6.8 million years"_.[^moa] Compare this with the half-life of mouse mRNA: around 7 hours (median), with the mRNA of a vast majority of genes having half-lives > 1 hour.[^mouse] DNA is much more robust a capsule for housing genetic information, and its dominion in this regard in all living cells makes sense.
-
-[^half_life]: Given by the equation $N(t) = N_0 e^{-\lambda t}$. Here, $t$ denotes time, $N_0$ represents the starting amount of the substance in question, $\lambda \in \mathbb{R}_{+}$ the decay rate of the substance, and $N(t)$ the amount of substance left after time $t$.  
-
-[^stability]: _RNA is much less structurally stable and than DNA_: See <https://en.wikipedia.org/wiki/RNA_world#Comparison_of_DNA_and_RNA_structure>. Quote: "...the presence of a hydroxyl group at the 2'-position of the ribose sugar in RNA (illustration, right). [Source 21] This group makes the molecule less stable because, when not constrained in a double helix, the 2' hydroxyl can chemically attack the adjacent phosphodiester bond to cleave the phosphodiester backbone. The hydroxyl group also forces the ribose into the C3'-endo sugar conformation unlike the C2'-endo conformation of the deoxyribose sugar in DNA. This forces an RNA double helix to change from a B-DNA structure to one more closely resembling A-DNA."
-
-[^mouse]: _Compare this with the half-life of mouse mRNA: around 7 hours_: Sharova, Lioudmila V., Alexei A. Sharov, Timur Nedorezov, Yulan Piao, Nabeebi Shaik, and Minoru SH Ko. "Database for mRNA half-life of 19 977 genes obtained by DNA microarray analysis of pluripotent and differentiating mouse embryonic stem cells." DNA research 16, no. 1 (2009): 45-58. See <https://academic.oup.com/dnaresearch/article/16/1/45/364974?login=true>. Quote: (abstract) "Median estimated half-life was 7.1 h and only <100 genes, including Prdm1, Myc, Gadd45 g, Foxa2, Hes5 and Trib1, showed half-life less than 1 h. In general, mRNA species with short half-life were enriched among genes with regulatory functions (transcription factors), whereas mRNA species with long half-life were enriched among genes related to metabolism and structure (extracellular matrix, cytoskeleton)."
-
-[^moa]: _For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius[^moa]._: Kaplan, M. "DNA has a 521-year half-life [at 13.1 C]: genetic material can’t be recovered from dinosaurs–but it lasts longer than thought." Nature News 10 (2012). See <https://www.nature.com/articles/nature.2012.11555>. Quotes: (pp.1) "But palaeogeneticists led by Morten Allentoft at the University of Copenhagen and Michael Bunce at Murdoch University in Perth, Australia, examined 158 DNA-containing leg bones belonging to three species of extinct giant birds called moa. The bones, which were between 600 and 8,000 years old, had been recovered from three sites within 5 kilometres of each other, with nearly identical preservation conditions including a temperature of 13.1 ºC. The findings are published today in Proceedings of the Royal Society B1."; "By comparing the specimens' ages and degrees of DNA degradation, the researchers calculated that DNA has a half-life of 521 years. That means that after 521 years, half of the bonds between nucleotides in the backbone of a sample would have broken; after another 521 years half of the remaining bonds would have gone; and so on."; "The team predicts that even in a bone at an ideal preservation temperature of −5 ºC, effectively every bond would be destroyed after a maximum of 6.8 million years. The DNA would cease to be readable much earlier — perhaps after roughly 1.5 million years, when the remaining strands would be too short to give meaningful information."
-
-That DNA has such a long half-life is quite extraordinary. Two fairly recent examples showcasing this feat of Nature that pierced the public's attention[^public] are Ötzi the iceman and the report of million year-old mammoth remains. Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies retrieved; that DNA is so structurally sound over time can afford us amazing insight into humanity's and Otzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
-
-[^meal]: _Otzi's last meal_: Rollo, Franco, Massimo Ubaldi, Luca Ermini, and Isolina Marota. "Ötzi's last meals: DNA analysis of the intestinal content of the Neolithic glacier mummy from the Alps." Proceedings of the National Academy of Sciences 99, no. 20 (2002): 12594-12599. See <https://www.pnas.org/doi/pdf/10.1073/pnas.192184599>. 
-
-[^biom]: _...his gut microbiome_: Lugli, Gabriele Andrea, Christian Milani, Leonardo Mancabelli, Francesca Turroni, Chiara Ferrario, Sabrina Duranti, Douwe van Sinderen, and Marco Ventura. "Ancient bacteria of the Ötzi’s microbiome: a genomic tale from the Copper Age." Microbiome 5, no. 1 (2017): 1-18. See <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0221-y>.
-
-
-
 <!-- Oldest mummy How old will the oldest mummy be in  
 
 
@@ -212,8 +213,7 @@ https://duckduckgo.com/?t=ffab&q=oldest+human+mummy&atb=v225-1&ia=web-->
 
  How far back humans can 
 
-[^old]: _Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)_: Seidler, Horst, Wolfram Bernhard, Maria Teschler-Nicola, Werner Platzer, Dieter Zur Nedden, Rainer Henn, Andreas Oberhauser, and Thorstein Sjøvold. "Some anthropological aspects of the prehistoric Tyrolean ice man." Science 258, no. 5081 (1992): 455-457. See [here](https://www.researchgate.net/profile/Seidler-Horst/publication/21743254_Some_Anthropological_Aspects_of_the_Prehistoric_Tyrolean_Ice_Man/links/59d89513aca272e6096691cc/Some-Anthropological-Aspects-of-the-Prehistoric-Tyrolean-Ice-Man.pdf). Quote: (pp.455) "Radiocarbon dating of the corpse conducted independently in Oxford and in Zurich have shown that the corpse is between 5200 and 5300 years old
-(2 [Bonani, G. "Bericht Ober das Erste Intematonak Symposium" Der Mann im Eis-Ein Fund aus der Steinzeit Tirols," Innsbruck, Austria, 3 to 5 June 1992, K." Ver6ffentlichungen der UniversitAt Innsbruck, vol. 187 (1992).])."
+[^old]: _Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)_: Seidler, Horst, Wolfram Bernhard, Maria Teschler-Nicola, Werner Platzer, Dieter Zur Nedden, Rainer Henn, Andreas Oberhauser, and Thorstein Sjøvold. "Some anthropological aspects of the prehistoric Tyrolean ice man." Science 258, no. 5081 (1992): 455-457. See [here](https://www.researchgate.net/profile/Seidler-Horst/publication/21743254_Some_Anthropological_Aspects_of_the_Prehistoric_Tyrolean_Ice_Man/links/59d89513aca272e6096691cc/Some-Anthropological-Aspects-of-the-Prehistoric-Tyrolean-Ice-Man.pdf). Quote: (pp.455) "Radiocarbon dating of the corpse conducted independently in Oxford and in Zurich have shown that the corpse is between 5200 and 5300 years old (2 [Bonani, G. "Bericht Ober das Erste Intematonak Symposium" Der Mann im Eis-Ein Fund aus der Steinzeit Tirols," Innsbruck, Austria, 3 to 5 June 1992, K." Ver6ffentlichungen der UniversitAt Innsbruck, vol. 187 (1992).])."
 
 [^back]: _Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age)..._: Williams, Adrian C., Howell GM Edwards, and Brian W. Barry. "The ‘Iceman’: molecular structure of 5200-year-old skin characterised by Raman spectroscopy and electron microscopy." Biochimica et Biophysica Acta (BBA)-Protein Structure and Molecular Enzymology 1246, no. 1 (1995): 98-105. See [here](https://www.researchgate.net/profile/Brian-Barry-7/publication/15386945_The_Iceman_Molecular_Structure_of_5200-Year_Old_Skin_Characterised_by_Raman_Spectroscopy_and_Electron_Microscopy/links/5b45be3a458515b4f662c652/The-Iceman-Molecular-Structure-of-5200-Year-Old-Skin-Characterised-by-Raman-Spectroscopy-and-Electron-Microscopy.pdf). Quote: (pp.98) "The discovery in September 1991 of a Late Neolithic man in a glacial field between Austria and Italy offered uniquely preserved archaeological samples [1]. Commonly known as the Iceman (or &i, having been found in the Tyrolean &ztaler Alps), the body is the oldest to be retrieved from an Alpine glacier and is one of the best preserved mummified humans ever discovered. Initially thought to date from the Early Bronze Age, Iceman is in fact unique in that he dates from the Copper Age (Chalcolithic) as verified by chemical analysis of the axe he carried at time of death." 
 
@@ -362,11 +362,6 @@ __DNA__[^gen_dna]
 
 [^gen_dna]: See <https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid>
 
-
-
----
-
-## [Further Reading](#fur-read)
 
 ---
 
