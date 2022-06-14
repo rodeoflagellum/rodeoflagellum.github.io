@@ -2,12 +2,14 @@
 layout: post
 title: Site
 date: 2022-02-21 12:00:00 -0400
-modified: 2022-04-21 12:00:18 -0400
+modified: 2022-06-13 12:00:18 -0400
 permalink: /site/
 tags: [epistemics, site, personal]
 header_image: /assets/2022/site/hunting_scene_with_a_harbor_1970.17.103.jpg
-description: "Frame: A page to describe considerations for this site and a TODO list."
+description: "Frame: A page that describes my considerations for and intentions with this site. This page is also a TODO list in some ways."
 ---
+
+__NOTE__: This page is under construction, more so than other pages. 
 
 ---
 

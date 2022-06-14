@@ -171,11 +171,10 @@ __Meta__
 - What to learn? 
 - How to determine what's valuable to you? 
 
-
-## Untools 
 --- 
 
-<br>
+## Untools 
+
 
 > [Untools][untools] is a collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
@@ -250,11 +249,9 @@ __Hard Choice Model__
 > - How impactful it is
 - How easy it is to compare the options
 
-
-
-## Decision Evaluation 
 --- 
 
+## Decision Evaluation 
 
 Incorporating these into a program...
 
