@@ -34,6 +34,8 @@ Here are some notes I've taken to try to put everything you've said together. Pl
 
 <br>
 
-[Comment](https://forum.effectivealtruism.org/posts/AMt5JTofBj2S27hyR/global-health-is-important-for-the-epistemic-foundations-of?commentId=kWLQo5YA538cqnsem) (EAF, [Owen Cotton-Barratt](https://forum.effectivealtruism.org/users/owen_cotton-barratt)): "I think the main thing this seems to be missing is that I'm not saying global health has an efficient altruistic market -- I'm saying that if anything does you should expect to see it there. But actually we don't even see it there ... reasonable-looking health interventions vary by ~four orders of magnitude in cost-effectiveness, and the most cost-effective are not fully funded."
+> I think the main thing this seems to be missing is that I'm not saying global health has an efficient altruistic market -- I'm saying that if anything does you should expect to see it there. But actually we don't even see it there ... reasonable-looking health interventions vary by ~four orders of magnitude in cost-effectiveness, and the most cost-effective are not fully funded.
+> 
+> [Comment](https://forum.effectivealtruism.org/posts/AMt5JTofBj2S27hyR/global-health-is-important-for-the-epistemic-foundations-of?commentId=kWLQo5YA538cqnsem) (EAF, [Owen Cotton-Barratt](https://forum.effectivealtruism.org/users/owen_cotton-barratt))
 
 
