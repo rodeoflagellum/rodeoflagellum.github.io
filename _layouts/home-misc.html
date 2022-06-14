@@ -30,20 +30,18 @@ layout: default
       {%- if post.category=="misc" -%}
 
       <li>
-
         {%- if post.header_image -%}
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} {{ post.date | date: date_format }}-->
           <span class="post-meta">
             <img src="{{ post.header_image | relative_url }}" alt="" class="blog-roll-image">
-            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </span>
         {% else %}
           <span class="post-meta"><a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
         {%- endif -%}
-
-        {%- if site.show_excerpts -%}
+        <!-- {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
+        {%- endif -%} -->
       </li>
 
       {%- endif -%}
