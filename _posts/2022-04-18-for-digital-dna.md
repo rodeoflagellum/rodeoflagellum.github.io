@@ -190,10 +190,21 @@ While I am not sure how the distributions of lifeforms and cellular mechanics wo
 
 [wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
 
-The [human geneome][wiki_hgen] 
+[wiki_hap]: https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid "https://en.wikipedia.org/wiki/Ploidy#Haploid_and_monoploid" 
 
+[wiki_chrom]: https://en.wikipedia.org/wiki/Chromosome "https://en.wikipedia.org/wiki/Chromosome" 
 
-[^comp_gene]: Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." Science 376, no. 6588 (2022): 44-53. See <>. Quote: (pp.) ""
+[wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
+
+The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
+
+Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around 
+
+[^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
+
+[^cells]: _Given that there are around $3.72 \times 10^{13}$ cells in the human body..._: Bianconi, Eva, Allison Piovesan, Federica Facchin, Alina Beraudi, Raffaella Casadei, Flavia Frabetti, Lorenza Vitale et al. "An estimation of the number of cells in the human body." Annals of human biology 40, no. 6 (2013): 463-471. See <https://pubmed.ncbi.nlm.nih.gov/23829164/>. Quote: (background) "A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of 3.72 × 10(13)."
+
+[^comp_gene]: Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." Science 376, no. 6588 (2022): 44-53. See <https://www.science.org/doi/full/10.1126/science.abj6987>. Quote: (pp.?) "T2T-CHM13 includes gapless telomere-to-telomere assemblies for all 22 human autosomes and chromosome X, comprising 3,054,815,472 bp of nuclear DNA, plus a 16,569-bp mitochondrial genome. This complete assembly adds or corrects 238 Mbp of sequence that does not colinearly align to GRCh38 over a 1-Mbp interval (i.e., is nonsyntenic), primarily comprising centromeric satellites (76%), nonsatellite segmental duplications (19%), and rDNAs (4%)."
 
 [^old]: _Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)_: Seidler, Horst, Wolfram Bernhard, Maria Teschler-Nicola, Werner Platzer, Dieter Zur Nedden, Rainer Henn, Andreas Oberhauser, and Thorstein Sjøvold. "Some anthropological aspects of the prehistoric Tyrolean ice man." Science 258, no. 5081 (1992): 455-457. See [here](https://www.researchgate.net/profile/Seidler-Horst/publication/21743254_Some_Anthropological_Aspects_of_the_Prehistoric_Tyrolean_Ice_Man/links/59d89513aca272e6096691cc/Some-Anthropological-Aspects-of-the-Prehistoric-Tyrolean-Ice-Man.pdf). Quote: (pp.455) "Radiocarbon dating of the corpse conducted independently in Oxford and in Zurich have shown that the corpse is between 5200 and 5300 years old (2 [Bonani, G. "Bericht Ober das Erste Intematonak Symposium" Der Mann im Eis-Ein Fund aus der Steinzeit Tirols," Innsbruck, Austria, 3 to 5 June 1992, K." Ver6ffentlichungen der UniversitAt Innsbruck, vol. 187 (1992).])."
 
@@ -214,6 +225,21 @@ The size of the Internet and how much digital data humans have generated are qua
 The conclusion, at least after having learned a little about DNA, is obvious: biological data storage, with DNA as the prime candidate, has extraordinary potential in terms of changing the limits.
 
 If you wanted to stored this 
+
+Constantly online 
+https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/
+
+"size of all digital data on Earth"
+
+[wiki_comp_stor]: https://en.wikipedia.org/wiki/Computer_data_storage "https://en.wikipedia.org/wiki/Computer_data_storage" 
+
+__Overview of Computer Storage__[^wiki_comp_stor]
+
+![](/assets/2022/for_digital_dna/images/comp_stor.png)
+
+
+
+[^wiki_comp_stor]: From <https://en.wikipedia.org/wiki/Computer_data_storage>
 
 <!-- Look at total # of people on the Internet and extrapolate several scenarios using drawings
 
