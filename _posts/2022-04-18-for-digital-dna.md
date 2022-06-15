@@ -168,7 +168,7 @@ The [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad 
 
 RNA is much less structurally stable than DNA[^stability], which means that RNA degrades faster. The [half-life][wiki_half][^half_life] of DNA is much longer than that of RNA. For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius. Interestingly, even with an _"ideal preservation temperature of −5ºC, effectively every bond would be destroyed after a maximum of 6.8 million years"_.[^moa] Compare this with the half-life of mouse mRNA: around 7 hours (median), with the mRNA of a vast majority of genes having half-lives > 1 hour.[^mouse] DNA is much more robust a capsule for housing genetic information, and its dominion in this regard in all living cells makes sense.
 
-[^half_life]: Given by the equation $N(t) = N_0 e^{-\lambda t}$. Here, $t$ denotes time, $N_0$ represents the starting amount of the substance in question, $\lambda \in \mathbb{R}_{+}$ the decay rate of the substance, and $N(t)$ the amount of substance left after time $t$.  
+[^half_life]: Given by the equation $N(t) = N_0 e^{-\lambda t}$. Here, $t$ denotes time, $N_0$ represents the starting amount of the substance in question, $\lambda \in \mathbb{R}_{>0}$ the decay rate of the substance, and $N(t)$ the amount of substance left after time $t$.  
 
 [^stability]: _RNA is much less structurally stable and than DNA_: See <https://en.wikipedia.org/wiki/RNA_world#Comparison_of_DNA_and_RNA_structure>. Quote: "...the presence of a hydroxyl group at the 2'-position of the ribose sugar in RNA (illustration, right). [Source 21] This group makes the molecule less stable because, when not constrained in a double helix, the 2' hydroxyl can chemically attack the adjacent phosphodiester bond to cleave the phosphodiester backbone. The hydroxyl group also forces the ribose into the C3'-endo sugar conformation unlike the C2'-endo conformation of the deoxyribose sugar in DNA. This forces an RNA double helix to change from a B-DNA structure to one more closely resembling A-DNA."
 
@@ -184,33 +184,7 @@ While I am not sure how the distributions of lifeforms and cellular mechanics wo
 
 [^biom]: _...his gut microbiome_: Lugli, Gabriele Andrea, Christian Milani, Leonardo Mancabelli, Francesca Turroni, Chiara Ferrario, Sabrina Duranti, Douwe van Sinderen, and Marco Ventura. "Ancient bacteria of the Ötzi’s microbiome: a genomic tale from the Copper Age." Microbiome 5, no. 1 (2017): 1-18. See <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0221-y>.
 
-
-
-<!-- 
-MUSINGS ON DNA
-Life on Earth 
-RNA World 
-RNA vs. DNA (longer)
-DNA is dominant 
-Facts on DNA (incl. human genome)
-
-Use RNA world to break into solely discussing DNA
-
-
-The Problem of Storage 
-DNA Storage Potential
-
-
-Some expectations 
-DNA digital data storage 
-pros 
-cons 
-bottlenecks  --> 
-
-<!-- Oldest mummy How old will the oldest mummy be in  
-
-
-https://duckduckgo.com/?t=ffab&q=oldest+human+mummy&atb=v225-1&ia=web-->
+There are other properties of DNA worth marveling at. In particular, 
 
  How far back humans can 
 
@@ -223,14 +197,6 @@ https://duckduckgo.com/?t=ffab&q=oldest+human+mummy&atb=v225-1&ia=web-->
 [wiki_otzi]: https://en.wikipedia.org/wiki/%C3%96tzi "https://en.wikipedia.org/wiki/%C3%96tzi"
 
 [^million_mam]: _...the report of million year-old mammoth remains_: van der Valk, Tom, Patrícia Pečnerová, David Díez-del-Molino, Anders Bergström, Jonas Oppenheimer, Stefanie Hartmann, Georgios Xenikoudakis et al. "Million-year-old DNA sheds light on the genomic history of mammoths." Nature 591, no. 7849 (2021): 265-269. See <https://www.nature.com/articles/s41586-021-03224-9).>. Quote: (abstract; pp. 266 x 2) "Temporal genomic data hold great potential for studying evolutionary processes such as speciation. However, sampling across speciation events would, in many cases, require genomic time series that stretch well back into the Early Pleistocene subepoch. Although theoretical models suggest that DNA should survive on this timescale1, the oldest genomic data recovered so far are from a horse specimen dated to 780–560 thousand years ago. Here we report the recovery of genome-wide data from three mammoth specimens dating to the Early and Middle Pleistocene subepochs, two of which are more than one million years old."; "One of the specimens (which we refer to as ‘Krestovka’ on the basis of its find locality) is morphologically similar to the steppe mammoth (a species that was originally defined from the Middle Pleistocene of Europe (Supplementary Information section 1)), and was collected from Lower Olyorian deposits that have been dated to 1.2–1.1 Ma."; "We found that the DNA recovered from the Early and Middle Pleistocene specimens was considerably more fragmented and had higher levels of cytosine deamination than DNA from permafrost-preserved samples dating to the Late Pleistocene subepoch (Extended Data Figs. 3, 4, Supplementary Information section 4). To circumvent this, we used conservative filters and an iterative approach that was designed to minimize spurious mappings of short reads (Supplementary Information section 5). This approach allowed us to recover complete (over 37× coverage) mitogenomes from all three specimens, and 49 million, 884 million and 3,671 million base pairs of nuclear genomic data for the Krestovka, Adycha and Chukochya specimens, respectively (Supplementary Table 3)."
-
-Half life
-
-A single strand of human DNA, if taken out and stretched, would . 
-
-Generally, RNA is not as stable as DNA and is involved directly in the synthesis of proteins from 
-
-Now let us discuss _data_ from a broad 
 
 ## Data and Storing It 
 
@@ -255,10 +221,27 @@ Cost of reading
 Google Trends 
 
 -->
-
-
+<!-- 
+How much data is there? 
+How large is the Internet?
+How many internet users are there? 
+What is Data Storage? 
+<https://www.ibm.com/topics/data-storage>
+What are problems with it? 
+<DNA as a digital information storage device: hope or hype?>
+### DNA Digital Data Storage 
+What are the storage properties of DNA? 
+How is DNA Digital Data Storage done? 
+What are the issues and future potential of it?  -->
 
 ### DNA Digital Data Storage 
+
+
+[^hype]: Panda, Darshan, Kutubuddin Ali Molla, Mirza Jainul Baig, Alaka Swain, Deeptirekha Behera, and Manaswini Dash. "DNA as a digital information storage device: hope or hype?." 3 Biotech 8, no. 5 (2018): 1-9. See <https://link.springer.com/article/10.1007/s13205-018-1246-7>. 
+
+___Comparision of Data Storage Tools[^hype]___
+
+![](/assets/2022/for_digital_dna/images/data_comp.png)
 
 [^meth]: Meiser, Linda C., Philipp L. Antkowiak, Julian Koch, Weida D. Chen, A. Xavier Kohll, Wendelin J. Stark, Reinhard Heckel, and Robert N. Grass. "Reading and writing digital data in DNA." Nature Protocols 15, no. 1 (2020): 86-101.
 
@@ -349,8 +332,6 @@ Following this, I went through the first 10 pages of Google Scholar results for 
     - Idea: Cell free vs. In vivo (__Q__: visualization?, explore these) = (Illumina dye sequencing, nanopores vs. CRISPR to make "molecular recorders")
     - Benchmark: 99.3% acc. in 2016 and 99.9999% acc. in 2022 for cell free mechanism -->
 
-
-
 ### [Other Visuals](#visuals)
 
 ___RNA World Hypothesis[^rnaW]___
@@ -363,7 +344,6 @@ __DNA__[^gen_dna]
 
 [^gen_dna]: See <https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid>
 
-
 ---
 
 ## [Notes](#notes)
@@ -374,3 +354,29 @@ The [cover photo](https://unsplash.com/photos/IyMaEo0f728) for this page was lik
 > Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 
 ### *Footnotes*
+
+<!-- 
+MUSINGS ON DNA
+Life on Earth 
+RNA World 
+RNA vs. DNA (longer)
+DNA is dominant 
+Facts on DNA (incl. human genome)
+
+Use RNA world to break into solely discussing DNA
+
+
+The Problem of Storage 
+DNA Storage Potential
+
+
+Some expectations 
+DNA digital data storage 
+pros 
+cons 
+bottlenecks  --> 
+
+<!-- Oldest mummy How old will the oldest mummy be in  
+
+
+https://duckduckgo.com/?t=ffab&q=oldest+human+mummy&atb=v225-1&ia=web-->
