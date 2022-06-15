@@ -2,14 +2,14 @@
 layout: post
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
-modified: 2022-06-13 12:00:00 -0400
+modified: 2022-06-15 12:00:00 -0400
 permalink: "/for_digital_dna/"
 status: "In Progress"
 type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
-description: "Frame: An brief overview of DNA digital data storage with some forecasting questions mixed in."
+description: "Frame: An brief scan of DNA digital data storage with some forecasting questions mixed in."
 word_count: "yes"
 reading_time: "yes"
 ---
@@ -19,6 +19,8 @@ __Takeaways__:
 __General Transparency__:
 
 __Acknowledgements__:
+
+__Overview__: I first discuss, very briefly, biological information storage, and then move on to discussing some properties of DNA. Next, I look at how much digital data there is on Earth, and how people store this data. I illustrate some present and upcoming issues with the current paradigms for data and data storage. Finally, I look at DNA digital data storage, introducing properties of DNA that make it a good candidate for storing data.  
 
 
 <!-- Search DNA Digital Data Storage on
@@ -176,7 +178,7 @@ RNA is much less structurally stable than DNA[^stability], which means that RNA 
 
 [^moa]: _For example, researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius[^moa]._: Kaplan, M. "DNA has a 521-year half-life [at 13.1 C]: genetic material can’t be recovered from dinosaurs–but it lasts longer than thought." Nature News 10 (2012). See <https://www.nature.com/articles/nature.2012.11555>. Quotes: (pp.1) "But palaeogeneticists led by Morten Allentoft at the University of Copenhagen and Michael Bunce at Murdoch University in Perth, Australia, examined 158 DNA-containing leg bones belonging to three species of extinct giant birds called moa. The bones, which were between 600 and 8,000 years old, had been recovered from three sites within 5 kilometres of each other, with nearly identical preservation conditions including a temperature of 13.1 ºC. The findings are published today in Proceedings of the Royal Society B1."; "By comparing the specimens' ages and degrees of DNA degradation, the researchers calculated that DNA has a half-life of 521 years. That means that after 521 years, half of the bonds between nucleotides in the backbone of a sample would have broken; after another 521 years half of the remaining bonds would have gone; and so on."; "The team predicts that even in a bone at an ideal preservation temperature of −5 ºC, effectively every bond would be destroyed after a maximum of 6.8 million years. The DNA would cease to be readable much earlier — perhaps after roughly 1.5 million years, when the remaining strands would be too short to give meaningful information."
 
-That DNA has such a long half-life is quite extraordinary. Two fairly recent examples showcasing this feat of Nature that pierced the public's attention[^public] are Ötzi the iceman and the report of million year-old mammoth remains. Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the older mummies that have been retrieved; that DNA is so structurally sound over time can afford us amazing insight into humanity's and Otzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). The million year-old mammoths story refers to 3 mammoth (the oldest fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia DNA was read by a team of researchers; the sequencing and recovery of DNA from these fossils pushed the limits of what people thought was achievable with DNA sequencing[^million_mam].
+That DNA has such a long half-life is quite extraordinary. Two fairly recent examples showcasing this feat of Nature that pierced the public's attention[^public] are Ötzi the iceman and the report of million year-old mammoth remains. Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the older mummies that have been retrieved; that DNA is so structurally sound over time can afford us amazing insight into humanity's and Otzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). The million year-old mammoths story refers to 3 mammoth (the oldest fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers; the sequencing and recovery of DNA from these fossils pushed the limits of what people thought was achievable with DNA sequencing[^million_mam], as the previous oldest example NEED was at least 
 
 While I am not sure how the distributions of lifeforms and cellular mechanics would be different in worlds where DNA was half, a third, etc... as robust as it is in this world, I am grateful, at least with regard to our understanding of the Earth's natural past, that DNA is the way it is. 
 
@@ -184,9 +186,14 @@ While I am not sure how the distributions of lifeforms and cellular mechanics wo
 
 [^biom]: _...his gut microbiome_: Lugli, Gabriele Andrea, Christian Milani, Leonardo Mancabelli, Francesca Turroni, Chiara Ferrario, Sabrina Duranti, Douwe van Sinderen, and Marco Ventura. "Ancient bacteria of the Ötzi’s microbiome: a genomic tale from the Copper Age." Microbiome 5, no. 1 (2017): 1-18. See <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0221-y>.
 
-There are other properties of DNA worth marveling at. In particular, 
+[wiki_hgen]: https://en.wikipedia.org/wiki/Human_genome/ "https://en.wikipedia.org/wiki/Human_genome/"
 
- How far back humans can 
+[wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
+
+The [human geneome][wiki_hgen] 
+
+
+[^comp_gene]: Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." Science 376, no. 6588 (2022): 44-53. See <>. Quote: (pp.) ""
 
 [^old]: _Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)_: Seidler, Horst, Wolfram Bernhard, Maria Teschler-Nicola, Werner Platzer, Dieter Zur Nedden, Rainer Henn, Andreas Oberhauser, and Thorstein Sjøvold. "Some anthropological aspects of the prehistoric Tyrolean ice man." Science 258, no. 5081 (1992): 455-457. See [here](https://www.researchgate.net/profile/Seidler-Horst/publication/21743254_Some_Anthropological_Aspects_of_the_Prehistoric_Tyrolean_Ice_Man/links/59d89513aca272e6096691cc/Some-Anthropological-Aspects-of-the-Prehistoric-Tyrolean-Ice-Man.pdf). Quote: (pp.455) "Radiocarbon dating of the corpse conducted independently in Oxford and in Zurich have shown that the corpse is between 5200 and 5300 years old (2 [Bonani, G. "Bericht Ober das Erste Intematonak Symposium" Der Mann im Eis-Ein Fund aus der Steinzeit Tirols," Innsbruck, Austria, 3 to 5 June 1992, K." Ver6ffentlichungen der UniversitAt Innsbruck, vol. 187 (1992).])."
 
@@ -248,6 +255,10 @@ ___Comparision of Data Storage Tools[^hype]___
 ___Method for DNA Digital Data Storage[^meth]___
 
 ![](/assets/2022/for_digital_dna/images/how_its_done.png)
+
+> The complementary nature and ability to self-assemble during the formation of tertiary structure enables DNA strands to be folded arbitrarily into polygonal digital meshes (Benson et al. 2015), engineered into complex wireframe nanostructures (Zhang et al. 2015), and scaffolded to organ- ized biological molecules (Yang et al. 2015).
+> 
+> [See _DNA as a digital information storage device: hope or hype?_[^hype]]
 
 
 <!-- AMMUNITION 
