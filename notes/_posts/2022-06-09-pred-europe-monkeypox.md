@@ -3,7 +3,7 @@ layout: post
 category: misc
 title:  "Confirmed Cases of Monkeypox in Europe"
 date:  2022-06-09 14:00:00 -0400
-modified: 2022-06-09 14:07:00 -0400
+modified: 2022-06-16 14:07:00 -0400
 permalink: "/europe_monkeypox/"
 description: "A look at the number of monkeypox cases in Europe by July 1st 2022."
 type: Forecast
