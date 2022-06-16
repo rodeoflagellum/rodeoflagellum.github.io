@@ -22,13 +22,13 @@ __NOTE__: This page is under construction, more so than other pages.
 
 ## [Top of Page](#top-of-page)
 
-For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Many blogs on the Internet do something like this (e.g., Nintil has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and Gwern has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck, which makes sense because it is probably useful to most people (it is useful to me). The line between too many meta-labels and too few is what I am trying to figure out.
+For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Blogs I read on the Internet do something like this (e.g., [Nintil](https://nintil.com/) has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and [Gwern](https://www.gwern.net/) has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck. The line between using too many labels or too few is what I am trying to figure out. At what point does including more labels lead to diminishing returns? 
 
-&emsp; Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
+Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Sometimes I use this section to present my framing of the post ("_Frame_:"). Including which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
 
-&emsp; There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
+There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
 
-&emsp; Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
+Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
 
 ### [The Art](#art)
 
@@ -96,6 +96,8 @@ Here are some different kinds of support you might have for a claim:
 - the claim seems to follow logically from other supported claims plus general background knowledge
 - a source you can’t remember, except that you remember thinking at the time it was a trustworthy source, and you think it would be easy to verify the claim if one tried4
 - a combination of any of the above
+
+<!-- https://slatestarcodex.com/2016/02/20/writing-advice/ -->
 
 ### [Importance](#importance)
 
