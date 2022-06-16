@@ -20,9 +20,9 @@ __Forecast Update 06/16/2022__: The number of confirmed Monkeypox cases in Europ
 - Expected Cases (BFL, June 1st) for June 30th: 3370.305882352942
 - Expected Cases (BFL, June 8th) for June 30th: 3443.3333333333358
 
-![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june16d.png)
+![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june16a.png)
 
-![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june16c.png)
+![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june16b.png)
 
 Some updated code that produces the final of these graphs: 
 
