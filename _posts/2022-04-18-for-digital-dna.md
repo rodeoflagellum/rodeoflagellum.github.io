@@ -216,11 +216,44 @@ Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells
 
 [^million_mam]: _...the report of million year-old mammoth remains_: van der Valk, Tom, Patrícia Pečnerová, David Díez-del-Molino, Anders Bergström, Jonas Oppenheimer, Stefanie Hartmann, Georgios Xenikoudakis et al. "Million-year-old DNA sheds light on the genomic history of mammoths." Nature 591, no. 7849 (2021): 265-269. See <https://www.nature.com/articles/s41586-021-03224-9).>. Quote: (abstract; pp. 266 x 2) "Temporal genomic data hold great potential for studying evolutionary processes such as speciation. However, sampling across speciation events would, in many cases, require genomic time series that stretch well back into the Early Pleistocene subepoch. Although theoretical models suggest that DNA should survive on this timescale1, the oldest genomic data recovered so far are from a horse specimen dated to 780–560 thousand years ago. Here we report the recovery of genome-wide data from three mammoth specimens dating to the Early and Middle Pleistocene subepochs, two of which are more than one million years old."; "One of the specimens (which we refer to as ‘Krestovka’ on the basis of its find locality) is morphologically similar to the steppe mammoth (a species that was originally defined from the Middle Pleistocene of Europe (Supplementary Information section 1)), and was collected from Lower Olyorian deposits that have been dated to 1.2–1.1 Ma."; "We found that the DNA recovered from the Early and Middle Pleistocene specimens was considerably more fragmented and had higher levels of cytosine deamination than DNA from permafrost-preserved samples dating to the Late Pleistocene subepoch (Extended Data Figs. 3, 4, Supplementary Information section 4). To circumvent this, we used conservative filters and an iterative approach that was designed to minimize spurious mappings of short reads (Supplementary Information section 5). This approach allowed us to recover complete (over 37× coverage) mitogenomes from all three specimens, and 49 million, 884 million and 3,671 million base pairs of nuclear genomic data for the Krestovka, Adycha and Chukochya specimens, respectively (Supplementary Table 3)."
 
+Now that we've examined biological information storage and, in particular, DNA, let us move on to discussing digital data. 
+
 ## Data and Storing It 
 
-There is a lot of digital data around. The Internet comes to the forefront of my mind when I think about this — I imagine the constant and prodigious flow of emails, tweets, messages, posts, etc... inundating networks globally. My website is starting to run slower due to how many images I am including in my posts. 
+Humans have created prodigious quantities of digital data. First and foremost, the Internet comes to my mind when I think about this — I imagine the constant and prodigious flow of emails, tweets, messages, posts, etc... inundating networks globally. My website is starting to run slower due to how many images I am including in my posts. 
 
-The size of the Internet and how much digital data humans have generated are quantities of intrigue. In particular, 
+In the Western world, people are constantly online, with 85% of US citizens being digitial active daily in 2021, and 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018[^owid_daily]. 
+
+Between 2000 and 2016, the number of Internet users grew from 413m to 3.4b.[^owid_us] Most people reading this will likely fall into the "active online almost constantly" bin, and perhaps have an inside view of the sheer volumes of data being generated each day.  
+
+The size of the Internet and how much digital data humans have generated overall are quantities of intrigue. In particular, 
+
+
+How is all this data stored? 
+
+Well, there are at least 600 [hyperscale][wiki_h] data centers in operation, with roughly 40% of these being in the US, and around 314 centers planned to be built in the next several years.[^syn] 
+
+Bit vs. byte and binary code
+
+Each day, x data 
+
+
+
+[^owid_daily]: _...number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018_: See chart: <https://ourworldindata.org/grapher/daily-hours-spent-with-digital-media-per-adult-user?country=~USA>. 
+
+[^owid_us]: _Between 2000 and 2016, the number of Internet users grew from 413m to 3.4b_: See <https://ourworldindata.org/internet>. Quote: "The Internet has been one of our most transformative and fast-growing technologies. Globally, the number of Internet users increased from only 413 million in 2000 to over 3.4 billion in 2016. The one-billion barrier was crossed in 2005. Every day over the past five years, an average of 640,000 people went online for the first time."
+
+[^pew]: __: https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/
+
+[wiki_h]: https://en.wikipedia.org/wiki/Hyperscale_computing "https://en.wikipedia.org/wiki/Hyperscale_computing"
+
+
+
+__Hyperscale Data Centers__[^syn]
+
+![](/assets/2022/for_digital_dna/images/data_center_growth.png)
+
+[^syn]: __: See <https://www.srgresearch.com/articles/microsoft-amazon-and-google-account-for-over-half-of-todays-600-hyperscale-data-centers> and <https://www.srgresearch.com/articles/pipeline-of-over-300-new-hyperscale-data-centers-drives-healthy-growth-forecasts>. From their "About Us" page: "Founded in 1999, Synergy provides market intelligence and analytics for the networking and telecoms industry. Synergy’s research is used worldwide by industry leading companies, Wall Street firms, and government institutions. We specialize in providing comprehensive quantitative market data that is updated every 90 days. Through annual subscription services, Synergy offers worldwide, regional, and country-level market share data, manufacturers’ revenue, average selling prices, shipments, detailed market segmentation, forecasts and analysis. In addition to standard Excel and PDF deliverables, our custom cloud-based online research tool, Synergy Interactive Analysis (SIA™), enables our customers to dynamically search and manipulate the data, as well as create customized market segmentation and reports tailored to their business needs." Quote: "New data from Synergy Research Group shows that the total number of large data centers operated by hyperscale providers increased to 597 at the end of 2020, having more than doubled since the end of 2015." and "With a current known pipeline of 314 future new hyperscale data centers, the installed base of operational data centers will pass the 1,000 mark in three years’ time and continue growing rapidly thereafter.", respectively.
 
 The conclusion, at least after having learned a little about DNA, is obvious: biological data storage, with DNA as the prime candidate, has extraordinary potential in terms of changing the limits.
 
@@ -248,11 +281,13 @@ __Overview of Computer Storage__[^wiki_comp_stor]
 https://ourworldindata.org/internet 
 
 Qs:
-Size of the Internet 
-Amount of Data 
+Size of the Internet  
+% of People Using the Internet 
+Amount of Data  (Zettabytes) https://www.statista.com/statistics/871513/worldwide-data-created/
 Read time
 Write time 
 Cost of reading
+Most popular encoding 
 Google Trends 
 
 -->
@@ -267,7 +302,9 @@ What are problems with it?
 ### DNA Digital Data Storage 
 What are the storage properties of DNA? 
 How is DNA Digital Data Storage done? 
-What are the issues and future potential of it?  -->
+What are the issues and future potential of it?  
+
+Q: -->
 
 ### DNA Digital Data Storage 
 
@@ -331,19 +368,6 @@ Current synthesis costs have been estimated to be approximately $3500 per megaby
 Look through all of this Molecular digital data storage using DNA
 -->
 
-<!-- ---
-
-## [Usefulness?](#usefulness?)
-
-### Data, Data, Data, etc...
-
-### One of Several Options 
-
-### Pros and Cons 
-
----
-
-## [Trajectories](#trajectories) -->
 
 ---
 
@@ -397,28 +421,3 @@ The [cover photo](https://unsplash.com/photos/IyMaEo0f728) for this page was lik
 
 ### *Footnotes*
 
-<!-- 
-MUSINGS ON DNA
-Life on Earth 
-RNA World 
-RNA vs. DNA (longer)
-DNA is dominant 
-Facts on DNA (incl. human genome)
-
-Use RNA world to break into solely discussing DNA
-
-
-The Problem of Storage 
-DNA Storage Potential
-
-
-Some expectations 
-DNA digital data storage 
-pros 
-cons 
-bottlenecks  --> 
-
-<!-- Oldest mummy How old will the oldest mummy be in  
-
-
-https://duckduckgo.com/?t=ffab&q=oldest+human+mummy&atb=v225-1&ia=web-->
