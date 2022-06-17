@@ -271,7 +271,7 @@ Now that we've examined biological information storage and, in particular, DNA, 
 
 ## Data and Storing It 
 
-Humans have created prodigious quantities of digital data. First and foremost, the Internet comes to my mind when I think about this — I imagine the constant and prodigious flow of emails, tweets, messages, posts, etc... inundating networks globally. My website is starting to run slower due to how many images I am including in my posts. 
+As everyone here is very much aware, humans have created and are continually creating prodigious quantities of digital data. When thinking about this, the Internet, first and foremost, comes to my mind — the tremendous influx of emails, tweets, messages, posts, etc... inundating networks globally, all day every day. Internet speed is a growing issue, and my personal website is beginning to load much slower due to how much data I am including in my posts. 
 
 In the Western world, people are constantly online, with 85% of US citizens being digitial active daily in 2021, and 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018[^owid_daily]. 
 
