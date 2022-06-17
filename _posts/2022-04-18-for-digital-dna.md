@@ -233,7 +233,7 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 [wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
 
-A set of chromosomes recides in each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][] or [egg][] cells (i.e, our [germ cells][] or [gametes][]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][] or [egg][] cells (i.e, our [germ cells][] or [gametes][]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
 __Depiction of Chromosomal Structure__[^chromi]
 
