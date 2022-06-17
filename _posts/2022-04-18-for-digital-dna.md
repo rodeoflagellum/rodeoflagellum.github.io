@@ -275,6 +275,10 @@ As everyone here is very much aware, humans have created and are continually cre
 
 In the Western world, people are constantly online, with 85% of US citizens being digitial active daily in 2021, and 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018[^owid_daily]. 
 
+__Online Activity in the USA, 2008-2018__[^owid_daily]
+
+![](/assets/2022/for_digital_dna/images/us_online_active-1.png)
+
 Between 2000 and 2016, the number of Internet users grew from 413m to 3.4b.[^owid_us] Most people reading this will likely fall into the "active online almost constantly" bin, and perhaps have an inside view of the sheer volumes of data being generated each day.  
 
 The size of the Internet and how much digital data humans have generated overall are quantities of intrigue. In particular, 
@@ -288,9 +292,7 @@ Bit vs. byte and binary code
 
 Each day, x data 
 
-__Online Activity in the USA, 2008-2018__[]
 
-![](/assets/2022/for_digital_dna/images/us_online_active-1.png)
 
 [^owid_daily]: _...number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018_: See chart: <https://ourworldindata.org/grapher/daily-hours-spent-with-digital-media-per-adult-user?country=~USA>. 
 
