@@ -190,9 +190,7 @@ Two fairly recent examples showcasing this feat of Nature that happened to pierc
 
 Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
 
-The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing; previously, the [^million_mam]
-
-
+The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing; previously, the[^million_mam]
 
 [^meal]: _Otzi's last meal_: Rollo, Franco, Massimo Ubaldi, Luca Ermini, and Isolina Marota. "Ötzi's last meals: DNA analysis of the intestinal content of the Neolithic glacier mummy from the Alps." Proceedings of the National Academy of Sciences 99, no. 20 (2002): 12594-12599. See <https://www.pnas.org/doi/pdf/10.1073/pnas.192184599>. 
 
@@ -208,7 +206,9 @@ The million year-old mammoths story refers to 3 mammoth (the oldest set of fossi
 
 [wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
 
-How much DNA is in each person? The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
+There are some other questions worth considering before discussing DNA's potential for data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
+
+The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
 
 Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around 
 
