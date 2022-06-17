@@ -170,6 +170,7 @@ __Involved Actions__
 - Using the Internet's news for forecasting of events 
 - Characterizing collective social behavior on the Internet 
 - Interventions to optimize for productivity and contentedness 
+- RSS Feed 
 - General automation of repetitive life tasks
 - MP3 player program
 - Themes / night/day 

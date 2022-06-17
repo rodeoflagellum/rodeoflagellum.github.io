@@ -190,7 +190,9 @@ Two fairly recent examples showcasing this feat of Nature that happened to pierc
 
 Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
 
-The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing; previously, the[^million_mam]
+The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing[^million_mam]; previously, sequencing the DNA of a 560–780k year-old horse fossil from Canada's Yukon was believed to have been _the limit_[^horse].
+
+[^horse]: _previously, a 560–780k year-old horse fossil..._: Orlando, Ludovic, Aurélien Ginolhac, Guojie Zhang, Duane Froese, Anders Albrechtsen, Mathias Stiller, Mikkel Schubert et al. "Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse." Nature 499, no. 7456 (2013): 74-78. See <https://www.nature.com/articles/nature12323>. Quote: (pp.74) " Relict ice wedges below the unit indicate persistent permafrost since deposition(Supplementary Information, section 1.1), whereas the organic unit, hosting the fossil, indicates a period of permafrost degradation, or a thaw unconformity, during a past interglacial as warm or warmer than present 3, and rapid deposition during either marine isotope stage 19, 17 or 15. This indicates that the fossil dates to approximately 560–780 kyr BP"; "Theoretical and empirical evidence indicates that this age approaches the upper limit of DNA survival. So far, no genome-wide information has been obtained from fossil remains older than 110–130 kyr BP."
 
 [^meal]: _Otzi's last meal_: Rollo, Franco, Massimo Ubaldi, Luca Ermini, and Isolina Marota. "Ötzi's last meals: DNA analysis of the intestinal content of the Neolithic glacier mummy from the Alps." Proceedings of the National Academy of Sciences 99, no. 20 (2002): 12594-12599. See <https://www.pnas.org/doi/pdf/10.1073/pnas.192184599>. 
 
@@ -206,14 +208,20 @@ The million year-old mammoths story refers to 3 mammoth (the oldest set of fossi
 
 [wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
 
-There are some other questions worth considering before discussing DNA's potential for data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
+There are some other questions worth considering before discussing DNA's potential for digital data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
+
+
+As a primer, when your parents mated, they gave you X and Y. chromosome. 
+Just as recently as blank, they sequenced. 
+
 
 The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
 
-Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around 
+Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around[^extra]
 
 
 Contrast this with 
+
 
 <!-- This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules—DNA, RNAs, and proteins—required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information—about as much as it takes to record the text of one chapter of this book -->
 
@@ -323,7 +331,7 @@ What are the issues and future potential of it?
 
 Q: -->
 
-### DNA Digital Data Storage 
+### DNA Softdrives
 
 
 [^hype]: Panda, Darshan, Kutubuddin Ali Molla, Mirza Jainul Baig, Alaka Swain, Deeptirekha Behera, and Manaswini Dash. "DNA as a digital information storage device: hope or hype?." 3 Biotech 8, no. 5 (2018): 1-9. See <https://link.springer.com/article/10.1007/s13205-018-1246-7>. 
