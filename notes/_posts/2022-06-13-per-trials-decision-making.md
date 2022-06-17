@@ -42,6 +42,7 @@ __Habits__
 - Practicing R, Python, Julia 
 - Going to sleep at a reasonable time 
 - Eating well 
+- Contacting / reaching out to people 
 - Having a conversation with someone
 - Meditating 
 - Working on my website 
