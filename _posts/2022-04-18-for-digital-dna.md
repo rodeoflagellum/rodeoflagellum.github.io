@@ -210,7 +210,13 @@ The million year-old mammoths story refers to 3 mammoth (the oldest set of fossi
 
 There are some other questions worth considering before discussing DNA's potential for digital data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
 
-As a primer, when your parents mated and your conception occurred, you received an X [allosome][wiki_allo] from your mother, and an X or Y allosome from your father (biological female vs. biological male, respectively). Additionally, you received one set of 22 [autosomes][wiki_auto] from your father and another such set from your mother; in total, then, you have 46 [chromosomes][wiki_chrom]. 
+[wiki_conception]: https://en.wikipedia.org/wiki/Fertilisation "https://en.wikipedia.org/wiki/Fertilisation"
+
+[wiki_allo]: https://en.wikipedia.org/wiki/Sex_chromosome "https://en.wikipedia.org/wiki/Sex_chromosome"
+
+[wiki_auto]: https://en.wikipedia.org/wiki/Autosome "https://en.wikipedia.org/wiki/Autosome"
+
+As a primer, when your parents mated and your [fertilization][wiki_conception] occurred, you received an X [allosome][wiki_allo] from your mother, and an X or Y allosome from your father (biological female vs. biological male, respectively). Additionally, you received one set of 22 [autosomes][wiki_auto] from your father and another such set from your mother; in total, then, you have 46 [chromosomes][wiki_chrom]. 
 
 
 [wiki_ploid]: https://en.wikipedia.org/wiki/Ploidy/ "https://en.wikipedia.org/wiki/Ploidy/" 
