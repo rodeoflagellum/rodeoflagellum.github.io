@@ -210,10 +210,30 @@ The million year-old mammoths story refers to 3 mammoth (the oldest set of fossi
 
 There are some other questions worth considering before discussing DNA's potential for digital data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
 
+As a primer, when your parents mated and your conception occurred, you received an X [allosome][wiki_allo] from your mother, and an X or Y allosome from your father (biological female vs. biological male, respectively). Additionally, you received one set of 22 [autosomes][wiki_auto] from your father and another such set from your mother; in total, then, you have 46 [chromosomes][wiki_chrom]. 
 
-As a primer, when your parents mated, they gave you X and Y. chromosome. 
-Just as recently as blank, they sequenced. 
 
+[wiki_ploid]: https://en.wikipedia.org/wiki/Ploidy/ "https://en.wikipedia.org/wiki/Ploidy/" 
+
+[wiki_soma]: https://en.wikipedia.org/wiki/Somatic_cell "https://en.wikipedia.org/wiki/Somatic_cell"
+
+[wiki_sperm]: https://en.wikipedia.org/wiki/Sperm "https://en.wikipedia.org/wiki/Sperm"
+
+[wiki_egg]: https://en.wikipedia.org/wiki/Egg_cell "https://en.wikipedia.org/wiki/Egg_cell"
+
+[wiki_germ]: https://en.wikipedia.org/wiki/Germ_cell "https://en.wikipedia.org/wiki/Germ_cell"
+
+[wiki_gam]: https://en.wikipedia.org/wiki/Gamete "https://en.wikipedia.org/wiki/Gamete"
+
+[wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
+
+A set of chromosomes recides in each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][] or [egg][] cells (i.e, our [germ cells][] or [gametes][]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+
+__Depiction of Chromosomal Structure__[^chromi]
+
+[^chromi]: See <https://humanoriginproject.com/dna-full-form/>.
+
+![](/assets/2022/for_digital_dna/images/dna_struct.png)
 
 The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
 
