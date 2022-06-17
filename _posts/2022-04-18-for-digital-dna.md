@@ -290,7 +290,7 @@ Each day, x data
 
 __Online Activity in the USA, 2008-2018__[]
 
-![](/assets/2022/for_digital_dna/images/us_online_active.png)
+![](/assets/2022/for_digital_dna/images/us_online_active-1.png)
 
 [^owid_daily]: _...number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018_: See chart: <https://ourworldindata.org/grapher/daily-hours-spent-with-digital-media-per-adult-user?country=~USA>. 
 
