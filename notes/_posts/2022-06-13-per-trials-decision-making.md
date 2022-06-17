@@ -28,8 +28,7 @@ __Habits__
 
 - Reading (LessWrong, EAF, blogs, research papers, novels, textbooks, digital articles) 
 - Taking notes on some written piece 
-- Going on run
-- Going on a walk 
+- Walking / running 
 - Going on a trip
 - Exercising weight-free
 - Exercising w/ weights 
@@ -111,6 +110,8 @@ __Writing and Creation__
 
 - Bacterial Modeling essay
 - Civilizational Stability essay
+- Gut Microbiome essay 
+- Problems in AI Alignment essay 
 - Fermi Estimates Log
 - Prenatal Enhancement essay
 - Forecasting Practices essay
@@ -118,6 +119,11 @@ __Writing and Creation__
 - My Personality and Morals edits  
 - Erik Hoel 2050 Project edits
 - Site.md edits 
+- Dream Interpretation and Analysis 
+- Review of Cryonics essay 
+- Review of Appendage Regeneration essay 
+- Review of Promising Biomaterials essay 
+- Review of Longevity Interventions essay 
 - AI Progress and AI/DL Research edits
 - GPI Essay Prize
 - EA Fiction essay 
@@ -128,8 +134,15 @@ __Writing and Creation__
 - Trials in Decision Making essay 
 - Diary: Cloning a Purple Fern 
 - Diary: Nanomaterial Shirts
+- Diary: Computer to Computer RL 
+- Review of Brain Waves and Attention essay 
+- Review of State of Understanding of Intelligence essay 
 - Landscape of GCR Policy essay 
 - Reading List 
+- Donations Log 
+- Bets Log 
+- My Tastes Log 
+- Blended Drink Log 
 - Outlook on Personalized Medicine essay 
 - Forecasting Aggregation experiments 
 - Improving NN Efficiency experiments 
@@ -146,9 +159,19 @@ __Involved Actions__
 - Forecasting GUI 
 - Clocks and timelines page 
 - Timeline of my life 
+- FIFA 2022 networks  
+- Making a YT channel and uploading videos 
 - OurWorldInData explorations
 - My Metaculus Track Record 
 - View button
+- Physical Analogues for Uncertainty project 
+- A meta-science summarization pipeline 
+- Using the Internet's news for forecasting of events 
+- Characterizing collective social behavior on the Internet 
+- Interventions to optimize for productivity and contentedness 
+- General automation of repetitive life tasks
+- MP3 player program
+- Themes / night/day 
 - Dropdown menus
 - Reduce size of site / increased speed 
 - Image compression
@@ -310,13 +333,11 @@ if __name__ == "__main__":
     main()
 ```
 
-The following came up in my decision making explorations. 
-
-
+The need to clarify "value classes" came up in my decision making explorations. Listed below are rough reference classes for the different decision parameters I am taking into account. 
 
 - Decision: The decision I want to make 
-- 10n: Utility 10 minutes following activity (1-100):Description
-    - ~0: 
+- 10n: Utility in the 10 minutes  following a decision (1-100):Description
+    - ~0: No changes, life goes 
     - ~10: 
     - ~30: 
     - ~40: 
@@ -326,7 +347,7 @@ The following came up in my decision making explorations.
     - ~80: 
     - ~90: Solve some major problem 
     - ~100: Helping humanity as a whole
-- 10d: Utility in next 10 days (1-100):Description 
+- 10d: Utility in next 10 days following a decision (1-100):Description 
     - ~0: Drinking a coffee
     - ~10: 
     - ~30: 
@@ -337,7 +358,7 @@ The following came up in my decision making explorations.
     - ~80: 
     - ~90: Solve some major problem 
     - ~100: Helping humanity as a whole
-- 10m: Utility in next 10 months (1-100):Description
+- 10m: Utility in next 10 months following a decision (1-100):Description
     - ~0: Drinking a coffee
     - ~10: 
     - ~30: 
@@ -348,7 +369,7 @@ The following came up in my decision making explorations.
     - ~80: 
     - ~90: Solve some major problem 
     - ~100: Helping humanity as a whole
-- 10y: Utility in next 10 years (1-100):Description 
+- 10y: Utility in next 10 years following a decision (1-100):Description 
     - ~0: Drinking a coffee
     - ~10: 
     - ~30: 
@@ -368,8 +389,8 @@ The following came up in my decision making explorations.
     - ~60: 
     - ~70: 
     - ~80: 
-    - ~90: Solve some major problem 
-    - ~100: Helping humanity as a whole
+    - ~90: 
+    - ~100: 
 - Importance: 
     - ~0: Drinking a coffee
     - ~10: 
