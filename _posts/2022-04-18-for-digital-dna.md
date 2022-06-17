@@ -288,7 +288,9 @@ Bit vs. byte and binary code
 
 Each day, x data 
 
+__Online Activity in the USA, 2008-2018__[]
 
+![](/assets/2022/for_digital_dna/images/us_online_active.png)
 
 [^owid_daily]: _...number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018_: See chart: <https://ourworldindata.org/grapher/daily-hours-spent-with-digital-media-per-adult-user?country=~USA>. 
 
@@ -460,6 +462,53 @@ __DNA__[^gen_dna]
 ![](/assets/2022/for_digital_dna/images/just_dna.png)
 
 [^gen_dna]: See <https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid>
+
+### [Code for the Graph](#code)
+
+I used data from OurWorldInData to make a graph of US Internet usage over time. The raw data can be found here: <>. Below is the code I used to make the graph I made. 
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+plt.rcParams['text.usetex'] = True
+plt.rcParams['text.latex.preamble'] = r''
+plt.rcParams["font.family"] = "Times New Roman"
+
+data = pd.read_csv("daily-hours-spent-with-digital-media-per-adult-user.csv")
+
+mobile = data["Mobile"].values
+desktop_laptop = data["Desktop/Laptop"].values
+other_devices = data["Other Connected Devices"].values
+total = mobile+desktop_laptop+other_devices
+years = data["Year"].values
+
+fig = plt.figure(figsize=(9.5,6))
+ax = fig.add_subplot()
+
+ax.set_title("US Online Activity, 2008-2018", fontsize=18.0)
+ax.set_ylabel("Hours", fontsize=16.0)
+
+ax.set_xticklabels(labels=[str(x) for x in years], rotation=45)
+
+for points, color, label in list(zip([mobile, desktop_laptop, other_devices, total], ["blue", "green", "cyan", "red"], ["Mobile", "Desktop/Laptop", "Other Devices", "Total"])):
+    ax.plot(
+        [str(x) for x in years], 
+        points, 
+        label=label, 
+        color=color,
+        marker='o',
+        linewidth=3.0,
+        markersize=5.0,
+        markeredgecolor='black',
+        markeredgewidth=1.0,
+    )
+
+plt.legend()
+plt.savefig('us_online_active.png', dpi=200)
+plt.show()
+```
 
 ---
 
