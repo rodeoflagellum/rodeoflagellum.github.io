@@ -241,19 +241,27 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 ![](/assets/2022/for_digital_dna/images/dna_struct.png)
 
-The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
+[wiki_mito]: https://en.wikipedia.org/wiki/Mitochondrial_DNA "https://en.wikipedia.org/wiki/Mitochondrial_DNA"
 
-The number of base pairs in the 
+Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome). Some [mitochondrial DNA][wiki_mito] (mtDNA) also must be taken into account when looking at the size of the human genome. Overall, the diploid male genome with mtDNA is around 6,017,847,976 base pairs, and the diploid female genome with mtDNA is around 6,109,647,513 base pairs. 
 
-Given that there are probably around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around[^extra]
+Recently (), 
+
+> The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
+> 
+> [See _On the length, weight and GC content
+of the human genome_[^on]]
+
+[^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>
 
 
-Contrast this with 
+Given that there are probably around $3.72 \times 10^{13}$ cells in the human body[^cells] and that most cells in the body are somatic (diploid) cells, this means that there is approximately 
+
+Presently, there are 
+
+and that the length of a single base pair is around[^extra]
 
 Calculate weight / lenght / storage potential of ind. human / humanity, 
-
-
-<!-- This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules—DNA, RNAs, and proteins—required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information—about as much as it takes to record the text of one chapter of this book -->
 
 [^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
 
@@ -306,7 +314,9 @@ Each day, x data
 
 [wiki_h]: https://en.wikipedia.org/wiki/Hyperscale_computing "https://en.wikipedia.org/wiki/Hyperscale_computing"
 
+<!-- Recall that the # of base pairs (etc..)
 
+This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules—DNA, RNAs, and proteins—required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information—about as much as it takes to record the text of one chapter of this book -->
 
 __Hyperscale Data Centers__[^syn]
 
