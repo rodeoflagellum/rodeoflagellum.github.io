@@ -245,6 +245,12 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome). Some [mitochondrial DNA][wiki_mito] (mtDNA) also must be taken into account when looking at the size of the human genome. Overall, the diploid male genome with mtDNA is around 6,017,847,976 base pairs, and the diploid female genome with mtDNA is around 6,109,647,513 base pairs. 
 
+Recently, news was made when[^comp_gene]. The cost of sequencing
+
+<iframe src="https://www.metaculus.com/questions/embed/8909/" width="100%" height="300"></iframe>
+
+<iframe src="https://www.metaculus.com/questions/embed/11371/" width="100%" height="300"></iframe>
+
 While the values used for the number of base pairs in this paper are somewhat outdated, their estimates for the length and weight of male and female nuclear diploid genomes are not. 
 
 > The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
