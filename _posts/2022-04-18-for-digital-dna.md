@@ -245,15 +245,14 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome). Some [mitochondrial DNA][wiki_mito] (mtDNA) also must be taken into account when looking at the size of the human genome. Overall, the diploid male genome with mtDNA is around 6,017,847,976 base pairs, and the diploid female genome with mtDNA is around 6,109,647,513 base pairs. 
 
-Recently (), 
+While the values used for the number of base pairs in this paper are somewhat outdated, their estimates for the length and weight of male and female nuclear diploid genomes are not. 
 
 > The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
 > 
 > [See _On the length, weight and GC content
 of the human genome_[^on]]
 
-[^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>
-
+[^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>. Quote: (pp.2) "Considering a mean length in a diploid cell of 206.62 cm and the latest estimation of a mean of 3 × 10^12 nucleated cells for a reference human being [38, 39], the total extension in length of all nuclear DNA molecules present in a single human individual is of about 6.20 billion km (6.20 × 10^12 m) and is sufficient to cover the Earth-Sun distance (https://cneos.jpl.nasa.gov/gloss ary/au.html) more than 41 times. Considering a mean weight in a diploid cell of 6.46 pg, the genome weight summed across nucleated human cells would be about 19.39 g, almost the weight of 100 carats (https://sizes.com/units/carat.htm)."
 
 Given that there are probably around $3.72 \times 10^{13}$ cells in the human body[^cells] and that most cells in the body are somatic (diploid) cells, this means that there is approximately 
 
