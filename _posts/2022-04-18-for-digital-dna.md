@@ -233,7 +233,7 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 [wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
 
-A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][] or [egg][] cells (i.e, our [germ cells][] or [gametes][]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
 __Depiction of Chromosomal Structure__[^chromi]
 
@@ -243,10 +243,14 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 The [haploid][wiki_hap] [human geneome][wiki_hgen], which consists of 23 [chromosomes][wiki_chrom] consists of 3,054,815,472 DNA [base pairs][wiki_base]. Most cells, though, are somatic and not gamete, so these diploid genomes contain 2x this amount, one copy for [^comp_gene]
 
-Given that there are around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around[^extra]
+The number of base pairs in the 
+
+Given that there are probably around $3.72 \times 10^{13}$ cells in the human body[^cells], and that the length of a single base pair is around[^extra]
 
 
 Contrast this with 
+
+Calculate weight / lenght / storage potential of ind. human / humanity, 
 
 
 <!-- This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules—DNA, RNAs, and proteins—required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information—about as much as it takes to record the text of one chapter of this book -->

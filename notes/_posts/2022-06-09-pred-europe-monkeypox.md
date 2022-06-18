@@ -11,6 +11,26 @@ status: Unresolved
 tags: [prediction]
 ---
 
+__Forecast Update 06/17/2022__: In the previous update and original entry, I made the mistake of only looking at confirmed cases, and not confirmed + suspected cases. The count of confirmed and suspected cases currently (06/17/2022, 16:28 EST) is x and b, respectively. My updated code and forecast follows. 
+
+
+![](/notes/assets/2022/europe_monkeypox/update3.png)
+
+
+![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june17a.png)
+
+![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june17b.png)
+
+```python 
+
+```
+
+<br>
+
+---
+
+<br>
+
 __Forecast Update 06/16/2022__: The number of confirmed Monkeypox cases in Europe is now somewhere around 2100. I've used best fit lines to explore 4 business as usual scenarios, and have updated my forecast in the following manner (note that I updated the forecast in one undocumented way before this update): 
 
 ![](/notes/assets/2022/europe_monkeypox/update2.png)
