@@ -92,7 +92,7 @@ answer what
 
 [wiki_carbs]: https://en.wikipedia.org/wiki/Carbohydrate "https://en.wikipedia.org/wiki/Carbohydrate"
 
-[wiki_macros]: https://en.wikipedia.org/wiki/Macromolecule "https://en.wikipedia.org/wiki/Macromolecule"
+[wiki_macro]: https://en.wikipedia.org/wiki/Macromolecule "https://en.wikipedia.org/wiki/Macromolecule"
 
 [wiki_life]: https://en.wikipedia.org/wiki/Life "https://en.wikipedia.org/wiki/Life"
 
@@ -148,7 +148,7 @@ This brings us to the question of what RNA and DNA actually are, and of how they
 
 Rather than answer the former question myself, I default to the writers on Wikipedia (as of 06/09/2022), who have done a much better job at providing a comprehensive definition of RNA and DNA than I could have: 
 
-> __Ribonucleic acid ([RNA][wiki_rna])__ is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][wiki_coding], [decoding][wiki_decoding], [regulation][wiki_regulation] and [expression][wiki_expression] of[genes][wiki_genes]. RNA and deoxyribonucleic acid ([DNA][wiki_DNA]) are [nucleic acids][wiki_nucleics]. Along with [lipids][wiki_lipids], [proteins][wiki_proteins], and [carbohydrates][wiki_carbs], nucleic acids constitute one of the four major [macromolecules][wiki_macros] essential for all known forms of [life][wiki_life]. Like DNA, RNA is assembled as a chain of [nucleotides][wiki_nucleos], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][wiki_mRNA]) to convey genetic information (using the [nitrogenous][wiki_nitro_bases] bases of [guanine][wiki_gua], [uracil][wiki_ura], [adenine][wiki_ade], and [cytosine][wiki_cyto], denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many [viruses][wiki_vir] encode their genetic information using an RNA [genome][wiki_geno]. 
+> __Ribonucleic acid ([RNA][wiki_rna])__ is a [polymeric][wiki_polymer] molecule essential in various biological roles in [coding][wiki_coding], [decoding][wiki_decoding], [regulation][wiki_regulation] and [expression][wiki_expression] of[genes][wiki_genes]. RNA and deoxyribonucleic acid ([DNA][wiki_DNA]) are [nucleic acids][wiki_nucleics]. Along with [lipids][wiki_lipids], [proteins][wiki_proteins], and [carbohydrates][wiki_carbs], nucleic acids constitute one of the four major [macromolecules][wiki_macro] essential for all known forms of [life][wiki_life]. Like DNA, RNA is assembled as a chain of [nucleotides][wiki_nucleos], but unlike DNA, RNA is found in nature as a single strand folded onto itself, rather than a paired double strand. Cellular organisms use messenger RNA ([mRNA][wiki_mRNA]) to convey genetic information (using the [nitrogenous][wiki_nitro_bases] bases of [guanine][wiki_gua], [uracil][wiki_ura], [adenine][wiki_ade], and [cytosine][wiki_cyto], denoted by the letters G, U, A, and C) that directs synthesis of specific proteins. Many [viruses][wiki_vir] encode their genetic information using an RNA [genome][wiki_geno]. 
 > 
 > [See <https://en.wikipedia.org/wiki/RNA>]
 
@@ -233,7 +233,7 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 [wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
 
-A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
 __Depiction of Chromosomal Structure__[^chromi]
 
