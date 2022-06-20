@@ -273,6 +273,8 @@ and that the length of a single base pair is around[^extra]
 
 Calculate weight / lenght / storage potential of ind. human / humanity, 
 
+
+
 [^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
 
 [^cells]: _Given that there are around $3.72 \times 10^{13}$ cells in the human body..._: Bianconi, Eva, Allison Piovesan, Federica Facchin, Alina Beraudi, Raffaella Casadei, Flavia Frabetti, Lorenza Vitale et al. "An estimation of the number of cells in the human body." Annals of human biology 40, no. 6 (2013): 463-471. See <https://pubmed.ncbi.nlm.nih.gov/23829164/>. Quote: (background) "A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of 3.72 × 10(13)."

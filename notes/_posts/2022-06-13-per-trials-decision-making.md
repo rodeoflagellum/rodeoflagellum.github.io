@@ -289,12 +289,18 @@ import sys
 FILE = "decisions.csv"
 
 def add_decision():
+    # Metrics for sorting decisions 
     decision_matrix = {
-        "Decision":"","10n":"","10d":"","10m":"","10y":"",
-        "Urgency":"","Importance":"","Estimated Completion Time":"",
-        "Preference":"","Interest":"","YHat":"","GHat":"","RHat":"",
-        "WHat":"","BlkHat":"","BluHat":"","Frequency":"","Error":""
+        "Decision":"",
+        "Urgency":"",
+        "Importance":"",
+        "Impactfulness":"",
+        "ECT":"",  
+        "Error":""  
     }
+    # Other metics for whether to add or remove certain decisions 
+    # "Preference":"","Interest":"","YHat":"","GHat":"","RHat":"",
+    # "WHat":"","BlkHat":"","BluHat":"","Frequency":"",
     print("Make sure to do [number]:[response]")
     for k in list(decision_matrix.keys()):
         decision_matrix[k] = input(f"{k}: ")
@@ -316,14 +322,14 @@ def add_decision():
 
 def main():
     options = {
-        "Add_Decision":add_decision,
+        "Add":add_decision,
     }
     using = True 
     while using: 
         for k, v in options.items():
             print(k)
         try: 
-            choice = input("What would you like to do? (n,[choice]): ")
+            choice = input("What would you like to do? (\"n\" for no, [choice]): ")
             if choice != "n":
                 options[choice]()
             else:
@@ -338,7 +344,10 @@ if __name__ == "__main__":
 The need to clarify "value classes" came up in my decision making explorations. Listed below are rough reference classes for the different decision parameters I am taking into account. 
 
 - Decision: The decision I want to make 
-- 10n: Utility in the 10 minutes  following a decision (1-100):Description
+- Error: How incorrect I am in a "good" direction vs. in a "poor" direction. For example, a score of 50 means that I was mostly on point with the values, and a score of 98 means that something was much better overall than I expected (this could be in terms of completion time, importance, YHat, ...). All error scores start at 50. 
+
+
+<!-- - 10n: Utility in the 10 minutes  following a decision (1-100):Description
     - ~0: No changes, life goes 
     - ~10: 
     - ~30: 
@@ -483,9 +492,7 @@ The need to clarify "value classes" came up in my decision making explorations. 
     - ~80: 
     - ~90: Solve some major problem 
     - ~100: Helping humanity as a whole
-- Frequency: A term for how frequently I suspect
-- Error: How incorrect I am in a "good" direction vs. in a "poor" direction. For example, a score of 50 means that I was mostly on point with the values, and a score of 98 means that something was much better overall than I expected (this could be in terms of completion time, importance, YHat, ...). All error scores start at 50. 
-
+- Frequency: A term for how frequently I suspect -->
 
 <!-- What is valuable or important to me in life? 
 \
