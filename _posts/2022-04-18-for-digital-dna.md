@@ -244,19 +244,19 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome by almost a factor of 3). In addition, some [mitochondrial DNA][wiki_mito] (mtDNA) also must also be taken into account when determining the size of the human genome. 
 
-One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs[^on]. Wikipedia presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs.
+One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs[^on]. Wikipedia presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs. 
 
 Estimates often vary across the "different" genomes (X or Y, diploid or haploid, with or without mtDNA) that can be measured.  Recently, news was made when researcher's fully sequenced a human genome, contributing measurements of the "_...remaining 8% of the genome..._" - "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._"[^comp_gene]. 
 
 How much does it cost to sequence the human genome? The cost of sequencing 
-
-
 
 <iframe src="https://www.metaculus.com/questions/embed/8909/" width="100%" height="300"></iframe>
 
 <iframe src="https://www.metaculus.com/questions/embed/11371/" width="100%" height="300"></iframe>
 
 While the values used for the number of base pairs in this paper are somewhat outdated, their estimates for the length and weight of male and female nuclear diploid genomes are not. 
+
+Using their respectively, 
 
 > The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
 > 
