@@ -188,7 +188,7 @@ That DNA has such a long half-life is quite extraordinary in my mind. While I am
 
 Two fairly recent examples showcasing this feat of Nature that happened to pierce the public's attention[^public] are Ötzi the iceman and the report that the DNA of some million year-old mammoths was able to be sequenced. 
 
-Ötzi the iceman is a mummified human (25-40 year-olds and likely murdered) from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
+Ötzi the iceman is a mummified human, who was 25-40 year-olds at time of his death (likely murdered), from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
 
 The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing[^million_mam]; previously, sequencing the DNA of a 560–780k year-old horse fossil from Canada's Yukon was believed to have been _the limit_[^horse].
 
@@ -216,8 +216,7 @@ There are some other questions worth considering before discussing DNA's potenti
 
 [wiki_auto]: https://en.wikipedia.org/wiki/Autosome "https://en.wikipedia.org/wiki/Autosome"
 
-As a primer, when your parents mated and your [fertilization][wiki_conception] occurred, you received an X [allosome][wiki_allo] from your mother, and an X or Y allosome from your father (biological female vs. biological male, respectively). Additionally, you received one set of 22 [autosomes][wiki_auto] from your father and another such set from your mother; in total, then, you have 46 [chromosomes][wiki_chrom]. 
-
+As a primer, when your parents mated and your [fertilization][wiki_conception] occurred, you received an X [allosomal][wiki_allo] [chromosome][wiki_chrom] from your mother, and an X or Y allosomal chromosome from your father. Additionally, you received one set of 22 [autosomal][wiki_auto] chromosomes from your father and another such set from your mother. In total, then, you have 46 chromosomes. 
 
 [wiki_ploid]: https://en.wikipedia.org/wiki/Ploidy/ "https://en.wikipedia.org/wiki/Ploidy/" 
 
@@ -233,7 +232,7 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 [wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
 
-A set of chromosomes recides within each cell of your body, within the cell's nucleus. Across and within organisms, the number of sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+Within each cell of your body, specifically within their nucleus, a certain number of sets of chromosomes reside. Across and within organisms, the number of these sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
 __Depiction of Chromosomal Structure__[^chromi]
 
@@ -243,9 +242,15 @@ __Depiction of Chromosomal Structure__[^chromi]
 
 [wiki_mito]: https://en.wikipedia.org/wiki/Mitochondrial_DNA "https://en.wikipedia.org/wiki/Mitochondrial_DNA"
 
-Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome). Some [mitochondrial DNA][wiki_mito] (mtDNA) also must be taken into account when looking at the size of the human genome. Overall, the diploid male genome with mtDNA is around 6,017,847,976 base pairs, and the diploid female genome with mtDNA is around 6,109,647,513 base pairs. 
+Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome by almost a factor of 3). In addition, some [mitochondrial DNA][wiki_mito] (mtDNA) also must also be taken into account when determining the size of the human genome. 
 
-Recently, news was made when[^comp_gene]. The cost of sequencing
+One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs[^on]. Wikipedia presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs.
+
+Estimates often vary across the "different" genomes (X or Y, diploid or haploid, with or without mtDNA) that can be measured.  Recently, news was made when researcher's fully sequenced a human genome, contributing measurements of the "_...remaining 8% of the genome..._" - "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._"[^comp_gene]. 
+
+How much does it cost to sequence the human genome? The cost of sequencing 
+
+
 
 <iframe src="https://www.metaculus.com/questions/embed/8909/" width="100%" height="300"></iframe>
 
