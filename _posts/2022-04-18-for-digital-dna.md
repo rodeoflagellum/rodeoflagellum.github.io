@@ -2,7 +2,7 @@
 layout: post
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
-modified: 2022-06-15 12:00:00 -0400
+modified: 2022-06-20 12:00:00 -0400
 permalink: "/for_digital_dna/"
 status: "In Progress"
 type: "Essay"
