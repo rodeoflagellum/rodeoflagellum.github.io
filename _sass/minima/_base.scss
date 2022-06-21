@@ -8,10 +8,24 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+.padded-dropcap {
+  padding-left: 5px;
+  padding-right: 10px;
+  float: left;
+  position: relative;
+  top: -0.25em;
+  margin-bottom: -0.5em;
+  margin-left: -6px;
+  margin-right: 2px;
+  font-size: 100px;
+@import url(/assets/fonts/CamelotCaps.ttf);
+
 // p + p {
 //   text-indent: 2em;
 //   margin: 0;
 // }
+
+
 
 // article h1 + p:first-letter {
 //   font-size: 32px;
@@ -28,7 +42,7 @@ dl, dd, ol, ul, figure {
 
 // dropdown for TOC starter
 // https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown
-https://eyesfreelinux.ninja/posts/how-to-generate-a-table-of-contents-in-a-kramdown-document.html
+//https://eyesfreelinux.ninja/posts/how-to-generate-a-table-of-contents-in-a-kramdown-document.html
 // https://www.geeksforgeeks.org/how-to-wrap-the-text-around-an-image-using-html-and-css/
 
 /**
