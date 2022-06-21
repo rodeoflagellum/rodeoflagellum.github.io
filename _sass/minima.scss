@@ -8,7 +8,7 @@
 // $base-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif, !default;
 // $base-font-family: "Academica Book Pro", Times, Georgia, serif, !default;
 $base-font-family: "century-supra-text", Georgia, !default;
-$base-font-size:   17px !default;
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -28,10 +28,14 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1000px !default; 
+
+// 800px
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1000px !default;
+
+// 800px
 
 // Use media queries like this:
 // @include media-query($on-palm) {

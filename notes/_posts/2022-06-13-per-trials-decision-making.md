@@ -39,6 +39,7 @@ __Habits__
 - Doing mathematics problems 
 - Generating questions on topics and minimally investigating them  
 - Exploring data
+- ?Keep predicting on Metaculus  
 - Practicing R, Python, Julia 
 - Going to sleep at a reasonable time 
 - Eating well 
