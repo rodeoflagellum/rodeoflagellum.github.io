@@ -162,6 +162,7 @@ __RNA__ and __DNA__[^wiki_dna_img]
 
 ![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
 
+
 For the latter question, the [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer and storage. The core notion of this dogma is that there are hard limits for how information can travel between different macromolecules, notably that information is "trapped" after it's transfered to proteins. As originally stated by Francis Crick[^dogma]:
 
 > The Central Dogma. This states that once "information" has passed into protein it cannot get out again. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the precise determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. 
@@ -250,9 +251,9 @@ Estimates often vary across the "different" genomes (X or Y, diploid or haploid,
 
 How much does it cost to sequence the human genome? The cost of sequencing 
 
-<iframe src="https://www.metaculus.com/questions/embed/8909/" width="100%" height="300"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/8909/"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/11371/" width="100%" height="300"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/11371/"></iframe>
 
 While the values used for the number of base pairs in this paper are somewhat outdated, their estimates for the length and weight of male and female nuclear diploid genomes are not. 
 
