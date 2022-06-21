@@ -14,6 +14,16 @@ p + p {
 }
 
 /**
+ * Styling for the description paragraph at the 
+ * beginning of each post 
+ */
+.description_short {
+  font-size: #{$base-font-size}-1;
+  text-indent: -10px;
+  margin-left: 10px;
+}
+
+/**
  * Basic styling
  */
 body {
