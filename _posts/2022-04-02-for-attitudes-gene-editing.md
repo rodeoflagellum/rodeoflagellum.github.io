@@ -187,7 +187,7 @@ _Also Posted Here_: Metaculus, LW, EAF
 
 ## [Overview and Shortcuts](#overview-shortcuts)
 
-Humans generally desire to be content and feel well, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, including but not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
+<span class="padded-dropcap">H</span>umans generally desire to be content and feel well, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, including but not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
 
 
 <!-- Genetics of Wellbeing and Its Components Satisfaction with Life, Happiness, and Quality of Life: A Review and Meta-analysis

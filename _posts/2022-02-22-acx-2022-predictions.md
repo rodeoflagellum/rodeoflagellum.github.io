@@ -16,7 +16,7 @@ status: "Passing"
 * TOC
 {:toc}
 
-From Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
+<span class="padded-dropcap">From</span> Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
 
 > Sam Marks and Eric Neyman have kindly turned this tradition into a contest.
 >

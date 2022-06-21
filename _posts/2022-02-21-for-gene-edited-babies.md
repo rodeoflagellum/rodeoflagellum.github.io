@@ -21,7 +21,7 @@ description: "My forecasts and thoughts on how many gene-edited babies will be b
 ## Perspectives on Human Gene-Editing
 _My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing; these, I believe, are useful precursors for forecasting human gene-editing futures._
 
-In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [Henk ten Have][Henk]{:target="_blank"}  and [Maria do Céu Patrão Neves][Maria]{:target="_blank"}[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]{:target="_blank"}" (pp. 405-406):
+<span class="padded-dropcap">I</span>n the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [Henk ten Have][Henk]{:target="_blank"}  and [Maria do Céu Patrão Neves][Maria]{:target="_blank"}[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]{:target="_blank"}" (pp. 405-406):
 
 > The children of parents who wish to design their offspring are called “designer babies.” The term was coined by the media to refer to genetic interventions in preimplantation human embryos in which the aim was to select or alter the traits future children would have.
 

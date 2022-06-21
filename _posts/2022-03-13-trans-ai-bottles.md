@@ -47,7 +47,7 @@ __Disclaimer and Epistemic Status__: My background is in neuroscience and machin
 ## [Outlook](#outlook)
 _Here I examine the landscape of AI Safety and introduce some questions relating to how the general AI/DL research community handles AI risk_
 
-[AI safety][ai_safety]{:target="_blank"}, as a distinct discipline, is relatively new; the earliest occurrence of "AI Safety" or "Safe AI" I could find in academic literature appears to be in 1995, in M. G. Rodd's publication _[Safe AI - is this Possible?][f]_, but the origins of AI Safety as a field are less obvious[^3]. In any case, the field is growing rapidly, both in terms of popularity[^4] and funding.
+<span class="padded-dropcap">A</span>I safety (see [here][ai_safety]), as a distinct discipline, is relatively new; the earliest occurrence of "AI Safety" or "Safe AI" I could find in academic literature appears to be in 1995, in M. G. Rodd's publication _[Safe AI - is this Possible?][f]_, but the origins of AI Safety as a field are less obvious[^3]. In any case, the field is growing rapidly, both in terms of popularity[^4] and funding.
 
 &emsp; In 2014, spending on strategical and technical interventions totaled [~1.75 million USD][impacts]{:target="_blank"} between the [Future of Humanity Institute][fhi]{:target="_blank"} (FHI) and the [Machine Intelligence Research Institute][miri]{:target="_blank"} (MIRI), two of the field's progenitors, and grew to at least ~9.1 million USD in 2017 (distributed across many new organizations), a ~5.2 fold increase[^5].
 

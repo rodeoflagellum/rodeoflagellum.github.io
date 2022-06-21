@@ -18,6 +18,10 @@ status: "Incomplete"
 
 ---
 
+## Thoughts on the Project
+
+<span class="padded-dropcap">M</span>y sense 
+
 ## [2100's Midpoint](#midpoint-2100)
 
 ---

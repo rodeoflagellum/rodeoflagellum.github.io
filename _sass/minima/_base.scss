@@ -8,17 +8,27 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+@font-face {
+  font-family: 'Camelot';
+  src: url("/assets/fonts/CamelotCaps.ttf")
+}
+
+// See https://www.htmlgoodies.com/html/creating-drop-caps-in-html-and-css/
+// for details
 .padded-dropcap {
   padding-left: 5px;
   padding-right: 10px;
   float: left;
+  font-family: "Camelot";
   position: relative;
   top: -0.25em;
-  margin-bottom: -0.5em;
   margin-left: -6px;
+  margin-bottom: -0.75em;
   margin-right: 2px;
   font-size: 100px;
-@import url(/assets/fonts/CamelotCaps.ttf);
+}
+
+
 
 // p + p {
 //   text-indent: 2em;
