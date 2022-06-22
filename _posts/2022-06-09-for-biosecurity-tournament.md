@@ -4,8 +4,8 @@ title:  "Metaculus Biosecurity Tournament"
 date:  2022-06-09 21:30:00 -0400
 modified: 2022-06-12 16:15:00 -0400
 permalink: "/for_biosecurity_tournament/"
-status: "Ongoing"
-type: "Log"
+status: "Unfinished"
+type: "Forecasting Log"
 tags: [forecasting, prediction, biosecurity, gcr, global-priorities, goverance]
 image: /assets/2022/for_biosecurity_tournament/birmingham-museums-trust-v15kmerLWcA-unsplash.jpg
 description: "My forecasts and thoughts on various questions in Metaculus's 2022 Biosecurity Tournament"

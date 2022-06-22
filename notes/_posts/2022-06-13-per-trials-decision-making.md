@@ -6,6 +6,8 @@ permalink: "/per_trials_decision_making/"
 tags: [personal, rationality]
 header_image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg
 description: "Frame: A place where I explore different tools for decision making, using my own goals and desires as the decision-fodder."
+status: "Ongoing"
+type: "Thinking Space"
 word_count: "yes"
 reading_time: "yes"
 ---
@@ -165,11 +167,9 @@ __Involved Actions__
 - FIFA 2022 networks  
 - Small caps 
 - Views button
-
 - Making a YT channel and uploading videos 
 - OurWorldInData explorations
 - My Metaculus Track Record 
-
 - Physical Analogues for Uncertainty project 
 - A meta-science summarization pipeline 
 - Using the Internet's news for forecasting of events 
