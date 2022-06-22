@@ -150,16 +150,15 @@ Rather than answer the former question myself, I default to the writers on Wikip
 > 
 > [See <https://en.wikipedia.org/wiki/RNA>]
 
-and 
-
 > __Deoxyribonucleic acid (DNA)__ is a [polymer][wiki_polymer] composed of two [polynucleotide][wiki_polynu] chains that coil around each other to form a [double helix][wiki_doub] carrying [genetic][wiki_gentc] instructions for the development, functioning, growth and [reproduction][wiki_repo] of all known [organisms][wiki_org] and many [viruses][wiki_vir]. DNA and ribonucleic acid ([RNA][wiki_rna]) are [nucleic acids][wiki_nucleics]. Alongside [proteins][wiki_proteins], [lipids][wiki_lipids] and complex [carbohydrates][wiki_carbs] ([polysaccharides][wiki_polys]), nucleic acids are one of the four major types of [macromolecules][wiki_macro] that are essential for all known forms of [life][wiki_life]. 
 > 
 > [See <https://en.wikipedia.org/wiki/DNA>]
 
-__RNA__ and __DNA__[^wiki_dna_img]
 
-![](/assets/2022/for_digital_dna/images/rna_dna_diff.png)
-
+<details>
+<summary>RNA and DNA</summary>
+<img src="/assets/2022/for_digital_dna/images/rna_dna_diff.png">
+</details>[^wiki_dna_img]
 
 For the latter question, the [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer and storage. The core notion of this dogma is that there are hard limits for how information can travel between different macromolecules, notably that information is "trapped" after it's transfered to proteins. As originally stated by Francis Crick[^dogma]:
 
@@ -233,11 +232,16 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 Within each cell of your body, specifically within their nucleus, a certain number of sets of chromosomes reside. Across and within organisms, the number of these sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
-__Depiction of Chromosomal Structure__[^chromi]
+<!-- [^chromi]: See <https://humanoriginproject.com/dna-full-form/>. -->
 
-[^chromi]: See <https://humanoriginproject.com/dna-full-form/>.
+<!-- ![](/assets/2022/for_digital_dna/images/dna_struct.png) -->
 
-![](/assets/2022/for_digital_dna/images/dna_struct.png)
+<details>
+<summary>Depiction of Chromosomal Structure</summary>
+<img src="/assets/2022/for_digital_dna/images/dna_struct.png">
+</details>
+
+For image details, see here <https://humanoriginproject.com/dna-full-form/>. 
 
 [wiki_mito]: https://en.wikipedia.org/wiki/Mitochondrial_DNA "https://en.wikipedia.org/wiki/Mitochondrial_DNA"
 
@@ -249,9 +253,16 @@ Estimates often vary across the "different" genomes (X or Y, diploid or haploid,
 
 How much does it cost to sequence the human genome? The cost of sequencing 
 
+<details>
+<summary>What will be the cost of sequencing a whole human genome in 2026 (in 2021 USD)?</summary>
 <iframe src="https://www.metaculus.com/questions/embed/8909/"></iframe>
+</details>
 
+<details>
+<summary>What will be the cost (in 2021 USD) of sequencing a whole human genome in 2031?</summary>
 <iframe src="https://www.metaculus.com/questions/embed/11371/"></iframe>
+</details>
+
 
 While the values used for the number of base pairs in this paper are somewhat outdated, their estimates for the length and weight of male and female nuclear diploid genomes are not. 
 
@@ -272,8 +283,6 @@ and that the length of a single base pair is around[^extra]
 
 Calculate weight / lenght / storage potential of ind. human / humanity, 
 
-
-
 [^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
 
 [^cells]: _Given that there are around $3.72 \times 10^{13}$ cells in the human body..._: Bianconi, Eva, Allison Piovesan, Federica Facchin, Alina Beraudi, Raffaella Casadei, Flavia Frabetti, Lorenza Vitale et al. "An estimation of the number of cells in the human body." Annals of human biology 40, no. 6 (2013): 463-471. See <https://pubmed.ncbi.nlm.nih.gov/23829164/>. Quote: (background) "A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of 3.72 × 10(13)."
@@ -292,15 +301,19 @@ Calculate weight / lenght / storage potential of ind. human / humanity,
 
 Now that we've examined biological information storage and, in particular, DNA, let us move on to discussing digital data. 
 
+
+---
+
 ## Data and Storing It 
 
 As everyone here is very much aware, humans have created and are continually creating prodigious quantities of digital data. When thinking about this, the Internet, first and foremost, comes to my mind — the tremendous influx of emails, tweets, messages, posts, etc... inundating networks globally, all day every day. Internet speed is a growing issue, and my personal website is beginning to load much slower due to how much data I am including in my posts. 
 
 In the Western world, people are constantly online, with 85% of US citizens being digitial active daily in 2021, and 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018[^owid_daily]. 
 
-__Online Activity in the USA, 2008-2018__[^owid_daily]
-
-![](/assets/2022/for_digital_dna/images/us_online_active-1.png)
+<details>
+<summary>Online Activity in the USA, 2008-2018</summary>
+<img src="/assets/2022/for_digital_dna/images/us_online_active-1.png">
+</details>
 
 Between 2000 and 2016, the number of Internet users grew from 413m to 3.4b.[^owid_us] Most people reading this will likely fall into the "active online almost constantly" bin, and perhaps have an inside view of the sheer volumes of data being generated each day.  
 
@@ -329,9 +342,10 @@ Each day, x data
 
 This organism lives as a parasite in mammals, and its environment provides it with many of its small molecules ready-made. Nevertheless, it still has to make all the large molecules—DNA, RNAs, and proteins—required for the basic processes of heredity. It has about 530 genes, about 400 of which are essential. Its genome of 580,070 nucleotide pairs represents 145,018 bytes of information—about as much as it takes to record the text of one chapter of this book -->
 
-__Hyperscale Data Centers__[^syn]
-
-![](/assets/2022/for_digital_dna/images/data_center_growth.png)
+<details>
+<summary>Hyperscale Data Center</summary>
+<img src="/assets/2022/for_digital_dna/images/data_center_growth.png">
+</details>[^syn]
 
 [^syn]: __: See <https://www.srgresearch.com/articles/microsoft-amazon-and-google-account-for-over-half-of-todays-600-hyperscale-data-centers> and <https://www.srgresearch.com/articles/pipeline-of-over-300-new-hyperscale-data-centers-drives-healthy-growth-forecasts>. From their "About Us" page: "Founded in 1999, Synergy provides market intelligence and analytics for the networking and telecoms industry. Synergy’s research is used worldwide by industry leading companies, Wall Street firms, and government institutions. We specialize in providing comprehensive quantitative market data that is updated every 90 days. Through annual subscription services, Synergy offers worldwide, regional, and country-level market share data, manufacturers’ revenue, average selling prices, shipments, detailed market segmentation, forecasts and analysis. In addition to standard Excel and PDF deliverables, our custom cloud-based online research tool, Synergy Interactive Analysis (SIA™), enables our customers to dynamically search and manipulate the data, as well as create customized market segmentation and reports tailored to their business needs." Quote: "New data from Synergy Research Group shows that the total number of large data centers operated by hyperscale providers increased to 597 at the end of 2020, having more than doubled since the end of 2015." and "With a current known pipeline of 314 future new hyperscale data centers, the installed base of operational data centers will pass the 1,000 mark in three years’ time and continue growing rapidly thereafter.", respectively.
 
@@ -348,10 +362,10 @@ https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-s
 
 [wiki_comp_stor]: https://en.wikipedia.org/wiki/Computer_data_storage "https://en.wikipedia.org/wiki/Computer_data_storage" 
 
-__Overview of Computer Storage__[^wiki_comp_stor]
-
-![](/assets/2022/for_digital_dna/images/comp_stor.png)
-
+<details>
+<summary>Overview of Computer Storage</summary>
+<img src="/assets/2022/for_digital_dna/images/comp_stor.png">
+</details>[^wiki_comp_stor]
 
 
 [^wiki_comp_stor]: From <https://en.wikipedia.org/wiki/Computer_data_storage>

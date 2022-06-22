@@ -163,10 +163,13 @@ __Involved Actions__
 - Clocks and timelines page 
 - Timeline of my life 
 - FIFA 2022 networks  
+- Small caps 
+- Views button
+
 - Making a YT channel and uploading videos 
 - OurWorldInData explorations
 - My Metaculus Track Record 
-- View button
+
 - Physical Analogues for Uncertainty project 
 - A meta-science summarization pipeline 
 - Using the Internet's news for forecasting of events 
@@ -182,12 +185,12 @@ __Involved Actions__
 - Agreement/Enjoyment sliders
 - Comments  
 - Archive / blogroll blocks 
-- Page Sorting
+- Page sorting by chronological order, importance, 
 
 __Particularly Expensive Decisions__
 
 - Getting a job a X
-- Settling somewhere 
+- Settling somewhere (where to live)
 - Having children 
 - Doing a PhD 
 - Founding a company / organization 

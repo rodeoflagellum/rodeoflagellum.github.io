@@ -13,6 +13,14 @@ dl, dd, ol, ul, figure {
   src: url("/assets/fonts/CamelotCaps.ttf")
 }
 
+// small caps h2, h3, h4 
+// dropdown blockquotes / images / iframes / sections / lists 
+
+@font-face {
+  font-family: 'Camelot';
+  src: url("/assets/fonts/CamelotCaps.ttf")
+}
+
 // See https://www.htmlgoodies.com/html/creating-drop-caps-in-html-and-css/
 // for details
 .padded-dropcap {
@@ -100,8 +108,8 @@ dl, dd, ol, ul, figure {
   text-indent: -20px;
   margin-left: 20px;
   font-variant: "small-caps";
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /**
@@ -172,8 +180,6 @@ figcaption {
   font-size: $small-font-size;
 }
 
-
-
 /**
  * Lists
  */
@@ -195,6 +201,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  font-variant: small-caps;
 }
 
 
@@ -259,7 +266,23 @@ blockquote {
 
 
 
+details > summary {
+  padding: 5px;
+  font-size: inherit;
+  // font-weight: bold;
+  background-color: #eeeeee;
+  border: 2.5px solid black;
+  // box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
 
+// details > p {
+//   background-color: #eeeeee;
+//   padding: 4px;
+//   margin: 0;
+//   box-shadow: 1px 1px 2px #bbbbbb;
+// }
 
 /**
  * Code formatting
