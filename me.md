@@ -15,6 +15,8 @@ Who are you?
   What are your goals?
   What are your instruments?-->
 
+--- 
+
 ## Table of Contents
 {:.no_toc}
 * TOC
@@ -22,7 +24,7 @@ Who are you?
 
 ---
 
-## [Discriminating Characteristics](#discriminating-characteristics)
+## [Baselines](#characteristics)
 _Some identifying information_
 
 I expect most people will find the following discriminatory characteristics useful for gauging how much I should be trusted, and for getting a picture of what intersection of human clades I fall into. Most of these identifying categories come from my memory of demographics surveys I've answered; most of these categories are also things that I would be somewhat interested in learning about of someone who writes online semi-anonymously. 
@@ -30,16 +32,15 @@ I expect most people will find the following discriminatory characteristics usef
 I used Python's ```random.shuffle()``` 1 time on the bullet points below (the points were originally ordered differently; I'm unsure as to why I don't want people knowing the original order that these bullets came to my mind). Also, note that ~Y (x%) roughly means "I am x% confident that approximately Y applies to me" and that ~x% means "I believe I am x%".
 
 - __Suspected Weight__: ~160 lbs (~72.6 kg) (80%)
-- __Tribes__: Effective Altruism movement,  Rationality movement
-- __Race__: Caucasoid
-- __Gender Identity__: ~heterosexual (60%)
+- __Height__: 5.9 feet (1.7526 meters)
+- __Belief Suppliers__: Effective Altruism movement & Rationality movement
+- __Cline__: European 
+- __Gender Identity__: Heterosexual 
 - __Disabilities or Cognitive Abnormalities__: None diagnosed
-- __Favorite Nourishment__: dark chocolate, almonds, coffee, blackberries
-- __Suspected IQ__: ~120 (70%)
+- __Favorite Nourishment__: dark chocolate, almonds, dark roast drip coffee, blueberries 
 - __Education__: B.A. Neuroscience and B.A. Mathematics
 - __Suspected Cognitive Abnormalities__: low empathy (75%), mild autism (60%), some attention deficit (60%)
-- __Age__: Below 40 years
-- __Predominant Life Location__: United States 
+- __Location__: [Demographic Transition](https://en.wikipedia.org/wiki/Demographic_transition) Stage 5 nations
 
 This list could include many more entries, but I am content to leave it at its current length for the time being. Ideally, 'rodeo flagellum' or 'cirrostratus whispers' are not directly identified with _my person_. I am a proponent for online anonymity and privacy, but I don't allocate much effort to this beyond using FireFox with privacy extensions and using Tor occasionally. I have not thought much about what metadata I generate by participating online in the way I do, and about whether I should take steps to limit what data I generate.  
 
@@ -61,7 +62,14 @@ In the list below, each topic of interest is preceded by some statement of prefe
 - I want to better understand how minds, life, and biology works &rarr; _neuroscience, origins of life research, biotechnology_
 - I want my children to intelligent, kind, and well-off generally &rarr; _embryo selection, polygenic screening, genetic-engineering, parenting_
 
+
 ---
+
+<!-- ## [Self-Perceived Capabilities](#interests) -->
+
+<!-- --- -->
+
+<!-- ## [Drives](#interests) -->
 
 ## [Personality and Morals](#personality-morals)
 _My results of some psychological surveys_

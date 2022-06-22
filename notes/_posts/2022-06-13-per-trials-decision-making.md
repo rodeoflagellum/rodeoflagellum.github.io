@@ -2,8 +2,6 @@
 layout: post
 title:  "Trials in Decision Making"
 category: misc
-date:  2022-06-13 10:01:00 -0400
-modified: 2022-06-13 16:28:00 -0400
 permalink: "/per_trials_decision_making/"
 tags: [personal, rationality]
 header_image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg
@@ -12,9 +10,12 @@ word_count: "yes"
 reading_time: "yes"
 ---
 
-I would like to like to experience _[eudemonia][wiki_eu]_ — "state or condition of 'good spirit'". My decisions for what to do and experience influence this, at least marginally (while I don't have the evidence on deck, I suspect that a large fraction of one's life satisfaction is attributable to their genetics). 
+<span class="padded-dropcap">I</span> would like to like to experience _[eudemonia][wiki_eu]_ — "state or condition of 'good spirit'". My decisions for what to do and experience influence this, at least marginally (while I don't have the evidence on deck, I suspect that a large fraction of one's life satisfaction is attributable to their genetics). 
 
 The art of the good decision making is something I would like to learn and put to work. There are communities, such as LessWrong and EA, with better-than-base-US-society epistemics in this regard, but there is still much room for improvement.  
+
+<!-- date:  2022-06-13 10:01:00 -0400
+modified: 2022-06-13 16:28:00 -0400 -->
 
 This page consists of me trying out and testing different practices, methods, learnings, etc... that I've come across on my own decisions. I don't have any plans to narrow or expand the scope of this page, and do not have a clear vision of where it will go. I am excited to see how I might benefit from and fail at using these methods. 
 

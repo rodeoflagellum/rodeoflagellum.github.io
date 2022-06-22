@@ -13,15 +13,21 @@ image: /assets/2022/for_designer_babies/bi2rmingham-museums-trust-lhsfeT9WZ9M-un
 description: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
 ---
 
+---
+
 ## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
 
+---
+
 ## Perspectives on Human Gene-Editing
 _My perspective on potentially having gene-edited children, and a very brief overview of what the public and bioethics community have to say about "designer babies" and about human gene-editing; these, I believe, are useful precursors for forecasting human gene-editing futures._
 
 <span class="padded-dropcap">I</span>n the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}_, [Henk ten Have][Henk]{:target="_blank"}  and [Maria do Céu Patrão Neves][Maria]{:target="_blank"}[^1] offer the following definition of a "[designer baby][Designer Baby, Wikipedia]{:target="_blank"}" (pp. 405-406):
+
+<br>
 
 > The children of parents who wish to design their offspring are called “designer babies.” The term was coined by the media to refer to genetic interventions in preimplantation human embryos in which the aim was to select or alter the traits future children would have.
 
@@ -99,6 +105,8 @@ I don't think such an individual would cease believing this; I think this indivi
 &emsp; At a glance, ~88% of participants agreed that gene-editing human somatic cells[^18] (treatment of heritable diseases; edits won't be passed on to future individuals) is morally acceptable; ~48% agreed that gene-editing of human germlines is morally acceptable (~32% neutral); ~41% agreed that parents have a right to gene-edit their children (~32% neutral); and ~36% disagree with the idea that unborn individuals have a right to a genetic inheritance free from genetic engineering (~30% neutral). Armsby et al. also looked at specific use cases of gene-editing in humans - generally, around ~70% of participants were strongly supportive of using somatic gene-editing for treatment of physical or intellectual disabilities, while only ~41% were strongly supportive of using germline gene-editing for treatment of physical or intellectual disabilities. There was little support across the board for using somatic or germline gene-editing to improve appearance, physical abilities, or cognitive abilities. See Appendix for the graphs of acceptability of human gene-editing and its uses.
 
 &emsp; If we take this opinion landscape to generalize well to other people with genetics-training and to not have changed very much since 2017, then it seems that the stance that people with genetics training take on human gene-editing is very similar to that of the general public (both were around 70% in support of gene-editing for treatment). The surveyed opinions of those with genetic-training appear to support the clinical application of gene-editing fairly more than the WHO's and NHGRI's positions do. While the total picture is incomplete to me - I am generalizing my fractional perspective of the stances on human gene-editing taken by the WHO, the NHGRI, and those with genetics training - the consensus appears to be _most people (including the scientists with the capacity to perform gene-editing) support somatic cell gene-editing for treatment purposes, but most do not support it for enhancement; organizations involved in governance are slightly more weary of gene-editing, even for treatment purposes. Germline genome editing of human embryos is not well supported for treatment, and is supported even less for enhancement._.  
+
+---
 
 ## The Near-Term Future
 _A discussion of some considerations and scenarios for forecasting the number of designer babies in the near-term future (2030), along with my specific forecasts of this quantity._
@@ -311,6 +319,8 @@ In this section, I will provide adjustments to my forecasts as new and existing 
 
 In this section, I will examine the actual value resolve value, i.e. the number of designer babies born by 2030, and will discuss the manners in which I was incorrect.
 
+--- 
+
 ## Appendix
 
 #### *Armsby et al. Survey Figures*
@@ -429,6 +439,8 @@ ___Opinions on the Acceptability of Various Uses of Human Gene-Editing___
 - <https://academic.oup.com/jmp/article-abstract/35/4/415/858384>
 - <https://www.nap.edu/catalog/21913/international-summit-on-human-gene-editing-a-global-discussion>
 
+---
+
 ## Page Epistemics
 
 _Status_: __"Working Draft"__ I don't believe I will make many more edits to the content of this page in the coming years. There are some adjustments and updates to make to my forecasts, along with the final retrospective to perform in 2030...I hope I am not dead! I will likely only alter the web-infrastructure of this page (e.g., collecting all URLs on the page to generate an ordered link bibliography). Outside of alterations, what I have stands as a working attempt to forecast how many gene-edited humans there will be by the years 2029, 2049, and 2100.
@@ -438,6 +450,8 @@ _Certainty_: __"Somewhat Likely"__ This means I am around 60% confident in the a
 _Importance_: __"6.5/10"__ I think human gene-editing can be a transformative technology for social good. Imagining people being free from painful and debilitating disease, being physical capable, having a robust immune system, being very cognitively able, etc... is a tantalizing prospect. [John von Neumann][von]{:target="_blank"}'s intellect pops into my mind from time to time when I think about human gene-editing. With better genes, humanity could do so much more; nevertheless, there is the potential for things to go very, very wrong.
 
 _Impact_: __"3.5/10"__ I think some of my friends might read this and appreciate the current state of human gene-editing research slightly more. Since this post is part of a contest, there is a slightly heightened potential for increased readership.
+
+---
 
 ## Notes
 

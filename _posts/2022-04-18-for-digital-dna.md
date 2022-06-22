@@ -9,19 +9,17 @@ type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
-description: "Frame: An brief scan of DNA digital data storage with some forecasting questions mixed in."
 word_count: "yes"
 reading_time: "yes"
 ---
 
+__Overview__: _I first discuss, very briefly, biological information storage, and then move on to discussing some properties of DNA. Next, I look at how much digital data there is on Earth, and how people store this data. I illustrate some present and upcoming issues with the current paradigms for data and data storage. Finally, I look at DNA digital data storage, introducing properties of DNA that make it a good candidate for storing data._
+
 __Takeaways__:
 
-__General Transparency__:
+__Canned Transparency__:
 
 __Acknowledgements__:
-
-__Overview__: I first discuss, very briefly, biological information storage, and then move on to discussing some properties of DNA. Next, I look at how much digital data there is on Earth, and how people store this data. I illustrate some present and upcoming issues with the current paradigms for data and data storage. Finally, I look at DNA digital data storage, introducing properties of DNA that make it a good candidate for storing data.  
-
 
 <!-- Search DNA Digital Data Storage on
 google scholar
@@ -450,6 +448,9 @@ Current synthesis costs have been estimated to be approximately $3500 per megaby
 Look through all of this Molecular digital data storage using DNA
 -->
 
+--- 
+
+## [Summary](#summary)
 
 ---
 
