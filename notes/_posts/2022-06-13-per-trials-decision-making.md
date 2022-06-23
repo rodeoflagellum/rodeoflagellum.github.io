@@ -12,6 +12,19 @@ word_count: "yes"
 reading_time: "yes"
 ---
 
+<!-- Thinking Space 
+Forecasting Log 
+Resource List 
+Comments
+Personal Log
+Forecasting Log
+
+Ongoing 
+Incomplete
+Unfinished 
+
+Unresolved-->
+
 <span class="padded-dropcap">I</span> would like to like to experience _[eudemonia][wiki_eu]_ — "state or condition of 'good spirit'". My decisions for what to do and experience influence this, at least marginally (while I don't have the evidence on deck, I suspect that a large fraction of one's life satisfaction is attributable to their genetics). 
 
 The art of the good decision making is something I would like to learn and put to work. There are communities, such as LessWrong and EA, with better-than-base-US-society epistemics in this regard, but there is still much room for improvement.  
