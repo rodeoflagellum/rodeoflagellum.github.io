@@ -8,3 +8,5 @@ tags: [f, site]
 header_image: /assets/2022/images/
 description: "One unordered list of articles, books, and other things that I've read and found important enough to include here (that I took notes on), and another unordered list containing what I would like to read carefully."
 ---
+
+<!-- https://plotly.com/javascript/line-charts/ -->
