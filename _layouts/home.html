@@ -60,8 +60,11 @@ layout: default
           <img src="{{ post.header_image | relative_url }}" alt="" class="blog-roll-image">
         {%- endif -%}
 
+        <!-- Add post reading time, importance -->
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}</span>
+        <span class="post-meta">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}
+        </span>
 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}

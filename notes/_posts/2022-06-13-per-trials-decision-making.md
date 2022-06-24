@@ -517,9 +517,9 @@ other factor's impactfulness / important -->
 Here is the current table: 
 
 
+
 <!-- date  2022-06-13 10:01:00 -0400
 modified 2022-06-13 16:28:00 -0400 -->
-
 
 
 <!-- <birmingham-museums-trust-adudERb6uDM-unsplash> -->

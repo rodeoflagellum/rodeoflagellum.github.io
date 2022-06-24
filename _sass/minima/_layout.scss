@@ -186,6 +186,11 @@
   @include relative-font-size(2);
 }
 
+.page-heading-2 {
+  @include relative-font-size(2);
+  text-align: center;
+}
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }

@@ -112,6 +112,23 @@ dl, dd, ol, ul, figure {
   padding-right: 50px;
 }
 
+  // dark mode 
+.dark-mode {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: white;
+  background-color: black;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
 /**
  * Basic styling
  */
@@ -276,6 +293,8 @@ details > summary {
   cursor: pointer;
   margin-bottom: 10px;
 }
+
+
 
 // details > p {
 //   background-color: #eeeeee;

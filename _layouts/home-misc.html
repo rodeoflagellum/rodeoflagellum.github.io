@@ -15,7 +15,7 @@ layout: default
     <img src="{{ page.image | relative_url }}" alt="" class="featured-image-post">
     <br><br>
   {%- endif -%}
-  <h1 class="page-heading"> A Garden of Things </h1>
+  <h1 class="page-heading-2"> A Garden of Things </h1>
 
   <hr>
   <br>
@@ -33,10 +33,12 @@ layout: default
         {%- if post.header_image -%}
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
           <span class="post-meta">
-            <!-- <img src="{{ post.header_image | relative_url }}" alt="" class="blog-roll-image"> -->
+            <img src="{{ post.header_image | relative_url }}" alt="" class="blog-roll-image">
             <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}
           </span>
-          <br>
+
+          <!-- {{ post.date | date: date_format }} -->
+          
         {% else %}
           <span class="post-meta"><a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
         {%- endif -%}
@@ -44,6 +46,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%} -->
       </li>
+      <br>
 
       {%- endif -%}
       {%- endfor -%}
