@@ -29,9 +29,6 @@ Unresolved-->
 
 The art of the good decision making is something I would like to learn and put to work. There are communities, such as LessWrong and EA, with better-than-base-US-society epistemics in this regard, but there is still much room for improvement.  
 
-<!-- date:  2022-06-13 10:01:00 -0400
-modified: 2022-06-13 16:28:00 -0400 -->
-
 This page consists of me trying out and testing different practices, methods, learnings, etc... that I've come across on my own decisions. I don't have any plans to narrow or expand the scope of this page, and do not have a clear vision of where it will go. I am excited to see how I might benefit from and fail at using these methods. 
 
 [wiki_eu]: https://en.wikipedia.org/wiki/Eudaimonia "https://en.wikipedia.org/wiki/Eudaimonia"
@@ -519,6 +516,9 @@ other factor's impactfulness / important -->
 
 Here is the current table: 
 
+
+<!-- date  2022-06-13 10:01:00 -0400
+modified 2022-06-13 16:28:00 -0400 -->
 
 
 
