@@ -83,9 +83,17 @@ __Labels__ (in order of appearance) that communicate meta-considerations on a po
 - _Extent_ (*)
 - _Views_: [unimplemented] A button one can press to illustrate that they viewed the post. The idea behind this would be to avoid having to use Google Analytics and to remove extremely quick brief viewings from being counted. 
 
-#### *Extent*
+_Type-Status_: The type of post and its current status. Here is the general format for how this will look: [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Thought Space, Log, List, Review, Essay, Research, Experiment, Notes] - [In(complete), (Un)finished, Ongoing, Un(resolved), Partial, Speculation]
 
-A rough estimate of the amount of time I spent doing or thinking about something. The Extent label at the top of the page is usually an aggregate of the different extents through the post. Note that "Extent" applies to searching for something, or to reading and thinking about something. Sometimes I might include an explanation for why I chose the Extent label I chose. 
+All combinations: 
+
+- Forecasting Log - [In(complete), (Un)finished, Ongoing]
+- Resource Log - [In(complete), (Un)finished, Ongoing]
+- Learning Log - [In(complete), (Un)finished, Ongoing]
+- Reading List - [In(complete), Ongoing]
+- Forecasting 
+
+_Extent_: A rough estimate of the amount of time I spent doing or thinking about something. The Extent label at the top of the page is usually an aggregate of the different extents through the post. Note that "Extent" applies to searching for something, or to reading and thinking about something. Sometimes I might include an explanation for why I chose the Extent label I chose. 
 
 Denote IQRTWE: Internet querying and/or reading/thinking and/or writing/editing
 
@@ -102,36 +110,27 @@ Denote IQRTWE: Internet querying and/or reading/thinking and/or writing/editing
 __Headers__ (in rough order of appearance): 
 
 - Update (date): 
-- Disclaimer:
-- Epistemic Status: 
-- Overview:
-- Takeaways: 
-- Canned Transparency: 
-- Contribution:
+- Disclaimer
+- Epistemic Status: My subjective confidence in the accuracy or thoroughness of what I've written. 
+- Overview
+- Takeaways: The major points in the post 
+- Canned Transparency (*) 
+- Contribution 
 - Acknowledgements 
-- Post Notes
-  - Inadequacies (*)
- 
-__Type - Status__ 
+- Post Notes (*)
 
-- [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Thought Space, Log, List, Review, Essay, Research, Experiment, Notes] - [In(complete), (Un)finished, Ongoing, Un(resolved), Partial, Speculation]
+_Canned Transparency_ 
 
-Here are all the combinations: 
-
-- Forecasting Log - [In(complete), (Un)finished, Ongoing]
-- Resource Log - [In(complete), (Un)finished, Ongoing]
-- Learning Log - [In(complete), (Un)finished, Ongoing]
-- Reading List - [In(complete), Ongoing]
-- Forecasting 
+_Post Notes_ 
 
 
-For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Blogs I read on the Internet do something like this (e.g., [Nintil](https://nintil.com/) has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and [Gwern](https://www.gwern.net/) has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck. The line between using too many labels or too few is what I am trying to figure out. At what point does including more labels lead to diminishing returns? 
+<!-- For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Blogs I read on the Internet do something like this (e.g., [Nintil](https://nintil.com/) has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and [Gwern](https://www.gwern.net/) has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck. The line between using too many labels or too few is what I am trying to figure out. At what point does including more labels lead to diminishing returns? 
 
 Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Sometimes I use this section to present my framing of the post ("_Frame_:"). Including which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
 
 There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
 
-Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
+Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make. -->
 
 <!-- ### [The Art](#art) -->
 
