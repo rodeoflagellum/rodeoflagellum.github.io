@@ -11,13 +11,13 @@ image: /assets/2022/for_persuasion_tournament/birmingham-museums-trust-YHdOVC7mz
 description: "Philip Tetlock's tournament"
 ---
 
-__Overview__: On 06/08/2022, I was invited to participate in Philip's Tetlock's Hybrid Forecasting-Persuasion Tournament. While I was not in the "core group of experts", I supposedly had enough "qualified background and experience" to participate, generally, and I looked forward to this event from the outside view. How difficult is it be for people to predict rares events ([global catastrophes][wiki_cata]) which, if they transpired, would be horrible for humanity? Recorded in this post are my thoughts, predictions, and reflections on the tournament as it occurred, posted $\geq 4$ months after the tournament was over. 
+__Overview__: _On 06/08/2022, I was invited to participate in Philip's Tetlock's Hybrid Forecasting-Persuasion Tournament. While I was not in the "core group of experts", I supposedly had enough "qualified background and experience" to participate, generally, and I looked forward to this event from an outside view. How difficult is it be for people to predict rares events ([global catastrophes][wiki_cata]) which, if they transpired, would be horrible for humanity? Recorded in this post are my thoughts, predictions, and reflections on the tournament as it occurred, posted $\geq 4$ months after the tournament was over._
 
 [wiki_cata]: https://en.wikipedia.org/wiki/Global_catastrophic_risk "https://en.wikipedia.org/wiki/Global_catastrophic_risk"
 
 --- 
 
-## [Table of Contents](#toc)
+## Table of Contents
 
 {:.no_toc}
 * TOC
@@ -26,6 +26,8 @@ __Overview__: On 06/08/2022, I was invited to participate in Philip's Tetlock's 
 ---
 
 ## Structure 
+
+The tournament proceeded in several stages 
 
 ![](/assets/2022/for_persuasion_tournament/stages.png)
 
