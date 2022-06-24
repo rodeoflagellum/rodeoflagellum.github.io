@@ -2,47 +2,46 @@
 layout: post
 title: Site
 date: 2022-02-21 12:00:00 -0400
-modified: 2022-06-13 12:00:18 -0400
+modified: 2022-06-23 12:00:18 -0400
 permalink: /site/
 tags: [epistemics, site, personal]
 header_image: /assets/2022/site/hunting_scene_with_a_harbor_1970.17.103.jpg
-description: "Frame: A page that describes my considerations for and intentions with this site. This page is also a TODO list in some ways."
+description: "The place to collect my considerations and intentions for this site; this page also acts as a todo list in some manners, and serves as a repository for various heuristics I follow or am interested in following when writing."
+reading_time: "yes"
+word_count: "yes"
 ---
 
-__NOTE__: This page is under construction, more so than other pages. 
+__Overview__: _In this post, I first go through what the entities listed at the top of the page indicate. Next, I detail my considerations for the content on the site and then proceed to discuss what sorts of things might appear at the bottom of posts, generally speaking. In all cases, I try to explain my motivation for bringing or not bringing attention to different entities. Many features described in this post are not yet implemented._
+
+__Disclaimer__: This page is under construction, more so than other pages. 
 
 ---
 
-## [Table of Contents](#top)
+## Table of Contents
 {:.no_toc}
 * TOC
 {:toc}
 
 ---
 
-## [Top of Page](#top-of-page)
+## [Top of the Page](#top-of-page)
 
-For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Blogs I read on the Internet do something like this (e.g., [Nintil](https://nintil.com/) has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and [Gwern](https://www.gwern.net/) has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck. The line between using too many labels or too few is what I am trying to figure out. At what point does including more labels lead to diminishing returns? 
+Atop most posts on my website, there is first an artwork that has some haphazard connection to the topic being covered or that I found particularly attractive when I began writing the post. After this, there's the post's title; then a brief 1-3 sentence summary of what is included in the post, so I and others can get a sense of whether to read it when browsing through the Archive; then 1-10 tags indicating the nature of the post's content, along with 0-3 tags indicating topics specific to that post (I do not expect to write much more such topics in the near-term future); then up to around 12 (usually less than 6) labels covering a variety of different considerations for the post, such as reading time and word count; and then usually 1-4 paragraphs for such things as an overview of the post and its takeaways. The Table of Contents is the last entity I consider to be in the Top of Page. 
 
-Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Sometimes I use this section to present my framing of the post ("_Frame_:"). Including which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
+__Art__: The art and header photos used on this website typically come from one of the following: [Unsplash](https://unsplash.com/), [Birmingham Museum Trust](https://unsplash.com/@birminghammuseumstrust
+), [National Gallery of Art](https://www.nga.gov/), or [USEUM](https://useum.org/download-artworks). At the time of writing this (06/24/2022), each of these entities have licences that permit you to download and post at least some of their images freely. Why use the art, anyway? I offer the following explanations for this: I look at this site more so than any other person and enjoy looking at art, and sometimes, the art can complement the post's content. I also don't think the art is distracting enough to lessen people's capabilities to absorb or critique a post's content. Credit and, in some cases, information for the art or photos is provided under _Cover Image_ in the _Notes_ section at the Bottom of the Page. Some posts, especially short ones contained in the Misc section, do not have art. Given the lack of interesting content in these posts (e.g., a list of Wikipedia articles) and my laziness, I usually opt to not include the art in such instances. 
 
-There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
+__Titles__: I prefer brevity. 
 
-Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
+__Frames__: A 1-3 sentence summary of what the post includes. This is usually biased to only cover my perception of what the post contributes.   
 
-### [The Art](#art)
+Here is an example framing in my post _Attitudes Towards Human Gene-Editing_: 
 
-I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about.
+> A fractional overview of gene-editing and a scan of and small discussion on people's past and current takes on human gene-editing, with some forecasting questions and considerations mixed in. 
 
-&emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them.
+This frame indicates that my post is not comprehensive in its coverage of gene-editing or people's attitudes towards gene-editing. From my perspective, the level of comprehensiveness for this post is more important to me than, say, how opinionated the post is. I am not terribly consistent with my post framings, but suspect most of them will be somewhat useful for sorting this site's content. 
 
-### [Informal Tags](#informal-tags)
-
-I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.   
-
-### [Formal Tags](#formal-tags)
-
-Find here the formal tags currently in use on the site.
+__General Tags__: Below are all the tags currently in use on the site. 
 
 {% capture temptags %}
   {% for tag in site.tags %}
@@ -67,13 +66,94 @@ Find here the formal tags currently in use on the site.
 {% endfor %}
 </ul>
 
-#### Specifics
+Sometimes I find it difficult to choose which tags to include in a post, but in most cases I aim to include between 1 and 10. 
+
+__Specific Tags__: Special tags conveying more detailed information about the content of a post. "Specifics" exist because they are things I will likely not write about again. Of course, there might be two or three posts that eventually come to include the same Specific tag, but that this tag refers to something so narrow (e.g., the general tag _biology_ versus the specific tag _DNA_) makes me disinclined to make it into a general tag. 
+
+__Labels__ (in order of appearance) that communicate meta-considerations on a post's content. 
+
+- [Start Date] - [Date of Last Modification]
+- _Type - Status_ (*)
+- _Confidence_ (*)
+- _Importance_ (*)
+- _Impact_ (*)
+- _Word Count_: The word count for a post, calculated using Liquid's page.content divided by number\_of\_words.
+- _Reading Time_: The word count divided by 280. The selection of 280 was somewhat arbitrary. I originally had 315 after, I believe, looking at list of college-level reading times. From the EA-Forum, this [post](https://forum.effectivealtruism.org/posts/ei4pYFJKcbGAdGnNb/calling-for-student-submissions-ai-safety-distillation) was 998 words and had 4 minutes listed as the reading time, so ~249.5 words per minute. 
+- _Durability_ (*)
+- _Extent_ (*)
+- _Views_: [unimplemented] A button one can press to illustrate that they viewed the post. The idea behind this would be to avoid having to use Google Analytics and to remove extremely quick brief viewings from being counted. 
+
+#### *Extent*
+
+A rough estimate of the amount of time I spent doing or thinking about something. The Extent label at the top of the page is usually an aggregate of the different extents through the post. Note that "Extent" applies to searching for something, or to reading and thinking about something. Sometimes I might include an explanation for why I chose the Extent label I chose. 
+
+Denote IQRTWE: Internet querying and/or reading/thinking and/or writing/editing
+
+- (1) My brain (writing it to get it written)
+- (2) IQRTWE ~5 minutes
+- (3) IQRTWE 5 - 30 minutes
+- (4) IQRTWE 30 - 60 minutes
+- (5) 2 - 5, 60 minute IQRTWE sessions
+- (6) 6 - 15, 60 minute IQRTWE sessions
+- (7) 16 - 35, 60 minute IQRTWE sessions
+- (8) 36 - 75, 60 minute IQRTWE sessions
+- (9) > 75, 60 minute IQRTWE sessions
+
+__Headers__ (in rough order of appearance): 
+
+- Update (date): 
+- Disclaimer:
+- Epistemic Status: 
+- Overview:
+- Takeaways: 
+- Canned Transparency: 
+- Contribution:
+- Acknowledgements 
+- Post Notes
+  - Inadequacies (*)
+ 
+__Type - Status__ 
+
+- [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Thought Space, Log, List, Review, Essay, Research, Experiment, Notes] - [In(complete), (Un)finished, Ongoing, Un(resolved), Partial, Speculation]
+
+Here are all the combinations: 
+
+- Forecasting Log - [In(complete), (Un)finished, Ongoing]
+- Resource Log - [In(complete), (Un)finished, Ongoing]
+- Learning Log - [In(complete), (Un)finished, Ongoing]
+- Reading List - [In(complete), Ongoing]
+- Forecasting 
+
+
+For most of my content, I expect the top of the page to have perhaps 2 to 10 labels informing the reader about facets of the post. Blogs I read on the Internet do something like this (e.g., [Nintil](https://nintil.com/) has "(edit date; last-update) (wordcount - reading time) (tags) (Is this article wrong?)" and [Gwern](https://www.gwern.net/) has "(summary) (tags) (edit date-last-edit) (status) (confidence) (importance) (backlinks) (bibliography)") and it seems to be a meme that has stuck. The line between using too many labels or too few is what I am trying to figure out. At what point does including more labels lead to diminishing returns? 
+
+Presently, I think a 1-3 sentence summary of the post, which maybe could include a reflection on it or my thoughts on "where it stands", seems very useful. Sometimes I use this section to present my framing of the post ("_Frame_:"). Including which tags or categories the post covers also seems very useful. Seeing the estimated reading time, word count, readability, and word frequency would be cool, but if I had to choose, I think that only the read-time would be worth retaining.
+
+There are some epistemic considerations as well that should be considered: importance, confidence, impact, extent, inadequacies, and status. I will get into these more in depth in some time. Deciding which of these to include in each post is often difficult for me.
+
+Next, I would like to see how much my work has been viewed, so a _views_ label (like a button) might be appropriate. Like Gwern, I think bibliographies are nice to have for a post, but I am additionally considering having the labels (page-epistemics) (updates) (disagree?), where (page-epistemics) could be a file with all my considerations for the post, updates could be a file including any minor or major updates to my beliefs about what I posted (perhaps after criticism), and disagree? could be a link to a place to rebuke any claim or argument I make.
+
+<!-- ### [The Art](#art) -->
+
+I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about.
+
+&emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them.
+
+<!-- ### [Informal Tags](#informal-tags) -->
+
+I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.   
+
+<!-- ### [Formal Tags](#formal-tags) -->
+
+
+
+<!-- #### Specifics
 
 ### [Status](#status)
 
 ### [Impact](#impact)
 
-### [Confidence](#confidence)
+### [Confidence](#confidence) -->
 
 Here are some different kinds of support you might have for a claim:
 
@@ -99,13 +179,13 @@ Here are some different kinds of support you might have for a claim:
 
 <!-- https://slatestarcodex.com/2016/02/20/writing-advice/ -->
 
-### [Importance](#importance)
+<!-- ### [Importance](#importance)
 
 ### [Readability](#readability)
 
 ### [Durability](#durability)
 
-### [Extent](#extent)
+### [Extent](#extent) -->
 
 I would like to convey how much time I've spent reviewing something before writing about it. More generally, I want to convey how experienced I am in the topic I am writing on. "Extent" refers to the extent that I have reviewed some topic. This is an experimental category, which means that I haven't yet committed to or found a system that seems useful or seems to "correct".
 
@@ -118,7 +198,7 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 - (5) 6 - 15, 60 minute Internet querying and/or thinking sessions
 - (6) Over 15, 60 minute Internet querying and/or thinking sessions
 
-### [Post-Notes](#post-notes)
+<!-- ### [Post-Notes](#post-notes)
 
 ### [Bibliography](#bibliography)
 
@@ -126,7 +206,7 @@ One way of breaking this down might be roughly by the amount of Internet queryin
 
 ### [Views](#views)
 
-### [Inadequacies](#inadequacies)
+### [Inadequacies](#inadequacies) -->
 
 I thought this listing was interesting and potentially useful. I found it on Gavin's
 Leech's _[Argmin gravitas](https://www.gleech.org/metrics/)_
@@ -165,15 +245,15 @@ The first few entities on the [CrackPot index](https://math.ucr.edu/home/baez/cr
 - 5 points for using a thought experiment that contradicts the results of a widely accepted real experiment.
 
 
-### [Reading Time](#reading-time)
+<!-- ### [Reading Time](#reading-time) -->
 
-Looking at the reading time on this EAF [post](https://forum.effectivealtruism.org/posts/ei4pYFJKcbGAdGnNb/calling-for-student-submissions-ai-safety-distillation), 998 words took 4 minutes, so ~249.5 words per minute. I had it at 315.
+
 
 ---
 
 ## After Top of Page
 
-### [Summary](#summary)
+<!-- ### [Summary](#summary)
 
 ### [Takeaways](#takeaways)
 
@@ -181,7 +261,7 @@ Looking at the reading time on this EAF [post](https://forum.effectivealtruism.o
 
 ### [General Transparency](#epistemic-status)
 
-### [Contribution](#contribution)
+### [Contribution](#contribution) -->
 
 Robin Hanson broke down contributions into 3 levels
 
@@ -189,7 +269,7 @@ Robin Hanson broke down contributions into 3 levels
 - Level 1: Summaries, evaluation, and commentary (SEC) of Level 0.
 - Level 2: SEC of Level 1.
 
-### [Disclaimer](#disclaimer)
+<!-- ### [Disclaimer](#disclaimer) -->
 
 General transparency on how what I've written is inadequate.
 
@@ -208,7 +288,7 @@ General transparency on how what I've written is inadequate.
 
 ## [Content](#content)
 
-### [Preferences](#preferences)
+<!-- ### [Preferences](#preferences)
 
 ### [The Problems](#problems)
 
@@ -218,13 +298,13 @@ General transparency on how what I've written is inadequate.
 
 ### [Meta-Science Pipeline](#meta-science)
 
-### [Elicitations](#elicitations)
+### [Elicitations](#elicitations) -->
 
 There are many things that I would like to do more.
 
-#### Opinions
+<!-- #### Opinions
 
-#### Surveys
+#### Surveys -->
 
 I really enjoy participating in and reading Aella's surveys. Polling people on Twitter
 strikes me as a very efficient first-pass exploration for questions where answering
@@ -232,7 +312,7 @@ strikes me as a very efficient first-pass exploration for questions where answer
 surveys wherever possible, either to determine if they already exist, or suggest them to
 people.
 
-#### Questions
+<!-- #### Questions -->
 
 I can't recall where I found this, but I thought that it might be useful for
 generating questions I might not normally ask.
@@ -250,7 +330,7 @@ should the chancellor do?”
 - __Priority questions__ seek to identify the most important issue: “From all that we have talked about, what is the most important cause of the decline of American competitiveness?”
 - __Summary questions__ elicit syntheses: “What themes or lessons have emerged from today’s class?”
 
-#### Feedback
+<!-- #### Feedback -->
 
 I operate by Crocker's Rules (I found this here https://www.alignmentforum.org/users/daniel-kokotajlo)
 
@@ -260,7 +340,7 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 >
 "Crocker's Rules" are named after Lee Daniel Crocker.
 
-#### Noticing Biases
+<!-- #### Noticing Biases
 
 #### Forecasts
 
@@ -272,23 +352,23 @@ Note that Crocker's Rules does not mean you can insult people; it means that oth
 
 #### Experimental Designs
 
-#### Estimates
+#### Estimates -->
 
 (esp. fermi estimates)
 
-#### Style, Tone, and My Culture
+<!-- #### Style, Tone, and My Culture
 
-#### Locating Beliefs and Thoughts
+#### Locating Beliefs and Thoughts -->
 
 (when conclusions seem obvious to me)
 finding beliefs
 cached thoughts
 
-#### Beliefs Updates
+<!-- #### Beliefs Updates -->
 
 bayesian updates of beliefs
 
-#### Inadequacies
+<!-- #### Inadequacies -->
 
 Questions that I try to ask myself
 
@@ -299,13 +379,13 @@ Questions that I try to ask myself
 - Am I willing to bet on what I've said?
 - How would expert opinions differ from mine?
 
-#### Missing Pieces
+<!-- #### Missing Pieces -->
 
-### [Writing Styles and Advice](#writing-style-advice)
+<!-- ### [Writing Styles and Advice](#writing-style-advice) -->
 
 Here I collect advice that I would ideally like to follow.
 
-### [Future Post Ideas](#future-posts)
+<!-- ### [Future Post Ideas](#future-posts) -->
 
 Here are some topics I want to write / learn more about, along with my preference
 for them:
@@ -357,16 +437,16 @@ for them:
 - (★★★★) Summarizing [GPI, FHI, Alignment] Work
 
 
-### [Storing Things](#storage)
+<!-- ### [Storing Things](#storage)
 
-### [Heuristics](#heuristics)
+### [Heuristics](#heuristics) -->
 
 - Aim to outperform Wikipedia
 - You are likely not the first person to have come up with this question, or to have started answering it
 - Search every question on Google at least once
 - Search every concept on Google at least once
 
-### [Bloom's Taxonomy](#bloom)
+<!-- ### [Bloom's Taxonomy](#bloom) -->
 
 >
 - __Knowledge skills__ (remembering previously learned material such as definitions, principles, formulas): “Define shared governance.” “What are Piaget’s stages of development?”
@@ -380,7 +460,7 @@ for them:
 
 ## [Bottom of Page](#bottom)
 
-### [Contentions](#contentions)
+<!-- ### [Contentions](#contentions)
 
 ### [Enjoyment](#enjoyment)
 
@@ -394,13 +474,19 @@ for them:
 
 ### [Further Reading](#further-reading)
 
-### [External Links](#external-links)
+### [External Links](#external-links) -->
 
-### [Footnotes](#footnotes)
+<!-- ### [Footnotes](#footnotes) -->
 
 ---
 
 ## [Other](#other)
+
+<!-- ### Features 
+
+### Pages
+
+### Post Sorting 
 
 ### [Design Feature Wish List](#feature-wish-list)
 
@@ -430,7 +516,7 @@ for them:
 
 ### [Clock Page](#clock-page)
 
-### [Site Name](#site-name)
+### [Site Name](#site-name) -->
 
 <!-- ## Main Pipeline
 

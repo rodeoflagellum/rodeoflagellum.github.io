@@ -1,5 +1,6 @@
 /**
  * Syntax highlighting styles
+ * background #fff
  */
 .highlight {
   background: #fff;
@@ -8,6 +9,8 @@
   .highlighter-rouge & {
     background: #eef;
   }
+
+  // #eef
 
   .c     { color: #998; font-style: italic } // Comment
   .err   { color: #a61717; background-color: #e3d2d2 } // Error
@@ -22,7 +25,7 @@
   .ge    { font-style: italic } // Generic.Emph
   .gr    { color: #a00 } // Generic.Error
   .gh    { color: #999 } // Generic.Heading
-  .gi    { color: #000; background-color: #dfd } // Generic.Inserted
+  .gi    { color: #000; background-color: #dfd } // Generic.Inserted 
   .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
   .go    { color: #888 } // Generic.Output
   .gp    { color: #555 } // Generic.Prompt

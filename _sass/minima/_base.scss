@@ -131,6 +131,8 @@ dl, dd, ol, ul, figure {
 
 /**
  * Basic styling
+*  $text-color; white for dark mode 
+*  $background-color; black for dark mode 
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
@@ -228,6 +230,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   // color: $brand-color;
+  // color: white for dark mode 
   // text-decoration: none;
   color: black;
   text-decoration: underline;
