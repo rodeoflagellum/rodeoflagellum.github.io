@@ -7,7 +7,7 @@ permalink: "/for_digital_dna/"
 status: "Unfinished"
 type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
-description: "Some threads of molecular biology as an introduction that funnel into a look at humanity's digital data production before terminating treatment of the subject of this article's title; there are some forecasting questions in the brew as well."
+description: "Some threads of molecular biology that funnel into a look at humanity's digital data production before terminating with a treatment of the subject of this article's title; there are some forecasting questions in the brew as well."
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
 word_count: "yes"
@@ -145,7 +145,7 @@ answer what
 
 <span class="padded-dropcap">F</span>or those currently unaware, radiometric dating research places the [age of the Earth][wiki_E_age] at roughly 4.54 billion years old[^Eage]<sup>,</sup>[^Eage2], which is approximately equal to 56.75 million non-overlapping 80-year human lives. The first microorganisms to inhabit Earth appeared between "at least 3770 and possibly 4290 million years..." ago[^early]. While the [history][timeline_of_life], [origins][life_began], and [emergence][abio] of life on Earth are still the focus of major investigation, ribonucleic acid (RNA) is current believed to have been the original auto-self-replicating system utilized by early life to store and replicate its genetic material; this hypothesis is called the [RNA World Hypothesis][rna_world], and posits that the evolution of RNA preceded the evolution of proteins and deoxyribonucleic acid (DNA). Moreover, the RNA world is believed to have ushered in the [ribonucleoproteins][wiki_RNP] world, which subsequently lead to a world with  deoxyribonucleic acid (DNA).[^rnaW] Presently, DNA, the other major nucleic acid, rather than RNA, is the platform for the genetic-material of all cells on Earth today[^cell_book].
 
-This brings us to the question of what RNA and DNA actually are, and of how they relate to information in biology. 
+This brings us to the questions of what RNA and DNA actually are, and of how they relate to information in biology. 
 
 Rather than answer the former question myself, I default to the writers on Wikipedia (as of 06/09/2022), who have done a much better job at providing a comprehensive definition of RNA and DNA than I could have: 
 
@@ -161,7 +161,9 @@ Rather than answer the former question myself, I default to the writers on Wikip
 <details>
 <summary>RNA and DNA</summary>
 <img src="/assets/2022/for_digital_dna/images/rna_dna_diff.png">
-</details>[^wiki_dna_img]
+</details>
+
+&emsp; See here[^wiki_dna_img] for image details.
 
 For the latter question, the [central dogma of molecular biology][wiki_dogma] ensapsulates, from a broad lens, the interactions between DNA, RNA, and proteins in living organisms in terms of information transfer and storage. The core notion of this dogma is that there are hard limits for how information can travel between different macromolecules, notably that information is "trapped" after it's transfered to proteins. As originally stated by Francis Crick[^dogma]:
 
@@ -171,11 +173,11 @@ For the latter question, the [central dogma of molecular biology][wiki_dogma] en
 
 [wiki_moa]: https://en.wikipedia.org/wiki/Moa "https://en.wikipedia.org/wiki/Moa"
 
-As previously alluded to, RNA and DNA are the two major nucleic acids. However, RNA is much less structurally stable than DNA[^stability]. This means that RNA degrades faster than DNA and hence is subsequently worse off as a storage device, for both biologically and digital data. DNA is much more robust a capsule for housing genetic information, and its dominion in this regard in all living cells makes sense.
+As previously alluded to, RNA and DNA are the two major nucleic acids. However, RNA is much less structurally stable than DNA[^stability]. This means that RNA degrades faster than DNA and hence is subsequently worse off as a storage device, for both biological and digital data. DNA is much more robust a capsule for housing genetic information, and, given this, its dominion in this regard in all living cells seems intuitive.
 
-To illustrate this, consider the [half-life][wiki_half][^half_life] of DNA, which is much longer than that of RNA. 
+To illustrate further, consider the [half-life][wiki_half][^half_life] of DNA, which − suprise! − is much longer than that of RNA. 
 
-Researchers looking a leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 - 8000 years old and were preserved at a temperature of 13.1 degrees Celcius. Interestingly, even with an _"ideal preservation temperature of −5ºC, effectively every bond would be destroyed after a maximum of 6.8 million years"_.[^moa] Compare this with the half-life of mouse mRNA: around 7 hours (median), with the mRNA of a vast majority of genes having half-lives > 1 hour.[^mouse] 
+Researchers looking at leg bones from [Moa][wiki_moa] found that DNA had a half-life of around 521 years. These bones were between 600 − 8000 years old and were preserved at a temperature of 13.1 degrees Celcius. Interestingly, even with an _"ideal preservation temperature of −5ºC, effectively every bond would be destroyed after a maximum of 6.8 million years"_.[^moa] Compare this with the half-life of mouse mRNA: around 7 hours (median), with the mRNA of a vast majority of genes having half-lives > 1 hour.[^mouse] 
 
 [^half_life]: Given by the equation $N(t) = N_0 e^{-\lambda t}$. Here, $t$ denotes time, $N_0$ represents the starting amount of the substance in question, $\lambda \in \mathbb{R}_{>0}$ the decay rate of the substance, and $N(t)$ the amount of substance left after time $t$.  
 
@@ -189,9 +191,9 @@ That DNA has such a long half-life is quite extraordinary in my mind. While I am
 
 Two fairly recent examples showcasing this feat of Nature that happened to pierce the public's attention[^public] are Ötzi the iceman and the report that the DNA of some million year-old mammoths was able to be sequenced. 
 
-Ötzi the iceman is a mummified human, who was 25-40 year-olds at time of his death (likely murdered), from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k-5.3k years-old (3359 - 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
+Ötzi the iceman is a mummified human, who was 25–40 year-olds at time of his death (likely murdered), from the Late Neolithic (Copper Age) who was located on 09/19/1991 in the Tyrolean Öztaler Alps.[^back] Believed to be around 5.2k–5.3k years-old (3359 – 3105 BCE)[^old], Ötzi is one of the oldest mummies ever retrieved; that DNA is so structurally sound over time has afforded us amazing insight into humanity's and Ötzi's past (e.g., Ötzi's last meal[^meal], or his gut microbiome[^biom]). 
 
-The million year-old mammoths story refers to 3 mammoth (the oldest set of fossils being 1.2-1.1Ma) specimens of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the previous boundaries people had believed to exist for successful DNA sequencing[^million_mam]; previously, sequencing the DNA of a 560–780k year-old horse fossil from Canada's Yukon was believed to have been _the limit_[^horse].
+The million year-old mammoths story refers to 3 mammoth specimens (the oldest set of fossils being 1.2-1.1Ma) of the Early-Middle Pleistocene from Siberia whose DNA was read by a team of researchers. The sequencing and recovery of DNA from these fossils pushed the boundary researchers had believed to exist for successful DNA sequencing[^million_mam]; previously, the sequencing of DNA from a 560–780k year-old horse fossil from Canada's Yukon was believed to have been _the limit_[^horse].
 
 [^horse]: _previously, a 560–780k year-old horse fossil..._: Orlando, Ludovic, Aurélien Ginolhac, Guojie Zhang, Duane Froese, Anders Albrechtsen, Mathias Stiller, Mikkel Schubert et al. "Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse." Nature 499, no. 7456 (2013): 74-78. See <https://www.nature.com/articles/nature12323>. Quote: (pp.74) " Relict ice wedges below the unit indicate persistent permafrost since deposition(Supplementary Information, section 1.1), whereas the organic unit, hosting the fossil, indicates a period of permafrost degradation, or a thaw unconformity, during a past interglacial as warm or warmer than present 3, and rapid deposition during either marine isotope stage 19, 17 or 15. This indicates that the fossil dates to approximately 560–780 kyr BP"; "Theoretical and empirical evidence indicates that this age approaches the upper limit of DNA survival. So far, no genome-wide information has been obtained from fossil remains older than 110–130 kyr BP."
 
@@ -209,7 +211,7 @@ The million year-old mammoths story refers to 3 mammoth (the oldest set of fossi
 
 [wiki_base]: https://en.wikipedia.org/wiki/Base_pair "https://en.wikipedia.org/wiki/Base_pair"
 
-There are some other questions worth considering before discussing DNA's potential for digital data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but would really like to pin this down. To me, DNA is one of those things in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
+There are some other questions worth considering before discussing DNA's potential for digital data storage. When writing this, I was interested in learning how much DNA each human cell and human has. I also recall having encountered the trivia fact "_something something DNA stretches to the moon X times!_" at some point, but really want to pin this down. To me, DNA is a mind–spectale in the same class of curiosity and grace as _space_, _life_, _humanity_, _mathematics_,... and ought to be marveled at just a bit more. 
 
 [wiki_conception]: https://en.wikipedia.org/wiki/Fertilisation "https://en.wikipedia.org/wiki/Fertilisation"
 
@@ -233,7 +235,7 @@ As a primer, when your parents mated and your [fertilization][wiki_conception] o
 
 [wiki_meiosis]: https://en.wikipedia.org/wiki/Meiosis "https://en.wikipedia.org/wiki/Meiosis"
 
-Within each cell of your body, specifically within their nucleus, a certain number of sets of chromosomes reside. Across and within organisms, the number of these sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 46 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
+Within each cell of your body, specifically within the cell's nucleus, a certain number of sets of chromosomes reside. Across and within organisms, the number of these sets of chromosomes differs (see [Ploidy][wiki_ploid]). For humans, all [somatic][wiki_soma] cells are diploid, meaning that they contain 2 sets of 23 chromosomes; however, our [sperm][wiki_sperm] or [egg][wiki_egg] cells (i.e, our [germ cells][wiki_germ] or [gametes][wiki_gam]) have only 1 set of 23 chromosomes following [meiosis][wiki_meiosis], where the diploid chromosome set is bifurcated. 
 
 <!-- [^chromi]: See <https://humanoriginproject.com/dna-full-form/>. -->
 
@@ -244,17 +246,28 @@ Within each cell of your body, specifically within their nucleus, a certain numb
 <img src="/assets/2022/for_digital_dna/images/dna_struct.png">
 </details>
 
-For image details, see here <https://humanoriginproject.com/dna-full-form/>. 
+&emsp; For image details, see here <https://humanoriginproject.com/dna-full-form/>. 
 
 [wiki_mito]: https://en.wikipedia.org/wiki/Mitochondrial_DNA "https://en.wikipedia.org/wiki/Mitochondrial_DNA"
 
 Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome by almost a factor of 3). In addition, some [mitochondrial DNA][wiki_mito] (mtDNA) also must also be taken into account when determining the size of the human genome. 
 
-One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs[^on]. Wikipedia presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs. 
+Differences in estimates of the number of base pairs in the human genome stem partially from the fact that measurements vary in terms of their accuracy and comprehensiveness. However, what "human genome" can refer to also varies, as one can choose to include or exclude the X or Y chromosome, to consider only diploid or haploid cells, or to include or exclude mtDNA.
 
-Estimates often vary across the "different" genomes (X or Y, diploid or haploid, with or without mtDNA) that can be measured.  Recently, news was made when researcher's fully sequenced a human genome, contributing measurements of the "_...remaining 8% of the genome..._" - "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._"[^comp_gene]. 
+Recently, news was made when researchers fully sequenced a "human genome", contributing measurements of the "_...remaining 8% of the genome..._" - "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._". This genome consisted of 3,054,815,472 base pairs and refered to the haploid female genome[^comp_gene].
 
-How much does it cost to sequence the human genome? The cost of sequencing 
+One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs. This paper also put the [^on] 
+
+> The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
+> 
+> [See _On the length, weight and GC content
+of the human genome_[^on]]
+
+[Wikipedia][wiki_hgen] presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs. 
+
+Using the more recent estiamte of blank cells and the size of the human genomes from Wikipedia with the lengths of the diploid cells provided in paper, and counting the haploid cells as diploid (haploid are a much small proportion of cells), it is then the case that the extend x times to sun and y times to moon, as the moon is blank units and the sun is blank units away.
+
+How much does it cost to sequence the human genome? The cost of sequencing in early date was 4, and it has decreased since then. Presently, it costs x amount, and as of (06/25/2022) the Metaculus community predicts blank by 2026, which translated to English means that they believe there will be around a x% decrease in the cost. 
 
 <details>
 <summary>What will be the cost of sequencing a whole human genome in 2026 (in 2021 USD)?</summary>
@@ -271,10 +284,7 @@ While the values used for the number of base pairs in this paper are somewhat ou
 
 Using their respectively, 
 
-> The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
-> 
-> [See _On the length, weight and GC content
-of the human genome_[^on]]
+
 
 [^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>. Quote: (pp.2) "Considering a mean length in a diploid cell of 206.62 cm and the latest estimation of a mean of 3 × 10^12 nucleated cells for a reference human being [38, 39], the total extension in length of all nuclear DNA molecules present in a single human individual is of about 6.20 billion km (6.20 × 10^12 m) and is sufficient to cover the Earth-Sun distance (https://cneos.jpl.nasa.gov/gloss ary/au.html) more than 41 times. Considering a mean weight in a diploid cell of 6.46 pg, the genome weight summed across nucleated human cells would be about 19.39 g, almost the weight of 100 carats (https://sizes.com/units/carat.htm)."
 
