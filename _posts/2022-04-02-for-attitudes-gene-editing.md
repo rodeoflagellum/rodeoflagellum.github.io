@@ -12,6 +12,8 @@ type: "Essay"
 status: "In Progress"
 word_count: "yes"
 reading_time: "yes"
+importance: "6.5"
+confidence: "8"
 ---
 
 <!-- MetaConsiderations

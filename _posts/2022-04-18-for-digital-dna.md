@@ -252,22 +252,32 @@ Within each cell of your body, specifically within the cell's nucleus, a certain
 
 Male and female genome sizes differ (the X chromosome has more base pairs than the Y chromosome by almost a factor of 3). In addition, some [mitochondrial DNA][wiki_mito] (mtDNA) also must also be taken into account when determining the size of the human genome. 
 
-Differences in estimates of the number of base pairs in the human genome stem partially from the fact that measurements vary in terms of their accuracy and comprehensiveness. However, what "human genome" can refer to also varies, as one can choose to include or exclude the X or Y chromosome, to consider only diploid or haploid cells, or to include or exclude mtDNA.
+Differences in estimates of the number of base pairs in the human genome stem partially from the fact that measurements vary in terms of their accuracy and comprehensiveness. However, what a "human genome" can refer to also varies, as one can choose to include or exclude the X or Y chromosome, to consider either diploid or haploid cells, or to include or exclude mtDNA.
 
-Recently, news was made when researchers fully sequenced a "human genome", contributing measurements of the "_...remaining 8% of the genome..._" - "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._". This genome consisted of 3,054,815,472 base pairs and refered to the haploid female genome[^comp_gene].
+Recently, news was made when researchers fully sequenced a "human genome", contributing measurements of the "_...remaining 8% of the genome..._" and affording insights into "_...all centromeric satellite arrays, recent segmental duplications, and the short arms of all five acrocentric chromosomes..._". This particular genome (the haploid female genome) consisted of 3,054,815,472 base pairs[^comp_gene].
 
-One estimate for the mean male and female genome size from 2019 was 6,320,012,150 base pairs. This paper also put the [^on] 
+One estimate for the mean male and female diploid genome size from 2019 was 6,320,012,150 base pairs. This paper also puts the mean (male and female) stretched-out length of nuclear DNA of each diploid cell at 206.62 cm, and the mean weight of this genetic material for each diploid cell at 6.46 pg[^on]. 
 
 > The male nuclear diploid genome extends for 6.27 Gigabase pairs (Gbp), is 205.00 cm (cm) long and weighs 6.41 picograms (pg). Female values are 6.37 Gbp, 208.23 cm, 6.51 pg.
 > 
 > [See _On the length, weight and GC content
 of the human genome_[^on]]
 
-[Wikipedia][wiki_hgen] presently puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs. 
+[Wikipedia][wiki_hgen] puts the diploid male genome (including mtDNA) at around 6,017,847,976 base pairs, and the diploid female genome (including mtDNA) at around 6,109,647,513 base pairs. 
+
+Given that there are probably around $3 \times 10^{12}$ cells in the human body[^on]<sup>,</sup>[^cells], that most cells in the body are somatic (diploid) cells, and that the mean size of the diploid genome is 6,063,747,745 base pairs, this indicates that all the nucleated DNA 
+
+The distance from our home planet to the other two most prevalent celestial bodies in our lives - the sun and the moon - is x and y, respectively.   
+
+[^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>. Quote: (pp.2) "Considering a mean length in a diploid cell of 206.62 cm and the latest estimation of a mean of 3 × 10^12 nucleated cells for a reference human being [38, 39], the total extension in length of all nuclear DNA molecules present in a single human individual is of about 6.20 billion km (6.20 × 10^12 m) and is sufficient to cover the Earth-Sun distance (https://cneos.jpl.nasa.gov/gloss ary/au.html) more than 41 times. Considering a mean weight in a diploid cell of 6.46 pg, the genome weight summed across nucleated human cells would be about 19.39 g, almost the weight of 100 carats (https://sizes.com/units/carat.htm)."
+
+[^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
+
+[^cells]: Another estimate for the number of cells in the human body is $3.72 \times 10^13$: Bianconi, Eva, Allison Piovesan, Federica Facchin, Alina Beraudi, Raffaella Casadei, Flavia Frabetti, Lorenza Vitale et al. "An estimation of the number of cells in the human body." Annals of human biology 40, no. 6 (2013): 463-471. See <https://pubmed.ncbi.nlm.nih.gov/23829164/>. Quote: (background) "A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of $3.72 \times 10^13$."
 
 Using the more recent estiamte of blank cells and the size of the human genomes from Wikipedia with the lengths of the diploid cells provided in paper, and counting the haploid cells as diploid (haploid are a much small proportion of cells), it is then the case that the extend x times to sun and y times to moon, as the moon is blank units and the sun is blank units away.
 
-How much does it cost to sequence the human genome? The cost of sequencing in early date was 4, and it has decreased since then. Presently, it costs x amount, and as of (06/25/2022) the Metaculus community predicts blank by 2026, which translated to English means that they believe there will be around a x% decrease in the cost. 
+As a final inquiry concerning the human genome, we might ask how much it cost to sequence the human genome? The cost of sequencing in early date was 4, and it has decreased since then. Presently, it costs x amount, and as of (06/25/2022) the Metaculus community predicts blank by 2026, which translated to English means that they believe there will be around a x% decrease in the cost. 
 
 <details>
 <summary>What will be the cost of sequencing a whole human genome in 2026 (in 2021 USD)?</summary>
@@ -286,19 +296,13 @@ Using their respectively,
 
 
 
-[^on]: Piovesan, Allison, Maria Chiara Pelleri, Francesca Antonaros, Pierluigi Strippoli, Maria Caracausi, and Lorenza Vitale. "On the length, weight and GC content of the human genome." BMC research notes 12, no. 1 (2019): 1-7. See <https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4137-z>. Quote: (pp.2) "Considering a mean length in a diploid cell of 206.62 cm and the latest estimation of a mean of 3 × 10^12 nucleated cells for a reference human being [38, 39], the total extension in length of all nuclear DNA molecules present in a single human individual is of about 6.20 billion km (6.20 × 10^12 m) and is sufficient to cover the Earth-Sun distance (https://cneos.jpl.nasa.gov/gloss ary/au.html) more than 41 times. Considering a mean weight in a diploid cell of 6.46 pg, the genome weight summed across nucleated human cells would be about 19.39 g, almost the weight of 100 carats (https://sizes.com/units/carat.htm)."
-
-Given that there are probably around $3.72 \times 10^{13}$ cells in the human body[^cells] and that most cells in the body are somatic (diploid) cells, this means that there is approximately 
-
 Presently, there are 
 
 and that the length of a single base pair is around[^extra]
 
 Calculate weight / lenght / storage potential of ind. human / humanity, 
 
-[^extra]: These resources helped / informed me on this estimate. See <https://hypertextbook.com/facts/1998/StevenChen.shtml> and <https://askanacademic.com/science/how-much-dna-is-in-a-human-being-871/>.
 
-[^cells]: _Given that there are around $3.72 \times 10^{13}$ cells in the human body..._: Bianconi, Eva, Allison Piovesan, Federica Facchin, Alina Beraudi, Raffaella Casadei, Flavia Frabetti, Lorenza Vitale et al. "An estimation of the number of cells in the human body." Annals of human biology 40, no. 6 (2013): 463-471. See <https://pubmed.ncbi.nlm.nih.gov/23829164/>. Quote: (background) "A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of 3.72 × 10(13)."
 
 [^comp_gene]: Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." Science 376, no. 6588 (2022): 44-53. See <https://www.science.org/doi/full/10.1126/science.abj6987>. Quote: (pp.?) "T2T-CHM13 includes gapless telomere-to-telomere assemblies for all 22 human autosomes and chromosome X, comprising 3,054,815,472 bp of nuclear DNA, plus a 16,569-bp mitochondrial genome. This complete assembly adds or corrects 238 Mbp of sequence that does not colinearly align to GRCh38 over a 1-Mbp interval (i.e., is nonsyntenic), primarily comprising centromeric satellites (76%), nonsatellite segmental duplications (19%), and rDNAs (4%)."
 
@@ -312,26 +316,27 @@ Calculate weight / lenght / storage potential of ind. human / humanity,
 
 [^million_mam]: _...the report of million year-old mammoth remains_: van der Valk, Tom, Patrícia Pečnerová, David Díez-del-Molino, Anders Bergström, Jonas Oppenheimer, Stefanie Hartmann, Georgios Xenikoudakis et al. "Million-year-old DNA sheds light on the genomic history of mammoths." Nature 591, no. 7849 (2021): 265-269. See <https://www.nature.com/articles/s41586-021-03224-9).>. Quote: (abstract; pp. 266 x 2) "Temporal genomic data hold great potential for studying evolutionary processes such as speciation. However, sampling across speciation events would, in many cases, require genomic time series that stretch well back into the Early Pleistocene subepoch. Although theoretical models suggest that DNA should survive on this timescale1, the oldest genomic data recovered so far are from a horse specimen dated to 780–560 thousand years ago. Here we report the recovery of genome-wide data from three mammoth specimens dating to the Early and Middle Pleistocene subepochs, two of which are more than one million years old."; "One of the specimens (which we refer to as ‘Krestovka’ on the basis of its find locality) is morphologically similar to the steppe mammoth (a species that was originally defined from the Middle Pleistocene of Europe (Supplementary Information section 1)), and was collected from Lower Olyorian deposits that have been dated to 1.2–1.1 Ma."; "We found that the DNA recovered from the Early and Middle Pleistocene specimens was considerably more fragmented and had higher levels of cytosine deamination than DNA from permafrost-preserved samples dating to the Late Pleistocene subepoch (Extended Data Figs. 3, 4, Supplementary Information section 4). To circumvent this, we used conservative filters and an iterative approach that was designed to minimize spurious mappings of short reads (Supplementary Information section 5). This approach allowed us to recover complete (over 37× coverage) mitogenomes from all three specimens, and 49 million, 884 million and 3,671 million base pairs of nuclear genomic data for the Krestovka, Adycha and Chukochya specimens, respectively (Supplementary Table 3)."
 
-Now that we've examined biological information storage and, in particular, DNA, let us move on to discussing digital data. 
+Now that we've examined biological information storage and DNA in particular, let us move on to discussing digital data. 
 
 
 ---
 
 ## Data and Storing It 
 
-As everyone here is very much aware, humans have created and are continually creating prodigious quantities of digital data. When thinking about this, the Internet, first and foremost, comes to my mind — the tremendous influx of emails, tweets, messages, posts, etc... inundating networks globally, all day every day. Internet speed is a growing issue, and my personal website is beginning to load much slower due to how much data I am including in my posts. 
+As everyone here is very much aware, humans have created and are continually creating prodigious quantities of digital data. When thinking about this, the Internet, first and foremost, comes to my mind — the tremendous influx of emails, tweets, messages, posts, etc... inundating networks globally, all day, every day. The decreasing speed of the Internet as a result of this data production is an issue; my personal website is beginning to load much slower due to how much data I am including in my posts. 
 
-In the Western world, people are constantly online, with 85% of US citizens being digitial active daily in 2021, and 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per user of the Internet in the US went from 2.7 hours total in 2008 to 6.3 hours total in 2018[^owid_daily]. 
+In the Western world, people are constantly online, with 85% of US citizens being digitially active daily in 2021, and with 31% reporting that they're almost constantly online[^pew]. Further on this point, the number of hours spent online per Internet user in the US climbed from 2.7 hours total per day in 2008 to 6.3 hours total per day in 2018[^owid_daily]. I suspect most people reading this will likely fall into the "active online almost constantly" bin, and have an accurate inside view of the sheer volume of data being generated each day.
 
 <details>
 <summary>Online Activity in the USA, 2008-2018</summary>
 <img src="/assets/2022/for_digital_dna/images/us_online_active-1.png">
 </details>
 
-Between 2000 and 2016, the number of Internet users grew from 413m to 3.4b.[^owid_us] Most people reading this will likely fall into the "active online almost constantly" bin, and perhaps have an inside view of the sheer volumes of data being generated each day.  
+Additionally, between 2000 and 2016, the number of Internet users grew from 413m to 3.4b.[^owid_us]  
 
 The size of the Internet and how much digital data humans have generated overall are quantities of intrigue. In particular, 
 
+ 
 
 How is all this data stored? 
 
@@ -388,16 +393,29 @@ https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-s
 https://ourworldindata.org/internet 
 
 Qs:
-Size of the Internet  
-% of People Using the Internet 
+Size of the Internet (OWID?)
+% of People Using the Internet (OWID)
+# of Hyperscale Data Centers 
 Amount of Data  (Zettabytes) https://www.statista.com/statistics/871513/worldwide-data-created/
+
+Q on Mineral Waste
+
 Read time
 Write time 
 Cost of reading
 Most popular encoding 
 Google Trends 
 
+Q on Smallest Hardrive / 
+
+The success of the 2 most promising companies for digital data storage 
+Which of the following will first ... 
+9 listings for the companies 
+https://www.nanalyze.com/2018/09/dna-data-storage-companies/
+https://www.twistbioscience.com/themes/custom/twist_theme/assets/DNA_digital_data_storage_whitepaper_2017.pdf
+
 -->
+
 <!-- 
 How much data is there? 
 How large is the Internet?

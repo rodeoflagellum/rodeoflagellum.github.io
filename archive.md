@@ -18,11 +18,24 @@ image: /assets/2022/archive/urja-bhatt-TuvollqROb8-unsplash.jpg
 ### {{ month.name }}
 <ul>
   {% for post in month.items %}
-    <!-- {% if post.category != "misc"%} -->
+      {% if post.modified %}
+
+      {% if post.description %}
       <li>
-        <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }} - {{ post.modified | date_to_long_string }})<br> <em>{{ post.description }}</em><br>
+        <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }} - {{ post.modified | date_to_long_string }})<br><p style="margin-left: 20px"><em>{{ post.description }}</em></p>
       </li>
-    <!-- {% endif %} -->
+      {% else %}
+      <li>
+        <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})
+      </li>
+      {% endif %}
+      {% else %}
+      <li>
+        <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_long_string }})<br><p style="margin-left: 20px"><em>{{ post.description }}</em></p>
+      </li>
+      {% endif %}
+
+    
   {% endfor %}
 </ul>
 
