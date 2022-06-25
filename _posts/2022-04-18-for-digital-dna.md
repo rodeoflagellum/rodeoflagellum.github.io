@@ -2,15 +2,17 @@
 layout: post
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
-modified: 2022-06-20 12:00:00 -0400
+modified: 2022-06-25 10:30:00 -0400
 permalink: "/for_digital_dna/"
-status: "In Progress"
+status: "Unfinished"
 type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
 word_count: "yes"
 reading_time: "yes"
+importance: "4"
+confidence: "7" 
 ---
 
 __Overview__: _I first discuss, very briefly, biological information storage, and then move on to discussing some properties of DNA. Next, I look at how much digital data there is on Earth, and how people store this data. I illustrate some present and upcoming issues with the current paradigms for data and data storage. Finally, I look at DNA digital data storage, introducing properties of DNA that make it a good candidate for storing data._
