@@ -7,6 +7,7 @@ permalink: "/for_digital_dna/"
 status: "Unfinished"
 type: "Essay"
 image: /assets/2022/for_digital_dna/urja-bhatt-HcxlQto32mI-unsplash.jpg
+description: "Some threads of molecular biology as an introduction that funnel into a look at humanity's digital data production before terminating treatment of the subject of this article's title; there are some forecasting questions in the brew as well."
 tags: [prediction, forecasting, biology]
 specifics: [dna, data-storage]
 word_count: "yes"
