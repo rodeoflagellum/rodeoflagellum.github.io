@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[Notes] Longtermism and Global Priorities"
+title:  "Longtermism and Global Priorities"
 header_image: /assets/2022/longtermism_global_priorities/pont_neuf,_paris_1970.17.58.jpg
 date:  2022-05-12 8:08:00 -0400
-modified: 2022-05-14 9:10:00 -0400
+modified: 2022-06-26 9:10:00 -0400
 permalink: "/longtermism_global_priorities/"
 tags: [longtermism, global-priorities, personal]
-description: "My ongoing notes on longtermism and global priorities research; these are primarily for my own learning."
-type: Notes
+description: "My ongoing notes on research in longtermism and global priorities; these notes exist primarily for my own learning and growth."
+type: "Learning Log"
 status: Ongoing
 ---
 
@@ -42,7 +42,7 @@ This is an ongoing glossary of terms, theorems, and definitions.
 
 ---
 
-## [Questions I Have](#questions)
+<!-- ## [Questions I Have](#questions)
 _Questions that expose my naivity; these are added before, during, and after reading_
 
 - How should a contemporaneous human life be valued monetarily or morally?
@@ -62,16 +62,17 @@ _An accumulation of answers to questions, even to ones I didn't ask_
 
 __The Case for Longtermism__
 
--
+- -->
 
-## [Topics in Global Priorities Research][topics_in_gpr]
+## [Topics in Global Priorities Research](#topics_in_gpr)
 
 [topics_in_gpr]: https://globalprioritiesinstitute.org/topics-in-global-priorities-research/ "https://globalprioritiesinstitute.org/topics-in-global-priorities-research/"
 
-### The Case for Longtermism
+### The Case for Strong Longtermism
 
 - Author: Hilary Greaves and William MacAskill
 - Written: June 2021
+- Link: ?
 - Extent: ? 
 - Durability: ?
 
@@ -118,7 +119,7 @@ ___Review___
 ### Population Axiology
 
 [unread]
-
+<!-- 
 ### Moral Uncertainty About Population Axiology
 
 [unread]
@@ -365,4 +366,4 @@ ___Review___
 
 ### Utopian Neuroscience? 
 
-[unread]
+[unread] -->
