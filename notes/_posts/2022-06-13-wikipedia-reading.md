@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Wikipedia Reading Collection"
+title:  "List of Wikipedia Entries to Explore"
 category: misc
 date:  2022-06-13 11:15:00 -0400
+modified: 2022-06-26 21:20:00 -0400
 permalink: "/per_wiki_reading_list/"
-description: "A list of Wikipedia entries I want to explore more. There might be some notes, comments, and recommendations as well. "
+description: "A list of Wikipedia entries I want to explore more. "
 tags: [personal]
-type: "List"
+type: "Reading List"
 status: "Ongoing"
 ---
 

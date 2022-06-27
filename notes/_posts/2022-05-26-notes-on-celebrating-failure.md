@@ -1,12 +1,12 @@
 ---
 layout: post
 category: misc
-title:  "EAF: \"On being ambitious and celebrating failures\""
+title:  "\"On being ambitious and celebrating failures\""
 date:  2022-05-26 14:08:00 -0400
 modified: 2022-05-27 15:36:00 -0400
 permalink: "/notes_on_celebrating_failure/"
 description: "Some notes on Luke Freeman's EAF post \"On being ambitious and celebrating failures\""
-type: Thoughts
+type: Comment
 status: Finished
 extent: (4/9)
 durability: (4/5)

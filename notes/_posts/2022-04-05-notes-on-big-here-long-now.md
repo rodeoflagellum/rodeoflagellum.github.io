@@ -1,15 +1,15 @@
 ---
 layout: post
 category: misc
-title:  "LNF: \"The Big Here and Long Now\""
+title:  "\"The Big Here and Long Now\""
 date:  2022-05-05 14:08:00 -0400
 modified: 2022-05-06 10:30:00 -0400
 permalink: "/notes_on_the_big_here_and_long_now/"
 description: "Some notes on Brian Eno's essay \"The Big Here and Long Now\""
 tags: [longtermism]
 type: Thoughts
-status: Partial
-extent: (1/6)
+status: Unfinished
+extent: (1/9)
 durability: (5*/5)
 ---
 

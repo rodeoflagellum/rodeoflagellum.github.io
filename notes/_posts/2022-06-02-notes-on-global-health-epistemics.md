@@ -1,13 +1,13 @@
 ---
 layout: post
 category: misc
-title:  "EAF: \"Global health is important for the epistemic foundations of EA, even for longtermists\""
+title:  "\"Global health is important for the epistemic foundations of EA, even for longtermists\""
 date:  2022-06-02 10:50:00 -0400
 modified: 2022-06-02 10:55:00 -0400
 permalink: "/notes_on_global_health_epistemics/"
 description: "Some notes on Owen Cotton-Barratt's EAF post \"OGlobal health is important for the epistemic foundations of EA, even for longtermists\""
-type: Thoughts
-status: Finished
+type: "Comment"
+status: "Finished"
 extent: (3/9)
 durability: (3/5)
 ---

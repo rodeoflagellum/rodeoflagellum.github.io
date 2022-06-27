@@ -3,7 +3,7 @@ layout: post
 category: misc
 title:  "Confirmed Cases of Monkeypox in Europe"
 date:  2022-06-09 14:00:00 -0400
-modified: 2022-06-16 14:07:00 -0400
+modified: 2022-06-26 14:07:00 -0400
 permalink: "/europe_monkeypox/"
 description: "A look at the number of monkeypox cases in Europe by July 1st 2022."
 type: Forecast
@@ -11,11 +11,9 @@ status: Unresolved
 tags: [prediction]
 ---
 
-__Forecast Update 06/17/2022__: In the previous update and original entry, I made the mistake of only looking at confirmed cases, and not confirmed + suspected cases. The count of confirmed and suspected cases currently (06/17/2022, 16:28 EST) is x and b, respectively. My updated code and forecast follows. 
-
+__Forecast Update 06/26/2022__: It's been awhile since I posted an update. I had intended to do this on the 17th, and have been updating on Metaculus almost every day, but have been too lazy to add to this post. In the previous written update and original entry, I made the mistake of only looking at confirmed cases, and not confirmed + suspected cases. As of (06/26/2022), there are x confirmed () and suspected () cases. My updates and the data are as follows. When the group of monkeypox questions resolve on July 1st 2022 on Metaculus, I will post my performances in a final update. 
 
 ![](/notes/assets/2022/europe_monkeypox/update3.png)
-
 
 ![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june17a.png)
 
