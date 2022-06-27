@@ -53,17 +53,65 @@ __Overview__: _On 06/08/2022, I was invited to participate in Philip's Tetlock's
 
 #### Stage 1 
 
-__Considerations__: There are presently alive, so 1% of this is this There are x years until 2030, y years until 2050, and z until 2100. The UN expects there to be 1
+__Considerations__: As of (06/26/2022), there are around 7,956,600,000 billion people alive today[^world_o_meter1] - 1% of this is almost 80m people, so the temporally normalized perceived severity of this pandemic could "in 2022, a pandemic severe enough that 80m people die in the next 5 years". For context, as of (06/26/2022), there have been ~6.351b deaths[^deaths] from SARS-CoV-2[^world_o_meter2], which might have leaked from a laboratory[^leak], possibly following genetic modifications.  There are ~8.5 years (~1.7 five year periods) until the end of 2030, ~28.5 years (~5.7 five year periods) until the end of 2050, and ~78.5 years (~15.7 five year periods) until the end of 2100. 
 
-__Naive Attitude__: 
+[^leak]: https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory "https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory"
 
-__Factors__: 
+[^deaths]: This does not take into account excess deaths. "...taking into account likely COVID induced deaths via [excess deaths][wiki_excess], the 95% confidence interval suggests the pandemic to have caused between 14.7 and 24.9 millions deaths." See <https://en.wikipedia.org/wiki/COVID-19_pandemic_deaths>. 
+
+[wiki_excess]: https://en.wikipedia.org/wiki/Mortality_displacement "https://en.wikipedia.org/wiki/Mortality_displacement"
+
+[^world_o_meter1]: See <https://www.worldometers.info/world-population/>.
+
+[^world_o_meter2]: See <https://www.worldometers.info/coronavirus/coronavirus-death-toll/>
+
+There are presently alive, so 1% of this is this There are x years until 2030, y years until 2050, and z until 2100. The UN expects there to be 
+
+__Naive Attitude__: For 2030, my sense is that the odds are somewhere between 1:850 and 1:15000. In probabilities, this is 1/851 to 1/15000. The approx. geometric average of this is 1:(8.5+1.5)/2 x 10^(2+4)/2 = 1:5000 = 1/5001 = 0.0002 = ~0.02%. Going off of n = 8.5 trials with ~0.02% the constant annual probability would be p = ~0.0002, since 0.0002 = 1 - (1 - p)^{8.5}, so for n = 28.5, p = 0.00568, and for n = 78.5, p = 0.01557. 
+
+__Relevant Links__: 
+- <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
+- <https://en.wikipedia.org/wiki/Pandemic_severity_index>
+- <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
+- <https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents>
+- <https://en.wikipedia.org/wiki/Gain-of-function_research>
+- <https://en.wikipedia.org/wiki/Biosecurity>
+- <https://en.wikipedia.org/wiki/Biorisk>
+- <https://en.wikipedia.org/wiki/Biological_warfare>
+- <https://en.wikipedia.org/wiki/Biological_Weapons_Convention>
+- <https://en.wikipedia.org/wiki/Biodefense>
+- <https://en.wikipedia.org/wiki/Bioterrorism>
+- <https://en.wikipedia.org/wiki/Quarantine>
+- <https://en.wikipedia.org/wiki/List_of_epidemics>
+- <https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll#Deadliest_epidemics>
+- <https://en.wikipedia.org/wiki/List_of_infectious_diseases>
+- <https://en.wikipedia.org/wiki/Pandemic>
+- <https://en.wikipedia.org/wiki/Epidemic>
+- <https://en.wikipedia.org/wiki/Virulence>
+- <https://en.wikipedia.org/wiki/Biological_agent>
+- <https://en.wikipedia.org/wiki/Biological_hazard>
+- <https://en.wikipedia.org/wiki/Laboratory_Response_Network>
+- <https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4>
+
 
 __Existing Work__: 
 
-__Scenarios__:
+__Factors__: 
+- Severity 
+    - Population size 
+    - Virulence 
+    - 
 
-__Non-participant friends rationale and predictions__: 
+__Scenarios__:
+- Lab Leak
+    - Lab 
+    - Individual 
+    - Company 
+- Attack
+    - State Sanctioned 
+    - Terrorist 
+        - Organization 
+        - Individual 
 
 __SPIES Naive__: 
 
@@ -72,6 +120,8 @@ __Distribution__:
 __Surprisingly Popular__:
 
 __Metaculus Community__: 
+
+__Non-participant friends rationale and predictions__: 
 
 #### Stage 2 
 
