@@ -65,6 +65,8 @@ __Considerations__: As of (06/26/2022), there are around 7,956,600,000 billion p
 
 [^world_o_meter2]: See <https://www.worldometers.info/coronavirus/coronavirus-death-toll/>
 
+d 
+
 There are presently alive, so 1% of this is this There are x years until 2030, y years until 2050, and z until 2100. The UN expects there to be 
 
 __Naive Attitude__: For 2030, my sense is that the odds are somewhere between 1:850 and 1:15000. In probabilities, this is 1/851 to 1/15000. The approx. geometric average of this is 1:(8.5+1.5)/2 x 10^(2+4)/2 = 1:5000 = 1/5001 = 0.0002 = ~0.02%. Going off of n = 8.5 trials with ~0.02% the constant annual probability would be p = ~0.0002, since 0.0002 = 1 - (1 - p)^{8.5}, so for n = 28.5, p = 0.00568, and for n = 78.5, p = 0.01557. 
