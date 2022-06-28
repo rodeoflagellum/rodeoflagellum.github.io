@@ -53,7 +53,20 @@ __Overview__: _On 06/08/2022, I was invited to participate in Philip's Tetlock's
 
 #### Stage 1 
 
-__Considerations__: As of (06/26/2022), there are around 7,956,600,000 billion people alive today[^world_o_meter1] - 1% of this is almost 80m people, so the temporally normalized perceived severity of this pandemic could "in 2022, a pandemic severe enough that 80m people die in the next 5 years". For context, as of (06/26/2022), there have been ~6.351b deaths[^deaths] from SARS-CoV-2[^world_o_meter2], which might have leaked from a laboratory[^leak], possibly following genetic modifications.  There are ~8.5 years (~1.7 five year periods) until the end of 2030, ~28.5 years (~5.7 five year periods) until the end of 2050, and ~78.5 years (~15.7 five year periods) until the end of 2100. 
+__Naive Attitude__: In general, I would place the chance of an 80m death or greater pandemic by 2030 as <1%, by 2050 as maybe 3-5%, and by 2100 as maybe 7-13%.
+
+__Naive Attitude, Bets and Fermi Estimates__: I would bet $10000 USD that a pandemic of this nature doesn't occur before 2030. I would bet $2500 that such a pandemic doesn't occur before 2050. I would bet $400 that such a pandemic doesn't occur before 2100. 
+
+Make detailed bets. 
+
+Final response: 
+
+
+For 2030, my sense is that the odds are somewhere between 1:850 and 1:15000. The approx. geometric average of this is 1:(8.5+1.5)/2 x 10^(2+4)/2 = 1:5000 = 1/5001 = 0.0002 = ~0.02%. Going off of n = 8.5 trials with ~0.02% the constant annual probability would be p = ~0.0002, since 0.0002 = 1 - (1 - p)^{8.5}. Thus, for n = 28.5, p = 0.00568, and for n = 78.5, p = 0.01557. Without extrapolating, I would say that the odds of such a pandemic occurring before 2050 is 1:250 to 1:8000, and the odds for this occurring before 2100 are somewhere between 1:75 and 1:3000. The approximate geometric means of these values, respectively, are 3((2.5+8)/2)x10^{floor((2+3)/2)}= 1:1575 = 1/(1576) = 0.0006 = 0.06% for "by 2050". For "by 2100", we have ((7.5+3)/2)x10^{2} = 1:525 = 1/526 = 0.0019. See these numbers, I'm inclined to believe that these estimates don't align with my attiudes. 
+
+
+
+__Considerations__: As of (06/26/2022), there are around 7,956,600,000 billion people alive today[^world_o_meter1] - 1% of this is almost 80m people, so the temporally normalized perceived severity of this pandemic could "in 2022, a pandemic severe enough that 80m people die in the next 5 years". For context, as of (06/26/2022), there have been ~6.351m deaths[^deaths] from SARS-CoV-2[^world_o_meter2], which might have leaked from a laboratory[^leak], possibly following genetic modification.  There are ~8.5 years until the end of 2030, ~28.5 years until the end of 2050, and ~78.5 years until the end of 2100. 
 
 [^leak]: https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory "https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory"
 
@@ -65,16 +78,21 @@ __Considerations__: As of (06/26/2022), there are around 7,956,600,000 billion p
 
 [^world_o_meter2]: See <https://www.worldometers.info/coronavirus/coronavirus-death-toll/>
 
-d 
+<!-- There are presently alive, so 1% of this is this There are x years until 2030, y years until 2050, and z until 2100. The UN expects there to be  -->
 
-There are presently alive, so 1% of this is this There are x years until 2030, y years until 2050, and z until 2100. The UN expects there to be 
+__Factors and Questions 1__:
+- Which pathogens could currently fit the bill for producing a pandemic of this severity?
+- Which pathogens 
 
-__Naive Attitude__: For 2030, my sense is that the odds are somewhere between 1:850 and 1:15000. In probabilities, this is 1/851 to 1/15000. The approx. geometric average of this is 1:(8.5+1.5)/2 x 10^(2+4)/2 = 1:5000 = 1/5001 = 0.0002 = ~0.02%. Going off of n = 8.5 trials with ~0.02% the constant annual probability would be p = ~0.0002, since 0.0002 = 1 - (1 - p)^{8.5}, so for n = 28.5, p = 0.00568, and for n = 78.5, p = 0.01557. 
+ 
 
 __Relevant Links__: 
 - <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
+    - ""
 - <https://en.wikipedia.org/wiki/Pandemic_severity_index>
+    - ""
 - <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
+    - ""
 - <https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents>
 - <https://en.wikipedia.org/wiki/Gain-of-function_research>
 - <https://en.wikipedia.org/wiki/Biosecurity>
@@ -95,10 +113,9 @@ __Relevant Links__:
 - <https://en.wikipedia.org/wiki/Laboratory_Response_Network>
 - <https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4>
 
-
 __Existing Work__: 
 
-__Factors__: 
+__Factors 2__: 
 - Severity 
     - Population size 
     - Virulence 
