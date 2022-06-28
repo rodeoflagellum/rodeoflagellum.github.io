@@ -11,17 +11,12 @@ status: Unresolved
 tags: [prediction]
 ---
 
-__Forecast Update 06/27/2022__: It's been awhile since I posted an update. I had intended to do this on the 17th, and have been updating on Metaculus almost every day, but have been too lazy to add to this post. In the previous written update and original entry, I made the mistake of only looking at confirmed cases, and not confirmed + suspected cases. As of (06/26/2022), there are x confirmed () and suspected () cases. My updates and the data are as follows. When the group of monkeypox questions resolve on July 1st 2022 on Metaculus, I will post my performances in a final update. 
+__Forecast Update 06/28/2022__: It's been awhile since I posted an update. I had intended to do this on the 17th, and have been updating on Metaculus almost every day, but have been too lazy to add to this post. In the previous written update and original entry, I made the mistake of only looking at confirmed cases, and not confirmed + suspected cases. As of (06/28/2022), there are x confirmed () and suspected () cases. My updates and the data are as follows. When the group of monkeypox questions resolve on July 1st 2022 on Metaculus, I will post my performances in a final update. 
 
-![](/notes/assets/2022/europe_monkeypox/update3.png)
+![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june28a.png.png)
 
-![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june17a.png)
+![](/notes/assets/2022/europe_monkeypox/monke06282022.png)
 
-![](/notes/assets/2022/europe_monkeypox/monkeypox_confirmed_cases_europe_may-july_2022_june17b.png)
-
-```python 
-
-```
 
 <br>
 
