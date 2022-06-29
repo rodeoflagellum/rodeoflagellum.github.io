@@ -2,7 +2,7 @@
 layout: post
 title:  "My Forecasting Track Record"
 date:  2022-06-28 20:15:00 -0400
-modified: 2022-06-28 21:15:00 -0400
+modified: 2022-06-29 13:00:00 -0400
 permalink: "/my_forecasting_track_record/"
 tags: [forecasting, prediction, epistemics, personal]
 header_image: /assets/2022/my_forecasting_track_record/DP843891.jpg
