@@ -38,7 +38,6 @@ answer what
 ---
 
 ## [Table of Contents](#toc)
-
 {:.no_toc}
 * TOC
 {:toc}

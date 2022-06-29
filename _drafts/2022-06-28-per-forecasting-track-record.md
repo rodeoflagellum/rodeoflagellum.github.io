@@ -15,16 +15,13 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 
 --- 
 
-
 ## Table of Contents
-
 {:.no_toc}
 * TOC
 {:toc}
 
 ---
  
-
 ## Metaculus (Overview, 06/28/2022) 
 
 ![](/assets/2022/my_forecasting_track_record/images/metaculus_profile.png)
@@ -37,7 +34,7 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 
 ![](/assets/2022/my_forecasting_track_record/images/metaculus_brier.png)
 
-![](/assets/2022/my_forecasting_track_record/images/metaculus_binary_calibration.png)
+![](/assets/2022/my_forecasting_track_record/images/metaculus_binary_cal.png)
 
 ![](/assets/2022/my_forecasting_track_record/images/metaculus_discrete_log.png)
 
@@ -45,9 +42,6 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 
 ![](/assets/2022/my_forecasting_track_record/images/metaculus_continuous_calibration.png)
 
-![](/assets/2022/my_forecasting_track_record/images/metaculus_.png)
-
-![](/assets/2022/my_forecasting_track_record/images/metaculus_.png)
 
 
 ## Metaculus (Specific, 06/28/2022)
@@ -59,17 +53,15 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 <div id="tester" style="width:100%;height:300;"></div>
 
 <script>
-	var trace1 = {
-        x: [1, 2, 3, 4],
-        y: [10, 15, 13, 17],
-        type: 'scatter'
-    };  
-    var trace2 = {
-        x: [1, 2, 3, 4],
-        y: [16, 5, 11, 9],
-        type: 'scatter'
-    };
-    var data = [trace1, trace2];
 
-    Plotly.newPlot('tester', data, layout);
+	TESTER = document.getElementById('tester');
+
+	Plotly.newPlot( TESTER, [{
+
+	x: [1, 2, 3, 4, 5],
+
+	y: [1, 2, 4, 8, 16] }], {
+
+	margin: { t: 0 } } );
+
 </script>

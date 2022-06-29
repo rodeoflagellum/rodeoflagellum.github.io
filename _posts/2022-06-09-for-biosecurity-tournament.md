@@ -24,13 +24,11 @@ description: "My forecasts and thoughts on various questions in Metaculus's 2022
 --- 
 
 ## [Table of Contents](#toc)
-
 {:.no_toc}
 * TOC
 {:toc}
 
 ---
-
 
 ### Pandemic Prevention and Preparedness 
 
