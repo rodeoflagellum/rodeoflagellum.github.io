@@ -70,6 +70,8 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 
 ## Metaculus (Binary Questions, 06/28/2022)
 
+<!-- https://plotly.com/javascript/axes/ -->
+
 <!-- https://plotly.com/javascript/line-charts/ -->
 
 <!-- https://curlconverter.com/ -->
