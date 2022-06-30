@@ -66,7 +66,6 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 <img src="/assets/2022/my_forecasting_track_record/images/metaculus_continuous_calibration.png">
 </details>
 
-
 ---
 
 ## Metaculus (Binary Questions, 06/28/2022)
@@ -80,13 +79,14 @@ __Overview__: _In this post, I cover the predictions I've made on resolved quest
 <script>
 
 	TESTER = document.getElementById('tester');
-
 	Plotly.newPlot( TESTER, [{
-
 	x: [1, 2, 3, 4, 5],
-
 	y: [1, 2, 4, 8, 16] }], {
-
 	margin: { t: 0 } } );
 
 </script> -->
+
+<!-- What questions did I most outperform the community on? 
+What proportion of questions do I outperform the community on? 
+Which questions have I predicted on the most?  
+How many questions have I commented my forecasts on, and how did my performance change as a result of this?-->
