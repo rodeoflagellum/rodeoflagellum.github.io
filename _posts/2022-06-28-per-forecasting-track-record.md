@@ -7,6 +7,9 @@ permalink: "/my_forecasting_track_record/"
 tags: [forecasting, prediction, epistemics, personal]
 header_image: /assets/2022/my_forecasting_track_record/DP843891.jpg
 description: "A collection of my forecasts, many of which are informal and optimized to accrue points."
+type: "Forecasting Log"
+status: "Ongoing"
+importance: "2"
 ---
 
 __Overview__: _In this post, I cover the predictions I've made on resolved questions on websites such as Metaculus, Manifold Markets, etc... I detail how and why my predictions changed as they did, include rationales or comments on why I predicted a certain way, and delimit instances where I had no rationale or made no comments (most instances to date). Moving forward, I would like to post a rationale for every forecast I make. Many times I should not have forecasted on the questions I forecasted on, as I was simply going off of the community's prediction. I've tried to highlight or bring more attention to questions I "took seriously" versus the ones where my System 1 was the primary actor._
