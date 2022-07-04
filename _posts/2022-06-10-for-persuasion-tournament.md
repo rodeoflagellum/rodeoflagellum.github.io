@@ -225,9 +225,9 @@ __Naive Attitudes 1__:
 - p(e2030) = 1% (0.01% to 3%) 
 - p(e2050) = 6% (4% to 18%)
 - p(e2100) = 18% (5% to 30%)
-- or(e2030:¬(e2030)) =  1:99 (1: to 1:)
-- or(e2050:¬(e2050)) =  1:15 (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
+- or(e2030:¬(e2030)) =  ?
+- or(e2050:¬(e2050)) =  ?
+- or(e2100:¬(e2100)) =  ?
 - bet(10k) ¬(e2030) 
 - bet(1k) ¬(e2050)
 - bet(0.2k) ¬(e2100)
@@ -295,15 +295,15 @@ __Final Forecast and Rationale__:
 Denote e{YEAR} = "_artificial intelligence will be the cause of death, within a 5-year period, for more than 10% of humans alive_" by [2031, 2051, 2101]. 
  
 __Naive Attitudes 1__: 
-- p(e2030) = 0.01-1% 
-- p(e2050) = 5-15%
-- p(e2100) = 10-25%
-- or(e2030:¬(e2030)) =  1:1500
-- or(e2050:¬(e2050)) =  1:250
-- or(e2100:¬(e2100)) =  1:55
-- bet(20k) ¬(e2030) 
-- bet(1k) ¬(e2050)
-- bet(0.2k) ¬(e2100)
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- or(e2030:¬(e2030)) =  1: (1: to 1:)
+- or(e2050:¬(e2050)) =  1: (1: to 1:)
+- or(e2100:¬(e2100)) =  1: (1: to 1:)
+- bet(k) ¬(e2030) 
+- bet(k) ¬(e2050)
+- bet(k) ¬(e2100)
 
 __Resource Notes__: 
 
