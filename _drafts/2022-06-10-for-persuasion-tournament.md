@@ -50,6 +50,7 @@ Is this a situation where the base rate can be
 ## Notes and Overview 
 
 - Bets are against 100 USD
+- Naive Attitudes = Scoping out my priors
 
 <!-- https://www.nathankowald.com/odds-visualiser?n=1&total=1024 -->
 
@@ -684,8 +685,6 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-
-
 __Naive Attitudes 1__: 
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
@@ -700,6 +699,8 @@ __Naive Attitudes 1__:
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
+- https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/
+- https://longbets.org/predictions/
 
 __Questions__:
 
