@@ -392,6 +392,7 @@ __Quotes and Other Notes__:
 - https://www.alignmentforum.org/posts/wgio8E758y9XWsi8j/grokking-forecasting-tai-with-biological-anchors
 - https://forum.effectivealtruism.org/posts/isTXkKprgHh5j8WQr/strategic-perspectives-on-long-term-ai-governance
 - https://forum.effectivealtruism.org/posts/SEqJoRL5Y8cypFasr/why-agi-timeline-research-discourse-might-be-overrated
+- https://forum.effectivealtruism.org/posts/CictHfn8kdyupvpNK/future-matters-3-digital-sentience-agi-ruin-and-forecasting
 
 __Questions__:
 
