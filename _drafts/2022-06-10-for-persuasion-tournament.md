@@ -352,6 +352,8 @@ __Final Forecast and Rationale__:
 - If reasonable people disagree about whether this event has occurred, this question will be resolved via a panel of experts.
 
 
+
+
 #### Stage 1 
 
 
@@ -369,6 +371,24 @@ __Naive Attitudes 1__:
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
+
+- https://www.lesswrong.com/posts/CJw2tNHaEimx6nwNy/ai-forecasting-one-year-in
+- https://www.lesswrong.com/posts/SbAgRYo8tkHwhd9Qx/deepmind-the-podcast-excerpts-on-agi
+- https://axisofordinary.substack.com/p/links-for-2022-07-04
+- https://www.lesswrong.com/posts/2GxhAyn9aHqukap2S/looking-back-on-my-alignment-phd
+- https://www.lesswrong.com/posts/MYCutshqJwTbHfE3W/my-most-likely-reason-to-die-young-is-ai-x-risk
+- https://www.lesswrong.com/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer
+- https://www.lesswrong.com/posts/8c8AZq5hgifmnHKSN/agi-safety-faq-all-dumb-questions-allowed-thread
+- https://www.lesswrong.com/posts/LLRtjkvh9AackwuNB/on-a-list-of-lethalities
+- https://www.lesswrong.com/posts/oBBzqkZwkxDvsKBGB/ai-could-defeat-all-of-us-combined
+- https://www.lesswrong.com/posts/qfDgEreMoSEtmLTws/contra-ey-can-agi-destroy-us-without-trial-and-error
+- https://www.lesswrong.com/posts/9daTCJAGtxrJKmafm/what-s-the-contingency-plan-if-we-get-agi-tomorrow
+- https://www.lesswrong.com/posts/ZEgQGAjQm5rTAnGuM/beware-boasting-about-non-existent-forecasting-track-records
+- https://www.lesswrong.com/posts/G993PFTwqqdQv4eTg/is-ai-progress-impossible-to-predict
+- https://www.lesswrong.com/posts/mF8dkhZF9hAuLHXaD/reshaping-the-ai-industry
+- https://www.lesswrong.com/posts/aaeMECbcBzC3cweGK/on-saving-one-s-world
+- https://www.lesswrong.com/posts/xxvKhjpcTAJwvtbWM/deepmind-s-gato-generalist-agent
+- https://www.alignmentforum.org/posts/wgio8E758y9XWsi8j/grokking-forecasting-tai-with-biological-anchors
 
 __Questions__:
 
