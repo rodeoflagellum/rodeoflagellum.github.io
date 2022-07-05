@@ -4,7 +4,7 @@ title:  "Trials in Decision Making"
 category: misc
 permalink: "/per_trials_decision_making/"
 tags: [personal, rationality]
-header_image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg
+image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg
 description: "Frame: A place where I explore different tools for decision making, using my own goals and desires as the decision-fodder."
 status: "Ongoing"
 type: "Thinking Space"
