@@ -389,6 +389,8 @@ __Quotes and Other Notes__:
 - https://www.lesswrong.com/posts/aaeMECbcBzC3cweGK/on-saving-one-s-world
 - https://www.lesswrong.com/posts/xxvKhjpcTAJwvtbWM/deepmind-s-gato-generalist-agent
 - https://www.alignmentforum.org/posts/wgio8E758y9XWsi8j/grokking-forecasting-tai-with-biological-anchors
+- https://forum.effectivealtruism.org/posts/isTXkKprgHh5j8WQr/strategic-perspectives-on-long-term-ai-governance
+- https://forum.effectivealtruism.org/posts/SEqJoRL5Y8cypFasr/why-agi-timeline-research-discourse-might-be-overrated
 
 __Questions__:
 
