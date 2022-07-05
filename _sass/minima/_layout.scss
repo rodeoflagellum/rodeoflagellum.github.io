@@ -275,12 +275,21 @@
   }
 }
 
+// .featured-image-post {
+//   width: 100%;
+//   height: 200px;
+//   object-fit: cover;
+//   border: 5px solid black;
+// }
+
 .featured-image-post {
   width: 100%;
-  height: 200px;
+  height: 400px;
   object-fit: cover;
-  border: 5px solid black;
+  border: 3px solid black;
 }
+
+
 
 .blog-roll-image {
   width: 75px;

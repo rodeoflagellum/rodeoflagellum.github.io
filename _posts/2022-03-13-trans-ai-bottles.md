@@ -4,7 +4,7 @@ title:  "AI Safety ∩ AI/DL Research "
 date:  2022-04-09 12:00:00 -0400
 modified: 2022-04-12 12:10:00 -0400
 permalink: "/for_dl_ai_safety/"
-header_image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
+image: /assets/images/urja-bhatt-ChlQ7O0bVsY-unsplash.jpg
 description: "The full version of an essay I wrote on some trends in the AI Safety and general AI/DL communities for Metaculus's AI Progress Contest."
 tags: [forecasting, prediction, ai, ai-safety, governance]
 type: "Draft"

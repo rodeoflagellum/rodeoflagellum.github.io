@@ -6,7 +6,7 @@ modified: 2022-03-23 17:38:18 -0500
 permalink: "/acx_contest_2022/"
 description: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 tags: [forecasting, prediction]
-header_image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
+image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
 type: "Draft"
 status: "Passing"
 ---

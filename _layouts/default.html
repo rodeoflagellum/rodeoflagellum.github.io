@@ -9,9 +9,13 @@
 
     {%- include header.html -%}
 
+    {%- if page.image -%}
+      <img src="{{ page.image | relative_url }}" alt="" class="featured-image-post">
+      <br><br>
+    {%- endif -%}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        
         {{ content }}
       </div>
     </main>

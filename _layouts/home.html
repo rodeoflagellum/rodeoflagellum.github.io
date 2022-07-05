@@ -14,6 +14,12 @@ layout: default
 
   {{ content }} 
 
+  <hr>
+
+  <br>
+
+  
+
   {% capture temptags %}
     {% for tag in site.tags %}
       #{{ tag[0] }}#
@@ -46,6 +52,13 @@ layout: default
 
     <hr>
 
+    <br> 
+
+    <p>Importance | Chronological | Hello </p> 
+
+
+    <hr> 
+
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.category!="misc" -%}
@@ -62,9 +75,17 @@ layout: default
 
         <!-- Add post reading time, importance -->
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}
-        </span>
+        
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {{ post.date | date: date_format }} &nbsp;
+        {%- if post.importance -%}
+         • &nbsp;Importance: {{ post.importance }} &nbsp;
+        {%- endif -%}
+        {%- if post.reading_time -%}
+         • &nbsp;~{{ post.content | number_of_words | divided_by: 280 }}m (280 wpm) &nbsp;
+        {%- endif -%}
+          
+          <!-- <span class="post-meta"> </span> -->
 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
