@@ -93,6 +93,7 @@ __Considerations__:
 
 [^world_o_meter2]: See <https://www.worldometers.info/coronavirus/coronavirus-death-toll/>
 
+
 __Naive Attitudes 1__: 
 - bet(15k) ¬(e2030) 
 - bet(1.5k) ¬(e2050)
@@ -158,8 +159,33 @@ __Resource Notes__:
         - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true? -->
 
 __Quotes and Other Notes__: 
-- James Fodor's <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
+- James Fodor: <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
     - 
+- _Chapter 20: Biotechnology and biosecurity_ : 
+- "": 
+
+- <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
+- <https://en.wikipedia.org/wiki/Pandemic_severity_index>
+- <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
+- <https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents>
+- <https://en.wikipedia.org/wiki/Gain-of-function_research>
+- <https://en.wikipedia.org/wiki/Biosecurity>
+- <https://en.wikipedia.org/wiki/Biorisk>
+- <https://en.wikipedia.org/wiki/Biological_warfare>
+- <https://en.wikipedia.org/wiki/Biological_Weapons_Convention>
+- <https://en.wikipedia.org/wiki/Biodefense>
+- <https://en.wikipedia.org/wiki/Bioterrorism>
+- <https://en.wikipedia.org/wiki/Quarantine>
+- <https://en.wikipedia.org/wiki/List_of_epidemics>
+- <https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll#Deadliest_epidemics>
+- <https://en.wikipedia.org/wiki/List_of_infectious_diseases>
+- <https://en.wikipedia.org/wiki/Pandemic>
+- <https://en.wikipedia.org/wiki/Epidemic>
+- <https://en.wikipedia.org/wiki/Virulence>
+- <https://en.wikipedia.org/wiki/Biological_agent>
+- <https://en.wikipedia.org/wiki/Biological_hazard>
+- <https://en.wikipedia.org/wiki/Laboratory_Response_Network>
+- <https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4>
 
 __Scenarios__: 
 - Leak
@@ -173,15 +199,29 @@ __Scenarios__:
         - Individual 
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Reciprocal Forecasting__:
 - __Survey__:
@@ -210,31 +250,6 @@ __Final Forecast and Rationale__:
 
 
  
-
-<!-- __Relevant Links__: 
-- <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
-- <https://en.wikipedia.org/wiki/Pandemic_severity_index>
-- <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
-- <https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents>
-- <https://en.wikipedia.org/wiki/Gain-of-function_research>
-- <https://en.wikipedia.org/wiki/Biosecurity>
-- <https://en.wikipedia.org/wiki/Biorisk>
-- <https://en.wikipedia.org/wiki/Biological_warfare>
-- <https://en.wikipedia.org/wiki/Biological_Weapons_Convention>
-- <https://en.wikipedia.org/wiki/Biodefense>
-- <https://en.wikipedia.org/wiki/Bioterrorism>
-- <https://en.wikipedia.org/wiki/Quarantine>
-- <https://en.wikipedia.org/wiki/List_of_epidemics>
-- <https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll#Deadliest_epidemics>
-- <https://en.wikipedia.org/wiki/List_of_infectious_diseases>
-- <https://en.wikipedia.org/wiki/Pandemic>
-- <https://en.wikipedia.org/wiki/Epidemic>
-- <https://en.wikipedia.org/wiki/Virulence>
-- <https://en.wikipedia.org/wiki/Biological_agent>
-- <https://en.wikipedia.org/wiki/Biological_hazard>
-- <https://en.wikipedia.org/wiki/Laboratory_Response_Network>
-- <https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4> -->
-
 
 __Factors__: 
 - Severity 
@@ -289,15 +304,29 @@ __Questions__:
 - If the same number proportion of people vaccinated during SARS-CoV-2 been vaccinated during the Spanish Flu, how would the death toll have changed? 
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -316,7 +345,7 @@ __Final Forecast and Rationale__:
 
 
 
-<!-- <!-- #### Stage 2 
+<!-- #### Stage 2 
 
 #### Stage 3
 
@@ -340,30 +369,58 @@ __Final Forecast and Rationale__:
 Denote e{YEAR} = "_artificial intelligence will be the cause of death, within a 5-year period, for more than 10% of humans alive_" by [2031, 2051, 2101]. 
  
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -377,7 +434,7 @@ __Metaculus Community__:
 
 __Final Forecast and Rationale__:
 
-<!-- <!-- #### Stage 2 
+<!-- #### Stage 2 
 
 #### Stage 3
 
@@ -403,15 +460,29 @@ __Final Forecast and Rationale__:
 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -441,15 +512,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -463,7 +548,7 @@ __Metaculus Community__:
 
 __Final Forecast and Rationale__:
 
-<!-- <!-- #### Stage 2 
+<!-- #### Stage 2 
 
 #### Stage 3
 
@@ -486,15 +571,29 @@ __Final Forecast and Rationale__:
 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -503,15 +602,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -526,7 +639,7 @@ __Metaculus Community__:
 __Final Forecast and Rationale__:
 
 
-<!-- <!-- #### Stage 2 
+<!-- #### Stage 2 
 
 #### Stage 3
 
@@ -549,15 +662,29 @@ __Final Forecast and Rationale__:
 #### Stage 1
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -566,15 +693,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -611,15 +752,29 @@ __Final Forecast and Rationale__:
 #### Stage 1 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -628,15 +783,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -673,15 +842,29 @@ __Final Forecast and Rationale__:
 #### Stage 1 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -690,15 +873,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -731,15 +928,29 @@ __Final Forecast and Rationale__:
 #### Stage 1 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -750,15 +961,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -795,15 +1020,29 @@ __Final Forecast and Rationale__:
 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -813,15 +1052,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -858,15 +1111,29 @@ __Final Forecast and Rationale__:
 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -875,15 +1142,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -918,15 +1199,29 @@ __Final Forecast and Rationale__:
 #### Stage 1 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -935,15 +1230,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -983,15 +1292,29 @@ Use climate models + development models + birth models; then use scenarios other
 
 
 __Naive Attitudes 1__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1000,15 +1323,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1044,15 +1381,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1061,15 +1412,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1109,15 +1474,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1126,15 +1505,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1174,15 +1567,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 
 __Resource Notes__: 
@@ -1192,15 +1599,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1239,15 +1660,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1256,15 +1691,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1304,15 +1753,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1321,15 +1784,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1342,11 +1819,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 
 ### 19. Lab Leaks 
@@ -1366,15 +1844,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1383,15 +1875,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1404,11 +1910,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 20. Individuals Countries with Biological Weapons Programs 
 
@@ -1428,15 +1935,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1445,15 +1966,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1466,11 +2001,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 21. Number of Countries with Biological Weapons Programs 
 
@@ -1491,15 +2027,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1508,15 +2058,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1529,11 +2093,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 22. PHEIC Declarations with 10k Deaths
 
@@ -1553,15 +2118,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1570,15 +2149,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1591,11 +2184,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 23. Assassinations with Biological Weapons
 
@@ -1618,15 +2212,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1635,15 +2243,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1656,11 +2278,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 24. Malaria Deaths 
 
@@ -1678,15 +2301,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1695,15 +2332,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1716,11 +2367,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 25. Average Global Surface Temperature
 
@@ -1738,15 +2390,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1755,15 +2421,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1776,11 +2456,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 26. Cost of Utility-Scale Solar Energy 
 
@@ -1796,15 +2477,29 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1813,15 +2508,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1834,11 +2543,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 27. Nuclear Fusion Energy 
 
@@ -1855,15 +2565,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1872,15 +2596,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1893,11 +2631,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 28. Solar and Wind Energy 
 
@@ -1914,15 +2653,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1931,15 +2684,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -1952,11 +2719,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 29. Annual Direct Air CO2 Capture
 
@@ -1973,15 +2741,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -1990,15 +2772,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2010,12 +2806,11 @@ __Survey__:
 
 __Metaculus Community__:
 
-__Final Forecast and Rationale__:
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 30. Cost of Hydrogen 
 
@@ -2032,15 +2827,32 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
+
+
+
 
 __Resource Notes__: 
 
@@ -2049,15 +2861,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2070,11 +2896,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 31. Nuclear Weapon Use 
 
@@ -2094,15 +2921,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2111,15 +2952,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2132,11 +2987,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 32. Total Nuclear Warheads 
 
@@ -2155,15 +3011,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2172,15 +3042,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2193,11 +3077,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 33. Countries with Nuclear Warheads
 
@@ -2217,15 +3102,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2234,15 +3133,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2255,11 +3168,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 34. Country-by-Country Nuclear Use 
 
@@ -2291,15 +3205,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2308,15 +3236,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2358,15 +3300,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2375,15 +3331,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2417,15 +3387,29 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2434,15 +3418,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2480,15 +3478,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 
 __Resource Notes__: 
@@ -2498,15 +3510,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2519,11 +3545,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 38. Labor Force Partipication Rate in OECD
 
@@ -2543,15 +3570,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2560,15 +3601,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2581,11 +3636,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 39. MATH Dataset Benchmark 
 
@@ -2605,15 +3661,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2622,15 +3692,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2643,11 +3727,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 40. "Massive Multitask Language Understanding" Benchmark
 
@@ -2670,15 +3755,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2687,15 +3786,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2708,11 +3821,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 41. QuALITY Dataset Benchmark 
 
@@ -2735,15 +3849,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2752,15 +3880,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2773,11 +3915,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 42. AI Wins International Mathematical Olympiad
 
@@ -2793,15 +3936,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2810,15 +3967,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2831,11 +4002,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 43. NYT Bestsellers Written by AI 
 
@@ -2859,15 +4031,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2876,15 +4062,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2897,11 +4097,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 44. Date of Advanced AI 
 
@@ -2929,15 +4130,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -2946,15 +4161,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -2967,11 +4196,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 45. Maximum Compute Used in an AI Experiment 
 
@@ -2994,15 +4224,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3011,15 +4255,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3032,11 +4290,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 46. Largest AI Experiment Cost of Compute
 
@@ -3067,15 +4326,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3084,15 +4357,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3105,11 +4392,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 47. Lowest Price of GFLOPS 
 
@@ -3129,15 +4417,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3146,15 +4448,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3167,11 +4483,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 48. ImageNet Classification Training Efficiency
 
@@ -3189,15 +4506,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3206,15 +4537,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3227,11 +4572,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 49. Largest Number of Parameters in a Machine Learning Model 
 
@@ -3251,15 +4597,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3268,15 +4628,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3289,11 +4663,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 50. Negative Public Opinion of AI 
 
@@ -3315,15 +4690,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3332,15 +4721,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3353,11 +4756,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 51. Nick Bostrom Affirms Existence of AGI 
 
@@ -3377,15 +4781,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3394,15 +4812,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3415,11 +4847,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 52. Probability of GDP Growth Over 15% 
 
@@ -3441,15 +4874,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3458,15 +4905,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3479,11 +4940,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 53. Year of GDP Growth over 15%
 
@@ -3504,15 +4966,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3521,15 +4997,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3542,11 +5032,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 54. Loss of Agricultural Production 
 
@@ -3566,15 +5057,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3583,15 +5088,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3604,11 +5123,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 55. Space Colony 
 
@@ -3624,15 +5144,29 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3641,15 +5175,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3662,11 +5210,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 56. Happiness in America 
 
@@ -3685,15 +5234,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3702,15 +5265,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3723,11 +5300,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 57. Prevalence of Autocracies 
 
@@ -3746,15 +5324,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3763,15 +5355,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3784,11 +5390,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 58. Future Worries and Children 
 
@@ -3808,15 +5415,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3825,15 +5446,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3846,11 +5481,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 ### 59. Generation Attitudes 
 
@@ -3868,15 +5504,29 @@ __Final Forecast and Rationale__:
 
 
 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Resource Notes__: 
 
@@ -3885,15 +5535,29 @@ __Quotes and Other Notes__:
 __Questions__:
 
 __Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:
+- ior_b(e2030:¬(e2050))  = 1:
+- ior_b(e2030:¬(e2100))  = 1:
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- ior_p(e2030:¬(e2030))  = 
+- ior_p(e2030:¬(e2050))  =
+- ior_p(e2030:¬(e2100))  =  
+- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
+- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
+- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
+- Aggregate OR 2030: 1:, %
+- Aggregate OR 2050: 1:, %
+- Aggregate OR 2100: 1:, %
+- Naive statement:  
+- 
+- 
+- 
+- Thoughts on the visualization:
 
 __Scenarios__: 
 
@@ -3906,11 +5570,12 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
 <!-- #### Stage 2 
 
 #### Stage 3
 
-#### Stage 4  -->
+#### Stage 4  --> 
 
 --- 
 
