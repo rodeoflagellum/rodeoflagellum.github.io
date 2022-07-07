@@ -97,15 +97,15 @@ __Naive Attitudes 1__:
 - bet(15k) ¬(e2030) 
 - bet(1.5k) ¬(e2050)
 - bet(0.5k) ¬(e2100)
-- ior_b(e2030:¬e2030) = 1:151
-- ior_b(e2030:¬e2050) = 1:16
-- ior_b(e2030:¬e2100) = 1:6
+- ior_b(e2030:¬(e2030)) = 1:151
+- ior_b(e2030:¬(e2050))  = 1:16
+- ior_b(e2030:¬(e2100))  = 1:6
 - p(e2030) = 0.05% (0.01% to 0.1%) 
 - p(e2050) = 3% (1% to 12%)
 - p(e2100) = 8% (3% to 15%)
-- ior_p(e2030:¬e2030) = 1:200 
-- ior_p(e2030:¬e2050) = 1:32
-- ior_p(e2030:¬e2100) = 1:12 
+- ior_p(e2030:¬(e2030))  = 1:200 
+- ior_p(e2030:¬(e2050))  = 1:32
+- ior_p(e2030:¬(e2100))  = 1:12 
 - u_or(e2030:¬(e2030)) =  1:329 (1:120 to 1:900)
 - u_or(e2050:¬(e2050)) =  1:25 (1:10 to 1:60)
 - u_or(e2100:¬(e2100)) =  1:15 (1:5 to 1:45)
@@ -116,24 +116,50 @@ __Naive Attitudes 1__:
 - Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.055%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.465%, by 2050 = 1.55%, and by 2100 = 4.22%.
 - Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.15%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.24%, by 2050 = 4.1%, and by 2100 = 10.89%.
 - Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.12%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.03%, by 2050 = 3.40%, and 2100 = 9.1%.
+- Thoughts on the visualization: My estimates seem too low.
 
 
 <details>
-<summary>Depiction of Chromosomal Structure</summary>
+<summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
  
 __Resource Notes__: 
+- Expert Survey
+    - p(at least 1 million people die from engineered pandemic) = 30% for [2008-2100]
+    - p(at least 1 billion people die from engineered pandemic) = 10% for [2008-2100]
+    - p(human extinction from engineered pandemic) = 2% for [2008-2100]
+- Millett and Snyder-Beattie (2017):
+    - p_annual(huamn extinction \| GoF accident) = 1.6e–08 and 8e-07, so 1.13e-07 annual, so p(human extinction \| GoF accident between [2022-2100]) = 6.28e-05. 
+- Pamlin and Armstrong (2015):
+    - p(human extinction \| synthetic biology accident between [2015-2115]) = 0.0001. 
+- James Fodor:
+    - p(human extinction \| engineered pandemic between [?-~2100]) = 2*10e-06 
+- Ben Todd:
+    - p(at least 1 billion people die from engineered pandemic) = 30% for [2017-2117]
+    - p(civilizational collapse due to engineered pandemic) = 2% for [2017-2117]
+- Resource Thoughts: 
+    - How much do these tail-event extinction estimates on synthetic biorisk inform us about the full distribution of events (i.e., given these tail-event forecasts, what can we say about the chance that any genetically engineered pandemic offs 1% of the human population in a 5 year period before 2100?)
+    - Pre-SARS-CoV-2 estimates are likely going to be less useful (that this pandemic potentially originated from a lab means increases p(e2030) and so on)
+    - How much will other superforecasters anchor on these expert estimates? (probably a decent bit in terms of default, given some degrees of laziness)
+    - How much do these forecasts reflect the forecasts of other experts? (probably a decent bit, at least within the EA community)
+
+<details>
+<summary>Redrawn and Updated Naive Attitudes Following Resources</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg_draw.png">
+</details>
 
 
-__Questions__: 
+<!-- __Questions__: 
 - How much easier will it get to genetically modify organisms over time?
 - What's holding back the most lethal pathogens from being more lethal? 
 - How many labs are modifying pathogens to be more deadly?
     - How likely are these labs to leak? 
-        - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true?
+        - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true? -->
 
 __Quotes and Other Notes__: 
+- James Fodor's <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
+    - 
 
 __Scenarios__: 
 - Leak
@@ -145,7 +171,6 @@ __Scenarios__:
     - Terrorist 
         - Organization 
         - Individual 
-
 
 __Naive Attitudes 2__: 
 - p(e2030) = % (% to %) 
@@ -1583,7 +1608,7 @@ __Final Forecast and Rationale__:
 > 
 > - We use the language "expected number of events" to account for the fact that there may be uncertainty and debate about whether a particular country leader's death was caused by  intentional assassination via biological weapon. For example, there may be uncertainty about whether the leader was the intended target of an attack, whether their death was caused by a biological weapon or another cause, etc. We will ask experts to nominate instances where sitting country leaders died that they believe to have a >1% chance of being caused by a biological attack. We will then ask a separate panel of experts to estimate the likelihood that the event was an intentional assassination via biological weapon. If, e.g., experts give a 30% chance that it was a biological weapon-caused assassination, it would count as 0.3 expected events for the purpose of this question. 
 - Assassination is defined as a premeditated killing with plausible political, cultural, or religious intent.
-- “Country leader” refers to any Head of State and/or Head of Government as maintained by the Protocol and Liaison Service of the United Nations/as reported by the Permanent Missions of each UN Member State. See a list of Heads of State/Government here: Heads of State, Heads of Government and Ministers for Foreign Affairs | Department for General Assembly and Conference Management.
+- “Country leader” refers to any Head of State and/or Head of Government as maintained by the Protocol and Liaison Service of the United Nations/as reported by the Permanent Missions of each UN Member State. See a list of Heads of State/Government here: Heads of State, Heads of Government and Ministers for Foreign Affairs \| Department for General Assembly and Conference Management.
 - In the event that the United Nations does not exist by the resolution date, or in the case that the United Nations does not recognize the sovereignty of an otherwise widely recognized country or the de facto state of affairs within a widely recognized country, the heads of state/government for any relevant country will be determined by a panel of experts.
 - "Contagious" refers to biological agents that would spread person-to-person, as distinct from non-contagious biological agents such as anthrax.
 - "A biological agent…is a bacterium, virus, protozoan, parasite, fungus, chemical, or toxin that can be used purposefully as a weapon in bioterrorism or biological warfare." Wikipedia
