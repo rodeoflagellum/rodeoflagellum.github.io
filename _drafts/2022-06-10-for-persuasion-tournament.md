@@ -51,6 +51,7 @@ Is this a situation where the base rate can be
 
 - Bets are against 100 USD
 - Naive Attitudes = Scoping out my priors
+- https://www.nathankowald.com/odds-visualiser?n=1&total=10000
 
 <!-- https://www.nathankowald.com/odds-visualiser?n=1&total=1024 -->
 
@@ -93,21 +94,37 @@ __Considerations__:
 [^world_o_meter2]: See <https://www.worldometers.info/coronavirus/coronavirus-death-toll/>
 
 __Naive Attitudes 1__: 
-- p(e2030) = 0.05% (0.01% to 0.1%) 
-- p(e2050) = 3% (1% to 12%)
-- p(e2100) = 8% (3% to 15%)
-- or(e2030:¬(e2030)) =  1:900 (1:300 to 1:1500)
-- or(e2050:¬(e2050)) =  1:200 (1:45 to 1:700)
-- or(e2100:¬(e2100)) =  1:60 (1:25 to 1:150)
 - bet(15k) ¬(e2030) 
 - bet(1.5k) ¬(e2050)
 - bet(0.5k) ¬(e2100)
-- General thinking: 80M is a lot of people. Even if SARS-CoV-2 leaked from a lab, it still hasn't killed 80M people. By 2030, we will not likely be at the point of "easy to home-grow smallpox"; I suspect this is less the case for 2050, and by 2100 I suspect if might be the case. So, by 2030 "hard no", by 2050 "probably no", and by 2100 "maybe no, depends". Annual chance in 2030 period could be around 1/5000. Annual chance 2030-2050 could be around 1/1500. Annual chance 2050-2100 could be around 1/700. So, e2030 = (1-(1-0.0002)^(8.5)) = 0.00169, e2050 = (1-(1-0.0002)^(8.5)) + (1-(1-0.00067)^(28.5-8.5)) = 0.015, and e2100 = (1-(1-0.0002)^(8.5)) + (1-(1-0.00067)^(28.5-8.5)) + (1-(1-0.0014)^(78.5-28.5-8.5)) = 0.071. 
+- ior_b(e2030:¬e2030) = 1:151
+- ior_b(e2030:¬e2050) = 1:16
+- ior_b(e2030:¬e2100) = 1:6
+- p(e2030) = 0.05% (0.01% to 0.1%) 
+- p(e2050) = 3% (1% to 12%)
+- p(e2100) = 8% (3% to 15%)
+- ior_p(e2030:¬e2030) = 1:200 
+- ior_p(e2030:¬e2050) = 1:32
+- ior_p(e2030:¬e2100) = 1:12 
+- u_or(e2030:¬(e2030)) =  1:329 (1:120 to 1:900)
+- u_or(e2050:¬(e2050)) =  1:25 (1:10 to 1:60)
+- u_or(e2100:¬(e2100)) =  1:15 (1:5 to 1:45)
+- Aggregate OR 2030: 1:214, 0.465%
+- Aggregate OR 2050: 1:23, 4.1%
+- Aggregate OR 2100: 1:10, 9.1%
+- Naive statement: ~80M is a lot of people (1% of humans today), but there are also many regions on this Earth where pathogens spread rapidly, given the human population densities in those regions. I am not familiar with how feasible it is now and in the future to modify pathogen genetics; however, I suspect that should an actor accidentally or intentionally leak an edited pathogen, such a pathogen being leaked will likely not result in this question being resolved positively. I would expect to see the leaking of several modified pathogens that kill < 1% of the human population over 5 years before observing a leaked pathogens that kills > 1% of the human population in 5 years. Humans typically don't get things "right" on the first try, be that in terms of lethal accidents or malevolent actions. It may even be the case that SARS-CoV-2 was a genetically edited leaked pathogen. If this is the case, then I give more credence to my idea of [several insufficiently harmful leaks should occur before sufficiently harmful leak occurs]. 
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.055%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.465%, by 2050 = 1.55%, and by 2100 = 4.22%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.15%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.24%, by 2050 = 4.1%, and by 2100 = 10.89%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.12%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.03%, by 2050 = 3.40%, and 2100 = 9.1%.
 
 
-<!-- - Altogether: [0.005, 0.007, 0.0004] so 0.002 for e2030, [0.04, 0.024, 0.0012] so 0.01 for e2050, and [0.118, 0.167, 0.018] so 0.071 for e2100. With odds removed, these probabilities become 0.006, 0.03, and 0.14 for their respective events, which seems more in line with my attitudes.  -->
-
+<details>
+<summary>Depiction of Chromosomal Structure</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
+ 
 __Resource Notes__: 
+
 
 __Questions__: 
 - How much easier will it get to genetically modify organisms over time?
@@ -116,19 +133,7 @@ __Questions__:
     - How likely are these labs to leak? 
         - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true?
 
-
 __Quotes and Other Notes__: 
-
-__Naive Attitudes 2__: 
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- or(e2030:¬(e2030)) =  1: (1: to 1:)
-- or(e2050:¬(e2050)) =  1: (1: to 1:)
-- or(e2100:¬(e2100)) =  1: (1: to 1:)
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
 
 __Scenarios__: 
 - Leak
@@ -141,22 +146,36 @@ __Scenarios__:
         - Organization 
         - Individual 
 
-__Survey__:
-- How confident are people about this subject? 
-- How much does expertise improve forecasting accuracy with this subject? 
-- Can you predict what the Metaculus community thinks?
-- What's the different between the Metaculus community, superforecasters, and experts?
 
-__Metaculus Community__:
-- <https://www.metaculus.com/questions/2611/will-synthetic-biological-weapons-infect-100-people-by-2030/>
-- <https://www.metaculus.com/questions/247/pandemic-series-a-major-naturally-originated-pandemic-by-2026/>
-- <https://www.metaculus.com/questions/255/pandemic-series-a-devastating-bioterror-attack-by-2025/>
-- <https://www.metaculus.com/questions/11164/25m-killed-by-pandemic-2022-to-2031/>
-- <https://www.metaculus.com/questions/1502/ragnar%25C3%25B6k-question-series-if-a-global-catastrophe-occurs-will-it-be-due-to-biotechnology-or-bioengineered-organisms/>
-- <https://www.metaculus.com/questions/250/will-terror-group-obtain-viable-bioweapon-sample/>
-- <https://www.metaculus.com/questions/3023/if-there-is-a-biotechnological-or-bioengineered-organism-catastrophe-this-century-when-will-it-happen/>
+__Naive Attitudes 2__: 
+- p(e2030) = % (% to %) 
+- p(e2050) = % (% to %)
+- p(e2100) = % (% to %)
+- or(e2030:¬(e2030)) =  1: (1: to 1:)
+- or(e2050:¬(e2050)) =  1: (1: to 1:)
+- or(e2100:¬(e2100)) =  1: (1: to 1:)
+- bet(k) ¬(e2030) 
+- bet(k) ¬(e2050)
+- bet(k) ¬(e2100)
+
+__Reciprocal Forecasting__:
+- __Survey__:
+    - How confident are people about this subject? 
+    - How much does expertise improve forecasting accuracy with this subject? 
+    - Can you predict what the Metaculus community thinks?
+    - What's the different between the Metaculus community, superforecasters, and experts?
+    - To what degree with other people [see other experts forecasts] and then default to that as their reciprocal forecast?
+- __Metaculus Community__:
+    - <https://www.metaculus.com/questions/2611/will-synthetic-biological-weapons-infect-100-people-by-2030/>
+    - <https://www.metaculus.com/questions/247/pandemic-series-a-major-naturally-originated-pandemic-by-2026/>
+    - <https://www.metaculus.com/questions/255/pandemic-series-a-devastating-bioterror-attack-by-2025/>
+    - <https://www.metaculus.com/questions/11164/25m-killed-by-pandemic-2022-to-2031/>
+    - <https://www.metaculus.com/questions/1502/ragnar%25C3%25B6k-question-series-if-a-global-catastrophe-occurs-will-it-be-due-to-biotechnology-or-bioengineered-organisms/>
+    - <https://www.metaculus.com/questions/250/will-terror-group-obtain-viable-bioweapon-sample/>
+    - <https://www.metaculus.com/questions/3023/if-there-is-a-biotechnological-or-bioengineered-organism-catastrophe-this-century-when-will-it-happen/>
 
 __Final Forecast and Rationale__:
+
 
 
 
@@ -764,6 +783,7 @@ __Naive Attitudes 1__:
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
+- https://forum.effectivealtruism.org/posts/eeDsHDoM9De4iGGLw/questioning-the-value-of-extinction-risk-reduction-1
 
 __Questions__:
 

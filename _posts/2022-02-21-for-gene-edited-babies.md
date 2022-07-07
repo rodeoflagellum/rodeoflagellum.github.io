@@ -11,6 +11,7 @@ impact: "3.5"
 tags: [forecasting, prediction, biology, genetic-engineering]
 image: /assets/2022/for_designer_babies/bi2rmingham-museums-trust-lhsfeT9WZ9M-unsplash.jpg
 description: "My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. "
+reading_time: "yes"
 ---
 
 ---
