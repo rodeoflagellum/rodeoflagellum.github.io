@@ -98,15 +98,15 @@ __Naive Attitudes 1__:
 - bet(15k) ¬(e2030) 
 - bet(1.5k) ¬(e2050)
 - bet(0.5k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:151
-- ior_b(e2030:¬(e2050))  = 1:16
-- ior_b(e2030:¬(e2100))  = 1:6
+- ior_b(e2030:¬(e2030)) = 1:150
+- ior_b(e2050:¬(e2050))  = 1:15
+- ior_b(e2100:¬(e2100))  = 1:5
 - p(e2030) = 0.05% (0.01% to 0.1%) 
 - p(e2050) = 3% (1% to 12%)
 - p(e2100) = 8% (3% to 15%)
 - ior_p(e2030:¬(e2030))  = 1:200 
-- ior_p(e2030:¬(e2050))  = 1:32
-- ior_p(e2030:¬(e2100))  = 1:12 
+- ior_p(e2050:¬(e2050))  = 1:32
+- ior_p(e2100:¬(e2100))   = 1:11.5
 - u_or(e2030:¬(e2030)) =  1:329 (1:120 to 1:900)
 - u_or(e2050:¬(e2050)) =  1:25 (1:10 to 1:60)
 - u_or(e2100:¬(e2100)) =  1:15 (1:5 to 1:45)
@@ -150,7 +150,6 @@ __Resource Notes__:
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg_draw.png">
 </details>
 
-
 <!-- __Questions__: 
 - How much easier will it get to genetically modify organisms over time?
 - What's holding back the most lethal pathogens from being more lethal? 
@@ -160,10 +159,16 @@ __Resource Notes__:
 
 __Quotes and Other Notes__: 
 - James Fodor: <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
-    - 
-- _Chapter 20: Biotechnology and biosecurity_ : 
-- "": 
+    - "In addition to a high fatality rate, an extinction-level pathogen would also have to be sufficiently infectious such that it would be able to spread rapidly through human populations. It would need to have a long enough incubation time such that infected persons can travel and infect more people before they can be identified and quarantined. It would also need to be able to survive and propagate in a wide range of temperatures and climactic conditions. Finally, it would also need to be sufficiently dangerous to a wide range of ages and genetic populations, since any pockets of immunity would render extinction considerably less likely. Overall, it is highly unclear whether any biological agent with all these properties is even possible. In particular, pathogens which are sufficiently virulent to cause 99% or more fatality rates are likely to place such a burden on human physiology such that they would have a short incubation time, potentially rendering it easier to quarantine infected persons. Of course we do not know what is possible at the limits of biology, but given the extreme properties required of such an extinction-level pathogen, in my view it is very unlikely that such a pathogen is even possible."
+    - "...that very few agents or organisations have any interest in unleashing a pathogen that kills humans indiscriminately."
+    - "I thus believe that we have good reason to think that the number of people and amount of effort devoted to developing such dangerous bioweapons is likely to be low, especially for non-state actors."
+    - "Furthermore, Ord fails to consider the practical difficulties of developing and releasing a pathogen sufficiently deadly to cause human extinction. In particular, developing a novel organism would require lengthy research and extensive testing. Even if all the requisite supplies, technology, and expertise over a period of time could be obtained without arousing enough suspicion for the project to be investigated and shut down, there still remains the challenge of how such a pathogen could be tested. No animal model is perfect, and so any novel pathogen would (just like vaccines and other medical treatments) need to be tested on large numbers of human subjects, and likely adjusted in response to results. It would need to be trialed in different environments and climates to determine whether it would spread sufficiently rapidly and survive outside a host long enough. Without such tests, it is virtually impossible that an untested novel pathogen would be sufficiently optimised to kill enough people across a wide enough range of environments to cause human extinction. However, it is hard to see how it would be possible to carry out such widespread testing with a diverse enough range of subjects without drawing the attention of authorities."
+- <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4494353/pdf/vaccines-03-00429.pdf>
 
+- <https://docs.google.com/spreadsheets/d/1F9IMIeXHsfuQLN1HtgPvfHe2BjbWu0r0_Qt_BHOWjLs/edit#gid=463836549> 
+    - <https://informationisbeautiful.net/visualizations/the-microbescope-infectious-diseases-in-context/>
+- _Chapter 20: Biotechnology and biosecurity_: 
+- _Global Catastrophic Biological Risks_: 
 - <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
 - <https://en.wikipedia.org/wiki/Pandemic_severity_index>
 - <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
@@ -186,6 +191,9 @@ __Quotes and Other Notes__:
 - <https://en.wikipedia.org/wiki/Biological_hazard>
 - <https://en.wikipedia.org/wiki/Laboratory_Response_Network>
 - <https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4>
+- <https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups>
+- <https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates>
+- <https://en.wikipedia.org/wiki/List_of_active_rebel_groups>
 
 __Scenarios__: 
 - Leak
@@ -203,14 +211,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -223,6 +231,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Reciprocal Forecasting__:
 - __Survey__:
     - How confident are people about this subject? 
@@ -282,21 +294,42 @@ __Factors__:
 Denote e{YEAR} = "_a non-genetically-engineered pathogen will be the cause of death, within a 5-year period, for more than 1% of humans alive_" by [2031, 2051, 2101]. 
 
 __Naive Attitudes 1__: 
-- p(e2030) = 1% (0.01% to 3%) 
-- p(e2050) = 6% (4% to 18%)
-- p(e2100) = 18% (5% to 30%)
-- or(e2030:¬(e2030)) =  ?
-- or(e2050:¬(e2050)) =  ?
-- or(e2100:¬(e2100)) =  ?
-- bet(10k) ¬(e2030) 
-- bet(1k) ¬(e2050)
-- bet(0.2k) ¬(e2100)
+- bet(6k) ¬(e2030) 
+- bet(0.9k) ¬(e2050)
+- bet(0.25k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:60
+- ior_b(e2050:¬(e2050))  = 1:9
+- ior_b(e2100:¬(e2100))  = 1:2.5
+- p(e2030) = 1.22% (0.75% to 2%) 
+- p(e2050) = 8.66% (3% to 25%)
+- p(e2100) = 28.72% (15% to 55%)
+- ior_p(e2030:¬(e2030)) = 1:81
+- ior_p(e2050:¬(e2050)) = 1:10.5
+- ior_p(e2100:¬(e2100))  = 1:2.48
+- u_or(e2030:¬(e2030)) =  1:74 (1:50 to 1:110)
+- u_or(e2050:¬(e2050)) =  1:11 (1:7 to 1:18)
+- u_or(e2100:¬(e2100)) =  1:3 (1:1.5 to 1:6)
+- Aggregate OR 2030: 1:71, 1.38%
+- Aggregate OR 2050: 1:10.6, 8.62%
+- Aggregate OR 2100: 1:2.97, 25.19%
+- Naive statement: Again, 80m people dead in 5 years is quite a lot. The present upper bound for the number of people who've died from SARS-CoV-2 is around 25m, which is 0.25% of the global population, while the current consensus death count is around 7m people. What is the chance that a pandemic 4x-11x as lethal as SARS-CoV-2 occurs by 2030, 2050, and 2100? My mental appraisal of the distribution of pandemics of this severity is that they are events that every other century. Given the rise in human population globally, I am inclined to believe that there is roughly 1/3 chance of pandemic of this scale occurring by 2100. 
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.16%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.38%, by 2050 = 4.56%, and by 2100 = 12.06%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.32%. Holding this annual probability constant, the implied probability of this event by 2030 = 2.65%, by 2050 = 8.62%, and by 2100 = 21.99%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.37%. Holding this annual probability constant, the implied probability of this event by 2030 = 3.09%, by 2050 = 10.00%, and 2100 = 25.19%.
+- Thoughts on the visualization: 
+
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q2_n1_agg.png">
+</details>
 
 <!-- - General thinking: Again, 80M is a lot of people. SARS-CoV-2 is probably around 1/3rd as severe as this pandemic would be. By 2030, I don't expect another major pandemic, especially given post SARS-CoV-2 response infrastructure. By 2050, I suspect vaccine development, outbreak monitoring, governmental responses to pandemics, etc... to be pretty good, given that the world is developing rapidly, but to not be extraordinary. Increasing population size I expect to increase people's exposure to pathogens and to increase transmissibility.  -->
 
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
+- https://www.pnas.org/doi/10.1073/pnas.2105482118
+    - "Together with recent estimates of increasing rates of disease emergence from animal reservoirs associated with environmental change, this finding suggests a high probability of observing pandemics similar to COVID-19 (probability of experiencing it in one’s lifetime currently about 38%), which may double in coming decades."
 
 __Questions__:
 - How many more people would have died from SARS-CoV-2 had no one been vaccinated? 
@@ -308,14 +341,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -328,6 +361,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -369,30 +406,34 @@ __Final Forecast and Rationale__:
 Denote e{YEAR} = "_artificial intelligence will be the cause of death, within a 5-year period, for more than 10% of humans alive_" by [2031, 2051, 2101]. 
  
 __Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
+- bet(3.5k) ¬(e2030) 
+- bet(0.4k) ¬(e2050)
+- bet(0.15k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:35
+- ior_b(e2050:¬(e2050))  = 1:4
+- ior_b(e2100:¬(e2100))  = 1:1.5
+- p(e2030) = 10.25% (3% to 35%) 
+- p(e2050) = 11.62% (3% to 45%)
+- p(e2100) = 26.46% (10% to 70%)
+- ior_p(e2030:¬(e2030))  = 1:8.76
+- ior_p(e2050:¬(e2050))  = 1:7.61
+- ior_p(e2100:¬(e2100))   = 1:2.78
+- u_or(e2030:¬(e2030)) =  1:17.32 (1:6 to 1:50)
+- u_or(e2050:¬(e2050)) =  1:5.48 (1:2.5 to 1:12)
+- u_or(e2100:¬(e2100)) =  1:1.9 (1:0.80 to 1:4.5)
+- Aggregate OR 2030: 1:17.45, 5.42%
+- Aggregate OR 2050: 1:5.50, 15.38%
+- Aggregate OR 2100: 1:2, 33%
+- Naive statement: There is much I still have to learn about the risk of a catastrophe from unaligned AI. My sense is that I weight the opinions, of those who work in the field AI Safety, of the pessimists more heavily than those of the optimists, but only slightly. 
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.65%. Holding this annual probability constant, the implied probability of this event by 2030 = 5.42%, by 2050 = 17.06%, and by 2100 = 40.26%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.58%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.85%, by 2050 = 15.38%, and by 2100 = 36.88%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.51%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.24%, by 2050 = 13.53%, and 2100 = 33.0%.
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q3_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -402,14 +443,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -422,6 +463,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -455,7 +500,6 @@ __Final Forecast and Rationale__:
 
 
 
-
 #### Stage 1 
 
 
@@ -464,14 +508,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -484,6 +528,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -516,14 +564,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -536,6 +584,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -575,14 +627,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -595,6 +647,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -606,14 +662,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -626,6 +682,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -666,14 +726,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -686,6 +746,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -697,14 +761,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -717,6 +781,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -756,14 +824,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -776,6 +844,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -787,14 +859,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -807,6 +879,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -846,14 +922,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -866,6 +942,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -877,14 +957,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -897,6 +977,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -932,14 +1016,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -952,6 +1036,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -965,14 +1053,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -985,6 +1073,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1024,14 +1116,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1044,6 +1136,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1056,14 +1152,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1076,6 +1172,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1115,14 +1215,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1135,6 +1235,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1146,14 +1250,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1166,6 +1270,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1203,14 +1311,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1223,6 +1331,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1234,14 +1346,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1254,6 +1366,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1296,14 +1412,14 @@ __Naive Attitudes 1__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1316,6 +1432,10 @@ __Naive Attitudes 1__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1327,14 +1447,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1347,6 +1467,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1385,14 +1509,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1405,6 +1529,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1416,14 +1544,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1436,6 +1564,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1478,14 +1610,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1498,6 +1630,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1509,14 +1645,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1529,6 +1665,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1571,14 +1711,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1591,6 +1731,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 
 __Resource Notes__: 
 
@@ -1603,14 +1747,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1623,6 +1767,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1664,14 +1812,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1684,6 +1832,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1695,14 +1847,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1715,6 +1867,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1757,14 +1913,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1777,6 +1933,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1788,14 +1948,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1808,6 +1968,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1848,14 +2012,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1868,6 +2032,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1879,14 +2047,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1899,6 +2067,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -1939,14 +2111,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1959,6 +2131,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1970,14 +2146,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -1990,6 +2166,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2031,14 +2211,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2051,6 +2231,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2062,14 +2246,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2082,6 +2266,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2122,14 +2310,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2142,6 +2330,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2153,14 +2345,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2173,6 +2365,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2216,14 +2412,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2236,6 +2432,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2247,14 +2447,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2267,6 +2467,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2305,14 +2509,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2325,6 +2529,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2336,14 +2544,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2356,6 +2564,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2394,14 +2606,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2414,6 +2626,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2425,14 +2641,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2445,6 +2661,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2481,14 +2701,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2501,6 +2721,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2512,14 +2736,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2532,6 +2756,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2569,14 +2797,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2589,6 +2817,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2600,14 +2832,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2620,6 +2852,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2657,14 +2893,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2677,6 +2913,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2688,14 +2928,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2708,6 +2948,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2745,14 +2989,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2765,6 +3009,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2776,14 +3024,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2796,6 +3044,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2831,14 +3083,14 @@ __Metaculus Community__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2851,6 +3103,10 @@ __Metaculus Community__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 
 
 
@@ -2865,14 +3121,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2885,6 +3141,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -2925,14 +3185,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2945,6 +3205,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -2956,14 +3220,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -2976,6 +3240,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3015,14 +3283,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3035,6 +3303,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3046,14 +3318,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3066,6 +3338,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3106,14 +3382,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3126,6 +3402,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3137,14 +3417,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3157,6 +3437,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3209,14 +3493,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3229,6 +3513,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3240,14 +3528,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3260,6 +3548,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3304,14 +3596,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3324,6 +3616,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3335,14 +3631,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3355,6 +3651,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3391,14 +3691,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3411,6 +3711,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3422,14 +3726,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3442,6 +3746,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3482,14 +3790,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3502,6 +3810,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 
 __Resource Notes__: 
 
@@ -3514,14 +3826,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3534,6 +3846,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3574,14 +3890,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3594,6 +3910,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3605,14 +3925,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3625,6 +3945,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3665,14 +3989,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3685,6 +4009,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3696,14 +4024,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3716,6 +4044,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3759,14 +4091,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3779,6 +4111,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3790,14 +4126,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3810,6 +4146,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3853,14 +4193,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3873,6 +4213,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3884,14 +4228,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3904,6 +4248,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -3940,14 +4288,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3960,6 +4308,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -3971,14 +4323,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -3991,6 +4343,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4035,14 +4391,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4055,6 +4411,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4066,14 +4426,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4086,6 +4446,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4134,14 +4498,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4154,6 +4518,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4165,14 +4533,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4185,6 +4553,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4228,14 +4600,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4248,6 +4620,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4259,14 +4635,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4279,6 +4655,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4330,14 +4710,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4350,6 +4730,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4361,14 +4745,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4381,6 +4765,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4421,14 +4809,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4441,6 +4829,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4452,14 +4844,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4472,6 +4864,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4510,14 +4906,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4530,6 +4926,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4541,14 +4941,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4561,6 +4961,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4601,14 +5005,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4621,6 +5025,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4632,14 +5040,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4652,6 +5060,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4694,14 +5106,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4714,6 +5126,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4725,14 +5141,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4745,6 +5161,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4785,14 +5205,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4805,6 +5225,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4816,14 +5240,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4836,6 +5260,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4878,14 +5306,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4898,6 +5326,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -4909,14 +5341,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4929,6 +5361,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -4970,14 +5406,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -4990,6 +5426,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5001,14 +5441,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5021,6 +5461,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5061,14 +5505,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5081,6 +5525,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5092,14 +5540,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5112,6 +5560,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5148,14 +5600,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5168,6 +5620,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5179,14 +5635,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5199,6 +5655,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5238,14 +5698,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5258,6 +5718,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5269,14 +5733,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5289,6 +5753,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5328,14 +5796,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5348,6 +5816,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5359,14 +5831,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5379,6 +5851,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5419,14 +5895,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5439,6 +5915,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5450,14 +5930,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5470,6 +5950,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
@@ -5508,14 +5992,14 @@ __Final Forecast and Rationale__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5528,6 +6012,10 @@ __Final Forecast and Rationale__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -5539,14 +6027,14 @@ __Naive Attitudes 2__:
 - bet(k) ¬(e2050)
 - bet(k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2030:¬(e2050))  = 1:
-- ior_b(e2030:¬(e2100))  = 1:
+- ior_b(e2050:¬(e2050))  = 1:
+- ior_b(e2100:¬(e2100))  = 1:
 - p(e2030) = % (% to %) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
-- ior_p(e2030:¬(e2050))  =
-- ior_p(e2030:¬(e2100))  =  
+- ior_p(e2050:¬(e2050))  =
+- ior_p(e2100:¬(e2100))   =  
 - u_or(e2030:¬(e2030)) =  1: (1: to 1:)
 - u_or(e2050:¬(e2050)) =  1: (1: to 1:)
 - u_or(e2100:¬(e2100)) =  1: (1: to 1:)
@@ -5559,6 +6047,10 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
+<details>
+<summary>Aggregate Naive Attitudes 1</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+</details>
 __Scenarios__: 
 
 __Survey__:
