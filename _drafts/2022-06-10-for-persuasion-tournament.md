@@ -95,28 +95,28 @@ __Considerations__:
 
 
 __Naive Attitudes 1__: 
-- bet(15k) ¬(e2030) 
-- bet(1.5k) ¬(e2050)
+- bet(17k) ¬(e2030) 
+- bet(2.5k) ¬(e2050)
 - bet(0.5k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:150
-- ior_b(e2050:¬(e2050))  = 1:15
+- ior_b(e2030:¬(e2030)) = 1:170
+- ior_b(e2050:¬(e2050))  = 1:25
 - ior_b(e2100:¬(e2100))  = 1:5
-- p(e2030) = 0.05% (0.01% to 0.1%) 
-- p(e2050) = 3% (1% to 12%)
-- p(e2100) = 8% (3% to 15%)
-- ior_p(e2030:¬(e2030))  = 1:200 
-- ior_p(e2050:¬(e2050))  = 1:32
-- ior_p(e2100:¬(e2100))   = 1:11.5
+- p(e2030) = 0.5% (0.25% to 1%) 
+- p(e2050) = 3.5% (1% to 12%)
+- p(e2100) = 7.5% (3% to 18%)
+- ior_p(e2030:¬(e2030))  = 1:200
+- ior_p(e2050:¬(e2050))  = 1:27.5
+- ior_p(e2100:¬(e2100))   = 1:12.33
 - u_or(e2030:¬(e2030)) =  1:329 (1:120 to 1:900)
 - u_or(e2050:¬(e2050)) =  1:25 (1:10 to 1:60)
 - u_or(e2100:¬(e2100)) =  1:15 (1:5 to 1:45)
-- Aggregate OR 2030: 1:214, 0.465%
-- Aggregate OR 2050: 1:23, 4.1%
+- Aggregate OR 2030: 1:224, 0.444%
+- Aggregate OR 2050: 1:26, 3.7%
 - Aggregate OR 2100: 1:10, 9.1%
 - Naive statement: ~80M is a lot of people (1% of humans today), but there are also many regions on this Earth where pathogens spread rapidly, given the human population densities in those regions. I am not familiar with how feasible it is now and in the future to modify pathogen genetics; however, I suspect that should an actor accidentally or intentionally leak an edited pathogen, such a pathogen being leaked will likely not result in this question being resolved positively. I would expect to see the leaking of several modified pathogens that kill < 1% of the human population over 5 years before observing a leaked pathogens that kills > 1% of the human population in 5 years. Humans typically don't get things "right" on the first try, be that in terms of lethal accidents or malevolent actions. It may even be the case that SARS-CoV-2 was a genetically edited leaked pathogen. If this is the case, then I give more credence to my idea of [several insufficiently harmful leaks should occur before sufficiently harmful leak occurs]. 
-- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.055%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.465%, by 2050 = 1.55%, and by 2100 = 4.22%.
-- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.15%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.24%, by 2050 = 4.1%, and by 2100 = 10.89%.
-- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.12%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.03%, by 2050 = 3.40%, and 2100 = 9.1%.
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.052%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.444%, by 2050 = 1.48%, and by 2100 = 4.03%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.13%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.12%, by 2050 = 3.70%, and by 2100 = 9.865%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.121%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.027%, by 2050 = 3.40%, and 2100 = 9.1%.
 - Thoughts on the visualization: My estimates seem too low.
 
 
@@ -301,21 +301,21 @@ __Naive Attitudes 1__:
 - ior_b(e2050:¬(e2050))  = 1:9
 - ior_b(e2100:¬(e2100))  = 1:2.5
 - p(e2030) = 1.22% (0.75% to 2%) 
-- p(e2050) = 8.66% (3% to 25%)
+- p(e2050) = 11.18% (5% to 25%)
 - p(e2100) = 28.72% (15% to 55%)
 - ior_p(e2030:¬(e2030)) = 1:81
-- ior_p(e2050:¬(e2050)) = 1:10.5
-- ior_p(e2100:¬(e2100))  = 1:2.48
+- ior_p(e2050:¬(e2050)) = 1:8
+- ior_p(e2100:¬(e2100))  = 1:2.5
 - u_or(e2030:¬(e2030)) =  1:74 (1:50 to 1:110)
 - u_or(e2050:¬(e2050)) =  1:11 (1:7 to 1:18)
 - u_or(e2100:¬(e2100)) =  1:3 (1:1.5 to 1:6)
 - Aggregate OR 2030: 1:71, 1.38%
-- Aggregate OR 2050: 1:10.6, 8.62%
-- Aggregate OR 2100: 1:2.97, 25.19%
+- Aggregate OR 2050: 1:9.25, 9.76%
+- Aggregate OR 2100: 1:2.66, 27.32%
 - Naive statement: Again, 80m people dead in 5 years is quite a lot. The present upper bound for the number of people who've died from SARS-CoV-2 is around 25m, which is 0.25% of the global population, while the current consensus death count is around 7m people. What is the chance that a pandemic 4x-11x as lethal as SARS-CoV-2 occurs by 2030, 2050, and 2100? My mental appraisal of the distribution of pandemics of this severity is that they are events that every other century. Given the rise in human population globally, I am inclined to believe that there is roughly 1/3 chance of pandemic of this scale occurring by 2100. 
-- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.16%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.38%, by 2050 = 4.56%, and by 2100 = 12.06%.
-- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.32%. Holding this annual probability constant, the implied probability of this event by 2030 = 2.65%, by 2050 = 8.62%, and by 2100 = 21.99%.
-- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.37%. Holding this annual probability constant, the implied probability of this event by 2030 = 3.09%, by 2050 = 10.00%, and 2100 = 25.19%.
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.16%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.38%, by 2050 = 4.56%, and by 2100 = 12.056%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.36%. Holding this annual probability constant, the implied probability of this event by 2030 = 3.01%, by 2050 = 9.76%, and by 2100 = 24.64%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.405%. Holding this annual probability constant, the implied probability of this event by 2030 = 3.39%, by 2050 = 10.94%, and 2100 = 27.32%.
 - Thoughts on the visualization: 
 
 <details>
@@ -412,20 +412,22 @@ __Naive Attitudes 1__:
 - ior_b(e2030:¬(e2030)) = 1:35
 - ior_b(e2050:¬(e2050))  = 1:4
 - ior_b(e2100:¬(e2100))  = 1:1.5
-- p(e2030) = 10.25% (3% to 35%) 
+- p(e2030) = 8.66% (3% to 25%) 
 - p(e2050) = 11.62% (3% to 45%)
 - p(e2100) = 26.46% (10% to 70%)
-- ior_p(e2030:¬(e2030))  = 1:8.76
+- ior_p(e2030:¬(e2030))  = 1:10.55
 - ior_p(e2050:¬(e2050))  = 1:7.61
 - ior_p(e2100:¬(e2100))   = 1:2.78
 - u_or(e2030:¬(e2030)) =  1:17.32 (1:6 to 1:50)
 - u_or(e2050:¬(e2050)) =  1:5.48 (1:2.5 to 1:12)
 - u_or(e2100:¬(e2100)) =  1:1.9 (1:0.80 to 1:4.5)
-- Aggregate OR 2030: 1:17.45, 5.42%
+- Aggregate OR 2030: 1:18.56, 5.11%
 - Aggregate OR 2050: 1:5.50, 15.38%
 - Aggregate OR 2100: 1:2, 33%
-- Naive statement: There is much I still have to learn about the risk of a catastrophe from unaligned AI. My sense is that I weight the opinions, of those who work in the field AI Safety, of the pessimists more heavily than those of the optimists, but only slightly. 
-- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.65%. Holding this annual probability constant, the implied probability of this event by 2030 = 5.42%, by 2050 = 17.06%, and by 2100 = 40.26%.
+- Naive statement: 
+
+There is much I still have to learn about the risk of a catastrophe from unaligned AI. My sense is that I weight the opinions of the pessimists more heavily than those of the optimists (out of the people who work in AI Safety), but only slightly more. 
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.62%. Holding this annual probability constant, the implied probability of this event by 2030 = 5.11%, by 2050 = 16.14%, and by 2100 = 38.42%.
 - Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.58%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.85%, by 2050 = 15.38%, and by 2100 = 36.88%.
 - Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.51%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.24%, by 2050 = 13.53%, and 2100 = 33.0%.
 - Thoughts on the visualization:
@@ -467,6 +469,7 @@ __Naive Attitudes 2__:
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
+
 __Scenarios__: 
 
 __Survey__:
@@ -504,33 +507,33 @@ __Final Forecast and Rationale__:
 
 
 __Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
+- bet(3m) ¬(e2030) 
+- bet(2.5m) ¬(e2050)
+- bet(0.5m) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:30000
+- ior_b(e2050:¬(e2050))  = 1:25000
+- ior_b(e2100:¬(e2100))  = 1:5000
+- p(e2030) = 0.001% (1e-06% to 1%) 
+- p(e2050) = 0.0387% (1e-04% to 15%)
+- p(e2100) = 0.14% (1e-03% to 20%)
+- ior_p(e2030:¬(e2030)) = 1:99999.0
+- ior_p(e2050:¬(e2050)) = 1:2583
+- ior_p(e2100:¬(e2100)) = 1:713
+- u_or(e2030:¬(e2030)) =  1:42426.5 (1:9000 to 1:200000)
+- u_or(e2050:¬(e2050)) =  1:6538 (1:950 to 1:45000)
+- u_or(e2100:¬(e2100)) =  1:387 (1:20 to 1:7500)
+- Aggregate OR 2030: 1:50302, 1.99e-03%
+- Aggregate OR 2050: 1:7502, 0.013%
+- Aggregate OR 2100: 1:1113, 0.09%
+- Naive statement: Any organism or force sufficiently more intelligent than humans should be considered a threat to humankind. Strong AI is such a force, and there is very little cause to believe the first sufficiently intelligent (in terms of goal achievement) will be aligned with human goals and values. The most likely front of research humans conduct that seems capable of engendering an AI is deep learning. There seems to be not much in the way of stopping some language model from rewarding itself for complex and harmful goals, and technologically speaking, we are very close to integrating blind but powerful deep learning models into society. However, will these developments leave all humans dead by the end of 79 years? This is difficult to say, but from the outside view which includes (1) that humankind has not yet developed something of this calibre and (2) that perhaps it is the case the current DL models are still fundamentally different in class from whatever processes of computation, learning, etc... would pose a threat to humanity as a whole. Given these musings, I naively give a large interval for the probability that AI kills us sometime this century. 
+- Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.00023%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.00199%, by 2050 = 0.0067%, and by 2100 = 0.0184%.
+- Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.000456%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.0039%, by 2050 = 0.013%, and by 2100 = 0.0358%.
+- Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.00115%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.00974%, by 2050 = 0.0327%, and 2100 = 0.09%.
 - Thoughts on the visualization:
 
 <details>
 <summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+<img src="/assets/2022/for_persuasion_tournament/images/q4_n1_agg.png">
 </details>
 __Resource Notes__: 
 
@@ -556,6 +559,10 @@ __Quotes and Other Notes__:
 - https://forum.effectivealtruism.org/posts/isTXkKprgHh5j8WQr/strategic-perspectives-on-long-term-ai-governance
 - https://forum.effectivealtruism.org/posts/SEqJoRL5Y8cypFasr/why-agi-timeline-research-discourse-might-be-overrated
 - https://forum.effectivealtruism.org/posts/CictHfn8kdyupvpNK/future-matters-3-digital-sentience-agi-ruin-and-forecasting
+- https://www.lesswrong.com/posts/MYCutshqJwTbHfE3W/my-most-likely-reason-to-die-young-is-ai-x-risk
+- https://arxiv.org/pdf/2206.13353.pdf
+- https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/
+- 
 
 __Questions__:
 
@@ -619,30 +626,27 @@ __Final Forecast and Rationale__:
 - If reasonable people disagree about whether this event has occurred, this question will be resolved via a panel of experts.
 
 #### Stage 1 
-
-
-
+ 
 __Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
+- bet(22k) ¬(e2030) 
+- bet(12k) ¬(e2050)
+- bet(1.5k) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:220
+- ior_b(e2050:¬(e2050))  = 1:120
+- ior_b(e2100:¬(e2100))  = 1:15
+- p(e2030) = 0.42% (0.1% to 1.75%) 
+- p(e2050) = 1.66% (0.5% to 5.5%)
+- p(e2100) = 4% (2% to 8%)
+- ior_p(e2030:¬(e2030))  = 1:237
+- ior_p(e2050:¬(e2050))  = 1:59
+- ior_p(e2100:¬(e2100)) =  1:24
+- u_or(e2030:¬(e2030)) =  1:260 (1:150 to 1:450)
+- u_or(e2050:¬(e2050)) =  1:82 (1:35 to 1:190)
+- u_or(e2100:¬(e2100)) =  1:18 (1:9 to 1:35)
+- Aggregate OR 2030: 1:238, 0.418%
+- Aggregate OR 2050: 1:83, 1.19%
+- Aggregate OR 2100: 1:19, 5%
+- Naive statement: Only in the case of a massive nuclear exchange do I think it is possible that nuclear weapon usage results in the deaths of 10% of the human population in 5 years. Presently, 10% of the human population is around 800 million people, but this will rise as the population rises. If, in 2050, there are 11 billion people (cached 2050 population estimate), 1.1 billion people would need to die from nukes and their consequences for this to resolve positive. I imagine a well placed nuclear weapon, say in NYC, could kill around 10 million people. There are a limited number of places on this Earth where a single nuke would kill 10 million people. Except in extraordinarily densely packed places like India or China, or outside of major cities, 10 million casualties would likely be difficult to achieve with a single nuclear weapon. So, 800-1100 million deaths directly from nukes might then require around 80-110+ _well-placed_ nukes. Why would a nuclear exchange involve so many densely populated areas? The next nuclear exchange to occur will, in my mind, likely consist of fewer than 5 nukes launched. Following this, the chance of another nuclear exchange might increase or decrease substantially, depending on the world's reaction. The Ukraine conflict and surrounding discussion appears to indicate that, if Putin launched a nuke as a display, the world would condemn him. So, I am inclined to believe that the chance of an entirely different exchange after this might decrease. 
 - 
 - 
 - Thoughts on the visualization:
@@ -1208,8 +1212,6 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-
-
 __Naive Attitudes 1__: 
 - bet(k) ¬(e2030) 
 - bet(k) ¬(e2050)
@@ -1293,7 +1295,7 @@ __Final Forecast and Rationale__:
 
 #### Stage 4  -->
 
-### 12. Future Human Births (*) 
+### 12. Future Human Births (*)  
 
 > How many humans will be born from 2023 onward?
 >
@@ -1370,7 +1372,11 @@ __Naive Attitudes 2__:
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
+
 __Scenarios__: 
+    - Business as usual: Background existential risk, minor cycles of birth demographic transition
+    - Short extinction: 
+    - 
 
 __Survey__:
 - How confident are people about this subject? 
