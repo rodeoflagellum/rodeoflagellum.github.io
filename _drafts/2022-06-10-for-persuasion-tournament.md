@@ -117,8 +117,6 @@ __Naive Attitudes 1__:
 - Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.052%. Holding this annual probability constant, the implied probability of this event by 2030 = 0.444%, by 2050 = 1.48%, and by 2100 = 4.03%.
 - Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.13%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.12%, by 2050 = 3.70%, and by 2100 = 9.865%.
 - Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.121%. Holding this annual probability constant, the implied probability of this event by 2030 = 1.027%, by 2050 = 3.40%, and 2100 = 9.1%.
-- Thoughts on the visualization: My estimates seem too low.
-
 
 <details>
 <summary>Aggregate Naive Attitudes 1</summary>
@@ -145,18 +143,6 @@ __Resource Notes__:
     - How much will other superforecasters anchor on these expert estimates? (probably a decent bit in terms of default, given some degrees of laziness)
     - How much do these forecasts reflect the forecasts of other experts? (probably a decent bit, at least within the EA community)
 
-<details>
-<summary>Redrawn and Updated Naive Attitudes Following Resources</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg_draw.png">
-</details>
-
-<!-- __Questions__: 
-- How much easier will it get to genetically modify organisms over time?
-- What's holding back the most lethal pathogens from being more lethal? 
-- How many labs are modifying pathogens to be more deadly?
-    - How likely are these labs to leak? 
-        - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true? -->
-
 __Quotes and Other Notes__: 
 - James Fodor: <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
     - "In addition to a high fatality rate, an extinction-level pathogen would also have to be sufficiently infectious such that it would be able to spread rapidly through human populations. It would need to have a long enough incubation time such that infected persons can travel and infect more people before they can be identified and quarantined. It would also need to be able to survive and propagate in a wide range of temperatures and climactic conditions. Finally, it would also need to be sufficiently dangerous to a wide range of ages and genetic populations, since any pockets of immunity would render extinction considerably less likely. Overall, it is highly unclear whether any biological agent with all these properties is even possible. In particular, pathogens which are sufficiently virulent to cause 99% or more fatality rates are likely to place such a burden on human physiology such that they would have a short incubation time, potentially rendering it easier to quarantine infected persons. Of course we do not know what is possible at the limits of biology, but given the extreme properties required of such an extinction-level pathogen, in my view it is very unlikely that such a pathogen is even possible."
@@ -169,6 +155,7 @@ __Quotes and Other Notes__:
     - <https://informationisbeautiful.net/visualizations/the-microbescope-infectious-diseases-in-context/>
 - _Chapter 20: Biotechnology and biosecurity_: 
 - _Global Catastrophic Biological Risks_: 
+- _Anticipation, Sustainability, Futures and Human Extinction_: 
 - <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
 - <https://en.wikipedia.org/wiki/Pandemic_severity_index>
 - <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
@@ -195,7 +182,19 @@ __Quotes and Other Notes__:
 - <https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates>
 - <https://en.wikipedia.org/wiki/List_of_active_rebel_groups>
 
-__Scenarios__: 
+<!-- <details>
+<summary>Redrawn and Updated Naive Attitudes Following Resources</summary>
+<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg_draw.png">
+</details> -->
+
+<!-- __Questions__: 
+- How much easier will it get to genetically modify organisms over time?
+- What's holding back the most lethal pathogens from being more lethal? 
+- How many labs are modifying pathogens to be more deadly?
+    - How likely are these labs to leak? 
+        - What if the lab leak hypothesis for SARS-CoV-2 turns out to be true? -->
+
+<!-- __Scenarios__: 
 - Leak
     - Lab 
     - Individual 
@@ -204,7 +203,11 @@ __Scenarios__:
     - State Sanctioned 
     - Terrorist 
         - Organization 
-        - Individual 
+        - Individual  
+
+Doesnt happen 
+Does happen 
+-->
 
 __Naive Attitudes 2__: 
 - bet(k) ¬(e2030) 
@@ -424,9 +427,7 @@ __Naive Attitudes 1__:
 - Aggregate OR 2030: 1:18.56, 5.11%
 - Aggregate OR 2050: 1:5.50, 15.38%
 - Aggregate OR 2100: 1:2, 33%
-- Naive statement: 
-
-There is much I still have to learn about the risk of a catastrophe from unaligned AI. My sense is that I weight the opinions of the pessimists more heavily than those of the optimists (out of the people who work in AI Safety), but only slightly more. 
+- Naive statement: There is much I still have to learn about the risk of a catastrophe from unaligned AI. My sense is that I weight the opinions of the pessimists more heavily than those of the optimists (out of the people who work in AI Safety), but only slightly more. 
 - Using my aggregate 2030 estimates, the annual risk for years leading up to 2030 would be 0.62%. Holding this annual probability constant, the implied probability of this event by 2030 = 5.11%, by 2050 = 16.14%, and by 2100 = 38.42%.
 - Using my aggregate 2050 estimates, the annual risk for years leading up to 2050 would be 0.58%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.85%, by 2050 = 15.38%, and by 2100 = 36.88%.
 - Using my aggregate 2100 estimates, the annual risk for years leading up to 2100 would be 0.51%. Holding this annual probability constant, the implied probability of this event by 2030 = 4.24%, by 2050 = 13.53%, and 2100 = 33.0%.
@@ -562,7 +563,6 @@ __Quotes and Other Notes__:
 - https://www.lesswrong.com/posts/MYCutshqJwTbHfE3W/my-most-likely-reason-to-die-young-is-ai-x-risk
 - https://arxiv.org/pdf/2206.13353.pdf
 - https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/
-- 
 
 __Questions__:
 
@@ -613,6 +613,8 @@ __Final Forecast and Rationale__:
 
 #### Stage 4  --> 
 
+<!-- ####################################################--> 
+
 ### 5. Nuclear Catastrophic Risk (*) 
 
 > What is the probability that one or more incidents involving nuclear weapons will be the cause of death, within a 5-year period, for more than 10% of humans alive at the beginning of that period...
@@ -632,8 +634,8 @@ __Naive Attitudes 1__:
 - bet(12k) ¬(e2050)
 - bet(1.5k) ¬(e2100)
 - ior_b(e2030:¬(e2030)) = 1:220
-- ior_b(e2050:¬(e2050))  = 1:120
-- ior_b(e2100:¬(e2100))  = 1:15
+- ior_b(e2050:¬(e2050)) = 1:120
+- ior_b(e2100:¬(e2100)) = 1:15
 - p(e2030) = 0.42% (0.1% to 1.75%) 
 - p(e2050) = 1.66% (0.5% to 5.5%)
 - p(e2100) = 4% (2% to 8%)
@@ -653,8 +655,9 @@ __Naive Attitudes 1__:
 
 <details>
 <summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
+<img src="/assets/2022/for_persuasion_tournament/images/q5_n1_agg.png">
 </details>
+
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -709,7 +712,7 @@ __Final Forecast and Rationale__:
 
 #### Stage 4  --> 
 
-
+<!-- ####################################################--> 
 
 ### 6. Nuclear Extinction Risk (*) 
 
@@ -726,13 +729,13 @@ __Final Forecast and Rationale__:
 #### Stage 1
 
 __Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
+- bet(0.75b) ¬(e2030) 
+- bet(0.563b) ¬(e2050)
+- bet(0.5b) ¬(e2100)
+- ior_b(e2030:¬(e2030)) = 1:30000000
+- ior_b(e2050:¬(e2050))  = 1:25000000
+- ior_b(e2100:¬(e2100))  = 1:5000000
+- p(e2030) = 0.00014% (2e-06% to 1e-02%) 
 - p(e2050) = % (% to %)
 - p(e2100) = % (% to %)
 - ior_p(e2030:¬(e2030))  = 
@@ -823,70 +826,39 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-__Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
-- Thoughts on the visualization:
+__Considerations__ 
+- Given that non-anthropogenic catastrophic risks are natural events, I expect that their frequency is known with a fairly high degree of certainty to humanity. Of course, non-anthropogenic catastrophic risks vary in the magnitude of their severity, both across and within risk categories, and there has not yet been a non-anthropogenic event in recorded human history that would constitute a global catastrophe (to my knowledge). Given this, most of the uncertainty with non-anthropogenic risk lies in how strongly such events would harm contemporary and near-term civilization. Since the frequency of these natural events is likely known, I am going to be skipping the Naive Attitudes 1, and opt to begin looking at the resources provided. I will retain Naive Attitudes 2 once I have a better sense of what non-anthropogenic risks exist. 
 
-<details>
-<summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
-</details>
 __Resource Notes__: 
+- Toby Ord:
+    - p(human extinction \| natural risk) = 0.0001 for [2020,2120]
+    - "natural risk" = [asteroid or comet impact, supervolcanoes, stellar explosions] 
+- Snyder-Beattie, Ord and Bonsall (2019):
+    - p_annual(human extinction by natural cause) = [<1/87,000 - 1/14000]
+    - p(human extinction by natural cause) = [<0.09% - 0.56%] for [2022-2100]
+- Resource Thoughts: 
+    - Should climate change be considered a non-anthropogenic risk?
+    - What are the non-anthropogenic risk?
 
 __Quotes and Other Notes__: 
+- _An upper bound for the background rate of human extinction_ <https://www.nature.com/articles/s41598-019-47540-7.pdf>:
+- _Existential Risk Prevention as Global Priority_ <https://existential-risk.org/concept.pdf>: 
+- _Human Extinction from Natural Hazard Events_: 
+- _Anticipation, Sustainability, Futures and Human Extinction_: 
+- _Global Catastrophic Risk_: 
+- "Global catastrophic risk" <https://en.wikipedia.org/wiki/Global_catastrophic_risk>: 
+- "Global catastrophe scenarios" <https://en.wikipedia.org/wiki/Global_catastrophe_scenarios>:
+- <https://en.wikipedia.org/wiki/Future_of_Earth>
+- <https://en.wikipedia.org/wiki/Great_Filter>
+- <https://en.wikipedia.org/wiki/Societal_collapse>
+- <https://en.wikipedia.org/wiki/Tail_risk>
+- <https://en.wikipedia.org/wiki/Timeline_of_the_far_future>
+- <https://en.wikipedia.org/wiki/List_of_global_issues>
+- <https://en.wikipedia.org/wiki/Extreme_risk>
+- <https://en.wikipedia.org/wiki/Human_extinction>
 
 __Questions__:
 
-__Naive Attitudes 2__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
-- Thoughts on the visualization:
-
-<details>
-<summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
-</details>
 __Scenarios__: 
 
 __Survey__:
@@ -898,7 +870,6 @@ __Survey__:
 __Metaculus Community__:
 
 __Final Forecast and Rationale__:
-
 
 <!-- #### Stage 2 
 
@@ -921,36 +892,11 @@ __Final Forecast and Rationale__:
 
 #### Stage 1 
 
-__Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
-- Thoughts on the visualization:
+__Considerations__ 
+- [same as in question 7] Given that non-anthropogenic catastrophic risks are natural events, I expect that their frequency is known with a fairly high degree of certainty to humanity. Of course, non-anthropogenic catastrophic risks vary in the magnitude of their severity, both across and within risk categories, and there has not yet been a non-anthropogenic event in recorded human history that would constitute a global catastrophe (to my knowledge). Given this, most of the uncertainty with non-anthropogenic risk lies in how strongly such events would harm contemporary and near-term civilization. Since the frequency of these natural events is likely known, I am going to be skipping the Naive Attitudes 1, and opt to begin looking at the resources provided. I will retain Naive Attitudes 2 once I have a better sense of what non-anthropogenic risks exist.
 
-<details>
-<summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
-</details>
 __Resource Notes__: 
+- [same as in question 8]
 
 __Quotes and Other Notes__: 
 
@@ -1010,7 +956,6 @@ __Final Forecast and Rationale__:
 - ...by the end of 2030?
 - ...by the end of 2050?
 - ...by the end of 2100?
-
 
 
 #### Stage 1 
@@ -1112,8 +1057,6 @@ __Final Forecast and Rationale__:
 
 
 #### Stage 1 
-
-
 
 __Naive Attitudes 1__: 
 - bet(k) ¬(e2030) 
@@ -1337,6 +1280,7 @@ __Naive Attitudes 1__:
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
+
 __Resource Notes__: 
 
 __Quotes and Other Notes__: 
@@ -1412,39 +1356,63 @@ Use climate models + development models + birth models; then use scenarios other
 #### Stage 1 
 
 
+__Considerations__:
+- Health agencies and researchers likely have models or estimates for the non-coronavirus mRNA vaccine doses by these dates. If not, this is something that can likely be modeled. Background data is needed for me to make any estimates, so I minimally have to use the resources provided. As such, I am going to skip Naive Attitudes 1. 
 
-__Naive Attitudes 1__: 
-- bet(k) ¬(e2030) 
-- bet(k) ¬(e2050)
-- bet(k) ¬(e2100)
-- ior_b(e2030:¬(e2030)) = 1:
-- ior_b(e2050:¬(e2050))  = 1:
-- ior_b(e2100:¬(e2100))  = 1:
-- p(e2030) = % (% to %) 
-- p(e2050) = % (% to %)
-- p(e2100) = % (% to %)
-- ior_p(e2030:¬(e2030))  = 
-- ior_p(e2050:¬(e2050))  =
-- ior_p(e2100:¬(e2100))   =  
-- u_or(e2030:¬(e2030)) =  1: (1: to 1:)
-- u_or(e2050:¬(e2050)) =  1: (1: to 1:)
-- u_or(e2100:¬(e2100)) =  1: (1: to 1:)
-- Aggregate OR 2030: 1:, %
-- Aggregate OR 2050: 1:, %
-- Aggregate OR 2100: 1:, %
-- Naive statement:  
-- 
-- 
-- 
-- Thoughts on the visualization:
-
-<details>
-<summary>Aggregate Naive Attitudes 1</summary>
-<img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
-</details>
 __Resource Notes__: 
+- "No mRNA vaccine platform had been authorized for use in humans before 2020, and no mRNA vaccine platform targeting a disease other than COVID-19 has yet been authorized for use in humans."
+- _Will any of the ongoing BioNTech mRNA cancer vaccine trials proceed to Phase III trials in 2022?_ <https://www.metaculus.com/questions/9174/phase-iii-trials-on-cancer-vaccines-in-2022/>: Metaculus community = 45% (07/10/2022). 
+- _RNA vaccines: an introduction_ <https://www.phgfoundation.org/briefing/rna-vaccines>
+- _mRNA vaccine_ <https://en.wikipedia.org/wiki/MRNA_vaccine>
+- Resource Thoughts:
+    - There is a Metaculus comment providing an overview of some developing trials, but I still need to determine how accurate and comprehensive all this is. 
+    - An official statement on mRNA vaccine trials and use cases is still needed; these resources aren't thorough enough. 
+
 
 __Quotes and Other Notes__: 
+- _Clinical trial_ <https://en.wikipedia.org/wiki/Clinical_trial>:
+    - Phase 0: "Pharmacodynamics and pharmacokinetics in humans: Phase 0 trials are optional first-in-human trials. Single subtherapeutic doses of the study drug or treatment are given to a small number of subjects (typically 10 to 15) to gather preliminary data on the agent's pharmacodynamics (what the drug does to the body) and Phase 0 trials are optional first-in-human trials. Single subtherapeutic doses of the study drug or treatment are given to a small number of subjects (typically 10 to 15) to gather preliminary data on the agent's pharmacodynamics (what the drug does to the body) and pharmacokinetics (what the body does to the drugs). For a test drug, the trial documents the absorption, distribution, metabolization, and clearance (excretion) of the drug, and the drug's interactions within the body, to confirm that these appear to be as expected." 
+    - Phase 1: "Screening for safety: Often are first-in-person trials. Testing within a small group of people (typically 20–80 to evaluate safety, determine safe dosage ranges, and identify side effects."
+    - Phase 2: "Establishing the preliminary efficacy of the drug in a "treatment group", usually against a placebo control group: Phase IIa is specifically designed to assess dosing requirements (how much drug should be given), while a Phase IIb trial is designed to determine efficacy, and studies how well the drug works at the prescribed dose(s), establishing a therapeutic dose range."
+    - Phase 3: "Final confirmation of safety and efficacy: Testing with large groups of people (typically 1,000–3,000) to confirm its efficacy, evaluate its effectiveness, monitor side effects, compare it to commonly used treatments, and collect information that will allow it to be used safely"
+    - Phase 4: "Safety studies during sales: Postmarketing studies delineate risks, benefits, and optimal use. As such, they are ongoing during the drug's lifetime of active medical use." 
+- _Vaccine Research & Development_ <https://coronavirus.jhu.edu/vaccines/timeline>
+    - Preclinical Trials and Phase I Clinical Trials to Assess Safety, Dosing, and Immune Responses: 1-10 years (2-3 months accelerated)
+    - Phase II Clinical Trials to Assess Safety and Immune Responses: 2-3 years (3-4 months accelerated)
+    - Phase III Clinical Trials to Assess Safety and Efficacy: 2-4 years (6-9 months accelerated)
+- <https://en.wikipedia.org/wiki/File:Ijms-21-06582-g001.webp>
+    - 3 years between first human test of mRNA vaccine and phase I clinical trial for SARS-CoV-2
+- UR _Clinical trials_ <https://www.who.int/news-room/questions-and-answers/item/clinical-trials>
+- UR _Basics About Clinical Trials_ <https://www.fda.gov/patients/clinical-trials-what-patients-need-know/basics-about-clinical-trials>
+- _Global Clinical Trials Data_ <https://search.globalclinicaltrialsdata.com/search?query=mRNA+vaccine&recr=&source=&phase=&updated_from=&updated_to=&received_from=&received_to=&role=%28None%29&resources=&displayFilter=condition%2Cinterventions%2Cphase%2Csponsors%2Ccollaborators%2CbriefSummary%2CotherIds%2CstudyStart%2CprimaryCompletion%2CfirstReceived&sort=default&page=2#>:
+
+
+- _How to Determine Primary Completion & Study Completion Date_ <https://www.dfhcc.harvard.edu/crs-resources/ODQ_Documents/02_CT.GOV_CTRP/Guidance_How_to_Determine_Primary_and_Study_Completion_Dates.pdf>
+
+- _Clinical Trials.gov_ <https://clinicaltrials.gov/ct2/results?cond=&term=mRNA+vaccine&cntry=&state=&city=&dist=>
+
+
+
+
+- _Will any of the ongoing BioNTech mRNA cancer vaccine trials proceed to Phase III trials in 2022?_ <https://www.metaculus.com/questions/9174/phase-iii-trials-on-cancer-vaccines-in-2022/>
+
+
+
+
+
+- _The challenge and prospect of mRNA therapeutics landscape_ <https://www.sciencedirect.com/science/article/abs/pii/S0734975020300318>:
+- _The mRNA vaccine development landscape for infectious diseases_ <https://www.researchgate.net/profile/Tung-Le-10/publication/358538030_The_mRNA_vaccine_development_landscape_for_infectious_diseases/links/627e35b8973bbb29cc7b586e/The-mRNA-vaccine-development-landscape-for-infectious-diseases.pdf>:
+- _mRNA Vaccine Development for Emerging Animal and Zoonotic Diseases_ <https://mdpi-res.com/d_attachment/viruses/viruses-14-00401/article_deploy/viruses-14-00401.pdf?version=1644923521>:
+- _An Update on Self-Amplifying mRNA Vaccine Development_ <https://mdpi-res.com/d_attachment/vaccines/vaccines-09-00097/article_deploy/vaccines-09-00097.pdf?version=1611823459>: 
+_ _How mRNA Vaccines Could Treat Other Infectious Diseases Beyond COVID-1_ <https://www.pennmedicine.org/news/news-blog/2021/april/how-mrna-vaccines-could-prevent-or-eliminate-infectious-diseases-beyond-covid19>
+- _mRNA-Based Vaccines_ <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8103517/pdf/vaccines-09-00390.pdf>
+- _mRNA flu shots move into trials_ <https://media.nature.com/original/magazine-assets/d41573-021-00176-7/d41573-021-00176-7.pdf>
+- _mRNA vaccines for COVID-19 and diverse diseases_ <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8935967/pdf/main.pdf>
+- _mRNA vaccines: the most recent clinical applications of synthetic mRNA_ <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012156/pdf/12272_2022_Article_1381.pdf>
+- _The clinical progress of mRNA vaccines and immunotherapies_ <https://www.nature.com/articles/s41587-022-01294-2.pdf>
+
+- <https://search.globalclinicaltrialsdata.com/>
+
 
 __Questions__:
 
@@ -1477,6 +1445,7 @@ __Naive Attitudes 2__:
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
+
 __Scenarios__: 
 
 __Survey__:
@@ -1489,6 +1458,13 @@ __Metaculus Community__:
 
 __Final Forecast and Rationale__:
 
+
+__Reciprocal Scoring__:
+    - Aggregated Expert Forecasts:
+    - Expert over- or under- confidence?
+    - Superforecaster over- or under- confidence? 
+    - Superforecaster forecast 2030 = [use Eli's source ]
+    - Superforecaster forecast 2030 = [use extremeizing value ]
 
 <!-- #### Stage 2 
 
