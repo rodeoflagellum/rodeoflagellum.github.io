@@ -144,18 +144,34 @@ __Resource Notes__:
     - How much do these forecasts reflect the forecasts of other experts? (probably a decent bit, at least within the EA community)
 
 __Quotes and Other Notes__: 
-- James Fodor: <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>
-    - "In addition to a high fatality rate, an extinction-level pathogen would also have to be sufficiently infectious such that it would be able to spread rapidly through human populations. It would need to have a long enough incubation time such that infected persons can travel and infect more people before they can be identified and quarantined. It would also need to be able to survive and propagate in a wide range of temperatures and climactic conditions. Finally, it would also need to be sufficiently dangerous to a wide range of ages and genetic populations, since any pockets of immunity would render extinction considerably less likely. Overall, it is highly unclear whether any biological agent with all these properties is even possible. In particular, pathogens which are sufficiently virulent to cause 99% or more fatality rates are likely to place such a burden on human physiology such that they would have a short incubation time, potentially rendering it easier to quarantine infected persons. Of course we do not know what is possible at the limits of biology, but given the extreme properties required of such an extinction-level pathogen, in my view it is very unlikely that such a pathogen is even possible."
-    - "...that very few agents or organisations have any interest in unleashing a pathogen that kills humans indiscriminately."
-    - "I thus believe that we have good reason to think that the number of people and amount of effort devoted to developing such dangerous bioweapons is likely to be low, especially for non-state actors."
-    - "Furthermore, Ord fails to consider the practical difficulties of developing and releasing a pathogen sufficiently deadly to cause human extinction. In particular, developing a novel organism would require lengthy research and extensive testing. Even if all the requisite supplies, technology, and expertise over a period of time could be obtained without arousing enough suspicion for the project to be investigated and shut down, there still remains the challenge of how such a pathogen could be tested. No animal model is perfect, and so any novel pathogen would (just like vaccines and other medical treatments) need to be tested on large numbers of human subjects, and likely adjusted in response to results. It would need to be trialed in different environments and climates to determine whether it would spread sufficiently rapidly and survive outside a host long enough. Without such tests, it is virtually impossible that an untested novel pathogen would be sufficiently optimised to kill enough people across a wide enough range of environments to cause human extinction. However, it is hard to see how it would be possible to carry out such widespread testing with a diverse enough range of subjects without drawing the attention of authorities."
+- James Fodor <https://forum.effectivealtruism.org/posts/2sMR7n32FSvLCoJLQ/critical-review-of-the-precipice-a-reassessment-of-the-risks#Probability_of_engineered_pandemics>:
+    - Q: What are upper limits of deadliness and contagiousness for biological agents?
+    - F: Population decreases of ~90% from a pathogen does not immediately imply extinction. 
+    - N: Zaire ebolavirus might have highest fatality rate at 90%. 
+    - Q: What is the minimally viable human population? (maybe 7k?)
+    - F: Pathogen would have to be 99.9999% lethal to get down to 7k human. 
+    - F: A devasting pathogen would have diminishing returns (since people become less densely clustered) and consequences (since fewer people to war, more food for survivors)
+    - R: <https://en.wikipedia.org/wiki/Optimal_virulence>
+    - F: Very lethal pathogens would likely also have very high virulence, meaning that the people who become infected would be easier to spot and quarantine
+    - Q: Even if it's possible to create a pathogen near the biological limits for overall lethality, how long would this take humans to achieve?
+    - F: This "intact virus could be produced from its DNA using entirely synthetic means" is not yet possible.
+    - F: [Vague] Humans do not understand the intricacies of biology well enough to design pathogens harmful enough to make humans extinct. 
+    - F: Few people or groups have wanted to use indiscriminate bioweapons to destroy humanity, as evidenced by the absence of such attacks despite the availability of bioweaponry.
+    - F: 
+    
+    I: model the contagiousness, discuss distribution of natural occurring pandemics + biological constraints on lethality to get upper bound. )
+
+
+
 - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4494353/pdf/vaccines-03-00429.pdf>
 
 - <https://docs.google.com/spreadsheets/d/1F9IMIeXHsfuQLN1HtgPvfHe2BjbWu0r0_Qt_BHOWjLs/edit#gid=463836549> 
     - <https://informationisbeautiful.net/visualizations/the-microbescope-infectious-diseases-in-context/>
+
 - _Chapter 20: Biotechnology and biosecurity_: 
 - _Global Catastrophic Biological Risks_: 
 - _Anticipation, Sustainability, Futures and Human Extinction_: 
+
 - <https://en.wikipedia.org/wiki/Pandemic_Severity_Assessment_Framework>
 - <https://en.wikipedia.org/wiki/Pandemic_severity_index>
 - <https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory>
@@ -234,11 +250,17 @@ __Naive Attitudes 2__:
 - 
 - Thoughts on the visualization:
 
-<details>
+<!-- <details>
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
-</details>
+</details> -->
+
+
+
+__Final Forecast and Rationale__:
+
 __Reciprocal Forecasting__:
+- __Su
 - __Survey__:
     - How confident are people about this subject? 
     - How much does expertise improve forecasting accuracy with this subject? 
@@ -253,8 +275,20 @@ __Reciprocal Forecasting__:
     - <https://www.metaculus.com/questions/1502/ragnar%25C3%25B6k-question-series-if-a-global-catastrophe-occurs-will-it-be-due-to-biotechnology-or-bioengineered-organisms/>
     - <https://www.metaculus.com/questions/250/will-terror-group-obtain-viable-bioweapon-sample/>
     - <https://www.metaculus.com/questions/3023/if-there-is-a-biotechnological-or-bioengineered-organism-catastrophe-this-century-when-will-it-happen/>
-
-__Final Forecast and Rationale__:
+ - S: Will a nuclear exchange escalate?: 39%, n=3
+- S: Will a war cause human extinction by 2100?: 0.21%, n=3
+- S: Will AI cause an existential catastrophe by 2100?: 21%, n=2
+- S: Will humans go extinct by 2100?: 18%, n=5
+- S: Absent regulation, will AGI arrive before 2100?: 88%, n=3
+- S: Will regulation fail to stop AGI: 94%, n=2
+- S: Will AGI fail to be stopped before destroying human civilization?: 80%, n=1
+- Aggregated Expert Forecasts:
+- Expert over- or under- confidence?
+- Superforecaster over- or under- confidence? 
+- Superforecaster forecast 2030 = 
+- Superforecaster forecast 2030 = 
+- Extremizing constant is 1.59, take 1/1.59 for the Metaculus value to get the superforecaster/s value?
+- 
 
 
 
@@ -957,7 +991,6 @@ __Final Forecast and Rationale__:
 - ...by the end of 2050?
 - ...by the end of 2100?
 
-
 #### Stage 1 
 
 __Naive Attitudes 1__: 
@@ -989,11 +1022,58 @@ __Naive Attitudes 1__:
 <summary>Aggregate Naive Attitudes 1</summary>
 <img src="/assets/2022/for_persuasion_tournament/images/q1_n1_agg.png">
 </details>
+
 __Resource Notes__: 
+
 
 __Quotes and Other Notes__: 
 - https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/
 - https://longbets.org/predictions/
+- _Anticipation, Sustainability, Futures and Human Extinction_ (Chapter 3):
+    - Martin Rees: p(human extinction by 2100) = 50%; Nick Bostrom: p(human extinction by 2100) >= 25%; Leslie?: p(human extinction by 2500) = 30%. 
+    - I Anthropogenic: current, preventable
+        - Nuclear War 
+        - Climate change
+        - Disease
+        - Bioterrorism 
+    - II Coupled human–environment systems: current, preventable
+        - Significant loss of biodiversity 
+        - Agricultural systems failure
+        - Significant reduction in natural resources
+        - Exceed key planetary boundaries
+    - III Human reproduction: emerging, preventable
+        - Infertility due to chemicals
+        - Unintended consequences of medical advances
+        - Dysgenics
+        - Voluntary extinction 
+    - IV Risks to humanness: emerging, preventable
+        - Evolution to posthumanism
+        - Humans uploaded
+    - V Advanced technology: emerging, preventable
+        - Non-friendly Super-AIs 
+        - Technological Singularity
+    - VI Natural terrestrial risks: anytime, unpreventable
+        - Super volcanoes 
+        - Extreme ice age
+        - Anoxic events
+    - VII Solar system: anytime, unpreventable
+        - Collisions with near-earth objects
+        - Energy output from the sun 
+        - Carrington class ejection from the sun
+        - Gamma ray burst
+        - Near earth super or hypernova
+        - Rogue black hole
+    - VIII Extraterrestrial civilizations: anytime, unpreventable
+        - Alien invasion
+        - Destruction by aliens from afar 
+        - Other interventions by Godlike Creators
+        - Other unknowns
+    - IX Universe scale: very long term, unpreventable
+        - Vacuum phase transition
+        - Collision with Andromeda Galaxy
+        - Expansion of the universe due to heat death
+        - Collapse of the universe due to gravitational attraction 
+    
 
 __Questions__:
 
@@ -1034,9 +1114,19 @@ __Survey__:
 - Can you predict what the Metaculus community thinks?
 - What's the different between the Metaculus community, superforecasters, and experts?
 
-__Metaculus Community__:
 
 __Final Forecast and Rationale__:
+
+__Reciprocal Forecasting__:
+- S: Human extinction by 2100?: 18%, n=5 (not identifying source)
+- E: 
+
+- S: Will a nuclear exchange escalate?: 39%, n=3
+- S: Will a war cause human extinction by 2100?: 0.21%, n=3
+- S: Will AI cause an existential catastrophe by 2100?: 21%, n=2
+- S: Absent regulation, will AGI arrive before 2100?: 88%, n=3
+- S: Will regulation fail to stop AGI: 94%, n=2
+- S: Will AGI fail to be stopped before destroying human civilization?: 80%, n=1
 
 
 <!-- #### Stage 2 
@@ -1047,14 +1137,10 @@ __Final Forecast and Rationale__:
 
 ### 10. Total Extinction Risk (*) 
 
-
-
 > What is the overall probability of human extinction or a reduction in the global population below 5,000...
 - ...by the end of 2030?
 - ...by the end of 2050?
 - ...by the end of 2100?
-
-
 
 #### Stage 1 
 
