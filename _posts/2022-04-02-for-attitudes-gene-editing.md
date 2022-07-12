@@ -5,7 +5,7 @@ date:  2022-05-10 12:00:00 -0400
 modified: 2022-06-13 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
-description: "Frame: A fractional overview of gene-editing and a scan of and small discussion on people's past and current takes on human gene-editing, with some forecasting questions and considerations mixed in."
+description: "A fractional overview of gene-editing and a scan of and small discussion on people's past and current takes on human gene-editing, with some forecasting questions and considerations mixed in."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"

@@ -1,0 +1,45 @@
+Q1: 
+
+-------
+>>> x  = np.logspace(1,10, 10000)
+>>> y = [elt for elt in x if elt >= 1e09]
+>>> z = [elt for elt in x if elt >= 1e07]
+len(z)/len(y) = ? / 0.30 
+ 
+Ben Todd estimates 30% of 1b deaths by 2100
+This is 10% of 80m deaths by 2100 on a log scale 
+
+------- 
+Pamlin and Armstrong
+
+
+>>> y = [elt for elt in x if elt >= 8e09]
+>>> len(y)
+108
+>>> z = [elt for elt in x if elt >= 1e07]
+>>> len(z)
+3334
+>>> 
+
+(0.0001*3500)/100 = 0.0035
+(0.0001*3334)/108 = 0.00309 
+(0.0001*42)/3 = 0.0014
+
+-------
+Millett and Snyder-Beattie
+
+>>> y = [elt for elt in x if elt >= 8e09]
+>>> len(y)
+108
+>>> z = [elt for elt in x if elt >= 1e07]
+>>> len(z)
+3334
+>>> 
+
+(6.28e-05 * 3334)/108 = 0.194% by 2100 
+
+-------
+
+James Fodor 
+
+(2×10^(-6) * 3334)/108

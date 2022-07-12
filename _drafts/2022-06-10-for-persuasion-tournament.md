@@ -131,7 +131,7 @@ __Resource Notes__:
 - Millett and Snyder-Beattie (2017):
     - p_annual(huamn extinction \| GoF accident) = 1.6e–08 and 8e-07, so 1.13e-07 annual, so p(human extinction \| GoF accident between [2022-2100]) = 6.28e-05. 
 - Pamlin and Armstrong (2015):
-    - p(human extinction \| synthetic biology accident between [2015-2115]) = 0.0001. 
+    - p(human extinction \| synthetic biology accident between [2015-2115]) = 0.0001 
 - James Fodor:
     - p(human extinction \| engineered pandemic between [?-~2100]) = 2*10e-06 
 - Ben Todd:
@@ -159,7 +159,7 @@ __Quotes and Other Notes__:
     - F: Few people or groups have wanted to use indiscriminate bioweapons to destroy humanity, as evidenced by the absence of such attacks despite the availability of bioweaponry.
     - F: 
     
-    I: model the contagiousness, discuss distribution of natural occurring pandemics + biological constraints on lethality to get upper bound. )
+I: model the contagiousness, discuss distribution of natural occurring pandemics + biological constraints on lethality to get upper bound. )
 
 
 
@@ -1119,7 +1119,7 @@ __Final Forecast and Rationale__:
 
 __Reciprocal Forecasting__:
 - S: Human extinction by 2100?: 18%, n=5 (not identifying source)
-- E: 
+    - Take geom(14,30) = 20.49% for 2100. Binom.py gives 2.44% for 2030, 7.99% for 2050. Take geom(0.5, 4.0) = 0.447% for 2030. Take geom(2,14) = 5.29% for 2050. 
 
 - S: Will a nuclear exchange escalate?: 39%, n=3
 - S: Will a war cause human extinction by 2100?: 0.21%, n=3
@@ -1474,6 +1474,8 @@ __Quotes and Other Notes__:
 
 
 - _How to Determine Primary Completion & Study Completion Date_ <https://www.dfhcc.harvard.edu/crs-resources/ODQ_Documents/02_CT.GOV_CTRP/Guidance_How_to_Determine_Primary_and_Study_Completion_Dates.pdf>
+
+- <https://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/vaccine-development-101>
 
 - _Clinical Trials.gov_ <https://clinicaltrials.gov/ct2/results?cond=&term=mRNA+vaccine&cntry=&state=&city=&dist=>
 
