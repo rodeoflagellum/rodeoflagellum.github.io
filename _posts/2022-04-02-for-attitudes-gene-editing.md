@@ -2,14 +2,14 @@
 layout: post
 title:  "Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
-modified: 2022-06-13 8:50:00 -0400
+modified: 2022-07-12 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"
 image: /assets/2022/for_attitudes_gene_editing/martin-woortman-IyMaEo0f728-unsplash.jpg
 description: "A fractional overview of gene-editing and a scan of and small discussion on people's past and current takes on human gene-editing, with some forecasting questions and considerations mixed in."
 tags: [prediction, forecasting, genetic-engineering, biology, ethics]
 specifics: [human gene-editing]
 type: "Essay"
-status: "In Progress"
+status: "Unfinished"
 word_count: "yes"
 reading_time: "yes"
 importance: "6.5"
@@ -64,6 +64,14 @@ Current TODO:
 []: Forecasting questions
 []: Have section for agree / disagree with some examples of contentions
 []: 
+
+Retrospective and Updates 
+(07/12/2021): 
+  Working on just the PEW Surveys
+  New articles + Aella's questions 
+  Future ideas  
+
+How to updates beliefs 
 
 Authoritative delivery 
 
