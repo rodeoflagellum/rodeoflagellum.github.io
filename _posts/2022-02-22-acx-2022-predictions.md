@@ -1,5 +1,7 @@
 ---
 layout: post
+category: "Log"
+display?: "yes"
 title:  "2022 ACX Prediction Contest"
 date:  2022-02-22 15:34:18 -0500
 modified: 2022-03-23 17:38:18 -0500
@@ -7,8 +9,8 @@ permalink: "/acx_contest_2022/"
 description: "My predictions for Scott Alexander's 2022 ACX Prediction Contest, along with (eventually) an analysis of my performance and a discussion on the outcomes of the questions."
 tags: [forecasting, prediction]
 image: /assets/images/jbc-z-pZ8qfEl0M-unsplash.jpg
-type: "Draft"
-status: "Passing"
+type: "Forecasting Log"
+status: "Finished"
 ---
 
 ## [Table of Contents](#top)
@@ -16,7 +18,9 @@ status: "Passing"
 * TOC
 {:toc}
 
-<span class="padded-dropcap">From</span> Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
+<span class="padded-dropcap">F</span>rom Scott Alexander's[^1] post [Predictions For 2022][2022 ACX predictions], on [Astral Codex Ten][ACX]:
+
+<br>
 
 > Sam Marks and Eric Neyman have kindly turned this tradition into a contest.
 >

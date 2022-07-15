@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Attitudes Towards Human Gene-Editing"
+category: "Essay"
+display?: "yes"
+title:  "People's Attitudes Towards Human Gene-Editing"
 date:  2022-05-10 12:00:00 -0400
 modified: 2022-07-12 8:50:00 -0400
 permalink: "/for_attitudes_gene_editing/"

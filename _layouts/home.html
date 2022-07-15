@@ -55,7 +55,7 @@ layout: default
 
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- if post.category!="misc" -%}
+      {%- if post.display? == "yes" -%}
       <br>
       <li>
 
@@ -68,7 +68,7 @@ layout: default
         {%- endif -%}
 
         <!-- Add post reading time, importance -->
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, 000%Y" -%}
         
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         {{ post.date | date: date_format }} &nbsp;

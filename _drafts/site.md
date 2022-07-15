@@ -83,7 +83,7 @@ __Labels__ (in order of appearance) that communicate meta-considerations on a po
 - _Extent_ (*)
 - _Views_: [unimplemented] A button one can press to illustrate that they viewed the post. The idea behind this would be to avoid having to use Google Analytics and to remove extremely quick brief viewings from being counted. 
 
-_Type-Status_: The type of post and its current status. Here is the general format for how this will look: [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Thinking Space, Log, List, Review, Idea, Essay, Research, Experiment, Notes] - [In(complete), (Un)finished, Ongoing, Un(resolved), Speculation, Limited]
+_Type-Status_: The type of post and its current status. Here is the general format for how this will look: [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Thinking Space, Log, List, Review, Idea, Essay, Research, Experiment, Notes, Report] - [In(complete), (Un)finished, Ongoing, Un(resolved), Speculation, Limited]
 
 All combinations: 
 

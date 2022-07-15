@@ -1,6 +1,6 @@
 ---
 layout: post
-category: misc
+category: Notes
 title:  "\"On being ambitious and celebrating failures\""
 date:  2022-05-26 14:08:00 -0400
 modified: 2022-05-27 15:36:00 -0400

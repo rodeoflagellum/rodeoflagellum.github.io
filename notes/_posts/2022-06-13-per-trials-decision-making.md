@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trials in Decision Making"
-category: misc
+category: Thoughts
 permalink: "/per_trials_decision_making/"
 tags: [personal, rationality]
 image: /notes/assets/2022/per_trials_decision_making/birmingham-museums-trust-adudERb6uDM-unsplash.jpg

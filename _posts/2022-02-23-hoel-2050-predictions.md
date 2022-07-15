@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Draft
 title:  "Erik Hoel 2050 Project"
 date:  2022-02-23 15:20:00 -0400
 modified: 2022-05-03 19:00:00 -0400

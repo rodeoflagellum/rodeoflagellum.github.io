@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-misc
-title: "Misc"
+title: "More"
 category: misc
 image: /assets/benedict-meyer-zu-strohe-TpR4-ecdnKQ-unsplash-1.jpg
 ---

@@ -20,41 +20,123 @@ layout: default
   <hr>
   <br>
 
-  {{ content }}
+  <!-- {{ content }} -->
 
   {%- if site.posts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
 
-    <ul class="post-list-2">
+    <h2> Essays </h2> 
+    <ul class="post-list-3">
       {%- for post in site.posts -%}
-      {%- if post.category=="misc" -%}
+          {%- if post.category == "Essay" -%}
+          <li>
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+     </ul>
 
-      <li>
-        {%- if post.header_image -%}
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
-          <span class="post-meta">
-            <img src="{{ post.header_image | relative_url }}" alt="" class="blog-roll-image">
-            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>{{ post.date | date: date_format }}
-          </span>
-          
-          <!-- {{ post.date | date: date_format }} -->
+     <br>
+    <hr> 
+    <br>
 
-        {% else %}
-          <span class="post-meta"><a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
-        {%- endif -%}
-        <!-- {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%} -->
-      </li>
-      <br>
-      
-
+    <h2> Forecasts </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "Forecast" -%}
+          <li>
+                <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
       {%- endif -%}
       {%- endfor -%}
     </ul>
 
-    <!-- Removed RSS FEEd -->
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    <br>
+    <hr> 
+    <br>
+
+    <h2> Notes </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "Notes" -%}
+          <li>
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <hr> 
+    <br>
+
+    <h2> Thoughts </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "Thoughts" -%}
+          <li>
+                <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <hr> 
+    <br>
+
+    <h2> Logs </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "Log" -%}
+          <li>
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <hr> 
+    <br>
+
+    <h2> Lists </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "List" -%}
+          <li>
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <br>
+    <hr> 
+    <br>
+
+    <h2> Drafts / Unfinished </h2> 
+    <ul class="post-list-3">
+      {%- for post in site.posts -%}
+          {%- if post.category == "Draft" -%}
+          <li>
+            <a class="post-link-2" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+      {%- endif -%}
+      {%- endfor -%}
+     </ul>
+    
+    
   {%- endif -%}
 
 </div>
+
+<!-- Tutorials 
+Notes 
+Reflections and Thoughts  
+Logs 
+Lists 
+Reports 
+Reviews 
+Essays 
+Unfinished or Draft Work  -->

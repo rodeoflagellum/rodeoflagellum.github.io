@@ -213,6 +213,20 @@
   }
 }
 
+.post-list-3 {
+  margin-left: 0;
+  list-style: square;
+  padding-left: 5%;
+
+  
+  
+}
+
+// > li {
+//   margin-bottom: $spacing-unit/6;
+// }
+
+
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
@@ -224,11 +238,8 @@
 }
 
 .post-link-2 {
-  display: block;
-  @include relative-font-size(1.25);
+  @include relative-font-size(1.00);
 }
-
-
 
 /**
  * Posts

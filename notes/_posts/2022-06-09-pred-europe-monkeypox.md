@@ -1,6 +1,6 @@
 ---
 layout: post
-category: misc
+category: Forecast
 title:  "Confirmed Cases of Monkeypox in Europe"
 date:  2022-06-09 14:00:00 -0400
 modified: 2022-06-27 14:07:00 -0400

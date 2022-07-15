@@ -1,6 +1,6 @@
 ---
 layout: post
-category: misc
+category: Forecast
 title:  "US SARS-CoV-2 Deaths May 2022"
 date:  2022-05-05 13:00:00 -0400
 modified: 2022-06-09 14:09:00 -0400

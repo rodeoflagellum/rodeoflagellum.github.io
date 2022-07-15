@@ -1,6 +1,6 @@
 ---
 layout: post
-category: misc
+category: Thoughts
 title:  "\"The Big Here and Long Now\""
 date:  2022-05-05 14:08:00 -0400
 modified: 2022-05-06 10:30:00 -0400

@@ -1,5 +1,7 @@
 ---
 layout: post
+category: "Essay"
+display?: "yes" 
 title:  "DNA Digital Data Storage"
 date:  2022-06-05 12:00:00 -0400
 modified: 2022-06-25 10:30:00 -0400

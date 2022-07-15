@@ -1,6 +1,6 @@
 ---
 layout: post
-category: misc
+category: Notes
 title:  "Modeling Humanity's Robustness to GC/X-Risks"
 date:  2022-06-09 10:40:00 -0400
 modified: 2022-06-09 10:48:00 -0400

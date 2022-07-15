@@ -1,5 +1,6 @@
 ---
 layout: post
+category: "List" 
 title:  "A Reading List"
 category: misc
 date:  2022-04-19 11:15:00 -0400

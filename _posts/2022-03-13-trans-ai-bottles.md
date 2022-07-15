@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Draft
 title:  "AI Safety ∩ AI/DL Research "
 date:  2022-04-09 12:00:00 -0400
 modified: 2022-04-12 12:10:00 -0400
