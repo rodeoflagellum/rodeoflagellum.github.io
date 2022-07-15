@@ -49,7 +49,7 @@ layout: default
       </time>
       {%- if page.last_edit or page.modified -%}
       <time class="dt-published" datetime="{{ page.modified | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, 000%Y" -%}
         - {{ page.modified | date: date_format }}
       </time> &nbsp;
       {%- endif -%}
