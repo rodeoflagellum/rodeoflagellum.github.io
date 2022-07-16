@@ -5,7 +5,7 @@ title:  "EnsembleSplice"
 date:  2022-03-07 12:21:00 -0400
 modified: 2022-05-03 12:48:00 -0400
 permalink: "/res_ensemblesplice/"
-header_image: /assets/images/MQOhQhF8WN0.jpg
+image: /assets/images/MQOhQhF8WN0.jpg
 description: "My reflections and thoughts on a research paper that I am trying to write. This is mostly for me to unleash some steam after spending a lot of time working on something that I do not believe is too important."
 tags: [machine-learning, biology, research]
 specifics: [DNA-splice-sites, ensemble-learning]

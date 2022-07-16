@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List of Wikipedia Entries to Explore"
+title:  "Wikipedia Entries to Explore"
 category: List
 date:  2022-06-13 11:15:00 -0400
 modified: 2022-06-26 21:20:00 -0400
