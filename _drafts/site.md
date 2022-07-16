@@ -5,7 +5,7 @@ date: 2022-02-21 12:00:00 -0400
 modified: 2022-07-16 12:00:18 -0400
 permalink: /site/
 tags: [epistemics, site, personal]
-header_image: /assets/2022/site/hunting_scene_with_a_harbor_1970.17.103.jpg
+image: /assets/2022/site/hunting_scene_with_a_harbor_1970.17.103.jpg
 description: "The place that I use to collect my thoughts concerning this site; this page also acts as a list of planned implementations, in some manners, and serves as a repository for various heuristics I follow or am interested in following when writing."
 reading_time: "yes"
 word_count: "yes"
@@ -102,6 +102,8 @@ There are many combinations for the type and status of a post, but I will not li
 - List: A static or ongoing collection of entities 
 - Log: A static or ongoing collection of my engagement with something 
 
+_Confidence_: This refers to my estimate, on a scale of 1 to 10, of the accuracy of what I've written in my post. 
+
 _Extent_: A rough estimate of the amount of time I spent doing or thinking about something. The _Extent_ label at the top of the page is usually an aggregate of the different extent measures throughout the post. For example, if in my post I reviewed 5 research articles and then thought and wrote about each of them for some amount of time, I would take the average "extent of my thinking/writing" across the 5 articles to get the final extent label at the top of the post. Note that "Extent" applies both to searching for something and to reading and thinking about something. . 
 
 Let IQRTWE mean: Internet querying and/or reading/thinking and/or writing/editing
@@ -145,13 +147,13 @@ Next, I would like to see how much my work has been viewed, so a _views_ label (
 
 <!-- ### [The Art](#art) -->
 
-I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about.
+<!-- I enjoy looking at art and pictures; as such, I've incorporated free photos and artwork across most of my posts. There is no theme, and it is often not the case that I spend a long time looking for an artwork appropriate for the topic that I am writing on or learning about. -->
 
-&emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them.
+<!-- &emsp; I also enjoy black backgrounds with light text, and would like to eventually have an option on this site for this (night/day theme). Additionally, if people find the pictures distracting, I want eventually to have something that can disable them. -->
 
 <!-- ### [Informal Tags](#informal-tags) -->
 
-I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.   
+<!-- I use a system of abbreviations to sort research papers, HTML pages of articles, and books. These abbreviations are by topic, and a single file can have multiple abbreviations - the general format is "abbr1_abb2_abbrN_CondensedTitle_Year.extension". There is some overlap with these abbreviations and the permalinks on this site, but I haven't yet made it formal. In the future, I might make it so posts can be sortable or findable by these informal tags, but for now there's nothing systematic about it. I might list these informal tags in this section at some point, but it's not currently a priority.    -->
 
 <!-- ### [Formal Tags](#formal-tags) -->
 
@@ -201,22 +203,6 @@ I would like to convey how much time I've spent reviewing something before writi
 
 One way of breaking this down might be roughly by the amount of Internet querying and thinking I've done.
 
-- (1) My brain (writing it to get it written)
-- (2) Internet querying and/or thinking < 5 minutes
-- (3) Internet querying and/or thinking < 60 minutes
-- (4) 1 to 5, 60 minute Internet querying and/or thinking sessions
-- (5) 6 - 15, 60 minute Internet querying and/or thinking sessions
-- (6) Over 15, 60 minute Internet querying and/or thinking sessions
-
-<!-- ### [Post-Notes](#post-notes)
-
-### [Bibliography](#bibliography)
-
-### [Word Count](#word-count)
-
-### [Views](#views)
-
-### [Inadequacies](#inadequacies) -->
 
 I thought this listing was interesting and potentially useful. I found it on Gavin's
 Leech's _[Argmin gravitas](https://www.gleech.org/metrics/)_
@@ -400,7 +386,7 @@ Here I collect advice that I would ideally like to follow.
 Here are some topics I want to write / learn more about, along with my preference
 for them:
 
-- (★) Photonics in Deep Learning
+<!-- - (★) Photonics in Deep Learning
 - (★) Beta-Binomial Distribution in Bayesian Updating
 - (★★★) Time Series for Sea Ice Extent
 - (★★) The SPIES Method
@@ -444,27 +430,27 @@ for them:
 - (★) Notes on "The Hallmarks of Aging"
 - (★★) Blended Drink Preferences
 - (★★) Food and Tea Preferences
-- (★★★★) Summarizing [GPI, FHI, Alignment] Work
+- (★★★★) Summarizing [GPI, FHI, Alignment] Work -->
 
 
 <!-- ### [Storing Things](#storage)
 
 ### [Heuristics](#heuristics) -->
 
-- Aim to outperform Wikipedia
+<!-- - Aim to outperform Wikipedia
 - You are likely not the first person to have come up with this question, or to have started answering it
 - Search every question on Google at least once
-- Search every concept on Google at least once
+- Search every concept on Google at least once -->
 
 <!-- ### [Bloom's Taxonomy](#bloom) -->
 
->
+<!-- >
 - __Knowledge skills__ (remembering previously learned material such as definitions, principles, formulas): “Define shared governance.” “What are Piaget’s stages of development?”
 - __Comprehension skills__ (understanding the meaning of remembered material, usually demonstrated by restating or citing examples): “Explain the process of mitosis.” “What are some examples of alliteration?”
 - __Application skills__ (using information in a new context to solve a problem, answer a question, perform a task): “How does the concept of price elasticity explain the cost of oat bran?” “Given the smallness of the sample, how would you analyze these data?”
 - __Analysis skills__ (breaking a concept into its parts and explaining their interrelationships; distinguishing relevant from extraneous material): “What factors affect the price of gasoline?” “Point out the major arguments Shelby Steele uses to develop his thesis about affirmative action.”
 - __Synthesis skills__ (putting parts together to form a new whole; solving a problem requiring creativity or originality): “How would you design an experiment to show the effect of receiving the Distinguished Teaching Award on a faculty member’s subsequent career progress?” “How would you reorganize Bloom’s taxonomy in light of new research in cognitive science?”
-- __Evaluation skills__(using a set of criteria to arrive at a reasoned judgment of the value of something): “To what extent does the proposed package of tax increases resolve the budget deficit?” “If cocaine were legalized, what would be the implications for public health services?”
+- __Evaluation skills__(using a set of criteria to arrive at a reasoned judgment of the value of something): “To what extent does the proposed package of tax increases resolve the budget deficit?” “If cocaine were legalized, what would be the implications for public health services?” -->
 
 ---
 
@@ -534,7 +520,7 @@ Presently, my posts and writing pieces are not well organized, partly because I 
 
 - Think about what I want to write in terms of what I intend to contribute on the topic, both in terms of my own understanding of it and in terms of how it might benefit others -->
 
-My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
+<!-- My use of the _status_ metric was inspired directly from Gwern's site, although the ones I incorporate are very likey different from his[^1], and it seems pretty intuitive to give some concise description of a post's general degree of completion. This table describes all of the _status_ metrics I employ.
 
 |Status Tag|Explanation|
 |:---|:---|
@@ -544,13 +530,13 @@ My use of the _status_ metric was inspired directly from Gwern's site, although 
 |Draft|A post or page that is the start of some piece of writing that I intend to complete at some point. Drafts can vary widely in length and are different from Notes in that I attempt to structure their content.|
 |Working Draft | A post or page that could exist on its own, but I believe I am somewhat likely to expand.|
 |Likely Finished | A post or page that I somewhat believe I will no longer edit.|
-|Finished | A post or page that I strongly believe I will no longer edit.|
+|Finished | A post or page that I strongly believe I will no longer edit.| -->
 
 <!-- |Update|A post or page that provides major updated perspectives, responses, or beliefs on another post or page on the site, especially if I believe the content of my original writing was largely incorrect. This status may turn into a tag. | -->
 
 ## Certainty
 
-The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of my writing and of the content I am hosting. What does "The accuracy of my writing..." refer to? Okay, in my mind, this is my sense of whether the distribution of feelings and thoughts engendered by reading my content matches what I intended to have engendered, to how well the set of all claims in a particular post are synthesized, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing my uncertainty, and, among other things, to how predictive what I've written is. At some future point, I might prune my writing for examples of each of these things (e.g., this is an evidence claim, this is an un-evidenced claim), but please just know, if you already haven't developed this notion, that my _certainty_ metrics are subjective, and should not be taken as law (e.g., if my certainty is "Quite Certain", this does not mean that my claims are bullet proof! This simply means that I believe my claims are bullet proof; since no one, including myself, has really taken the time to develop a track record of my accuracy, )
+<!-- The _certainty_ metric on each page corresponds to an estimate of my subjective confidence about the accuracy of my writing and of the content I am hosting. What does "The accuracy of my writing..." refer to? Okay, in my mind, this is my sense of whether the distribution of feelings and thoughts engendered by reading my content matches what I intended to have engendered, to how well the set of all claims in a particular post are synthesized, to how evidenced my claims are, to how well I evaluate how evidenced my evidence is, to how thorough I am in revealing my uncertainty, and, among other things, to how predictive what I've written is. At some future point, I might prune my writing for examples of each of these things (e.g., this is an evidence claim, this is an un-evidenced claim), but please just know, if you already haven't developed this notion, that my _certainty_ metrics are subjective, and should not be taken as law (e.g., if my certainty is "Quite Certain", this does not mean that my claims are bullet proof! This simply means that I believe my claims are bullet proof; since no one, including myself, has really taken the time to develop a track record of my accuracy, ) -->
 
 &emsp; I generated the entries in this list in $\leq 5$ minutes, so I believe that I am likely missing some important considerations for "content accuracy". At some point, I will likely 1) spend more time researching best-practices for content communication 2) criticize my older posts 3) become better at determining the epistemic accuracy of each claim I make, in addition to the entire "message" that my writing conveys. Learning to be less wrong is a journey and, at least thus far, is something that doesn't feel automatic or particularly easy.
 
@@ -638,23 +624,6 @@ Their scoring system is appealing to me, and I expect myself to incorporate it i
 
 [pending]
 
-## Page Epistemics
-
-___Status___
-
-"Draft": I expect to make major changes to this page over time, especially given how doubtful I am about it's overall utility.
-
-___Certainty___
-
-
-"Somewhat Doubtful": I suspect that a decent number of justifications for my decisions are weak and vague; that there are more efficient means of going about what I want to achieve with these epistemic metrics; and that the scope of the terms "certainty", "status", and "impactfulness" in this post is too large, i.e. the terms are not defined clearly or rigorously.
-
-___Importance___
-
-___Impact___
-
-_Decision Importance_ = 4/10 since I believe that the existence of this page on my site might result in you trusting me more, which I believe might affect the behaviors: [the speed of reading (I expect an increase in this because I believe people read things they agree with more quickly than things they disagree with), number of criticisms (I expect a decrease in this because people often don't critize things they agree with), time spent thinking about content (I expect a decrease in this)]
-
 ## [Notes](#notes)
 
 ### [Cover Image](#cover-image)
@@ -666,7 +635,7 @@ With the launch of NGA Images, the National Gallery of Art implemented an open a
 
 ___Footnotes___
 
-[^1]: I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts.
+<!-- [^1]: I currently don't know which categories fall under the Status tag on his website, and can only remember seeing "draft" and "notes" for Status on some posts. -->
 
 
 <!-- Comments on Notes  -->
