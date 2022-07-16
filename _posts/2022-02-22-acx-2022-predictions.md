@@ -135,7 +135,7 @@ you were-->
 
 [2022 ACX predictions]: https://astralcodexten.substack.com/p/predictions-for-2022-contest?utm_source=url "2022 ACX predictions"
 
-## Page Epistemics
+<!-- ## Page Epistemics
 
 ___Status___
 
@@ -151,7 +151,7 @@ ___Importance___
 
 ___Impact___
 
-[pending]
+[pending] -->
 
 ## Notes
 
