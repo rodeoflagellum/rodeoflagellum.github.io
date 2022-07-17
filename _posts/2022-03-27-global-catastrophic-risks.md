@@ -25,8 +25,55 @@ status: "Ongoing"
 
 ### Landscapes
 
-> 
+__I Anthropogenic: current, preventable__
+- _Nuclear war_
+- _Climate change_
+- _Disease_
 
+__II Coupled human–environment systems: current, preventable__
+- _Significant loss of biodiversity_
+- _Agricultural systems failure_
+- _Significant reduction in natural resources_
+- _Exceed key planetary boundaries_
+
+__III Human reproduction: emerging, preventable__
+- _Infertility due to chemicals_
+- _Unintended consequences of medical advances_
+- _Dysgenics_
+- _Voluntary extinction_
+
+__IV Risks to humanness: emerging, preventable__
+- _Evolution to posthumanism_
+- _Humans uploaded_
+
+__V Advanced technology: emerging, preventable__
+- _Non-friendly Super-AIs_
+- _Technological Singularity_
+
+__VI Natural terrestrial risks: anytime, unpreventable__
+- _Super volcanoes_
+- _Extreme ice age_
+- _Anoxic events_
+
+__VII Solar system: anytime, unpreventable__
+- _Collisions with near-earth objects_
+- _Energy output from the sun_
+- _Carrington class ejection from the sun_
+- _Gamma ray burst_
+- _Near earth super or hypernova_
+- _Rogue black hole_
+
+__VIII Extraterrestrial civilizations: anytime, unpreventable__
+- _Alien invasion_
+- _Destruction by aliens from afar_
+- _Other interventions by Godlike Creators_
+- _Other unknowns_
+
+__IX Universe scale: very long term, unpreventable__
+- _Vacuum phase transition_
+- _Collision with Andromeda Galaxy_
+- _Expansion of the universe due to heat death_
+- _Collapse of the universe due to gravitational attraction_
 
 ---
 
