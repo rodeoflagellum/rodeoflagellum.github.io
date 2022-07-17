@@ -113,9 +113,7 @@ __IX Universe scale: very long term, unpreventable__
 ### [Literature](#academic-litearture)
 
 
-#### Wikipedia Deficits 
-
-__General__
+#### Wikipedia Links
 
 - [Global catastrophic risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
 - [Community resilience](https://en.wikipedia.org/wiki/Community_resilience)
@@ -126,30 +124,80 @@ __General__
 - [Planetary boundaries](https://en.wikipedia.org/wiki/Planetary_boundaries)
 - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 
-#### Books 
 
-__General__ 
+#### Academics 
 
-- Global Catastrophic Risks
-- X-Risk 
-- The Precipice 
-- Anticipation, Sustainability, Futures and Human Extinction
--  The Economics of the Global Environment: Catastrophic Risks in Theory and Policy 
+__General__
+- (Book) Global Catastrophic Risks
+- (Book) X-Risk 
+- (Book) The Precipice 
+- (Book) Anticipation, Sustainability, Futures and Human Extinction
+-  (Book) The Economics of the Global Environment: Catastrophic Risks in Theory and Policy 
 
-__Biosecurity__ 
+__I Anthropogenic: current, preventable__
+- _Nuclear war_
+- _Climate change_
+- _Disease_
+    - (Book) Global Catastrophic Biological Risks 
+    - (Book) Applied Biosecurity: Global Health, Biodefense, and Developing Technologies
+    - (Book) Intelligence, Biosecurity, and Bioterrorism
+    - Global Catastrophic Threats from the Fungal Kingdom
 
-- Global Catastrophic Biological Risks 
-- Applied Biosecurity: Global Health, Biodefense, and Developing Technologies
-- Intelligence, Biosecurity, and Bioterrorism
- - Global Catastrophic Threats from the Fungal Kingdom
+__II Coupled human–environment systems: current, preventable__
+- _Significant loss of biodiversity_
+- _Agricultural systems failure_
+- _Significant reduction in natural resources_
+- _Exceed key planetary boundaries_
 
-#### Papers 
+__III Human reproduction: emerging, preventable__
+- _Infertility due to chemicals_
+- _Unintended consequences of medical advances_
+- _Dysgenics_
+- _Voluntary extinction_
+
+__IV Risks to humanness: emerging, preventable__
+- _Evolution to posthumanism_
+- _Humans uploaded_
+
+__V Advanced technology: emerging, preventable__
+- _Non-friendly Super-AIs_
+- _Technological Singularity_
+
+__VI Natural terrestrial risks: anytime, unpreventable__
+- _Super volcanoes_
+- _Extreme ice age_
+- _Anoxic events_
+
+__VII Solar system: anytime, unpreventable__
+- _Collisions with near-earth objects_
+- _Energy output from the sun_
+- _Carrington class ejection from the sun_
+- _Gamma ray burst_
+- _Near earth super or hypernova_
+- _Rogue black hole_
+
+__VIII Extraterrestrial civilizations: anytime, unpreventable__
+- _Alien invasion_
+- _Destruction by aliens from afar_
+- _Other interventions by Godlike Creators_
+- _Other unknowns_
+
+__IX Universe scale: very long term, unpreventable__
+- _Vacuum phase transition_
+- _Collision with Andromeda Galaxy_
+- _Expansion of the universe due to heat death_
+- _Collapse of the universe due to gravitational attraction_
+
+
+
+
 
 * Governing Boring Apocalypses: A new typology of existential vulnerabilities and exposures for existential risk research
 * Towards an Integrated Assessment of Global Catastrophic Risk
 * Quantifying the Probability of Existential Catastrophe: A Reply to Beard et al.
 * Chapter 6: The Notion of Existential Risk and Its Role for the Anticipation of Technological Development’s Long-Term Impact
 * Democratising Risk: In Search of a Methodology to Study Existential Risk
+
 * X-Risk Analysis for AI Research
 * Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks
 * Existential risks: a philosophical analysis
@@ -225,12 +273,6 @@ __Biosecurity__
 - Global catastrophic risk and security implications of quantum computers
 - Identifying and Assessing the Drivers of Global Catastrophic Risk: A Review and Proposal for the Global Challenges Foundation
 - Rebooting Bioresilience: A Multi-OMICS Approach to Tackle Global Catastrophic Biological Risks and Next-Generation Biothreats
-
-pp.8
-
-#### Reports
-
-
 
 ---
 
