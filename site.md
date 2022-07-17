@@ -26,20 +26,30 @@ __Disclaimer__: This page is under construction, more so than other pages.
 
 ## [Top of the Page](#top-of-page)
 
-An artwork or a photograph precedes writing on many posts on this site. Typically, these visuals have little connection to the topic being covered; it simple the case that I found visual attractive or somehow representative of what I was writing in that post. Following the visual, there's the post's title. After the title, there is a brief 1-3 sentence summary of what is included in the post, so I and others can get a sense of whether to read it when browsing through the Archive. After the summary, I provide 1-10 tags further indicating the nature of the post's content, along with 0-3 tags indicating topics specific to that post. These "specifics" tags, as I call them, refer to topics that I do not believe I will write on extensively in the future. After the tags, I usually use between 3 and 12 (usually less than 6) labels to cover a variety of different considerations for the post, such as reading time, word count, and/or importance. Finally, I use 1-4 paragraphs for things such as an overview or summary of the post, the post's takeaways, and acknowledgements. The Table of Contents is the last entity I consider contained in _Top of the Page_. 
+An artwork or a photograph precedes writing on many posts on this site. Typically, these visuals have little connection to the topic being covered; it may simply be the case that I found the visual attractive or somehow representative of what I was writing in that post. 
 
-Here are further comments on entities in _Top of the Page_. 
+Following the visual, there's the post's title. After the title, there is a brief 1-3 sentence summary of what is included in the post, so I and others can get a sense of whether to read it when browsing through the Archive. 
+
+After the summarizing sentences, I provide 1-10 tags to further indicate the nature of the post's content, along with 0-3 tags indicating topics specific to that post. These "specifics" tags, as I call them, refer to topics that I do not believe I will write on extensively in the future. After the tags, I usually use between 3 and 12 (usually less than 6) labels to cover a variety of different considerations for the post, such as reading time, word count, and/or importance. 
+
+Finally, I use 1-4 paragraphs for things such as an overview or summary of the post, the post's takeaways, and acknowledgements. The Table of Contents is the last entity I consider contained in _Top of the Page_. 
 
 __Art__: The art and header photos used on this website typically come from one of the following: [Unsplash](https://unsplash.com/), [Birmingham Museum Trust](https://unsplash.com/@birminghammuseumstrust
-), [National Gallery of Art](https://www.nga.gov/), or [USEUM](https://useum.org/download-artworks). At the time of writing this (07/17/2022), each of these resources  have licenses that permit people to download and post some of their images freely. Why use the art, anyway? I offer the following explanations: I look at this site more than any other person and enjoy looking at art  and, sometimes, the art can complement the post's content. I also don't think the art is distracting enough to lessen people's capabilities to absorb or critique the content of my post. Credit and, in some cases, information for the art or photos is provided under _Cover Image_ in the _Notes_ section at the _Bottom of the Page_. Some posts, especially short ones contained in the "More" section, do not have art. Given the lack of interesting content in these posts (e.g., a list of Wikipedia articles) and my laziness, I usually opt to not include the art in such instances. 
+), [National Gallery of Art](https://www.nga.gov/), or [USEUM](https://useum.org/download-artworks). At the time of writing this (07/17/2022), each of these resources  have licenses that permit people to download and post some of their images freely. 
+
+But why use the art, anyway? I offer the following explanations: (1) I look at this site more than any other person and enjoy looking at art, so why not, and (2) in some cases, I suspect the art complements the post's content well or might help in getting readers into the correct head-space for a post (e.g., a "timeless" work seems fitting for a post on longtermism). 
+
+I also believe that the art is not distracting enough to lessen people's capabilities to absorb or critique the posts' content. Credit and, in some cases, information for the art or photos is provided under _Cover Image_ in the _Notes_ section at the _Bottom of the Page_. 
+
+Some posts, especially short ones contained in the "More" section on this site, do not have art. Given the lack of interesting content in these posts (e.g., a list of Wikipedia articles) and my laziness, I usually opt to not include the art in such instances. 
 
 __Titles__: Brevity is preferred.  
 
-__Frames__: This is a 1-3 sentence summary of what the post includes. These are highly biased, since they usually are only my framing of the post's meaning and content, and inconsistent. Despite the inconsistency with my post framings, I suspect people will mostly find them useful for sorting this site's content. Here is one example framing from my post _People's Attitudes Towards Human Gene-Editing_: 
+__Frames__: Each post should have a 1-3 sentence summary for how the post should be framed in people's minds. These are highly biased, since they usually are only my framing of the post's meaning and content, and inconsistent. Despite this inconsistency, I suspect people will mostly find the post framings useful for sorting this site's content. Here is one example framing from my post _People's Attitudes Towards Human Gene-Editing_: 
 
 > A fractional overview of gene-editing and a scan of and small discussion on people's past and current takes on human gene-editing, with some forecasting questions and considerations mixed in. 
 
-This frame indicates that my post is not comprehensive in its coverage of gene-editing or people's attitudes towards gene-editing. From my perspective, the level of comprehensiveness for this post is more important to me than, say, how opinionated the post is. And here is another example, this time from _Forecasting Designer Babies_:
+This frame indicates that my post is not comprehensive in its coverage of gene-editing or people's attitudes towards gene-editing. From my perspective, the level of comprehensiveness in this post would be more important for me as a reader than, say, how many personal opinions I've shared in the post. And here is another example, this time from _Forecasting Designer Babies_:
 
 > My forecasts and thoughts on how many gene-edited babies will be born in the coming decades; this post does not contain detailed background information on gene-editing technology, or on policy relating to human gene-editing. 
 
@@ -68,13 +78,13 @@ __General Tags__: Below are all the tags currently in use on the site.
 {% endfor %}
 </ul>
 
-Sometimes I find it difficult to choose which tags to include in a post, but in most cases I aim to include between 1 and 10. 
+Sometimes I find it difficult to choose which tags to include in a post. In most cases, I aim to include between 1 and 10. 
 
-__Specific Tags__: These are special tags conveying more detailed information about the content of a post. "Specific Tags" exist because they are things I will likely not write about again. Of course, there might be two or three posts that eventually come to include the same Specific tag, but that this tag refers to something so narrow (e.g., the general tag _biology_ versus the specific tag _DNA_) makes me disinclined to make it into a general tag. 
+__Specific Tags__: These are special tags conveying more detailed information about the content of a post. "Specifics" exist because they are things I will likely not write about again. Of course, there might be two or three posts that eventually come to include the same Specific tag, but that this tag refers to something so narrow (e.g., the general tag _biology_ versus the specific tag _DNA_) makes me disinclined to make it into a general tag. 
 
 __Labels__ (in order of appearance) that communicate meta-considerations on a post's content. 
 
-- [Start Date] - [Date of Last Modification]: There are 3 zeros in front of all start dates because I personally want to be thinking about where humans will be in 10, 100, 1000, 10000, 1000000, etc... years each time I go on my site. 
+- _[Start Date] - [Date of Last Modification]_: The 3 zeros in front of all dates on this site's posts are personal reminders to think about where humans will be in 10, 100, 1000, 10000, 1000000, etc..., as this along with how my personal life factors into the history of humanity are things I want to be thinking about. 
 - _Type - Status_ (*)
 - _Confidence_ (*)
 - _Importance_ (*)
@@ -87,20 +97,20 @@ __Labels__ (in order of appearance) that communicate meta-considerations on a po
 
 _Type-Status_: The type of post and its current status. Here is the general format for how this will look: [Forecasting, Resource, Reading, Learning] + [Comment, Forecast, Log, List, Review, Idea, Essay, Research, Thoughts, Experiment, Notes, Report] - [In(complete), (Un)finished, Ongoing, Un(resolved), Speculation, Limited]
 
-There are many combinations for the type and status of a post, but I will not list them. Here are brief descriptions for the main (middle) group.
+There are many combinations for [type] and [status], but I'm not going to list them. Here are brief descriptions for the main (middle) group.
 
-- Thoughts: My thoughts or reflection on some subject, post, or facet of my life
-- Idea: A slightly more formal version of my thoughts on some phenomenon
+- Thoughts: My thoughts or reflections on some topic, post, or facet of my life
+- Idea: A slightly more formal version of my thoughts, usually a question that I've briefly investigated 
 - Notes: Comments, quotes, critiques, evidence, ideas on some work
 - Forecast: A specific forecast on some question or group of questions 
-- Tutorial: A walk-through of some concept
+- Tutorial: A walk-through of some concept or process 
 - Research: Any research that I have conducted; this does not include any contributions I made to research enterprises that I deem to not be novel
 - Review: A formal scan or review of some subject or question 
-- Report: A formal scan or review of some subject that also makes suggestions or pushes for readers to update their thoughts in some way 
+- Report: A formal scan or review of some subject that also makes claims or suggestions that I expect would result in readers updating their beliefs to a larger degree than normal 
 - Experiment: Small, sometimes personal, experiments I've conducted 
 - Essay: Oftentimes a very fractional discussion or look at some subject
 - List: A static or ongoing collection of entities 
-- Log: A static or ongoing collection of my engagement with something 
+- Log: A static or ongoing collection of my engagement with something
 
 _Confidence_: This refers to my estimate, on a scale of 1 to 10, of the accuracy of what I've written in my post. 
 
