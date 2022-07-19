@@ -112,7 +112,6 @@ __IX Universe scale: very long term, unpreventable__
 
 ### [Literature](#academic-litearture)
 
-
 #### Wikipedia Links
 
 - [Global catastrophic risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
@@ -123,7 +122,6 @@ __IX Universe scale: very long term, unpreventable__
 - [List of global issues](https://en.wikipedia.org/wiki/List_of_global_issues)
 - [Planetary boundaries](https://en.wikipedia.org/wiki/Planetary_boundaries)
 - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
-
 
 #### Academics 
 
@@ -188,22 +186,20 @@ __IX Universe scale: very long term, unpreventable__
 - _Expansion of the universe due to heat death_
 - _Collapse of the universe due to gravitational attraction_
 
-
-
-
-
 * Governing Boring Apocalypses: A new typology of existential vulnerabilities and exposures for existential risk research
 * Towards an Integrated Assessment of Global Catastrophic Risk
 * Quantifying the Probability of Existential Catastrophe: A Reply to Beard et al.
 * Chapter 6: The Notion of Existential Risk and Its Role for the Anticipation of Technological Development’s Long-Term Impact
 * Democratising Risk: In Search of a Methodology to Study Existential Risk
-
-* X-Risk Analysis for AI Research
 * Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks
 * Existential risks: a philosophical analysis
 * An Analysis and Evaluation of Methods Currently Used to Quantify the Likelihood of Existential Hazards
 * Probabilities, methodologies and the evidence base in existential risk assessments
 * Book review: Phil Torres’s Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks.
+
+* X-Risk Analysis for AI Research
+
+
 * Existential Risk, Creativity & Well-Adapted Science
 * Confronting Existential Risks With Voluntary Moral Bioenhancement
 * Existential Risk and Existential Hope: Definitions
