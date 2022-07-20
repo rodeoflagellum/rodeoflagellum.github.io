@@ -14,8 +14,8 @@ type: "Essay"
 status: "Unfinished"
 word_count: "yes"
 reading_time: "yes"
-importance: "6.5"
-confidence: "8"
+importance: "?"
+confidence: "?"
 ---
 
 
@@ -113,21 +113,28 @@ __Takeaways__:
 - In general, the highly religious, politically conservative, women, and less educated support gene-editing less than their counterparts. 
 - There is some evidence that people begin to support gene-editing more once they learn more about it.
 
-__General Transparency__[^transparency] (see footnotes): 
-  - _Are you an expert?_[^expertise]
-  - _Priors?_[^priors]  
-  - _How to update?_[^priors]
-  - _Epistemic confidence?_[^epistemic_confidence]
-  - _Shortcuts taken?_[^shortcuts]
-  - _Major inadequacies?_[^inadeq]
-  - _Type of support for my claims?_[^support]
-  - _Actual contribution?_[^contribution]
-  - _Relevance to EA?_[^EA_relevance]
-  - _External review and feedback?_[^feedback]
-  - _Retrospective?_ 
+__Canned Transparency__(see footnotes)[^transparency] : 
+  - _How trustworthy are you?_[^expertise]
+  - _How/why is this post important?_[^why_is_this_important]
+  - ___Who would you recommend read this post?___[^should_I_read]
+  - _What are your priors?:_[^priors] 
+  - _How much external review has this post undergone?_[^feedback]
+  - _What is your epistemic confidence?_[^epistemic_confidence]
+  - _What types of support does this post’s claims use?_[^support]
+  - _What shortcuts did you take?_[^shortcuts]
+  - _What are this post’s major inadequacies?_[^inadeq]
+  - _How did you update your beliefs after writing this?_[]
+  - _How should I update my beliefs after reading this?_[]
+  - _Did you contribute anything notable by creating post??_[^contribution]
+
+__Post Notes__[^post_notes] (see footnotes)
+
+
 
 <!-- FOOTNOTES################################### -->
-[^transparency]: _General Transparency_: It usually difficult for me to determine which questions are most epistemically salient to a particular article or piece of research. This writing is not an exception, and I believe I might be missing some important considerations for properly framing my essay and being transparent. In the past, I've found the following article useful <https://www.openphilanthropy.org/reasoning-transparency>, and have modeled some of remarks after this post. __Request__: Please, if you have any suggestion for improving the epistemics of this post, I want to hear them, and will edit this article to include useful updates and suggestions made in the comments. 
+[^post_notes]: To the reader. Why the takeaways are as they are. Notes on this post's history. Notes on this post's importance. Notes on the extent. Notes on the epistemic confidence. 
+
+[^transparency]: _How trustworthy are you?_: This is partially for you to determine after reading this post and perhaps after looking through my other content, if you decide to do this.  It usually difficult for me to determine which questions are most epistemically salient to a particular article or piece of research. This writing is not an exception, and I believe I might be missing some important considerations for properly framing my essay and being transparent. In the past, I've found the following article useful <https://www.openphilanthropy.org/reasoning-transparency>, and have modeled some of remarks after this post. __Request__: Please, if you have any suggestion for improving the epistemics of this post, I want to hear them, and will edit this article to include useful updates and suggestions made in the comments. 
 
 [^expertise]: _Are you an expert?_: No, I am not an expert in anything related to genetic engineering. I have no formal training in genetics, and am not able to explain the technicalities or present progress bottlenecks of the various gene-editing technologies currently in use. Moreover, I am not too confident in my remembrance and understanding of the core definitions related to gene-editing, though, Anki has helped in this regard). As for my education, I have a B.A. in Neuroscience and Mathematics and, with regard to gene-editing, have read roughly 25 papers on the topic, but not the content (e.g., I don't fully understand how CRISPR-Cas9 works on a detailed level - i.e., I am not currently able to use CRISPR-Cas9 in a lab, even if I had the resources to). That I've published 1 research paper in applied ML is some further evidence towards my capabilities.  As for forecasting expertise, I am currently rank 54 on Metaculus, with an average Brier score of 0.057 (173 questions). My underconfidence is 25%. Subjectively speaking, I believe that I am slightly above average at making and updating forecasts, but am very likely not yet at the level of a superforecaster. More about me as a person with interests and goals can be found [here][about_me].
 
@@ -204,8 +211,7 @@ _Also Posted Here_: Metaculus, LW, EAF
 
 ## [Overview and Shortcuts](#overview-shortcuts)
 
-<span class="padded-dropcap">H</span>umans generally desire to be content and feel well, to live long and healthily, and to experience fulfillment. Accomplishing these ideals depends on many things, including but not limited to freedom from physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
-
+<span class="padded-dropcap">H</span>umans generally seek states of contentedness, and want to feel well, to live long and healthily, and to experience fulfillment. The realization of these things often requires many conditions to be met, including, but not limited to, freedom from certain physical and psychological afflictions, supportive social environments, and healthy lifestyle practices. 
 
 <!-- Genetics of Wellbeing and Its Components Satisfaction with Life, Happiness, and Quality of Life: A Review and Meta-analysis
 of Heritability Studies -->
@@ -221,23 +227,23 @@ https://journals.sagepub.com/doi/10.1111/j.1467-9280.1996.tb00355.x
 https://www.science.org/doi/10.1126/scitranslmed.aai8746 
 https://link.springer.com/content/pdf/10.1007/s10519-015-9713-y.pdf-->
 
-With respect to these aspirations, and to human civilization and biology generally, gene and genome editing is a technology with transformative potential. 
+With respect to these aspirations, which guide much of human behavior, and to the activities of human civilization more broadly, gene and genome editing is a practice with transformative potential. 
 
-There are over 4600 genes in humans with phenotype-causing mutations; these genes account for over 6000 single gene disorders[^examples_single_cell] and traits, around 700 instances of increased suseptibility to complex diseases or infections, and around 250 somatic cell genetic diseases[^OMIM]. 
+There are over 4600 genes in humans with phenotype-causing mutations; these genes account for >6000 single gene disorders[^examples_single_cell], ~700 instances of increased suseptibility to complex diseases or infections, and ~250 somatic cell genetic diseases[^OMIM].
 
-[^OMIM]: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>. <br><br> Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._ <br><br> This paper <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986124/pdf/AJMG-187-48.pdf> also references OMIM (I believe this increases the credibility of OMIM; again, I am not an expert) - "_The etiologies for many rare diseases have been discovered. Online Inheritance in Man (OMIM) (https://omim.org/statistics/geneMap, October 31, 2020) lists 4,339 genes with phenotype-causing variants. Orphanet (http://www.orphadata.org/cgi-bin/index.php, 10/09/2020) includes more than 7,800 disease-gene relationships. Each year about 250 rare genetic disease discoveries are added to the lists. These discoveries include pathogenic variants in a gene that had not previously been associated with disease and pathogenic variants in a gene previ- ously associated with a different disease (Boycott et al., 2017)_"
+[^examples_single_cell]: _... single gene disorders..._: For other examples of single gene disorders, see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/> and <https://www.ncbi.nlm.nih.gov/books/NBK132154/>. ex2_single_cell_disorders.html
 
-Among these maladies are genetic disorders such as Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"[^cdc_sickle_cell]. Another genetic disorder is Phenylketonuria (PKU), which affects around 1/15,000 US children, and can lead to cognitive and behavioral problems and can stunt development, among other things, if left untreated.[^pku_additional] 
 
-<!-- FOOTNOTES============================ -->
-[^examples_single_cell]: For other examples of single gene disorders, see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/> and <https://www.ncbi.nlm.nih.gov/books/NBK132154/>. ex2_single_cell_disorders.html
+[^OMIM]: _There are over 4600 genes in humans with phenotype-causing mutations; these genes account for >6000 single gene disorders, ~700 instances of increased suseptibility to complex diseases or infections, and ~250 somatic cell genetic diseases._: See <https://omim.org/statistics/geneMap>. Accessed 05/27/2022. For HTML of page during access, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/OMIM_05272022.html>. <br><br> Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University (Baltimore, MD), {05/24/2022}. World Wide Web URL: https://omim.org/ <br><br> _Welcome to OMIM®, Online Mendelian Inheritance in Man®. OMIM is a comprehensive, authoritative compendium of human genes and genetic phenotypes that is freely available and updated daily. The full-text, referenced overviews in OMIM contain information on all known mendelian disorders and over 16,000 genes. OMIM focuses on the relationship between phenotype and genotype. It is updated daily, and the entries contain copious links to other genetics resources._ <br><br> This paper <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986124/pdf/AJMG-187-48.pdf> also references OMIM (I believe this increases the credibility of OMIM. I am not familiar with how credible OMIM is by default, given that I am not an expert in genetics): "_The etiologies for many rare diseases have been discovered. Online Inheritance in Man (OMIM) (https://omim.org/statistics/geneMap, October 31, 2020) lists 4,339 genes with phenotype-causing variants. Orphanet (http://www.orphadata.org/cgi-bin/index.php, 10/09/2020) includes more than 7,800 disease-gene relationships. Each year about 250 rare genetic disease discoveries are added to the lists. These discoveries include pathogenic variants in a gene that had not previously been associated with disease and pathogenic variants in a gene previ- ously associated with a different disease (Boycott et al., 2017)_"
 
-[^cdc_sickle_cell]: See <https://www.cdc.gov/ncbddd/sicklecell/facts.html>: "_SCD is a group of inherited red blood cell disorders. Healthy red blood cells are round, and they move through small blood vessels to carry oxygen to all parts of the body. In someone who has SCD, the red blood cells become hard and sticky and look like a C-shaped farm tool called a “sickle”. The sickle cells die early, which causes a constant shortage of red blood cells. Also, when they travel through small blood vessels, they get stuck and clog the blood flow. This can cause pain and other serious problems such infection, acute chest syndrome and stroke._". Also, see cdc_sickle_cell_05272022.html. 
+Among these maladies are genetic disorders such as Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"[^cdc_sickle_cell]. Another genetic disorder is Phenylketonuria (PKU), which affects roughly 1 in 15,000 US children, and can lead to cognitive and behavioral problems and can also stunt development, among other things, if left untreated.[^pku_additional] 
+
+
+[^cdc_sickle_cell]: _...Sickle Cell Disease, which results in a person's blood cells being mishapen, dying early, and clogging blood vessels, and can cause the person "pain and other serious problems such infection, acute chest syndrome and stroke"_: See <https://www.cdc.gov/ncbddd/sicklecell/facts.html>: "_SCD is a group of inherited red blood cell disorders. Healthy red blood cells are round, and they move through small blood vessels to carry oxygen to all parts of the body. In someone who has SCD, the red blood cells become hard and sticky and look like a C-shaped farm tool called a “sickle”. The sickle cells die early, which causes a constant shortage of red blood cells. Also, when they travel through small blood vessels, they get stuck and clog the blood flow. This can cause pain and other serious problems such infection, acute chest syndrome and stroke._". To see the saved document (05/01/2022 - 07/01/2022)?, click here: <https://rodeoflagellum.github.io/assets/2022/for_attitudes_gene_editing/docs/cdc_sickle_cell_05272022.html>. 
 
 [^pku_additional]: For more about PKU see <https://learn.genetics.utah.edu/content/disorders/singlegeneeg/>: "_Babies who have PKU are usually healthy at first, but symptoms appear within a few months. These may include slow growth, eczema (a skin rash), musty body odor (from too much Phe), small head size, and fair skin (because Phe is converted into skin pigment). Without treatment, children with PKU experience developmental delays, behavior problems, intellectual disability, and seizures._"
-<!-- =====================================-->
 
-Gene and genome editing could one day enable people to be free from these and other disorders and diseases by targeting and ameloriating[^how_gene_editing_work_broadly] the affected gene(s)[^examples_somatic_genome_fix]. To me and, as we will see, a fair number of other people, a future devoid of the suffering induced from genetic disorders seems like a GOOD thing. 
+Gene and genome editing could one day enable people to be free from these and other disorders and diseases by targeting and ameloriating[^how_gene_editing_work_broadly] the affected gene(s)[^examples_somatic_genome_fix]. To me and, as we will see, a fair number of other people, a future devoid of the suffering induced from genetic disorders seems like a <span class="small_cap">GOOD</span> thing. 
 
 <!-- FOOTNOTES============================ -->
 [^how_gene_editing_work_broadly]: NEED

@@ -166,6 +166,7 @@ ul, ol, dl, figure,
 
 
 
+
 /**
  * `main` element
  */
@@ -204,6 +205,10 @@ figcaption {
   font-size: $small-font-size;
 }
 
+.small_cap {
+  font-variant: small-caps
+}
+
 /**
  * Lists
  */
@@ -226,7 +231,10 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
   font-variant: small-caps;
+  text-decoration: none;
 }
+
+
 
 
 

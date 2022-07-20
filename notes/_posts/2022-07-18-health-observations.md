@@ -48,4 +48,5 @@ __Disclaimer__: I began writing notes on this page on 07/18/0002022; given how l
 - Magnesium: x? ~2021
 - Calcium: x? ~2018-2019
 - Vitamin D: >100x 
+- L-Theanine: <5x, 2022
 - Grape Seed Extract: <20x, 2020-2021
